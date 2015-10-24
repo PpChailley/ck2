@@ -1,0 +1,62 @@
+#CODE;RUSSIAN;x
+EVTNAME62951;Pагнар и его проклятье;x
+EVTDESC62951;Трусливый царь Элла стоит передо мной на коленях в грязи, отказываясь встречаться глазами. Мои ребята предлагают различные казни для него: одна забавней другой. Я призываю к тишине и тишина опускается, трепеща на ветру как моё знамя с черным вороном, с нетерпением и чувством обреченности. Время отомстить за моего отца Рагнара...;x
+EVTOPTA62951;Кровавого Орла!;x
+EVTOPTB62951;Принесем его в жертву Одину!;x
+EVTOPTC62951;Четыре шара для воронов!;x
+EVTOPTD62951;У меня есть планы на него...;x
+EVTDESC62952;Последнее, что я видел прежде, чем мне вырезали глаза - то, как [From.GetFirstName] дико улыбается. Я попытался свернуться калачиком перед тем, как они кастрируют меня...;x
+EVTOPTA62952;АААААА!;x
+AIREASON_IN_OTHER_WAR;Участвует в другой войне;x
+AIREASON_BUSY_RAIDING;В набеге;x
+WRONG_RELIGION_MODIFIER;Другая религия;x
+WRONG_CULTURE_MODIFIER;Другая культура;x
+opinion_infidel_tribal_liege;Иноверец;x
+opinion_heretic_tribal_liege;Еретик;x
+opinion_related_religion_tribal_liege;Религиозные различия;x
+AIREASON_TRIBAL_VASSAL_PRESTIGE_HIT;Слишком большие потери престижа;x
+opinion_granted_other_vice_royalty;Феодальное мнение из-за наместничеств;x
+GRANT_VICE_ROYALTY_INTERACTION_8;Жалование наместнических титулов ухудшает мнение о Вас всех феодалов герцогских и королевских рангов на §R$OPINION$§!.;x
+NOT_ANY_PREVIOUS_HOLDER_STARTS;Нет предыдущего обладателя;x
+tribal_build_zeal_ARMY_OF;Изуверы ($CHARACTER$/$RELIGION$);x
+tribal_organize_raid_ARMY_OF;Налётчики ($CHARACTER$);x
+tribal_build_legend_ARMY_OF;Воины ($CHARACTER$);x
+tribal_build_zeal_ARMY;Изуверы ($RELIGION$);x
+tribal_organize_raid_ARMY;Налётчики;x
+tribal_build_legend_ARMY;Воины;x
+expel_saint_anthony;Изгнать Орден Святого Антония;x
+expel_saint_anthony_desc;Я могу изгнать Орден Святого Антония из своих земель и захватить их замки. Однако, это нечестивый поступок...;x
+adopt_feudalism_tooltip_1;Правительство стало феодальным.\nСтолица теперь в замке.\n;x
+adopt_republicanism_tooltip_1;Правительство стало торговой республикой.\nСтолица теперь в городе.\n;x
+convert_to_city;Улучшить племенные поселения;x
+convert_to_city_desc;Я могу развить свои племенные поселения в города.;x
+convert_to_castle;Улучшить племенные поселения;x
+convert_to_castle_desc;Я могу развить свои племенные поселения в феодальные.;x
+ISNT_CROWN_LAW_TITLE;НЕ подчиняется законам Короны;x
+IS_CROWN_LAW_TITLE;Подчиняется законам Короны;x
+LAW_UNLOCKS;Доступны новые законы: ;x
+DECISION_UNLOCKS;Доступны новые решения: ;x
+ALLOW_FREE_DUCHY_REVOKATION_ON;Произвольный отзыв герцогских титулов.\n;x
+ALLOW_FREE_DUCHY_REVOKATION_OFF;Отзыв герцогских титулов более не произволен.\n;x
+#ALLOW_FREE_VICEROY_DUCHY_REVOKATION_ON;Произвольный отзыв вице-герцогских титулов.\n;x
+#ALLOW_FREE_VICEROY_DUCHY_REVOKATION_OFF;Отзыв вице-герцогских титулов более не произволен.\n;x
+RETRACT_VASSAL_INTERACTION_2J;Наша имперская администрация позволяет нам отзывать наместников без возражений со стороны аристократии;x
+LIEGE_LEVY_DESC_VICE_ROY;\n  Наместничества: $VALUE$;x
+CONVERTS_TO_FEUDAL;Теперь §Y$NAME$§!, т.к. становится феодальным.;x
+CONVERTS_TO_REPUBLIC;Теперь §Y$NAME$§!, т.к. становится городским.;x
+CALL_ALL_TRIBAL_CONTROL;Нельзя призвать племенных вассалов, пока они предоставляют нам ополчение;x
+CALL_ALL_NOT_TRIBAL;Нельзя призвать племенных вассалов, если они не относятся к племени;x
+TITLE_NOT_VICE_ROYALTY;Титул НЕ наместнический;x
+tribal_king_female;Великий вождь;x
+tribal_emperor_female;Императрица;x
+temple_duke_female_pagan_group;Архижрица;x
+temple_king_female_pagan_group;Королева-Жрица;x
+temple_emperor_female_pagan_group;Императрица;x
+AIREASON_SAME_RELIGION_AS_REGENT;Та же религия, как у меня;x
+expel_the_haruriyyah;Изнать воинов Харурийя;x
+expel_the_haruriyyah_desc;Я могу изгнать воинов Харурийя из страны и захватить их замки. Однако столь нечестивый акт не останется без внимания...;x
+borrow_money_haruriyyah;Занять 300¤ у воинов Харурийя;x
+borrow_money_haruriyyah_desc;Я могу занять деньги у воинов Харурийя и вернуть ту же сумму в любой момент. Однако пока я у них в долгу, Великий магистр ордена может просить меня об ответных услугах, например, чтобы один из моих сыновей пополнил их ряды.;x
+not_shia_caliphate_revolt_ongoing;Нет текущих восстаний с целью становления Шиитского Халифата;x
+shia_creation_independent;Независимость или все сюзерены - шииты\n;x
+sunni_creation_independent;Независимость или все сюзерены - сунниты\n;x

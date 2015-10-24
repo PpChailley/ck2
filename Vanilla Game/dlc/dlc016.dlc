@@ -1,0 +1,6 @@
+name = "Russian Portraits"
+archive = "dlc/dlc016.zip"
+steam_id = "210900"
+gamersgate_id = "618"
+checksum = "669fc1c2aae53869a5b383a0def92ddd"
+affects_checksum = no

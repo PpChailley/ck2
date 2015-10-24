@@ -1,0 +1,97 @@
+#CODE;RUSSIAN;x
+d_connacht_adj;Коннахтск;x
+d_leinster_adj;Лейнстерск;x
+d_munster_adj;Манстерск;x
+d_ulster_adj;Ульстерск;x
+d_argyll_adj;Аргильск;x
+d_lothian_adj;Лотианск;x
+d_galloway_adj;Галловейск;x
+d_northumberland_adj;Нортубрианск;x
+d_nikaea_adj;Никейск;x
+d_gelre_adj;Гелрианск;x
+d_ryazan_adj;Рязанск;x
+d_bulgar_adj;Булгарск;x
+d_mazandaran_adj;Мезендеранск;x
+d_moray_adj;Морейск;x
+d_meath_adj;Митск;x
+d_deheubarth_adj;Дехейбартск;x
+d_brunswick_adj;Брансвикск;x
+d_dauphine_adj;Дофинск;x
+#d_aquitaine_adj;Аквитанск;x
+d_valois_adj;Валуа;x
+d_constantine_adj;Константинск;x
+d_abbasid_adj;Аббасидск;x
+d_balearic_adj;Балеарск;x
+d_bergen_adj;Бергенск;x
+d_bordeaux_adj;Бордосск;x
+d_gilan_adj;Гиланск;x
+FE_CREATE_GAME;Создать Игру;x
+HOST_DESC;Создайте игру, чтобы другие могли присоединиться\nВы не сможете изменить дату, или выбрать сохранение после того как игра будет создана;x
+DEATH_BY_MURDER_NO_KILLER;убит;x
+DEATH_EXECUTION_NO_KILLER;казнён;x
+DEATH_DUNGEON_NO_KILLER;умер в тюрьме;x
+DEATH_DUEL_NO_KILLER;убит на дуэли;x
+EVTOPTB3335;[Root.Liege.GetTitledFirstName] в порядке;x
+plot_weaken_fellow_vassal_title;Сменить власть в области "[This.GetName]";x
+plot_weaken_fellow_vassal_desc;[This.Holder.GetTitledName] потеряет часть владений. Власть правителя ослабнет, если [This.GetFullName] отойдет одному из его вассалов.;x
+plot_weaken_fellow_vassal_decision;[Root.GetPlot];x
+plot_weaken_fellow_vassal_decision_desc;Мы можем послать ультиматум. [Root.PlotTarget.GetTitledName] его получит, и это завершит заговор.;x
+plot_weaken_fellow_vassal_decision_liege;Искать поддержки ([Root.TopLiege.GetTitledFirstName] может мне помочь).;x
+plot_weaken_fellow_vassal_decision_liege_desc;Мы пошлём письмо с предложением о разделе земель, которыми правит [Root.PlotTarget.GetTitledName]. [Root.TopLiege.GetTitledFirstName] может помочь нам в этом. Но если [Root.TopLiege.GetTitle] не поддержит нас, о заговоре узнает весь двор.;x
+EVTDESC7500;[Root.PrimaryTitle.GetFOA].\nМногие Ваши подданные, включая меня, считают, что [From.PlotTarget.GetTitledName] имеет больше титулов, чем позволяет [From.PlotTarget.GetHersHis] положение. Мы нижайше просим Вас указать [From.PlotTarget.GetHerHim] верный путь.\nПусть [From.PlotTarget.GetSheHe] передаст часть своих земель своему вассалу. Лучше всего, на наш взгляд, для этого подходит [From.PlotTargetTitle.GetFullName].\nКонечно же мы всецело и единодушно поддержим Ваше решение!\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7500;Похвальная инициатива.;x
+EVTOPTB7500;Я не собираюсь принимать в этом участия.;x
+EVTTOOLTIP7500;[Root.TopLiege.GetTitledFirstName] получает письмо.;x
+EVTDESC7501;Признаться, мы несколько обеспокоены тем, что [Root.PlotTarget.GetTitledName] так стремительно расширяет сферу своего влияния. Для всеобщего блага мы незамедлительно отправим [Root.PlotTarget.GetHerHim] сообщение с предложенным Вами компромиссом.\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7501;Великолепно!;x
+EVTTOOLTIP7501;Получает согласие.;x
+EVTDESC7502;Не будьте дураком, [Root.GetFirstName]! Я не могу допустить раскола страны из-за заговоров и потворства! Немедленно прекратите все Ваши интриги, или, я клянусь Вам, Вы пожалеете об этом!\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7502;Ясно.;x
+EVTTOOLTIP7502;Получает отказ.;x
+EVTDESC7504;[Root.GetTitle], мы надеемся, это письмо застанет Вас в добром здравии. От лица заинтересованных сторон мы настоятельно рекомендуем Вам предпринять всё необходимое для восстановления баланса сил в стране, мы просим Вас отречься от титула "[From.PlotTargetTitle]" в пользу одного из Ваших вассалов. Мы надеемся, Вы прислушаетесь к нам.\n\nПодпись: \n[From.Liege.GetTitledName];x
+EVTOPTA7504;Отлично.;x
+EVTOPTB7504;Вы в своём уме?;x
+EVTTOOLTIP7504;[Root.PlotTarget.GetTitledName] получает завуалированное требование на титул "[Root.Liege.GetTitle]".;x
+EVTDESC7505;Хрупкий баланс сил в стране был нарушен, [From.PlotTarget.GetTitledFirstName]. Откажитесь от Вашего титула ([From.PlotTargetTitle.GetFullName]) в пользу одного из Ваших вассалов, и так будет лучше для всех, пока я и мои люди не потребовали этого с оружием в руках.\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7505;Выбор не велик.;x
+EVTOPTB7505;Никогда!;x
+EVTOPTC7505;У вассалов нет права на это! Я оставлю его себе.;x
+EVTTOOLTIP7505;[Root.PlotTarget.GetTitledName] получает письмо.;x
+EVTDESC7506;Несомненно, я никогда не прощу этого себе и буду проклинать Ваше имя до конца времен, но всё же соглашусь на Ваше требование дабы сохранить мир.\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7506;Великолепно.;x
+EVTDESC7507;Чтобы заставить меня подписать отречение от титула "[Root.PlotTargetTitle.GetFullName]" Вам придется отрубить мою правую руку. И если у Вас и Ваших друзей хватит смелости встретиться со мной лицом к лицу, что ж я с радостью посмотрю, как Вас вырежут всех до одного. Давайте же!\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7507;Вы подавитесь этими словами, [From.PrimaryTitle.GetFOA].;x
+EVTOPTB7507;Возможно не стоит развязывать войну...;x
+EVTTOOLTIP7507;Ультиматум отозван.;x
+EVTDESC7508;Вы поставили меня в сложное положение, но если Вы считаете, что это лучший вариант. Я отрекаюсь от титула.\n\nПодпись: \n[From.GetTitledName];x
+EVTOPTA7508;Очень хорошо.;x
+EVTOPTA7509;Какая наглость!;x
+EVTDESC7510;Титул "[Root.Liege.GetTitle]" удалось отозвать. [Root.PlotTarget.GetTitledFirstName] теперь правит областью "[Root.PlotTargetTitle.GetFullName]".;x
+EVTOPTA7510;Хорошо.;x
+EVTDESC7511;[Root.PlotTarget.GetTitledFirstName] отклонил вполне осмысленное требование отречься от титула "[Root.Liege.GetTitle]", однако это дало Вам потенциальную возможность отозвать этот титул в будущем. Похоже, Вам придется остановиться на достигнутом, пока что.;x
+EVTOPTA7511;Да будет так.;x
+EVTDESC7515;Благодаря тайному сговору дворян, [From.GetTitledName] отрекается от одного из своих титулов. После долгих размышлений и переговоров, лорды страны выбрали Вас, в качестве достойнейшего претендента на этот титул. Поздравляю, [Root.PrimaryTitle.GetFOA].;x
+EVTOPTA7515;Хорошие вести.;x
+EVTDESC7517;[From.GetTitledName] не имеет достойных вассалов для получения этого титула, поэтому он был передан Вам, чтобы Вы поступили с ним как сочтёте нужным.;x
+PLOT_TOOLTIP_WEAKEN_VASSAL;[This.Holder.GetTitledName] больше не владеет титулом "[This.GetFullName]".;x
+CB_NAME_WEAKEN_VASSAL;[Title.GetName]: претензия;x
+VASSAL_TRANSFER_SETUP;Вассал был передан;x
+VASSAL_TRANSFER_LOG;$OLD_LIEGE$ передаёт вассала($VASSAL$) его новому сюзерену($NEW_LIEGE$);x
+WAR_NAME_WEAKEN_VASSAL;Война за смену правителя области $OTHER_TITLE$.;x
+TRIGGER_ATTACKER;Инициатор атаки;x
+TRIGGER_MOST_PART_ATTACKER;Наиболее значимый атакующий;x
+TRIGGER_DEFENDER;Главный защищающийся;x
+TRIGGER_MOST_PART_DEFENDER;Наболее значимый защищающийся;x
+CHAR_IS_NOT;Персонаж - НЕ ;x
+CHAR_IS;Персонаж - ;x
+CHAR_EXISTS;Персонаж существует;x
+THREAT_NOT_DE_JURE_LIEGE;Не де-юре вассал;x
+THREAT_INFIDEL;Неверный;x
+THREAT_FOREIGNER;Иностранец;x
+THREAT_LOW_LEVIES;Истощен призывами;x
+THREAT_OTHER_INDEP_WARS;Текущие войны за независимость;x
+force_converting;Преобразование войск;x
+EVTTOOLTIP3336;Так продолжаться не может! Я должен сообщить персонажу [This.GetTitledFirstName], как безответственно [This.GetHersHis] поведение!;x
+SongsOfAlbionDLC;Songs of Albion (дополнение);x
+SongsOfFaithDLC;Songs of Faith (дополнение);x
+SongsOfTheHolyLandDLC;Songs of the Holy Land (дополнение);x

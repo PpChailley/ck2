@@ -1,0 +1,6 @@
+name = "Songs of the Steppes"
+archive = "dlc/dlc056.zip"
+steam_id = "354331"
+gamersgate_id = "1"
+checksum = "dca0dc83c8ccb0761701cfc8589c8bab"
+affects_checksum = no

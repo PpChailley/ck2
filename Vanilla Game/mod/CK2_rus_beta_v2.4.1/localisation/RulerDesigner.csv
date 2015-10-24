@@ -1,0 +1,88 @@
+#CODE;RUSSIAN;x
+RD_APPEARANCE;Внешний вид;x
+RD_COAT_OF_ARMS;Герб;x
+RD_ATTRIBUTES;Атрибуты;x
+RD_ETHNICITY;Культура;x
+RD_EYES;Глаза;x
+RD_NOSE;Нос;x
+RD_MOUTH;Рот;x
+RD_CHIN;Подбородок;x
+RD_NECK;Шея;x
+RD_CHEEKS;Щеки;x
+RD_EARS;Уши;x
+RD_EYE_COLOR;Цвет глаз;x
+RD_HAIRSTYLE;Причёска;x
+RD_HAIR_COLOR;Цвет волос;x
+RD_BEARD;Борода;x
+RD_VISUALIZE;Визуализация;x
+RD_CLOTHES;Одежда;x
+RD_HEADGEAR;Головной убор;x
+RD_AGE;Возраст;x
+RD_BACKGROUND;Фон;x
+RD_CANCEL;Отмена;x
+RD_NEXT;Далее;x
+RD_LAYOUT;Расположение частей;x
+RD_SLOT_1;Слот 1;x
+RD_SLOT_2;Слот 2;x
+RD_SLOT_3;Слот 3;x
+RD_SLOT_4;Слот 4;x
+RD_COLOR_1;Цвет 1;x
+RD_COLOR_2;Цвет 2;x
+RD_COLOR_3;Цвет 3;x
+RD_EMBLEM;Эмблема;x
+PORTRAIT_westerngfx;Западный;x
+PORTRAIT_italiangfx;Итальянский;x
+PORTRAIT_byzantinegfx;Византийский;x
+PORTRAIT_muslimgfx;Мусульманский;x
+RD_YOUNG;Молодой;x
+RD_MIDDLEAGED;Средних лет;x
+RD_OLD;Старый;x
+coa_party_per_fess;Части горизонтально;x
+coa_party_per_pale;Части вертикально;x
+coa_party_per_cross;Части квадрантами;x
+coa_party_triangle;Части треугольником;x
+coa_plain;Простой;x
+RD_LINK_PATTERN;Ссылки Шаблонов через все слоты;x
+RD_LINK_COLOR;Ссылки Цветов через все слоты;x
+RD_MARRIED;Отметьте, если персонаж состоит в браке;x
+RD_CLEARTRAITS;Удалить все черты\nНажмите правую клавишу мыши, чтобы удалить отдельные черты;x
+RD_DIPLOMACY;Дипломатия:;x
+RD_MARTIAL;Военный:;x
+RD_STEWARDSHIP;Управление:;x
+RD_INTRIGUE;Интрига:;x
+RD_LEARNING;Образованность:;x
+RD_HEALTH;Здоровье:;x
+RD_FERTILITY;Плодовитость:;x
+RD_SONS;Сыновья:;x
+RD_DAUGHTERS;Дочери:;x
+RD_FIRST_NAME;Имя;x
+RD_DYNASTY;Династия;x
+RD_MARRIED2;В браке:;x
+RD_CULTURE;Культура:;x
+RD_RELIGION;Религия:;x
+RD_EDUCATION;Образование;x
+RD_TRAITS;Черты;x
+RD_FINISH;Выбрать;x
+RD_IS_MALE;Персонаж мужчина, щёлкните для изменения;x
+RD_IS_FEMALE;Персонаж женщина, щёлкните для изменения;x
+RD_NOT_PLAYABLE;§RНельзя играть за данную религию§!;x
+RD_OPEN_RULER_DESIGNER;Открыть редактор правителя;x
+RD_CHANGE_GRAPHICAL_CULTURE;Изменить отображение культуры;x
+RD_CHANGE_CULTURE;Изменить культуру;x
+RD_CHANGE_RELIGION;Изменить религию;x
+RD_CHANGE_EDUCATIONAL_TRAIT;Изменить черту образования;x
+RD_CUSTOMIZED_AGE;Возраст: $AGE$ (Макс: $MAX$);x
+RD_RANDOMIZE;Случайный выбор;x
+RD_FAIL_AGE;Персонаж слишком стар для начала игры;x
+RD_FAIL_CHILDREN;Персонаж недостаточно взрослый, чтобы иметь так много детей, на каждого ребенка требуется год жизни после 16 лет.;x
+RD_EXTRA_CLICK;Щёлкните, чтобы изменить\nShift и щелчок - х5\nCtrl и щелчок - х10;x
+RD_RESET;Сброс;x
+RD_FAIL_NO_NAME;Вы должны указать имя;x
+RD_FAIL_NO_DYN_NAME;Вы должны указать название династии;x
+RD_RULER_DESIGNER;Редактор правителя;x
+RD_FAIL_NO_UNPLAYABLE;§RНельзя настраивать неигрового персонажа§!;x
+RD_FAIL_NO_DLC;§RНужно установить дополнение "Ruler Designer"§!;x
+RD_FAIL_SAME_NAME;Нельзя давать то же имя, что и у заменяемого персонажа;x
+RD_CHANGE_SONS;Изменить количество сыновей этого персонажа;x
+RD_CHANGE_DAUGHTERS;Изменить количество дочерей этого персонажа;x
+RD_ADD_TRAIT;Добавить черту;x

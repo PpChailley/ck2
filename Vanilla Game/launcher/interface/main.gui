@@ -1,0 +1,309 @@
+guiTypes = {
+	windowType = {
+		name = "launcher"
+		backGround =""
+		position = { x = 0 y = 0 }
+		size = { x = 1000 y = 600 }
+		moveable = 0
+		horizontalBorder = "0"
+		verticalBorder = ""
+		fullScreen = yes
+		Orientation = "UPPER_LEFT"
+		
+		iconType = {
+			name ="background"
+			spriteType = "GFX_launcher_bg"
+			position = { x= 0 y = 0 }
+        	}
+
+        instantTextBoxType = {
+			name = "checksum"
+			position = { x = 850 y = 10 }
+			textureFile = ""
+			font = "vic_18"
+			text = "CHECKSUM"
+			maxWidth = 150
+			maxHeight = 50
+			format = left
+			fixedsize = yes
+		}
+		
+		instantTextBoxType = {
+			name = "motd_text"
+			position = { x = 86 y = 224 }
+			textureFile = ""
+			font = "vic_18"
+			text = "Welcome to Crusader Kings 2!"
+			maxWidth = 425
+			maxHeight = 280
+			format = centre
+			fixedsize = yes
+		}
+		
+		guiButtonType =	{
+			name = "cancel_button"
+			position = { x=49 y=531 }
+			quadTextureSprite ="GFX_button_bg"	
+			buttonText = "Quit"
+			buttonFont = "vic_22"
+			shortcut = "ESCAPE"
+		}
+                
+        	guiButtonType =	{
+			name = "play_button"
+			position = { x=651 y=531 }
+			quadTextureSprite ="GFX_button_bg"	
+			buttonText = "Play"
+			buttonFont = "vic_22"
+			shortcut = "ENTER"
+		}
+		
+		windowType = {
+			name = "mod_dlc_list"
+			backGround =""
+			position = { x = 600 y = 70 }
+			size = { x = 388 y = 460 }
+			moveable = 0
+			horizontalBorder = "0"
+			verticalBorder = ""
+			fullScreen = no
+			Orientation = "UPPER_LEFT"
+			
+			iconType = {
+				name = "background"
+				spriteType = "GFX_launcher_dlc_mod_list_bg"
+				position = { x = 0 y = 0 }
+			}
+			
+			guiButtonType =	{
+				name = "dlc_tab"
+				position = { x=32 y=17 }
+				quadTextureSprite ="GFX_tab_button"
+			}
+		
+			instantTextBoxType = {
+				name = "dlc_label"
+				position = { x=11 y=30 }
+				size = { x=160 y=36 }
+				text = "DLC"
+				font = "vic_18"
+				format = center
+			}
+		
+			guiButtonType =	{
+				name = "mod_tab"
+				position = { x=196 y=17 }
+				quadTextureSprite ="GFX_tab_button"	
+				buttonText = "Mod"
+				buttonFont = "vic_18"
+			}
+		
+			instantTextBoxType = {
+				name = "mod_label"
+				position = { x=175 y=30 }
+				size = { x=160 y=36 }
+				text = "Mod"
+				font = "vic_18"
+				format = center
+			}
+		
+			### DLC WINDOW
+			windowType = {
+				name = "dlc_window"
+				backGround =""
+				position = { x = 15 y = 65 }
+				size = { x = 300 y = 300 }
+				moveable = 0
+				horizontalBorder = "0"
+				verticalBorder = ""
+				Orientation = "UPPER_LEFT"
+				
+			    listboxType = {
+					name = "list"
+					position = { x = 0 y = 0 }
+					backGround=""
+					size = { x=337 y = 363}
+					spacing = 0
+					scrollbartype = "standardlistbox_slider"
+					borderSize = {x = 0 y = 0}
+					Orientation = "UPPER_LEFT"
+				}
+			}
+		
+			### MOD WINDOW
+			windowType = {
+				name = "mod_window"
+				backGround =""
+				position = { x = 15 y = 65 }
+				size = { x = 300 y = 300 }
+				moveable = 0
+				horizontalBorder = "0"
+				verticalBorder = ""
+				Orientation = "UPPER_LEFT"
+				
+			    listboxType = {
+					name = "list"
+					position = { x = 0 y = 0 }
+					backGround=""
+					size = { x=337 y = 363}
+					spacing = 0
+					scrollbartype = "standardlistbox_slider"
+					borderSize = {x = 0 y = 0}
+					Orientation = "UPPER_LEFT"
+				}
+			}
+		}
+
+	}
+	
+	### DLC ENTRY
+	windowType = {
+		name = "dlc_entry"
+		backGround =""
+		position = { x=0 y=0 }	
+		size = { x=300 y=33 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = ""
+		verticalBorder = ""
+		fullScreen = no
+		
+		iconType = {
+			name ="entry_bg"
+			spriteType = "GFX_launcher_dlc_entry_bg"
+			position = { x= 0 y = 0 }
+		}
+		
+		iconType = {
+			name ="disabled_background"
+			spriteType = "GFX_dlc_entry_disabled_bg"
+			position = { x= 300 y = 8 }
+			frame = 1
+		}
+		
+		iconType = {
+			name ="enabled_background"
+			spriteType = "GFX_dlc_entry_enabled_bg"
+			position = { x= 300 y = 8 }
+			frame = 2
+		}
+		
+		instantTextBoxType = {
+			name = "name"
+			position = { x = 33 y = 10 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			maxWidth = 265
+			maxHeight = 25
+			fixedsize = yes
+			format = left
+		}
+	}
+	
+	### MOD ENTRY
+	windowType = {
+		name = "mod_entry"
+		backGround =""
+		position = { x=0 y=0 }	
+		size = { x=300 y=33 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = ""
+		verticalBorder = ""
+		fullScreen = no
+		
+		iconType = {
+			name ="entry_bg"
+			spriteType = "GFX_launcher_dlc_entry_bg"
+			position = { x= 0 y = 0 }
+		}
+		
+		iconType = {
+			name = "progress"
+			spriteType = "GFX_workshop_progress"
+			position = { X = 23 y = 10 }
+			dontRender = ""
+		}
+		
+		iconType = {
+			name ="disabled_background"
+			spriteType = "GFX_dlc_entry_disabled_bg"
+			position = { x= 300 y = 8 }
+			frame = 1
+		}
+		
+		iconType = {
+			name ="enabled_background"
+			spriteType = "GFX_dlc_entry_enabled_bg"
+			position = { x= 300 y = 8 }
+			frame = 2
+		}
+		
+		instantTextBoxType = {
+			name = "name"
+			position = { x = 33 y = 10 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = ""
+			maxWidth = 265
+			maxHeight = 25
+			fixedsize = yes
+			format = left
+		}
+	}
+	
+	### SCROLLBAR
+	scrollbarType = {
+		name = "standardlistbox_slider"	
+		slider = "listboxSliderButton"
+		track= "listboxTrackButton"
+		leftbutton = "upButton"
+		rightbutton = "downButton"
+		size = {x =16 y =16 }
+		position = {x= 0 y =0}
+		priority = 100			
+		borderSize = {x = 24 y = 24}	
+		maxValue =1
+		minValue =0
+		stepSize =0.01
+		startValue = 0
+		horizontal = 0
+
+
+		guiButtonType = {
+			name = "listboxSliderButton"	
+			quadTextureSprite = "GFX_scroll"
+			tooltip = ""
+			tooltipText =""	
+			delayedTooltipText = ""
+			position = { x=0 y =0}
+		}
+
+		guiButtonType = {
+			name = "listboxTrackButton"
+			quadTextureSprite = "GFX_scroll_bg"
+			position = { x=24 y =24}	
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""	
+
+		}	
+
+		guiButtonType = {
+			parent = "listboxSliderButton"
+			name = "upButton"
+			quadTextureSprite = "GFX_scroll_down"
+			position = { x=0 y =0}	
+		}
+	
+		guiButtonType = {
+			parent = "listboxSliderButton"
+			name = "downButton"
+			quadTextureSprite = "GFX_scroll_up"
+			position = { x=0 y =120}	
+		}
+	}
+}

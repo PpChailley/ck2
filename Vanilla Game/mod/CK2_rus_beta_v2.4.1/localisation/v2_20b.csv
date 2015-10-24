@@ -1,0 +1,378 @@
+#CODE;RUSSIAN;x
+EVTOPTC91355;Быть может стоит обратиться к [From.GetHersHis] жадности...;x
+EVTOPTD91355;Пожертвую немного золота.;x
+EVTOPTE91355;Возможно [From.GetHersHis] [From.Spouse.GetHusbandWife] встанет на мою сторону.;x
+EVTDESC91372;Мои люди передали мне послание - [From.GetName] всё ещё отвергает мои требования исправиться и предлагает мне крепкого евнуха с потрясающими военными навыками в качестве подарка, чтобы продолжать образ жизни декадента.;x
+EVTOPTA91372;А ведь он мне пригодится!;x
+EVTDESC91373;[From.GetName] говорит мне, как собирается прожить свою жизнь. [From.GetSubjectPronounCap] пытается объяснить мне, что тот образ жизни, который я называю декадентским, на самом деле лишь иной способ исполнять то, что велит нам [From.Religion.GetRandomGodName]. [From.GetSheHeCap] также предлагает внести пожертвование от моего имени в знак нашей дружбы.;x
+EVTOPTA91373;[From.Religion.GetRandomGodName] одобрил бы такое пожертвование.;x
+EVTDESC91374;[From.GetName] пришёл в мои покои и шепчет мне приятные слова. [From.GeSheHeCap] говорит, что [Root.Spouse.GetName] собирается бросить [From.GeHersHis] в темницу за декадентский образ жизни, несмотря на то, что с тех пор [From.GeSheHe] сильно изменился.;x
+EVTOPTA91374;Кажется, я влюбилась!;x
+EVTOPTB91374;Он просто использует меня!;x
+EVTDESC91375;Моя жена расстроена из-за того, что я слишком суров по отношению к декаденту, она говорит, что [FromFrom.GetName] не заслуживает такого и просит [FromFrom.GetHersHis] отпустить.;x
+EVTOPTA91375;Для тебя всё, что угодно, любимая.;x
+EVTDESC91376;Моя жена пришла ко мне с шокирующими известиями - [FromFrom.GetName] пытался соблазнить её и обратить против меня.;x
+EVTDESC7950;Принимая во внимание распорядок дня и декадентский образ жизни, которым живёт [Root.PlotTarget.GetTitledName], наилучшим местом для [Root.PlotTarget.HersHis] убийства будет [Root.PlotTarget.HersHis] собственный дворец...;x
+EVTOPTA7950;Мои сообщники подкупят [Root.PlotTarget.GetHersHis] слуг.;x
+EVTOPTB7950;Я подклуплю [Root.PlotTarget.GetHersHis] слуг.;x
+EVTOPTC7950;Я заменю [Root.PlotTarget.GetHersHis] слуг своими.;x
+EVTDESC7951;Внезапно мне стало ясно, что такие декаденты наиболее уязвимы в собственном дворце.;x
+EVTDESC7953;[From.GetTitledName] даёт мне деньги, чтобы подкупить слуг. Если всё получится, [From.PlotTarget.GetTitledName] умрёт.;x
+EVTDESC7954;[From.GetTitledName] отказывается давать мне деньги для подкупа, необходимого для убийства во дворце.;x
+EVTDESC7955;Как же приятно вот так сидеть дома и наслаждаться простыми радостями жизни. Ещё вина мне! И закусок!;x
+EVTTOOLTIP7955;[This.GetTitledName] больше не запятнает мою династию!;x
+EVTOPTA7955;Вот так и побыстрее!;x
+EVTOPTB7955;Почему эта служанка бежит ко мне?;x
+EVTDESC7956;Спрятанный кинжал в руках служанки - и вот так я умру? [Root.Religion.GetRandomGodName], прости мне мои грехи...;x
+EVTOPTA7956;Умри, [FromFrom.GetTitledFirstName]!;x 
+EVTOPTA7957;Какого?.. Что проис?.. О, [Root.Religion.GetRandomGodName]...;x
+EVTDESC7958;Окружённый комфортом и прекрасными служанками, я сидел и наслаждался дорогим вином после хорошего ужина, и вдруг неожиданно увидел, как одна из служанок бросается на меня с кинжалом в руке. В последний момент я успел отпрыгнуть в сторону, а стражники схватили её до того, как она успела нанести удар. Прежде чем о ней позаботились, она успела назвать имя того, кто стоит за всем этим.;x
+EVTOPTA7958;Гореть тебе в аду, [FromFrom.GetTitledFirstName]!; 
+EVTDESC7959;Окружённый комфортом и прекрасными служанками, я сидел и наслаждался дорогим вином после хорошего ужина, и вдруг неожиданно увидел, как одна из служанок бросается на меня с кинжалом в руке. В последний момент я успел отпрыгнуть в сторону, а стражники схватили её до того, как она успела нанести удар. О ней позаботились, но она - всего лишь пешка. Кто же стоит за всем этим?;x
+EVTOPTA7959;Боюсь, я никогда это не узнаю.;x
+EVTDESC7960;Мой сообщник, [From.GetTitledName], даёт мне знать, что [Root.PlotTarget.GetTitledName] умрёт в собственном дворце от кинжала одной из своих служанок.;x
+EVTOPTA7960;Вот до чего доводит декадента его образ жизни!;x
+EVTDESC7961;[From.GetTitledName] одобряет мою идею - [From.PlotTarget.GetTitledName] умрёт от рук своих слуг. [Root.Religion.GetRandomGodName] несомненно простит мне это, ведь [From.PlotTarget.GetName] - декадент.;x
+EVTDESC7962;[From.GetTitledName] даёт мне знать, что заговор по убийству декадента продвигается успешно. В случае успеха [From.PlotTarget.GetTitledName] умрёт в течение месяца, несколько [From.PlotTarget.GetHersHis] служанок лояльны нам и готовы нанести удар.;x
+EVTDESC7963;Успех! [From.GetTitledName] мёртв! Но... к сожалению, моя причастность к этому стала достоянием публики.;x
+EVTOPTA7963;Хорошо, но... плохо.;x
+EVTDESC7964;Успех! [From.GetTitledName] умер так и не узнав имя заказчика своего убийства. Подкупленные слуги так и не выдали имена.;x
+EVTOPTA7964;Нужно это как следует отметить.;x
+EVTDESC7965;Неудача! [From.GetTitledName] подслушал разговор служанок и узнал о заговоре с целью своего убийства.;x
+EVTOPTA7965;Это плохо.;x
+EVTDESC7966;Неудача! [From.GetTitledName] что-то заподозрил и отослал слуг прочь. Однако, ему не удалось раскрыть нашу причастность к этому.;x
+title_appointed_regent;Назначенный регент;x
+title_appointed_regent_desc;Этот человек станет регентом, если потребуется.;x
+INTERACTION_REQ_REC_IS_DJ_LIEGE_OR_ADJ;Получатель письма ([Recipient.GetBestName]) должен быть соседом или де-юре сюзереном моей столицы.;x
+WELCOME_TEXT;В этой игре Вы можете сыграть за любого средневекового правителя в любой точке временной шкалы. Когда погибнет Ваш персонаж, наследник возьмёт на себя бразды правления, и так далее. В отличие от большинства других игр, стартовая ситуация исторична, поэтому разбалансирована. Взгляните на оценочную сложность перед началом игры!;x
+tribal_duke;Верховный вождь;x
+tribal_duke_female;Верховный вождь;x
+tribal_duchy_of;Верховное вождество;x
+tribal_duchy_of_norse;Ярлство;x
+tribal_count_west_african;Фарин;x
+tribal_count_female_west_african;Фарина;x
+tribal_county_of_west_african;Шейхство;x
+tribal_county_west_african;Шейхство;x
+tribal_duke_west_african;Фарбас;x
+tribal_duke_female_west_african;Фарба;x
+tribal_duchy_of_west_african;Эмират;x
+tribal_duchy_west_african;Эмират;x
+tribal_king_west_african;Манса;x
+tribal_king_female_west_african;Султана;x
+tribal_kingdom_of_west_african;Султанат;x
+tribal_kingdom_west_african;Султанат;x
+tribal_baron_mongol;Тайши;x
+tribal_barony_of_mongol;Тайши;x
+EVTDESC_CM_11;[Root.County.GetAdjective]ие жители переняли новые обычаи иноземцев, которые органично вплелись в славянские традиции. Они стали называть себя "Русь" или "русскими людьми".;x
+EVTOPTA_CM_11;Новые, но всё те же.;x
+convert_to_russian;Принять русскую культуру;x
+convert_to_russian_desc;Многие в наших землях внедряют новые пути и традиции, принесенные чужестранцами, включая их в местные обычаями. Возможно, и нам следует сделать то же самое...;x
+EVTDESC_CM_2102;Вам надоело постоянно проводить время в замке, выполняя свои обязаности по управлению и дипломатии. Тем временем, [From.GetTitledFirstName] продолжает рассказывать Вам об увлекательных приключениях, которые он переживает, будучи у Вас на службе. Быть может, стоит присоединиться к нему в следующий раз...;x
+EVTOPTA_CM_2102;Да! Будет здорово!;x
+EVTOPTB_CM_2102;Нет, я - [Root.GetTitle] и у меня есть обязанности.;x
+EVTDESC_CM_2104;Утром Вы и [From.GetTitledFirstNameWithNick] выехали из замка без какого-либо сопровождения и экипировки. Это будет хорошей передышкой от монотонной повседневности государственных дел. Вы заметили, что [From.GetTitledFirstName] смотрит на Вас скептически, но уверены, вам предстоит увлекательное путешествие.;x
+EVTOPTA_CM_2104;А что может пойти не так?;x
+d_yatviags;Ятвяги;x
+d_pechenegs;Печенеги;x
+e_seljuk_turks;Сельджукская Империя;x
+action_settle_tribe;Поселить племя;x
+action_settle_tribe_desc;Пусть [GetTreasurerName] расселит Ваших соплеменников в нужной местности, повысив шансы на то, что её культура станет §Y[Culture.GetName]ой§!.;x
+EVTNAME925;Pасселение племени;x
+EVTDESC925;Мои усилия по расслению племени в [Root.Location.County.GetAdjective]их землях увенчались успехом!;x
+EVTOPTA925;[Root.Liege.Culture.GetName]ие обычаи возобладают.;x
+EVTDESC20205;[Root.GetTreasurerName] с радостью сообщает, что [From.Location.GetName] заселяется [Root.Culture.GetName]ими людьми. Местные, хотя и сопротивляются, но постепенно перенимают наш язык и обычаи!;x
+EVTOPTA20205;На н[From.GetHersHis] всегда можно положиться.;x
+EVTNAME20206;Pанен [Root.GetTreasurerName];x
+EVTDESC20206;[Root.Location.County.GetAdjective]ие жители, возмущённые "понаехавшими" [Root.Liege.Culture.GetName]ими поселенцами, вломились в мой дом и чуть не убили меня! В пылу схватки они повредили мне плечо.;x
+EVTOPTA20206;Не могу сказать, что виню их за это...;x
+EVTDESC20207;[Root.GetTreasurerName], [From.GetTitledFirstName], сообщает, что на н[From.GetHersHis] напали и ранили [From.Location.County.GetAdjective]ие жители, которые отчаянно сопротивляются нашим поселенцам.;x
+EVTOPTA20207;Подобного следовало ожидать...;x
+action_build_legend;Создать легенду;x
+#action_build_legend_desc;Пусть [GetTreasurerName] создаст легенду о Вас среди людей, повысив Ваш престиж и, возможно даже, призовёт храбрых воинов.;x
+EVTNAME20208;Bоины собираются;x
+EVTDESC20208;Мои усилия по созданию легенды увенчались успехом. Храбрые воины, жаждущие богатства и славы, собираются в [Root.Location.Capital.County.GetAdjective]их землях!;x #[Root.Liege.GetTitledFirstName]
+EVTOPTA20208;Превосходно!;x #[Root.Liege.PrimaryTitle.GetRulerTitle]
+EVTDESC20209;[Root.GetTreasurerName], [From.GetTitledFirstName], сообщает мне, что [From.GetAbsPossPronoun] усилия по прославлению моего имени и великих свершений увенчались успехом! Небольшое войско, готовое служить мне верой и правдой, собралось в [Root.Capital.Capital.County.GetAdjective]их землях. Нужно только найти им подходящего врага в течение года, иначе они станут... проблемой.;x
+EVTOPTA20209;Прекрасно!;x
+EVTDESC20217;Воины, которых ранее призвал мой [Root.GetTreasurerName], чтобы сражаться во славу моего имени, разочаровались во мне. Обвинив меня в трусости и слабости, с презрением и отвращением они разошлись по домам. Инцидент изрядно подпортил мою репутацию.;x
+EVTOPTA20217;Дикари тупоголовые!;x
+action_build_zeal;Cоздать культ;x
+#action_build_zeal_desc;Пусть [GetLordSpiritualName] подстегнет религиозный фанатизм среди людей, повысив Ваше благочестие и, возможно даже, призовёт святых воинов.;x
+EVTNAME20218;Cвятые воины;x
+EVTDESC20218;Мне удалось подстегнуть религиозный пыл в [Root.Location.County.GetAdjective]их землях, где теперь фанатично настроенные воины собрались, чтобы сражаться с иноверцами. С нами [Root.Liege.Religion.GetRandomGodName]!;x
+EVTOPTA20218;Превосходно!;x #[Root.Liege.PrimaryTitle.GetRulerTitle]
+EVTDESC20219;[Root.GetTreasurerName], [From.GetTitledFirstName], сообщает мне, что [From.GetAbsPossPronoun] усилия по разжиганию религиозного фанатизма увенчались успехом! Небольшая армия изуверов, готовая служить мне верой и правдой, собралась в [Root.Capital.Capital.County.GetAdjective]их землях. Нужно только найти подходящего врага-иноверца, пока мои новые рекруты не разбежались.;x
+EVTOPTA20219;С нами [Root.Religion.GetRandomGodName]!;x
+EVTDESC20220;Святые воины, ранее призванные, чтобы сражаться с иноверцами, разочаровались во мне. Обвинив меня в бездуховности и нежелании сражаться за нашу веру, они с презрением разбрелись по домам. Инцидент серьёзно сказался на моём благочестии.;x
+EVTOPTA20220;Ну и где же ваше смирение!?;x
+action_organize_raid;Организовать набег;x
+#action_organize_raid_desc;Пусть [GetMarshalName] соберет людей для набега за добычей и славой!;x
+EVTNAME20221;Hабег;x
+EVTDESC20221;Обещаниями несметных богатств мне удалось собрать могучее войско в [Root.Location.County.GetAdjective]их землях. Однако эти головорезы совсем не любят сидеть без дела...;x
+EVTOPTA20221;Превосходно!;x #[Root.Liege.PrimaryTitle.GetRulerTitle]
+EVTDESC20222;[Root.GetMarshalName], [From.GetTitledFirstName], сообщает мне, что [From.GetHerHim] удалось собрать большую банду разбойников, жаждущих богатств и приключений. Нельзя позволять им сидеть без дела, нужно поскорее использовать их!;x
+EVTOPTA20222;Прекрасные новости!;x
+EVTDESC20224;Разбойники, которых ранее собрал мой [Root.GetMarshalName], чтобы сражаться за меня, разочарованы. Обвинив меня в трусости и слабости, с презрением и отвращением они разошлись по домам, прихватив с собой всё ценное, что смогли унести!;x
+EVTOPTA20224;Грязные воры!;x
+CHRONICLE_PLAYER_INHERITANCE_NORMAL;Tеперь, когда [From.GetTitledName] [From.GetDeathReason] [GetDateText]г, [From.GetAbsPossPronoun] [GetFromReverseRelation], [Root.GetFirstName], наследует трон под пышную церемонию в городе [Root.Capital.Capital.GetName].;x #[From.PrimaryTitle.GetTier]
+CHRONICLE_PLAYER_INHERITANCE_NEW_RELIGION;Tеперь, когда [GetDateText]г [From.GetTitledName] [From.GetDeathReason], [From.GetAbsPossPronoun] [GetFromReverseRelation] [Root.GetFirstName], исповедуя [Root.Religion.GetName], наследует трон.;x #[Root.Religion.GetGroupName]
+CHRONICLE_PLAYER_INHERITANCE_NEW_CULTURE;Tеперь, когда [From.GetTitledName] [From.GetDeathReason] [GetDateText]г, [From.GetAbsPossPronoun] [GetFromReverseRelation] [Root.GetFirstName], придерживаясь [Root.Culture.GetName]их обычаев, наследует трон как [Root.GetTitledFirstName].;x #[From.PrimaryTitle.GetTier]
+CHRONICLE_PLAYER_INHERITANCE_NEW_CULTURE_AND_RELIGION;Tеперь, когда [From.GetTitledName] [From.GetDeathReason] [GetDateText]г, [From.GetAbsPossPronoun] [GetFromReverseRelation] [Root.GetFirstName] [Root.Culture.GetName]ой культуры, исповедуя [Root.Religion.GetName], наследует трон.;x #[From.PrimaryTitle.GetTier] [Root.Religion.GetGroupName]
+jewish_group;Иудаизм;x #Israelite
+zoroastrian_group;Маздаизм;x
+indian_group;Дхармизм;x
+embargo_cb_desc;Этот Casus Belli (повод для войны) позволяет Вам уничтожить все торговые фактории, которые представляет §Y$TARGET$§! в Вашей стране.;x
+vice_royalty_desc;Императоры могут даровать вице-королевские и вице-герцогские титулы своим вассалам. Подобные титулы не наследуются, а возвращаются обратно императору, когда наместник умирает - удобный способ оставаться в рамках вассального лимита.;x
+opinion_castrated_close_kin;Оскопил близкого родственника;x
+opinion_blinded_close_kin;Ослепил близкого родственника;x
+TITLE_USURPTION_TEMPORARY_TITLE;Обладатели временных титулов, также как и их вассалы не могут узурпировать титулы;x
+#EVTDESC107000;Behold! The world as we know it in the year of our Saviour, 1066. As you can tell, it is divided into distinct regions - Counties - each controlled by some lord or another. Crusader Kings II is a game about these lords, their families, relations, intrigue... and power. Be a conqueror or a peaceful family father, as you will, but know that most other characters will lust after more land, more Counties.\n\nCrusader Kings II is a real-time game. Close this window and unpause the game using the speed widget...;Oyez ! Oyez ! Voici le monde tel qu'il est en l'an de grвce 1066. Comme vous le voyez, il est divisй en rйgions distinctes, les comtйs. Chaque comtй est contrфlй par un seigneur. Crusader Kings II est un jeu qui met en avant ces seigneurs, leurs familles, les relations, les intrigues... Et le pouvoir. Conquйrant ou paisible chef de famille, vous faites votre choix, mais sachez que la plupart des personnages auront soif de territoires...\n\nCrusader Kings II est un jeu en temps rйel. Fermez cette fenкtre et quittez la pause en utilisant les options de vitesse.;Seht! Die Welt im Jahre des Herren, 1066. Wie Ihr seht, ist sie in verschiedene Grafschaften aufgeteilt, die von verschiedenen Fьrsten beherrscht werden. Im Mittelpunkt von Crusader Kings II stehen diese Fьrsten, ihre Familien, Beziehungen, Intrigen und ihre Macht. Ihr kцnnt ein Eroberer sein oder ein friedlicher Familienvater, ganz wie Ihr wollt. Doch Ihr solltet wissen, dass die meisten anderen Personen nach mehr Land und nach weiteren Grafschaften trachten.\n\nCrusader Kings II ist ein Echtzeitspiel. SchlieЯt nun dieses Fenster und setzt das Spiel fort ьber die Geschwindigkeitskontrolle.;;ЎMirad! El mundo tal y como lo conocнamos en el aсo de nuestro Salvador, en el 1066. Como podйis ver, estб dividido en varias regiones -Condados- cada una controlada por un noble u otro. Crusader Kings II es un juego sobre estos nobles, sus familias, relaciones, intriga... y poder. Sй un conquistador o un pacнfico padre de familia, como tъ quieras, pero ten en cuenta que la mayorнa de los demбs personajes ambicionarбn mбs tierras, mбs condados.\n\nCrusader King II es un juego en tiempo real. Cierra esta ventana y reanuda el juego con la herramienta velocidad...;;;;;;;;;x
+EVTDESC107001;Вы будете играть правителями одной династии, передающими власть следующим своим преемникам на протяжении веков. В этом обучающем сценарии Вам не грозят внешние и внутренние враги до тех пор, пока правителю не исполнится 40 лет. Когда это произойдет, [Root.GetFirstName] умрёт (хотя обычно люди умирают от старости, болезни или насилия) и сценарий закончится. Затем Вы сможете продолжить играть [Root.GetAbsPossPronoun] наследником. Не стесняйтесь изучать игру, пользуясь элементами интерфейса по своему желанию, но учтите, что игнорирование инструкций обучающего сценария может лишить Вас подсказок и помощи.;x
+#EVTDESC107009;When you have found a good character to marry, click on their portrait and the Diplomacy Icon to open the Diplomatic View (if you do this through the Arrange Marriage function you need only click the portrait). Here you may ask the Liege of your intended wife about the possibility of arranging a marriage. The Diplomatic View is the main way to interact with other characters. Go ahead and arrange the marriage!;Lorsque vous trouvez la bonne personne а йpouser, cliquez sur son portrait et sur l'icфne de diplomatie pour ouvrir la fenкtre diplomatique (si vous utilisez la fonction Organiser un mariage, vous devrez seulement cliquer sur son portrait). Vous pouvez ici demander au seigneur de votre future femme s'il accepte le mariage. La vue diplomatique vous permet d'interagir avec d'autres personnages. Allez-y, mariez-vous !;Wenn Ihr eine passende Person zum Heiraten gefunden habt, klickt auf das Portrдt und das Diplomatiesymbol, um die Diplomatieansicht zu цffnen (wenn ihr Euch in der Funktion 'Heirat arrangieren' befindet, genьgt ein einfacher Klick auf das Portrдt). Ihr kцnnt nun den Lehnsherrn der Person um Erlaubnis bitten. Die Diplomatieansicht ist das wichtigste Instrument zur Interaktion mit anderen Spielfiguren. Fahrt fort und arrangiert die Heirat!;;Cuando encuentres un buen personaje para casarte, haz clic sobre su retrato y el Icono Diplomacia para abrir la Vista Diplomбtica (si lo haces a travйs de la funciуn Concertar Matrimonio, solo tendrбs que hacer clic sobre el retrato). Entonces tendrбs que pedir la mano de tu pretendida esposa al Seсor feudal para poder arreglar el matrimonio. La Vista Diplomбtica es la principal via de interaccionar con otros personajes. ЎAdelante y arregla tu matrimonio!;;;;;;;;;x
+EVTDESC107303;Похоже, у Вас недостаточно кораблей для транспортировки армии. Иногда во время войны, ополчения, личного и Ваших вассалов, оказывается недостаточно. В таких случаях мудро использовать наёмников. Это можно сделать через вкладку "Наёмники" в военном меню. Вновь нанятые войска прибудут в столичный округ. Их призыв, как и содержание обходятся дорого. Взгляните на состав войск прежде чем нанимать их. Некоторые сухопутные, другие же - только флот. Наймите немного кораблей. Они прибудут в прибрежную морскую зону к западу от Вашей страны.;x
+EVTDESC107325;Вы превысили лимит личных владений, что значит - у Вас больше земель, чем считается позволительным правителю иметь в личном пользовании. Ваши вассалы будут крайне недовольны этим, посему необходимо срочно что-то предпринять. В долгосрочной перспективе, Вы сможете увеличить лимит, повышая навыки управления (свои и Вашей жены), но сейчас Вам придётся раздать часть своих титулов вассалам. Вы можете это сделать, кликнув на портрете того, кому хотите отдать титул и открыв дипломатическое меню. Поищите подходящего кандидата во вкладке "Двор".;x
+CHRONICLE_JOINED_ALLY_IN_WAR;Oтныне [Prev.GetTitledName] вступает в войну, которую ведет [From.GetTitledName], как союзник.;x
+CHRONICLE_JOINED_ALLY_IN_WAR_2;Oтныне [From.GetTitledName] вступает в войну, которую ведет [Prev.GetTitledName], как союзник;x
+CHRONICLE_CRUSADE_LOST_NO_HEAD;[From.Religion.GetCrusadeName] закончен, ибо [From.Religion.GetName] больше никто не возглавляет.;x
+ASK_FOR_DIVORCE_INTERACTION_1;§Y[Actor.Spouse.GetFirstName]§W, в случае развода, обойдётся Вам в §R$COST$§W очков престижа.;x
+DIVORCE_INTERACTION_1;Развод обойдётся Вам в §R$COST$§W очков престижа.;x
+ERA_CHAR_INFO_3096;Родившись в Каире, Аль-Мустансир стал Халифом в 6 лет. До совершеннолетия, его мать Ма'д Абу Тамим выступила в качестве регента и обеспечила безопасность своего сына. Когда он стал взрослым, его страной уже правили сильные визири, страну охватил хаос: голод ослабил халифат, и мощные группы турецких наёмников боролись за власть в Египте. Аль-Мустансир никогда не брал бразды правления в свои руки полностью, но вошёл в историю как халиф с наибольшим сроком правления.;x
+ERA_CHAR_INFO_3040;Алп Арслан, правнук Сельджука, родился под именем Мухаммад бин Дауд Чагры, но его сила, личные боевые навыки и мужество были вскоре принесли ему почётное имя, которое означает "героический лев". Ранее он стал преемником своего отца на посту губернатора Хорасана, и после кризиса 1064г он принял титул султана силой оружия и стал правителем огромной империи Сельджуков. Затем он объявил войну Византийской империи, победив в знаменитой битве при Манзикерте, взял в плен императора. Эта победа стала первым шагом на пути турецкого господства в Анатолии и одним из главных событий, вызвавших крестовые походы. Умер он в возрасте 42 лет, верный своему имени, отказавшись от помощи охраны в борьбе с мятежным заключенным, который пошел на него с кинжалом.;x
+#ERA_CHAR_INFO_74441;Somesvara I of Chalukyas;Somesvara Ier des Chalukyas;Somesvara I. von den Chalukya;;Somesvara I de Chalukyas;;;;;;;;;x
+ERA_CHAR_INFO_457620;Как король Кастилии и Леона, Фердинанд был одним из самых важных фигур в истории Реконкисты, изгнавшей мусульман из Иберии. Кастилия при Фердинанде расширилась далеко, до южной Испании. Он использовал сочетание силы и дипломатии, стремясь захватить андалузские города, такие как Кардоба и Севилья. Спустя четыреста лет после его смерти, Фердинанд был канонизирован Папой Климентом X и стал известен как Фердинанд Святой в анналах истории.;x
+ERA_CHAR_INFO_167219;Ганзейская Лига была союзом вольных немецких городов со столицей в Любеке, которые доминировали в Балтийской торговой зоне в эпоху позднего Средневековья после вытеснения Висбю в качестве ведущей торговой силы в регионе. Офисы, так называемые "конторы", были открыты в основных портах и торговых центрах во всем мире, от Лондона на западе до Новгорода на востоке. В конце концов Лига стала достаточно мощной, чтобы бросить вызов крупным державам напрямую. Например, они разграбили датскую столицу Копенгаген во второй половине XIV века.;x
+ERA_CHAR_INFO_212513;Cовременники называли его "stupor mundi" - "чудо света". Фридрих II был одним из самых мощных и влиятельных императоров Священной Римской империи в Средние века. Его правление было ознаменовано частыми войнами против папства, и Фридрих был отлучён от церкви четыре раза. Папа Григорий IX даже назвал его Антихристом. Ему удалось помочь вернуть Иерусалим под контроль христианства в ходе шестого крестового похода, несмотря на малое участие в боевых действиях. После смерти от дизентерии в 1250г в возрасте 55 лет, его династия вскоре прерывается, что приводит к концу рода Гогенштауфенов.;x
+ERA_CHAR_INFO_74656;Сингана II был могущественным индийским правителем, который значительно расширил свои владения на север, юг и восток. Как великий покровитель науки и искусства он создал школу астрономии и основал город Синганапур.;x
+ERA_CHAR_INFO_454500;Эдуард III был во многих отношениях королём-воином, коронованным после катастрофического правления своего отца, закончившегося в 1327г. При Эдуарде Англия превратилась в одну из самых серьёзных военных держав Европы. Именно с его претензии на французский престол начался конфликт, который стал известен как Столетняя война. Во время своего долгого правления, продолжавшегося полвека, Эдвард сосредоточился в основном на военных вопросах. Он лично наблюдал за решающей битвой при Креси, где английская армия, состоящая в основном из лучников, победила намного превосходящие французские войска.;x
+ERA_CHAR_INFO_455500;Филипп Везучий был первым французским королем из династии Валуа, под его правлением Франция начало участие в Столетней войне. Несмотря на прозвище Филиппа, война не удалась, и французская армия была практически уничтожена англичанами в битве при Креси. В конце его правления Черная Смерть впервые прокатилась по Франции. Треть подданых в его королевстве поддались этой чуме - в том числе супруга Филиппа, королева Жанна.;x
+ERA_CHAR_INFO_476500;Сын Османа I, основателя Османской династии, Орхан стал преемником своего отца после его смерти. Он предложил своему брату Алладину править вместе с ним, но тот отказался, а вместо этого служил весьма влиятельным визирем Орхана до самой его смерти в 1332г. При Орхане турки значительно расширились в северо-западной Анатолии за счёт византийских гражданских войн.;x
+ERA_CHAR_INFO_480000;Мохаммед Узбек был самым длинноправящим ханом Золотой Орды, и именно при нём осколок монгольского государства достиг вершины своего могущества. Узбек принял ислам в раннем возрасте, и при вступлении на престол ввёл его в качестве государственной религии. Несмотря на это, он был известен толерантностью к христианам, за что Папа Иоанн XXII лично поблагодарил его в письме.;x
+ERA_CHAR_INFO_170258;Мухаммад II был главой династии Туглаков, которые создали огромную мусульманскую империю. При нём империя расширилась и контролировала большую часть Индии, но это продилось недолго. Мухаммад имел заслуженную репутацию жестокого и беспощадного правителя. Налоги в своей империи он поднял до непомерных уровней. Он должен был бороться с многочисленными восстаниями, и к моменту смерти, его государство уже начало свой распад.;x
+ERA_SELECTION_TEXT;Каждая эра предложит Вам свои задачи и вызовы. Вот некоторые из основных моментов в каждой из них:\n- Раннее Средневековье: империя Каролингов, пикты, первые набеги викингов, создание Священной Римской Империи, византийское иконоборчество.\n- Эпоха викингов: государства викингов, хазарские иудеи, каролингские наследные королевства, Омейяды и Раштракуты.\n- Высокое средневековье: Вильгельм Завоеватель, турки Сельджуки, Киевская Русь, расколовшиеся государства Испании и Раджастана. Сильная Византия.\n- Эра монголов: Золотая Орда, Хулагуиды, исламские гуламы в Индии.\n- Позднее Средневековье: Столетняя война, Оттоманы, Литовское княжество, монгольские ханства, Туглакиды, христианская Испания.;x
+convert_to_parent_religion;Отвергнуть ересь;x
+raise_tribal_units;Призвать племенную армию;x
+raise_tribal_units_desc;Я могу призвать армию истинных и непоколебимых [Root.Culture.GetName]их воинов. Несомненно, они придут, поскольку мой престиж и влияние на этих землях велики, но как только наступит мир, вернутся к своим семьям. Сражаясь за честь, они, тем не менее, нуждаются в провизии.;x
+EXPENSE_EVENT_LEVIES;Содержание прочих армий;x
+EXPENSE_EVENT_FLEETS;Содержание прочего флота;x
+HIRED_COSTS;Содержание наёмников: §Y$MERC$§!\nСодержание прочих войск: §Y$EVENT$§!;x
+SPAWN_UNIT_EFFECT_MAINTENANCE;(Содержание в месяц: §R$COST$§!);x
+SPAWN_UNIT_EFFECT;§Y$NUM_TROOPS$§! солдат прибыло в округ §Y$WHERE$§!.;x
+SPAWN_UNIT_EFFECT_SHIPS;§Y$NUM_SHIPS$§! кораблей прибыло в §Y$WHERE$§!.;x
+nick_the_hunchback;Горбатый;x
+EVTDESC_CM_1040;Ваш сын Пипин - незаконнорожденный, но, возможно, он вырастет мужчиной, достойным править франками? Его тело скрючено, и выглядит он слабым, но мальчик, который сможет преодолеть столь суровые испытания судьбы, возможно, со временем станет действительно сильным правителем?;x
+EVTOPTA_CM_1040;Я узаконю его!;x
+EVTOPTB_CM_1040;Пожалуй нет.;x
+EVTOPTB_CM_1100;Оставим их пока в покое.;x
+EVTTITLE_CM_1003;Cмерть [From.GetFirstName]а;x
+tribal_barony_of;Земля;x #Племенные земли of Можайск
+EVTTITLE_CM_1010;Ломбардская принцесса;x
+EVTDESC_CM_1010;[Root.PrimaryTitle.GetFOA], сила наших врагов неуклонно растёт, и пока лояльность Ваших вассалов не подлежит сомнению, было бы благоразумнее попытаться заключить союзы за пределами нашей страны. Если Вы женитесь на дочери ломбардского короля, Вы обретёте могущественного союзника на случай, если ситуация выйдет из под контроля в результате коварных махинаций Вашего брата.;x
+EVTOPTA_CM_1010;Да, это был бы хороший брак.;x
+EVTOPTB_CM_1010;Никаких лангобардов в моей постели!;x
+EVTTITLE_CM_1011;Ломбардская королева;x
+EVTDESC_CM_1011;[Root.PrimaryTitle.GetFOA], лорды крайне возмущены. Несмотря на то, что Ваш брак полезен для нас в плане политики, им довольно трудно принять, что [Root.Spouse.GetFirstName], принцесса на которой Вы женились, происходит из наших старых врагов ломбардов. Вы можете потерять их поддержку. Но, возможно, ещё не поздно исправить ситуацию...;x
+EVTOPTA_CM_1011;Так и знал, что это плохая идея, я откажусь от неё.;x
+EVTOPTB_CM_1011;Теперь она - королева. Им придётся смириться с этим.;x
+EVTDESC_CM_1076;Несчастная женщина, [From.GetDynName], появилась у Ваших ворот. Её муж, [FromFrom.GetTitledName], недавно погиб и она просит у Вас убежища для себя и своего ребёнка. Она утверждает, что брат её покойного мужа хладнокровно убил его, чтобы завладеть страной и теперь она опасается за свою жизнь.;x
+EVTOPTA_CM_1076;Здесь вам всегда будут рады.;x
+EVTOPTB_CM_1076;Прошу прощения, но меня это не касается.;x
+EVTDESC_CM_1077;Стало известно, что [FromFrom.GetDynName], жена [FromFromFrom.GetFirstName]а, получила убежище при дворе правителя, известного как [From.GetTitledName]. Несомненно, против Вас готовится заговор...;x
+EVTOPTA_CM_1077;Это не останется безнаказанным.;x
+EVTDESC_CM_1078;Ваши солдаты привели семью [FromFromFrom.GetFirstName]а к Вам. [FromFrom.GetDynName] упала на колени, умоляя Вас о пощаде.;x
+EVTOPTA_CM_1078;Заприте их в монастыре.;x
+EVTOPTB_CM_1078;Нельзя оставлять их в живых.;x
+EVTDESC_CM_1080;Семья [From.GetDynName] появилась у ворот, умоляя о Вашей защите - это одинокая и обездоленная женщина со своим ребёнком. Слабым и нервным голосом она начала говорить: "[Root.PrimaryTitle.GetFOA], у меня ничего не осталось, я падаю к Вашим ногам и молю Вас о милосердии. В произошедшем нет моей вины, ведь Вашим врагом был Ваш брат, а не я.";x
+EVTOPTA_CM_1080;Монастырь послужит вам убежищем.;x
+EVTOPTB_CM_1080;Змеёнышей убивают прежде чем они смогут укусить.;x
+EVTTITLE_CM_1120;Cторож брату моему;x
+EVTDESC_CM_1120;Ваша мать пришла повидаться с Вами: "Сын мой, заговоры твоего брата крайне опасны. Я знаю, ты любишь его, как и я, но с этим нужно что-то делать. С твоего позволения, я навещу его и сделаю всё, что в моих силах для решения конфликта. Он не должен ступить на путь правителя франков, пытаясь завладеть твоей судьбой. Боюсь, если не вмешаться, будет кровавая война. Позволь мне помочь. Поверь, так будет лучше."\nВы внимательно смотрите на свою мать, пытаясь прочесть её мысли. Её взгляд непривычно уверенный, он излучает решительность.;x
+EVTOPTA_CM_1120;Хорошо, мама. Разберись с этим.;x
+EVTOPTB_CM_1120;Это бессмысленно.;x
+EVTDESC_CM_1121;Ваша мать Бертрада прибыла ко вратам Вашего замка. Она появилась с небольшим сопровождением и просит Вас об аудиенции. Впустить её?;x
+EVTOPTA_CM_1121;Да, пропустите её.;x
+EVTOPTB_CM_1121;Мне нечего сказать этой женщине.;x
+EVTTITLE_CM_1122;Mать и сын;x
+EVTDESC_CM_1122;Вечером за ужином Ваша мать заговорила о Вашем детстве и её любви к Вам: "Знаю, тебе больно осознавать, что я поддерживаю твоего брата, но прошу тебя, давай вспомним о хорошем. Мне бы хотелось забыть на минуту о проблемах, проведя хороший вечер в дружеской обстановке и поужинать со своим сыном. Вот, я принесла отличное вино, давай выпьем и поболтаем о былых временах.";x
+EVTOPTA_CM_1122;Что ж... хорошо, выпьем.;x
+EVTOPTB_CM_1122;Я не могу тебе верить, мама. Прошу, уйди.;x
+EVTDESC_CM_1123;Ваша мать ушла рано утром, до того, как Вы проснулись. Странно было видеть её снова, но что ещё более странно - слабость и ноющая боль в животе. Похоже, прошлым вечером, Вы съели или выпили что-то не то.;x
+EVTOPTA_CM_1123;Что-то не так...;x
+BM_BM_CHARLEMAGNE_DESC;Раннее Средневековье началось с падения Западной Римской империи в начале V века. Начало этой эпохи ознаменовалось Великим переселением народов. Такие германские племена, как готы и лангобарды обосновались в Южной Европе, франки поселились в Галлии, саксы переправились через море и осели в Британии. Восточная Римская империя была жестоко ослаблена давлением готов и аваров, и с трудом воевала со старым Персидским врагом. Подъём ислама показал силу арабов: они покорили огромные территории на Ближнем Востоке и в Северной Африке. В Индии несколько великих династии боролись за власть с Раштракурами в конце VIII века. В степях набирают мощь Хазары, а в Скандинавии вещи могут измениться таким образом, что это может повлиять на весь континент...;x
+winter_soldier_desc;Этот человек овладел искусством ведения боя в условиях зимы и знает, как применить её суровые черты с пользой;x
+tut_0a_15;Вассальный лимит. Превышение этого значения будет иметь негативное воздействие на сбор налогов и ополчения от Ваших вассалов. Также Вы можете потерять вассальные связи после смерти. Чтобы это предотвратить, жалуйте Вашим вассалам высокие титулы, чтобы позволить им иметь своих вассалов. Наведите указатель мыши на число, чтобы увидеть, как расчитывается предел.;x
+tut_4a_8;Если Вы хотите, чтобы персонаж относился к Вам лучше, Вы можете даровать ему почётный титул. Нажмите кнопку "Пожаловать почётный титул". Совет: титул шута мало кому придется по вкусу. Лучше выберите смотрителя лебедей.;x
+tut_5a_16;Справа Вы можете увидеть вкладку с названием "Флот". Нажмите, и Вы увидите кнопки для призыва флота. Призовите флот Вашего вассала, эрла Файфа, и направьте корабли к Гоури.;x
+tut_5a_21;Слева вверху находится индикатор боевого духа, кнопка роспуска и кнопка деления (формирования) отряда. Далее находится информация о количестве кораблей, а внизу - их грузоподъёмность. От нее зависит количество войск, которое поместится на выбранных кораблях. К сожалению, это число меньше, чем количество человек в выбранном Вами отряде, поэтому выберите отряд снова.;x
+#tut_4a_4;To get started, right click your half-brother, Earl Malmure of Atholl. You will find him at the bottom left of the family tab, under the header 'siblings'. You will see two icons. The left one will take you to his character screen. The right one is for diplomacy actions though, so click that. (The portrait you see here is just an example, not the actual Earl.);Pour commencer, faites un clic droit sur votre demi-frиre, le comte Malmure d'Atholl. Il se trouve en bas а gauche de l'arbre gйnйalogique, sous la dйnomination 'frиres et sњurs'. Vous verrez йgalement deux icфnes. Celle de gauche vous donne accиs а la fiche de ce personnage, celle de droite aux actions de diplomatie. Cliquez sur celle de droite. (Le portrait du comte est juste un exemple, il ne s'agit pas du vйritable comte);Klickt als ersten Schritt bitte auf Euren Stiefbruder, Graf Malmure von Atholl. Ihr findet ihn unten links im Familienreiter, unter der Ьberschrift ‚Geschwister‘. Hier seht Ihr zwei Symbole. Das linke Symbol bringt Euch zum Charakterbildschirm,  das rechte wird fьr diplomatische Aktionen verwendet. Wдhlt bitte das rechte Symbol (Diplomatie) aus. (Das hier angezeigte Bild hat nur Beispielfunktion und zeigt nicht den echten Grafen.);;Para comenzar, haz clic sobre tu hermanastro, Earl Malmure de Atholl, con el botуn derecho. Le encontrarбs en la parte inferior izquierda de la pestaсa Familia, bajo el encabezado 'hermanos'. Verбs dos iconos: el de la izquierda te llevarб a la pantalla de tu personaje, mientras que el de la derecha ofrece acciones diplomбticas. Haz clic en este ъltimo. (El retrato que aquн ves es solo un ejemplo, no es el Conde.);;;;;;;;;x
+#TRIBAL_VASSAL_CONTROL_ON;Gives total control over tribal vassal levies.\n;Donne le contrфle total sur les troupes des vassaux tribaux.\n;Verleiht vollstдndige Kontrolle ьber die Stammestruppen von Vasallen.\n;; Da un control total sobre las levas tribales vasallas.\n;;;;;;;;;x
+#TRIBAL_VASSAL_CONTROL_OFF;Tribal vassals will not provide levies and instead serve as your allies.\n;Les vassaux tribaux ne fournissent pas de troupes. Au lieu de cela, ils vous servent en tant qu'alliйs.\n;Stammesvasallen liefern keine Truppen, sondern zдhlen als Verbьndete.\n;;Los vasallos tribales no proporcionarбn levas pero sн te servirбn como aliados.\n;;;;;;;;;x
+#enables_centralization_laws;Enables Centralization Laws for Dukes and above.;Active les lois de centralisation pour les ducs et titres supйrieurs.;Aktiviert Zentralisierungsgesetze fьr Herzцge und hцhere Rдnge.;;    Habilita las Leyes de Centralizaciуn para Duques y superiores.;;;;;;;;;x
+#disables_centralization_laws;Disables Centralization Laws.;Dйsactive les lois de centralisation.;Deaktiviert Zentralisierungsgesetze.;;Deshabilita las Leyes de Centralizaciуn      ;;;;;;;;;x
+BAD_SERVER_PASSWORD;Неверный пароль, попробуйте ещё раз.;x
+OBSERVE;Режим обзора;x
+EVTTOOLTIP91374A;[Root.Spouse.GetName] получит просьбу оставить персонажа [From.GetName] в покое.;x
+EVTTOOLTIP91374B;[Root.Spouse.GetName] проинформируется о планах персонажа [From.GetName].;x
+LEARNING_SCENARIO;Обучающий сценарий;x
+tb_steppe_barracks_1;Казармы;x
+tb_steppe_barracks_2;Казармы;x
+tb_steppe_barracks_3;Казармы;x
+tb_steppe_barracks_4;Казармы;x
+tb_steppe_stable_1;Конюшни;x
+tb_steppe_stable_2;Конюшни;x
+tb_steppe_stable_3;Конюшни;x
+tb_steppe_stable_4;Конюшни;x
+tb_arsenal_1;Оружейная;x
+tb_arsenal_2;Оружейная;x
+tb_arsenal_3;Оружейная;x
+tb_arsenal_4;Оружейная;x
+tb_hillfort_1_desc;Простое земляное укрепление даст некоторую защиту от наших врагов.;x
+tb_hillfort_2_desc;Деревянные ограждения помогут укрепить защиту крепости.;x
+tb_hillfort_3_desc;Укрепляя деревянные заграждения камнями, мы существенно усилим обороноспособность крепости.;x
+tb_hillfort_4_desc;Каменные стены сделают крепость действительно прочной и долговечной.;x
+tb_market_town_1_desc;Деревня среди нашего поселения поможет развить торговлю.;x
+tb_market_town_2_desc;Расширение деревни в городок привлечёт больше людей и улучшит нашу торговлю.;x
+tb_market_town_3_desc;Немного денег и городок вырастет в крупный город, что привлечёт множество торговцев.;x
+tb_market_town_4_desc;Город разрастётся и станет центром торговли в этих землях.;x
+tb_market_town_1;Деревенский рынок;x
+tb_market_town_2;Рыночный городок;x
+tb_market_town_3;Городской рынок;x
+tb_market_town_4;Большой городской рынок;x
+tb_arsenal_desc;Здесь изготавливается, чинится и хранится оружие для войны.;x
+tb_training_grounds_desc;Здесь собирается наше ополчение, чтобы тренироваться и вооружаться.;x
+tb_barracks_desc;Здесь собираются сильные мужчины, чтобы вступить в ряды нашей армии во время войны.;x
+tb_militia_barracks_desc;Здесь наши поселенцы готовятся к войне.;x
+CB_NAME_DECADENCE_USURPTION;Узурпация;x
+WAR_NAME_DECADENCE_USURPTION;$ORDER$$FIRST_ADJ$ Узурпация;x
+cb_decadence_usurption_desc;Мусульмане могут использовать этот Casus Belli, чтобы узурпировать титулы у декадентов из их династии.;x
+tribal_organization_desc;Племенная организованность - это закон, аналогичный Авторитету Короны у феодалов. Тем не менее, даже высоко организованные племена имеют незначительный контроль в пределах вассальной иерархии.;x
+tribal_organization_0_desc;При низкой организации, вожди почти не имеют контроля над своими вассалами.;x
+tribal_organization_1_desc;Вожди имеют ограниченное влияние на своих вассалов.;x
+tribal_organization_2_desc;Власть вассалов и вождей в некотором роде сбалансирована.;x
+tribal_organization_3_desc;Вожди обретают власть над своими вассалами.;x
+tribal_organization_4_desc;Вожди имеют контроль над своими вассалами, похожий на феодальный.;x
+adopt_feudalism;Принять феодализм;x
+adopt_republicanism;Основать торговую республику;x
+adopt_feudalism_desc;Я могу оставить племенные порядки позади и стать феодалом.;x
+adopt_republicanism_desc;Я могу оставить племенные порядки позади и основать торговую республику.;x
+#adopt_feudalism_tooltip_1;Government changed to Feudal.\n;Le gouvernement est dйsormais fйodal.\n;Die Regierungsform wurde zu Feudalherrschaft geдndert.\n;;El gobierno ha cambiado a Feudal.\n;;;;;;;;;x
+adopt_feudalism_tooltip_2;Любое племенное поселение с полностью обустроенной §YКрепостью§! становится феодальным.;x
+#adopt_republicanism_tooltip_1;Government changed to Merchant Republic.\n;Le gouvernement est dйsormais une rйpublique marchande.\n;Die Regierungsform wurde zu Handelsrepublik umgewandelt.\n;;El gobierno cambiу a Repъblica Mercante.\n     ;;;;;;;;;x
+adopt_republicanism_tooltip_2;Любое племенное поселение с полностью обустроенным §YРынком§! становится городским.;x
+form_new_kingdom_requirement_tooltip;Владеть тремя герцогскими титулами\n;x
+form_new_empire_requirement_tooltip;Владеть тремя королевскими титулами\n;x
+EVTDESC8027;Слишком долго Вы ограничивали наши исторические права и свободы. Пришло время снизить Ваши привилегии вождя - примите наши требования мирно или встретитесь с последствиями! Будьте уверены, со мной другие, такие же полные решимости, они полностью поддерживают меня...\nПодпись:\n [From.GetTitledName];x
+AIREASON_ENVIOUS;Завистливый;x
+FE_LOAD;Загрузить;x
+PLAY;Играть;x
+AIREASON_DOESNT_CARE;[GetTitledFirstName] не заботится об этом;x
+AIREASON_KIND;Добрый;x
+AIREASON_CRUEL;Жестокий;x
+AIREASON_JUST;Справедливый;x
+AIREASON_WROTH;Гневный;x
+TRIBALS_CANT_BUILD_HOLDINGS;§YПлемена не могут основывать поселения§!;x
+TRIBALS_CANT_BUILD_HOLDINGS_DESC;Свободные земли дают племенам больше войск. Чтобы основать новые поселения, Вам необходимо принять феодализм или основать республику (проверьте свои Решения).;x
+vassal_zun_judgement_decision;Испытание Зуна;x
+vassal_zun_judgement_decision_desc;[Root.GetTitledFirstName] окажется в яме посреди пустыни, где будет наедине с Зуном в течение нескольких дней и получит "справедливость", которую заслуживает.;x
+EVTDESCCM15002;Стражники посетили меня сегодня и бросили вниз веревку. Надеюсь, у меня хватит сил, чтобы выбраться.;x
+EVTOPTACM15002;Свобода!;x
+EVTDESCCM15004;Лучи солнца обжигают мне кожу, она трескается и кровоточит. Я чувствую, как будто проваливаюсь в пустоту, а затем уплываю прочь из этой ямы.;x
+EVTOPTACM15004;Я так и умру здесь?;x
+EVTDESCCM15005;Кто здесь? Пожалуйста, помогите мне! Я слышу, Вы там снаружи! Пожалуйста, умоляю, вытащите меня отсюда!;x
+EVTOPTACM15005;Он был там? Или это только плод моего воображения?;x
+EVTDESCCM15006;Лёжа в этой яме, надеясь на спасение, я начинаю понимать, что никто не придёт. Они бросили меня здесь? Нет, этого не может быть! Нужно продолжать верить, это единственное, что мне осталось.;x
+EVTOPTACM15006;Это испытание веры. Я докажу, что заслуживаю жизни!;x
+EVTDESCCM15007;Лёжа на спине, я наблюдаю, как солнце медленно сжигает меня. Эта яма - настоящая пытка, жар вгрызается в кожу, как тысячи мелких лезвий. Я надеюсь на спасение, на свободу, надеюсь, что мои пленители освободят меня, но глубоко внутри начинию понимать...;x
+EVTOPTACM15007;Меня сможет освободить только Зун!;x
+CANNOT_PLAY_CHARLEMANGE_BOOKMARK_WITHOUT_DLC;Требуется Charlemagne (дополнение);x
+CANNOT_PLAY_TOG_BOOKMARK_WITHOUT_DLC;Требуется The Old Gods (дополнение);x
+frisian;Фризск;x
+tribal_duke_frisian;Верховный вождь;x
+tribal_duke_female_frisian;Верховный вождь;x
+tribal_duchy_of_frisian;Верховное вождество;x
+viking_age_cb_tooltip;Персонажи германских религий теперь имеют новые Casus Belli (поводы для войны).;x
+tb_war_camp_1;Военный лагерь;x
+tb_war_camp_2;Военный лагерь;x
+tb_war_camp_3;Военный лагерь;x
+tb_war_camp_4;Военный лагерь;x
+tb_war_camp_desc;Здесь воины племени собираются, чтобы отточить свои навыки и подготовиться к войне.;x
+tb_practice_range_1;Стрельбище;x
+tb_practice_range_2;Стрельбище;x
+tb_practice_range_3;Стрельбище;x
+tb_practice_range_4;Стрельбище;x
+tb_practice_range_desc;Лучники племени встречаются здесь, чтобы соревноваться и практиковать свои стрелковые навыки.;x
+d_pskov;Псков;x
+d_kola;Кола;x
+d_kola_adj;Кольск;x
+expel_zun_warriors;Изгнать Рыцарей Солнца;x
+donate_money_to_zun_warriors;Пожертвовать 300¤ Рыцарям Солнца;x
+expel_zun_warriors_desc;Я могу изгнать Рыцарей Солнца из страны и захватить их замки. Однако столь нечестивый акт не останется без внимания...;x
+donate_money_to_zun_warriors_desc;Я могу передать деньги Рыцарям Солнца в обмен на благочестие и пожизненное уважение со стороны жрецов.;x
+d_haruriyyah;Харурийя;x
+d_haruriyyah_adj;Харурийя;x
+#expel_haruriyyah;Изнать воинов Харурийя;x
+donate_money_to_haruriyyah;Пожертвовать 300¤ Харурийя;x
+#expel_haruriyyah_desc;Я могу изгнать воинов Харурийя из страны и захватить их замки. Однако столь нечестивый акт не останется без внимания...;x
+donate_money_to_haruriyyah_desc;Я могу передать деньги воинам Харурийя в обмен на благочестие и пожизненное уважение со стороны священства.;x
+expelled_d_zun_warriors;Изгнал Рыцарей Солнца;x
+expelled_d_haruriyyah;Изгнал воинов Харурийя;x
+EVTDESC_CM_4399;[Root.PrimaryTitle.GetFOA], столь щедрый дар не будет забыт. Вы можете рассчитывать на мою дружбу и поддержку священников. Будьте уверены, Вы будете вознаграждены на Небесах, если не на Земле!\n\n[From.GetTitledFirstName];x
+EVTOPTA_CM_4399;[Root.Religion.GetRandomGodName] с Вами!;x
+OVERWRITE_HOLDING;Основать новое поселение, разрушив племенное;x
+borrowed_from_haruriyyah;Должен 300¤ Харурийя;x
+EVTDESC_CM_4303;[Root.PrimaryTitle.GetFOA], мир Вам. Как Вы наверное знаете, наш Орден нуждается в лидерах, и, учитывая Ваш долг перед нами, я бы предпочёл попросить, чтобы Ваш благородный сын [FromFrom.GetFirstName] вступил в наши ряды. Разумеется, это исключит его из линии наследования. Аллах с Вами,\n\n [From.GetTitledName];x
+EVTTITLE_CM_4309;Xарурийя;x
+EVTDESC_CM_4309;Мусульманские воины основали новый духовный орден. Они утверждают, что следуют традиции учения Харури, поклявшись защищать ислам, сражаясь с неверными и многобожниками всех мастей, ведь именно Харури убил халифа Али отравленным мечом, увидев, как тот вредил исламу. Теперь эта новая сила обещает показать такое же мужество и стойкость в борьбе с любыми врагами истинной веры. Они называют себя "Харурийя".;x
+EVTOPTA_CM_4309;Они могут нам пригодиться.;x
+EVTOPTB_CM_4309;Отравленным мечом? Хм...;x
+EVTDESC_CM_4311;[Root.PrimaryTitle.GetFOA], конечно, Харурийя может одолжить Вам 300 золотых. Всё, что мы просим взамен - Ваша будущая помощь в некоторых вопросах по мере их возникновения. Салам алейкум,\n\n [From.GetTitledName];x
+EVTDESC_CM_4323;[Root.PrimaryTitle.GetFOA], Орден нуждается в замках, чтобы тренировать войска и поддерживать их дополнительными доходами. Я повелю простить все Ваши долги Ордену в случае, если Вы позволите нам построить замок в месте под названием [FromFrom.GetName]. Мир Вам,\n\n [From.GetTitledName];x
+EVTDESC_CM_4324;Харурийя построили замок в округе [Root.GetName]!;x
+EVTDESC_CM_4331;Мой [GetFromRelation], [From.GetTitledFirstName], просит у меня разрешения вступить в орден Харурийя, чтобы сражаться с неверными! Он исключится из линии наследования и никогда не сможет опозорить династию.;x
+EVTDESC_CM_4353;[Root.PrimaryTitle.GetFOA], Орден нуждается в замках, чтобы тренировать войска и поддерживать их дополнительными доходами. Я обратил внимание, что в Ваших владениях есть подходящее для этого место - [FromFrom.GetName], если быть точным. Я заплачу Вам 100 золотых в обмен на право построить там крепость.\nМир Вам,\n\n [From.GetTitledName];x
+OOS_DESC;§Y$PLAYER$§! больше не синхронизирован!\n$MESSAGE$;x
+TRIBAL_VIEW_ON_TRAIT;Взгляд племени на черту $TRAIT$: $VALUE$;x
+TRAIT_OPINION_TRIBAL;Мнение племени: $VALUE$;x
+DONT_HAVE_A_X;НЕ имеется $X$;x
+HAVE_A_X;Имеется $X$;x
+CHRONICLE_FILL0010;Mестные жители [Root.County.GetAdjective]их земель утверждают, что видели в небе сразу два солнца.;x
+CHRONICLE_FILL0011;Kозлёнок с тремя головами родился в [Root.County.GetAdjective]их землях.;x
+CHRONICLE_FILL0012;Tысячи ворон заполонили [Root.County.GetAdjective]ие поля, крестьяне лишились урожая.;x
+CHRONICLE_FILL0013;Hеобычно много детей родилось в этом году в [Root.County.GetAdjective]их землях.;x
+CHRONICLE_FILL0014;Hарод в [Root.County.GetAdjective]их землях празднует - [From.GetTitledFirstName] несет им счастье и благополучие.;x
+CHRONICLE_FILL0015;B месте, известном как [Root.GetName] с неба упала звезда и убила трёх коров.;x
+CHRONICLE_PLAYER_INHERITANCE_LANDLESS;B этот день, [GetDateText]г [From.GetFirstName] теряет свои титулы и решает передать династические летописи человеку, известному как [Root.GetTitledName].;x
+CHRONICLE_WON_BATTLE_FOUGHT;B этот славный день [Root.GetTitledName] побеждает в [Root.Location.County.GetAdjective]ой битве против [From.TopLiege.PrimaryTitle.GetAdjective]их войск, которые возглавляет [From.GetTitledName].;x
+CHRONICLE_LOST_BATTLE_FOUGHT;K своему несчастью [Root.GetTitledName] терпит поражение в [Root.Location.County.GetAdjective]ой битве против [From.TopLiege.PrimaryTitle.GetAdjective]их войск, которые возглавляет [From.GetTitledName].;x
+CHRONICLE_WON_BATTLE_BUT_DIDNT_FIGHT;Aрмия правителя, известного как [Root.TopLiege.GetTitledName], которую возглавляет [Root.GetTitledName], побеждает в [Root.Location.County.GetAdjective]ой битве против [From.TopLiege.PrimaryTitle.GetAdjective]их войск.;x
+CHRONICLE_LOST_BATTLE_BUT_DIDNT_FIGHT;Aрмия правителя, известного как [Root.TopLiege.GetTitledName], которую возглавляет [Root.GetTitledName], терпит поражение в [Root.Location.County.GetAdjective]ой битве против против [From.TopLiege.PrimaryTitle.GetAdjective]их войск.;x
+EVTOPTM96500;Зимние условия;x
+in_hiding_desc;Этот человек скрывается от убийц, преследователей и прочих потенциальных угроз, но такой образ жизни имеет свою цену...;x
+INTERACTION_NOT_IN_HIDING;Цель НЕ должна скрываться;x
+zun_judgement;Испытан Зуном;x
+IS_DYING;Умирает;x
+ISNT_DYING;НЕ умирает;x
+LANDED_SIBLING_BONUS;Брат/сестра с землёй;x
+LANDED_HALF_SIBLING_BONUS;Сводн. брат/сестра с землёй;x
+LANDED_NIECE_BONUS;Племянник/племянница с землёй;x
+LANDED_CHILD_BONUS;[Root.GetSonDaughter] с землёй;x
+LANDED_GRAND_CHILD_BONUS;Внук/внучка с землёй;x
+LANDED_PARENT_BONUS;[Root.GetFatherMother] с землёй;x
+LANDED_UNCLE_AUNT_BONUS;[Root.GetUncleAunt] с землёй;x
+LANDED_GRAND_PARENT_BONUS;Дед/бабка с землёй;x
+LANDED_GREAT_GRAND_PARENT_BONUS;Прадед/прабабка с землёй;x
+LANDED_COUSIN_BONUS;Кузен/кузина с землёй;x
+LIEGE_PRESTIGE;Престиж от вассалов: §G+$VALUE$§!;x
+INTERACTION_TRIBAL_TITLE_ALLOWS_REVOKATION;Организация племенного титула (§Y$TITLE$§!) позволяет отзыв;x
+CHRONICLE_FOUNDED_NEW_KINGDOM_OR_EMPIRE;Являя миру своё величие, [Root.GetDynName] основывает государство [Root.PrimaryTitle.GetFullName].;x
+CHRONICLE_FILL0016;Hеобычайно богатый урожай дала в этом году [Root.PrimaryTitle.GetAdjective]ая земля.;x
+CHRONICLE_ADOPTED_FEUDALISM;Oтныне [Root.GetDynName] вводит феодальные порядки на своих землях, оставив племенные обычаи позади.;x
+CHRONICLE_FOUNDED_MERCHANT_REPUBLIC;Oтныне [Root.GetDynName] основывает торговую республику на своих землях, оставив племенные обычаи позади.;x
+EVTDESC_CM_1160;Вечером моя мать [Root.Mother.GetFirstName] выступила прелюдно с весьма агрессивной критикой. Она сказала, что м[Root.Spouse.GetLordLady] [Root.Spouse.GetHusbandWife] не знает своё место и [Root.Spouse.GetHersHis] следует держать на коротком поводке. Теперь м[Root.Spouse.GetLordLady] [Root.Spouse.GetHusbandWife] смотрит умоляюще, ища моей поддержки...;x
+EVTOPTA_CM_1160;Мама права.;x
+EVTOPTB_CM_1160;Мама, замолчи. Ты перешла черту.;x
+EVTOPTC_CM_1160;С меня хватит. Ты отправляешься в монастырь!;x
+EVTDESC_CM_1172;Ваша мать пришла повидаться с Вами: "[Root.GetSonDaughter] м[Root.GetLordLady], я встревожена. Твой советник, а именно [From.GetJobTitle] [From.GetTitledFirstName], похоже совсем не действует в наших интересах, неся свою службу. Боюсь, [From.GetSheHe] может представлять опасность твоему будущему правлению.";x
+EVTOPTA_CM_1172;Ты права, [From.GetJobTitle] покинет свой пост.;x
+EVTOPTB_CM_1172;[From.GetTitledFirstName] останется на своём посту.;x
+EVTOPTC_CM_1172;С меня довольно, ты отправляешься в монастырь!;x
+TRIBAL_VASSAL_TAX_MODIFIER;Племенной налог;x

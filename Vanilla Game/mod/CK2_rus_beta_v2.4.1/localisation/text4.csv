@@ -1,0 +1,172 @@
+#CODE;RUSSIAN;x
+EVTOPTC72056;Немного золота заставит их замолчать.;x
+VASSAL_RAISE_OPINION_DESC;За каждые §Y$DAYS$§! дней, пока войска вассала в строю, за исключением Крестовых походов, отношение вассала к Вам меняется на §R-1§!;x
+WAR_START_YEAR;Год начала войны: $YEAR$;x
+WAR_START_YEAR_DESC;Эта война длится $YEARS$ лет и $MONTHS$ месяцев.;x
+LEVY_PERC_DESC3;$THEM$ резервы составляют §Y$PERC$%§ от всех войск.;x
+DYNFAIL_DESC;Cрезультатом $SCORE$, Вы так и не воплотили свои планы в жизнь.;x
+REVOKE_TITLE_INTERACTION_2B;Вассалы не станут возражать, так как мы имеем на это право.;x
+REVOKE_TITLE_INTERACTION_2C;Благодаря королевскому титулу (§Y$CROWN_TITLE$§!), вассалы не могут нам возразить.;x
+REVOKE_TITLE_INTERACTION_2D;Поскольку §Y[Recipient.GetTitledFirstName]§! является предателем, наши вассалы поддержат нас.;x
+REVOKE_TITLE_INTERACTION_2E;Поскольку §Y[Recipient.GetTitledFirstName]§! - мерзкий еретик (исповедует §Y[Recipient.Religion.GetName]§!), вассалы поддержат нас.;x
+#VASSAL_OPINION_CHANGE;Мнение всех вассалов §Y$ABOUT$§! изменилось на $MUCH$.\n;x
+LOADING_TIP_28;Вы увеличите своё благочестие, если купите индульгенцию.;x
+#LOADING_TIP_49;Владения – это все замки, города и монастыри, принадлежащие одному человеку.;x
+mission_holy_war_desc;$ROOT_CHARACTERTITLE$ призывает начать $CRUSADE_NAME$, чтобы отобрать провинцию §Y$PROVINCE$§! Её нынешний владелец §Y$TOPOWNERFULLNAME$§W!;x
+TOO_MANY_HELD_DUCHIES;Слишком много герцогств;x
+opinion_failed_plot;Провалил заговор;x
+e_il-khanate_adj;Хулагуидск;x
+AIREASON_WILL_NOT_PLOT_AGAINST_OFFSPRING;Не вступит в заговор против членов своей династии;x
+AIREASON_CLAIM_ON_MY_TITLES;§Y[GetBestName]§! претендует на мой титул.;x
+AIREASON_HOSTAGE_SITUATION;Ребёнок станет заложником иностранного правителя.;x
+ASK_TO_LIFT_EXCOMMUNICATION_INTERACTION_0;Просить, чтобы §Y[Actor.RelHead.GetTitledFirstName]§W снял отлучение, тогда §Y[ThirdPartyCharacter.GetBestName]§W вернется в лоно церкви. Это будет стоить Вам §R$COST$§W благочестия.;x
+ASK_FOR_DIVORCE_INTERACTION_0;Просить, чтобы §Y[Actor.RelHead.GetTitledFirstName]§W разрешил развод, тогда Вы и §Y[Actor.Spouse.GetFirstName]§W сможете расторгнуть брак. Это будет стоить Вам §R$COST$§W благочестия, и, в случае успеха, серьёзно оскорбит [Actor.Spouse.GetAbsPossPronoun] родственников.;x
+#EVTNAME620;[New.Religion.GetCrusadeName] для [Root.GetName] удался!;x
+#EVTDESC620;[New.Religion.GetRandomGodNameCap] победили [New.Religion.GetCrusadeName]. [Root.GetName] добавил себе титул [From.GetTitledName]. [New.Religion.GetGroupName] всего мира празднуют эту победу.;x
+#EVTOPTA620;С нами [New.Religion.GetRandomGodName]!;x
+EVTOPTB620;Проклятые неверные!;x
+#EVTNAME621;[New.Religion.GetCrusadeName] для персонажа [Root.GetName], увы, окончен.;x
+#EVTDESC621;[New.Religion.GetRandomGodNameCap], новая вера не находит большого числа приверженцев. [New.GetTitledName] решает отменить [New.Religion.GetCrusadeName] по отношению к [Root.GetName] в связи с изменившейся политической ситуацией в регионе…;x
+EVTOPTA621;Чёрный День!;x
+EVTOPTB621;Так волнительно…;x
+WARSCORE_LESS_THAN;Эта война пока неудачна для нас;x
+WARSCORE_MORE_THAN;В войне нам пока сопутствует успех;x
+#BONUS_AGAINST_ENEMY;Атака на врага с фланга увеличивает урон на $PERC$;x
+TACTICAL_ADVANTAGE;Против тактики §Y$TACTIC$§!: $PERC$;x
+LEADER_MARTIAL_SKILL;Боевые навыки §Y$WHO$§!: $PERC$;x
+FLANKING_BONUS;Фланг: $PERC$;x
+AI_REJECT_STILL_A_NO;Я не могу принять ваше предложение;x
+PLAYER_SUCCESSOR_CHANGED_LOG;У вас есть наследник. После смерти правителя к власти придёт §Y$NEW_SUCCESSOR$§!;x
+TOPLIEGE_TROOPS_TOTAL;Всего воинов в ваших владениях: §Y$TROOPS$§!;x
+TOPLIEGE_TROOPS_CURRENT;Призванных воинов: §Y$TROOPS$§!;x
+OWN_TROOPS_TOTAL;Всего войск $CHAR$: §Y$TROOPS$§!;x
+OWN_TROOPS_CURRENT;Призванных воинов $CHAR$: §Y$TROOPS$§!;x
+RELATIVE_STRENGTH;Относительная мощь: §Y$STRENGTH$§!;x
+CURRENT_RELATIVE_STRENGTH;Относительная Сила: §Y$STRENGTH$§!;x
+VASSAL_HOLDINGS;Земли вассалов: §Y$HOLDINGS$§!;x
+LOADING_LOCAL_SAVE;Загрузка сохранения…;x
+CB_NAME_DEPOSE_LIEGE;Свергнуть сюзерена;x
+WAR_NAME_DEPOSE_LIEGE;$ORDER$ $FIRST_ADJ$ая война за свержение сюзерена ($DEFENDER$);x
+depose_liege_desc;§Y$CLAIMANT$§! желает свергнуть правителя (§Y$TARGET$§!), назначив более дружелюбного наследника.;x
+issue_declaration_of_repentance;Покайтесь!;x
+issue_declaration_of_repentance_desc;Отправить Папе письмо с покаянием, моля снять отлучение.;x
+repentance_ask;Святой Отец услышал наши молитвы.;x
+made_repentance;Вы покаялись.;x
+refused_making_repentance;Покаяние на принято.;x
+EVTDESC39252;[From.GetBestName] отправляет посланников, в надежде на прощение. Нечего и думать об этом, пока [From.GetSheHe] не перестанет грешить и не покается в совершённых грехах.;x
+EVTOPTA39252;Снять отлучение.;x
+EVTTOOLTIP39253;Рыдает от счастья, видя наш ответ.;x
+EVTDESC39253;Святейший Папа согласился снять с меня отлучение!;x
+EVTOPTA39253;Во славу Господа!;x
+EVTOPTB39253;Покаяние имеет свою цену, но это уж слишком...;x
+EVTOPTB39251;[Player.Religion.GetPietyName] слишком дорого стоит...;x
+chapter_name_6;Война;x
+chapter_name_5;Отряды и Сражения;x
+DOWNLOADING;Загрузка $DLC$;x
+DOWNLOAD_PROGRESS;Загрузка файла $FILE$ из $FILE_MAX$\n\n$COUNT$B уже скачано.;x
+STORE_REINSTALL;Переустановка;x
+STORE_BUY;Купить;x
+STORE_NEED_REINSTALL;Переустановить §Y$ITEM$§! (дополнение);x
+STORE_FAILED_DOWNLOAD;Скачивание некоторых файлов закончилось некорректно. Попробуйте снова.;x
+STORE_CANCEL;Отмена;x
+STORE_TOPUP;Купить "Синие Монеты";x
+STORE_LOGIN;Имя пользователя;x
+STORE_LOGOUT;Завершить сеанс;x
+STORE_WELCOME;Здравствуйте, §Y$USERNAME$§!;x
+STORE_NOT_LOGGED_IN; Для того, чтобы купить дополнение, Вы должны войти в систему;x
+TRUCE;Перемирие;x
+IS_NOT_MERCENARY;Наёмный;x
+IS_MERCENARY;НЕ наёмный;x
+NUM_OF_TITLES_LESS;Количество титулов меньше чем §Y$VAL$§W $TIER$.;x
+NUM_OF_TITLE_LEAST;Количество титулов не меньше чем §Y$VAL$§W $TIER$.;x
+NUM_OF_TITLES_LESS_2;Количество титулов меньше чем §Y$VAL$§W.;x
+NUM_OF_TITLE_LEAST_2;Количество титулов не меньше чем §Y$VAL$§W.;x
+TIME_UNPAUSE;Возобновить;x
+EVTDESC38201;[From.GetFirstName] спрашивает: "Папочка, а откуда берутся дети?";x
+EVTOPTA39000;А где [Root.Holder.GetLordSpiritualName]!?;x
+EVTDESC75060;Крестьяне в провинции жалуются на произвол, они считают, что [Root.GetTreasurerName] [Root.job_treasurer.GetSheHe] ничего не смыслит в законах.;x
+EVTOPTA75085;Официально признать [Root.job_treasurer.GetHersHis] идеи;x
+peasants_scorned;Пренебрежение крестьянскими обычаями;x
+tut_5a_25;Теперь выберите отряд и направьте его в море. Корабли передвигаются так же, как армии. Чтобы продолжить, переместите этот флот к Северному Морю, чтобы продолжить. Снимите игру с паузы и увеличьте игровую скорость, чтобы максимально ускорить процесс перемещения флота.;x
+tut_5a_29b;Не забывайте снимать паузу. Иначе Ваши приказы не будут выполнены.;x
+opinion_converted_province;Обратил провинцию;x
+EVTDESC3336;[From.GetTitledFirstName] считает, что я совершаю необдуманные поступки, и пытается меня образумить.;x
+EVTNAME60010;Xулагуиды;x
+#EVTDESC60010;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли Католическую веру!;x
+#EVTDESC60011;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли Православие!;x
+#EVTDESC60012;[Root.GetTitledName] и все [Root.GetHersHis] вассалы перешли в Суннизм!;x
+#EVTDESC60013;[Root.GetTitledName] и все [Root.GetHersHis] вассалы стали Шиитами!;x
+EVTOPTA60010;Время пришло!;x
+EVTOPTB60010;Аллах дарует нам свою милость!;x
+EVTOPTC60010;Бог милостив к нам!;x
+EVTOPTD60010;Боги спасут нас!;x
+EVTNAME60020;Hаступает Золотая Орда!;x
+EVTDESC8720;Тевтонский Орден расширяется на территории Балтики, чтобы успешнее бороться с язычниками. Должен ли я помочь им, передав несколько провинций под их контроль?;x
+EVTOPTA8720;Их присутствие следует всячески приветствовать.;x
+EVTOPTB8720;Я никогда не отдам свою землю!;x
+EVTDESC8721;[Root.PrimaryTitle.GetFOA],\n мне хотелось бы передать земли Тевтонскому Ордену, и я надеюсь на Ваше одобрение.\n\nВаш скромный вассал,\n[From.GetTitledName];x
+EVTOPTA8721;Пусть лучше вассалы с этим разбираются.;x
+EVTOPTB8721;Я благословляю Вас.;x
+EVTOPTC8721;Лишних земель не бывает.;x
+EVTDESC8722;[Root.PrimaryTitle.GetFOA],\n Мой вассал, [FromFrom.GetTitledName], желает передать свои земли Тевтонскому Ордену. Я считаю, что не имею права позволять им этого, без Вашего на то согласия.\n\nИскренне Ваш,\n[From.GetTitledName];x
+EVTOPTA8722;Отличное предложение!;x
+EVTOPTB8722;Я не уступлю своих земель.;x
+EVTDESC8723;Тевтонский Орден по достоинству оценил Вашу щедрость.\n[From.GetTitledName];x
+EVTOPTA8723;Так тому и быть!;x
+EVTDESC8724;Я не позволю отдать земли Тевтонцам.\n[From.GetTitledName];x
+EVTOPTA8724;В таком случае, я отменяю свои указы.;x
+EVTDESC8725;Досточтимый правитель, [Root.GetTitledFirstName],\nВаша храбрость поистине легендарна. Я хочу помочь Вам, и отдаю свои земли в Ваше распоряжение..\n\nПодпись:\n [From.GetTitledName];x
+alert_truce_expiring_instant;§YСрок перемирия подходит к концу§!;x
+alert_truce_expiring_delayed;Срок следующих мирных договоров истекает:$LIST$;x
+alert_no_ambition_instant;§YВыберите Цель§!;x
+TOTAL_BONUS;(Итог);x
+LEVY_MULTIPLIER;Коэффициент сборов: $VALUE$;x
+TOTAL_LEVY;Всего: §Y$VALUE$§!;x
+REALM_TREE;Вассальное Древо;x
+DYN14_DESC;Cо счётом $SCORE$, Вы $FAILED$ превзошли Дом Годвин. Пятого января 1066 года Гарольд Годвинсон стал королем Англии. Его отец большую часть правления короля Канута создавал оплот для укрепления семейной власти. После смерти Эдуарда Исповедника он мог узурпировать трон.. Тем не менее, не он один имел на него право... Норвежский Харальд и Уильям Нормандский также заявляли о своих притязаниях и вступили в борьбу за престол. Харальд был побежден и убит в битве при Стэмфорд Бридж, но Гарольд, уже после, был убит (вместе с двумя своими братьями) Уильямом в битве при Гастингсе. С его смертью, власть династии Годвинов пала и его земли были разделены между сторонниками Уильяма.;x
+EVTOPTA38020;Некоторые епископства очень богаты, мы могли бы помочь им потратить богатства!;x
+TOURNAMENTTITLE;Великий турнир;x
+EVTDESC70034;[From.GetTitledName] - победитель в турнире.;x
+EVTOPTA70034;[From.GetSheHeCap] заслуживает этого!;x
+EVTDESC70035;[From.GetTitledName] проявив стойкость занимает второе место в прошедшем турнире.;x
+EVTOPTA70035;Какое превосходное представление!;x
+EVTDESC70036;[From.GetTitledName] занимает третье место, в Великом Турнире.;x
+EVTOPTA70036;Победа в честной борьбе!;x
+EVTDESC70037;Великий турнир, объявленный правителем, известным как [From.GetTitledName], был прерван войной.;x
+EVTOPTA70037;Тогда, я покажу свою храбрость в бою!;x
+EVTDESC70038;[Root.PrimaryTitle.GetFOA]! Ваш гость, [From.GetTitledName], трагически погиб во время турнира.;x
+EVTOPTA70038;Какое несчастье.;x
+EVTOPTB70038;Я не желаю слушать подробности!;x
+EVTDESC70039;[Root.PrimaryTitle.GetFOA]! Ваш гость [From.GetTitledName] был искалечен во время турнира.;x
+EVTDESC70040;[Root.PrimaryTitle.GetFOA]! Ваш гость [From.GetTitledName] был ранен во время турнира.;x
+opinion_tournament_participant;Провел Великий турнир;x
+opinion_tournament_winner;Победитель Великого Турнира ;x
+opinion_tournament_second_place;Второе место в Великом Турнире;x
+opinion_tournament_third_place;Третье место в Великом Турнире;x
+EVTDESC70012;Мы вступили в ближний бой, но увидев врага, от страха я помочился прямо в доспехи. Все мои товарищи с отвращением смотрели на меня.;x
+EVTDESC923;Наблюдая за строительством в провинции [Root.Location.GetName], мне удалось встретить умелого архитектора. Он согласился поделиться со мной своими знаниями.;x
+EVTOPTA923;Это способствует моей карьере.;x
+EVTDESC20230;[Root.PrimaryTitle.GetFOA], строительство в провинции [From.Location.GetName] идет под тщательным присмотром умелого архитектора, который взял меня под свое крыло и учит всем премудростям своего дела. Эти знания очень помогут мне в работе.\n\n Ваш [Root.GetTreasurerName],\n[From.GetTitledName];x
+EVTDESC80057;Восставшие крестьяне округа [FromFrom.GetName] присягнули новому сюзерену. [From.County.Holder.GetTitledName] будет отныне заботиться о них;x
+EVTDESC80062;Восставшие крестьяне округа [Root.GetName] присягнули новому сюзерену.;x
+EVTDESC60020;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли Католическую веру!;x
+EVTDESC60021;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли Православие!;x
+EVTDESC60022;[Root.GetTitledName] и все [Root.GetHersHis] вассалы перешли в Суннизм!;x
+EVTDESC60023;[Root.GetTitledName] и все [Root.GetHersHis] вассалы стали Шиитами!;x
+EVTTOOLTIP5025;[Root.GetTitledFirstName] носится со своей прелестью;x
+EVTDESC72086;Меня удивляет, что [From.GetTitledName] предлагает отойти в сторону и поговорить наедине, во время праздника. [From.GetSheHe] осторожно объясняет, что один из моих титулов принадлежит [From.GetHerHim].;x
+EVTTOOLTIP72087;[Root.GetTitledFirstName] надеется получить титул, которым в данный момент владеет [This.GetTitledFirstName].;x
+EVTDESC72089;Праздник был великолепен, до тех пор пока меня не бросили в подземелье! [From.GetTitledFirstName] думает, что я отдам [From.GetHerHim] титул ради своей свободы, но я докажу, что я сильнее, чем [From.GetSheHe] думает!;x
+EVTOPTA72089;Этот титул никогда тебе не достанется!;x
+EVTOPTB72089;Постойте! Я откажусь от претензий, только выпустите меня отсюда!;x
+EVTOPTA69058;Почему [Root.job_spiritual.GetSheHe] обманывает меня, когда я доверяю [Root.job_spiritual.GetHerHim]?;x
+MAPMODE_RELIGION_DESC;Это карта религий.;x
+#convert_to_parent_religion;Принять религию Родителей.;x
+convert_to_parent_religion_desc;Я желаю принять единственно истинную веру.;x
+tut_6a_24;Другие этапы войны мы изучим в более продвинутом разделе. Сейчас у вас ещё нет побед или поражений. Предложите "Белый мир" либо сдайтесь врагу, чтобы закончить обучение.;x
+LOST_PLAYER;Игрок $NAME$ "вылетел".;x
+SAFE_RAISE;§GУдерживайте §YCtrl§G, чтобы избежать призыва отрядов в тех землях, где есть вражеские армии§!;x
+DIPLO_ALREADY_CONSIDERING;§Y$NAME$§! в данный момент обдумывает предложение $INTERACTION$, поступившее от нас.;x
+DIPLO_ALREADY_CONSIDERING_DAYS; мы ждём ответа §Y$DAYS$§! дней.;x
+STORE_USERNAME;Имя пользователя:;x
+STORE_PASSWORD;Пароль:;x

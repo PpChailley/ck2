@@ -1,0 +1,200 @@
+guiTypes = {
+
+	windowType = {
+		name = "honorary_titles_view"
+		backGround="background"
+		position = { x=553 y=100 }
+		size = { x=401 y=360 }
+		moveable = 1
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		guiButtonType = {
+			name ="background"
+			quadTextureSprite = "GFX_honorary_titles_view_bg"
+			position = { x= 0 y = 0 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "title_text"
+			position = { x = 63 y = 15 }
+			textureFile = ""
+			font = "vic_18"
+			text = "MINOR_TITLES"	
+			maxWidth = 240
+			maxHeight = 20	
+			fixedsize = yes
+			format = centre
+			allwaystransparent = yes
+		}
+		
+		guiButtonType = {
+			name = "close"
+			position = { x = 360 y = 15 }
+			quadTextureSprite ="GFX_main_close_button"
+			shortcut = "ESCAPE"
+		}
+		
+		guiButtonType = {
+			name = "toggle_show_honorary_titles"
+			position = { x = 30 y = 39 }
+			quadTextureSprite ="GFX_checkbox_default"
+		}
+		instantTextBoxType = {
+			name = "toggle_show_honorary_titles_text"
+			position = { x = 60 y = 43 }
+			textureFile = ""
+			font = "vic_18"
+			text = "HT_SHOW_HONORARY_TITLES"	
+			maxWidth = 275
+			maxHeight = 20	
+			fixedsize = yes
+			format = left
+			allwaystransparent = yes
+		}
+		guiButtonType = {
+			name = "toggle_show_commanders"
+			position = { x = 30 y = 63 }
+			quadTextureSprite ="GFX_checkbox_default"
+		}
+		instantTextBoxType = {
+			name = "toggle_show_commanders_text"
+			position = { x = 60 y = 67 }
+			textureFile = ""
+			font = "vic_18"
+			text = "HT_SHOW_COMMANDERS"	
+			maxWidth = 275
+			maxHeight = 20	
+			fixedsize = yes
+			format = left
+			allwaystransparent = yes
+		}
+				
+		
+		
+		smoothListboxType = {
+			name ="honorary_titles_list"
+			position = { x = 2 y = 99 }
+			backGround=""
+			size = { x=360  y =480}
+			spacing = 0
+			scrollbartype = "standardlistbox_slider"
+			borderSize = {x = 0 y = 0}
+		}
+	}
+	
+	### entry
+	windowType = {
+		name = "honorary_titles_view_item"
+		backGround=""
+		position = { x=0 y=0 }
+		size = { x=389 y=60 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder= ""
+		verticalBorder= ""
+		fullScreen = no
+		
+		iconType = {
+			name ="background"
+			spriteType = "GFX_honorary_titles_view_item_bg"
+			position = { x= 73 y = 2 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+		guiButtonType =	{
+			name ="portrait"
+			quadTextureSprite= "GFX_char_34"
+			position = { x= 18 y = 13 }
+			pdx_tooltip = "CHARACTER_TOOLTIP"
+			pdx_tooltip_delayed = "CHARACTER_TOOLTIP_DELAYED"
+		}
+		guiButtonType = {
+			name ="portrait_frame"
+			spriteType = "GFX_charframe_34"
+			position = { x= 13 y = 7 }
+		}
+		guiButtonType = {
+			name ="shield"
+			quadTextureSprite = "GFX_shield_small"
+			position = { x= 42 y = 29 }
+		}
+		
+		instantTextBoxType = {
+			name = "title_name"
+			position = { x = 82 y = 8 }
+			textureFile = ""
+			font = "vic_18_black"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 260
+			maxHeight = 20	
+			fixedsize = yes
+			format = centre
+			allwaystransparent = yes
+		}
+		guiButtonType = {
+			name ="appoint_button"
+			spriteType = "GFX_honorary_titles_view_appoint_button"
+			position = { x= 73 y = 28 }
+		}
+		instantTextBoxType = {
+			name = "holder_name"
+			position = { x = 82 y = 32 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			text = ""	
+			maxWidth = 260
+			maxHeight = 60	
+			fixedsize = yes
+			format = centre
+			allwaystransparent = yes
+		}
+		
+		# Shown for minor titles with a specified attribute
+		iconType = {
+			name ="relevant_attribute_icon"
+			spriteType = "GFX_attribute_strip"
+			position = { x= 289 y = 2 }
+			Orientation = "UPPER_LEFT"
+		}
+		instantTextBoxType = {
+			name = "relevant_attribute"
+			position = { x = 302 y = 7 }
+			textureFile = ""
+			font = "vic_22_black"
+			borderSize = {x = 0 y = 0}
+			text = "14"	
+			maxWidth = 40
+			maxHeight = 26
+			format = centre
+			fixedsize = yes
+		}
+		
+		# Shown for commanders
+		iconType = {
+			name ="icon_commandmodifier"
+			spriteType = "GFX_commandmodifier_icon"
+			position = { x= 81 y = -1 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = 
+		{
+			name ="trait_icon_0"
+			spriteType = "GFX_trait_amateurish_plotter"
+			position = { x= 112 y = 4 }
+			Orientation = "UPPER_LEFT"
+		}
+		iconType = 
+		{
+			name ="trait_icon_1"
+			spriteType = "GFX_trait_amateurish_plotter"
+			position = { x= 138 y = 4 }
+			Orientation = "UPPER_LEFT"
+		}
+		
+	}
+}

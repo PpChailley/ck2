@@ -1,0 +1,6 @@
+name = "African Portraits"
+archive = "dlc/dlc013.zip"
+steam_id = "210897"
+gamersgate_id = "615"
+checksum = "f9298aec4f21210c73d2c6945ff8f2be"
+affects_checksum = no

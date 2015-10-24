@@ -1,0 +1,8 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+OCCUPATION_MODIFIER;Occupied Lan Modifiers;;;;;;;;;;;;;x
+OCCUPATION_POP_GROWTH_MODIFIER;Population Growth(total);;;;;;;;;;;;;x
+PROVINCE_HAS_FORT_DISCOUNT;Since a fort exist in this province it will be turned into a settlement when building here making the construction a bit cheaper.;;;;;;;;;;;;;x
+recently_burnt_the_land_not_owner;Recently burned the Land;Terre brûlée récemment;Steckte vor kurzem das Land in Brand;;Tierra recientemente quemada;;;;;;;;;x
+DONT_BORDERS_LAKE;Don't borders a lake.;;;;;;;;;x
+BORDERS_LAKE;Borders a lake.;;;;;;;;;x
+#;;;;;;;;;;;;;;x

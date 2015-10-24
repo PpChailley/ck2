@@ -1,0 +1,5 @@
+name = "Songs of Yuletide"
+archive = "dlc/dlc036.zip"
+steam_id = "226671"
+checksum = "ba25010123418a7553f6f0ea2ea0e670"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Songs of Albion"
+archive = "dlc/dlc003.zip"
+steam_id = "203774"
+gamersgate_id = "551"
+checksum = "536d4983d9b09db070e873cb7c8a72f1"
+affects_checksum = no

@@ -1,0 +1,6 @@
+#CODE;RUSSIAN;x
+EVTDESC91369;[From.GetBestName] терпит неудачу в своих попытках исправить декадента по имени [FromFrom.GetBestName]. Он - кафир и может быть свободно брошен в тюрьму любым правителем нашей позорной династии.;x
+EVTOPTA91369;В колодки его!;x
+EVTDESC91370;[GetFromRelation] [From.GetBestName] теперь декадент, несущий позор Дому [Root.GetOnlyDynastyName]!;x
+EVTOPTA91370;Неблагодарный!;x
+GRANT_LANDED_TITLE_INTERACTION_7;Снижение упадка благодаря получению земли представителем нашей династии: §G$DECADENCE$%§! (эффект пропорционален текущему упадку династии).;x

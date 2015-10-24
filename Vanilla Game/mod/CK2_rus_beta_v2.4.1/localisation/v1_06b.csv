@@ -1,0 +1,53 @@
+#CODE;RUSSIAN;x
+TITLE_EMPIRE_CREATION_PIETY_COST;У Вас должно быть не менее §R$COST$§! благочестия, чтобы создать императорский титул.;x
+muslim_invasion_desc;§Y$TARGET$§! - иноверец, поэтому §Y$CLAIMANT$§! имеет полное право напасть на землю "§Y$TITLE$§!". При успешном завершении похода все владения правителя §Y$TARGET$§! в пределах области "§Y$TITLE$§!" будут захвачены или вассализированы.;x
+duke_female_iranian;Эмира;x
+count_female_iranian;Шейха;x
+baron_female_iranian;Валия;x
+count_female_arabic;Шейха;x
+baron_female_arabic;Валия;x
+king_female_turkish;Султан;x
+duke_female_turkish;Бейлербаян;x
+count_female_turkish;Баян;x
+baron_female_turkish;Тимариота;x
+job_chancellor_west_african;Великий Визирь;x
+emperor_arabic;Падишах;x
+CALIPHA;Халифа;x
+MUSLIM_LAW_PASSED_SETUP;Мусульманское право установлено;x
+MUSLIM_LAW_PASSED_LOG;§Y$RULER$§! вводит закон §Y$LAW$§! в государстве §Y$TITLE$§!.;x
+DISBAND_EVENT_FORCES;Роспуск созданных событием войск;x
+iqta_contract;Ополчение Икта;x
+iqta_contract_desc;Законы ополчения Икта определяют долю войск, которую вассал должен предоставить своему сюзерену.;x
+iqta_contract_0;Минимальная доля ополчения Икта;x
+iqta_contract_0_option;Мин;x
+iqta_contract_0_desc;Вассалы должны предоставить вам лишь небольшую часть ополчения.;x
+iqta_contract_1;Малая доля ополчения Икта;x
+iqta_contract_1_option;Мал.;x
+iqta_contract_1_desc;Вассалы могут оставить за собой значительную часть ополчения;x
+iqta_contract_2;Средняя доля ополчения Икта;x
+iqta_contract_2_option;Средн.;x
+iqta_contract_2_desc;Вассалы оставляют за собой небольшой мобильный эскорт в дополнение к гарнизонам.;x
+iqta_contract_3;Максимальная доля ополчения Икта;x
+iqta_contract_3_option;Макс;x
+iqta_contract_3_desc;Вассалы обязаны предоставить все ополчение;x
+iqta_tax;Налоги Икта;x
+iqta_tax_desc;В отличии от христианских феодалов, мусульманские вассалы не освобождены от налогов, но они платят меньше, чем горожане.;x
+iqta_tax_0;Отсутствие налогов Икта;x
+iqta_tax_0_option;Нет;x
+iqta_tax_0_desc;Феодалы освобождены от налогов, вассалам нравится такое положение дел.;x
+iqta_tax_1;Малые налоги Икта;x
+iqta_tax_1_option;Мал.;x
+iqta_tax_1_desc;Феодалы обязаны делать небольшие финансовые пожертвования для увеличения благосостояния королевства. Но они ожидали этого.;x
+iqta_tax_2;Большие налоги Икта;x
+iqta_tax_2_option;Больш.;x
+iqta_tax_2_desc;Феодалы обязаны делать существенные финансовые пожертвования для увеличения благосостояния королевства. Они будут немного разочарованы этим положением дел.;x
+iqta_tax_3;Максимальные налоги Икта;x
+iqta_tax_3_option;Макс;x
+iqta_tax_3_desc;Феодалы обязаны делать большие финансовые пожертвования для увеличения благосостояния государства. Они так же могут выразить недовольство по поводу положения дел.;x
+controls_mecca_medina;Контроль над §YМеккой§! и §YМединой§!\n;x
+controls_jerusalem_damascus_baghdad;Контроль над §YИерусалимом§!, §YДамаском§! и §YБагдадом§!\n;x
+controls_kaliopolis_thrake;Контроль над §YКалиополисом§! и §YФракией§!\n;x
+jizya_tax;Джизья;x
+desc_jizya_tax;Джизья - подушный ежегодный налог, взимаемый в исламских государствах с взрослых и свободных немусульман мужского пола. Он больше, чем религиозный налог Закят, взимаемый с мусульман.;x
+INTERACTION_CANNOT_TRANSFER_DUKES_TO_NON_DJ;Вассалов, обладающих герцогским или выше титулом, можно передавать только их де-юре сюзерену.;x
+ARRANGE_BETROTHAL_INTERACTION_MUSLIM;Предложить помолвку, §Y[ActorExtra.GetTitledFirstName]§W и §Y[RecipientExtra.GetTitledFirstName]§W станут прекрасной парой.;x

@@ -1,0 +1,35 @@
+#CODE;RUSSIAN;x
+MOVEMENT_SPEED;Скорость передвижения;x
+EXPERIMENTALITY;Непредсказуемость;x
+CU_LIGHT_INFANTRY;Легкая пехота;x
+CU_HEAVY_INFANTRY;Тяжелая пехота;x
+CU_CAVALRY;Конница;x
+MORALE_DEFENCE;Боевой дух обороняющихся;x
+#MORALE_OFFENCE;Боевой дух атакующих;x
+DAMAGE;Урон;x
+PURSUIT;Преследование;x
+RETREAT;Отступление;x
+MARTIAL_INFLUENCE;Влияние военных навыков;x
+#DAMAGE_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор урона $PERC$;x
+#PURSUIT_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор преследования $PERC$;x
+#RETREAT_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор отступления $PERC$;x
+#DEFENCE_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор защиты $PERC$;x
+#EXPERIMENT_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор непредсказуемости $PERC$;x
+#LIGHT_INFANTRY_COMBAT_MODIFIER;§Y$WHO$§! усиляет легковооруженную пехоту на $PERC$;x
+#HEAVY_INFANTRY_COMBAT_MODIFIER;§Y$WHO$§! усиляет тяжеловооруженную пехоту на $PERC$;x
+#CAVALRY_COMBAT_MODIFIER;§Y$WHO$§! усиляет всадников на $PERC$;x
+#DEF_BONUS_AGAINST_ENEMY;Бонус защиты от фланговых атак противника: $PERC$;x
+#DEF_BONUS_MORALE;Бонус боевого духа обороняющихся: $PERC$;x
+#MORALE_DEF_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор боевого духа $PERC$;x
+#ATT_BONUS_MORALE;Бонус боевого духа атакующих: $PERC$;x
+#MORALE_ATT_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор боевого духа $PERC$;x
+FLANKING;Атака с флангов;x
+CENTER;Атака по центру;x
+#FLANKING_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор атаки с флангов $PERC$;x
+#CENTER_COMBAT_MODIFIER;§Y$WHO$§! имеет модификатор атаки по центру $PERC$;x
+DEFENCE;Защита;x
+CANNOT_PLAY_MUSLIM_WITHOUT_DLC;Вы не можете играть за мусульман без дополнения "Sword of Islam";x
+NOT_ALLOWED_MUSLIM;Нельзя играть за §Yмусульман§! без дополнения "Sword of Islam"!;x
+NOT_ALLOWED_MUSLIM_MP;§Y$PLAYER$§! не может играть за §Yмусульман§! без дополнения "Sword of Islam";x
+RD_NOT_PLAYABLE_WITHOUT_MUSLIM_DLC;Мусульмане недоступны для игры без дополнения "Sword of Islam";x
+MUST_SELECT_PLAYER;Выберите персонажа для игры;x

@@ -1,0 +1,69 @@
+#CODE;RUSSIAN;x
+#FILTER_SAME_REL;Наша религия;x
+#FILTER_SAME_REL_GROUP;Наша религ. группа;x
+#FILTER_NOT_SAME_REL;НЕ наша религия;x
+#FILTER_NOT_SAME_REL_GROUP;НЕ наша религ. группа;x
+#FILTER_ANY_REL;Любая религия;x
+#FILTER_SAME_CUL;Наша культура;x
+#FILTER_SAME_CUL_GROUP;Наша культ. группа;x
+#FILTER_NOT_SAME_CUL;НЕ наша культура;x
+#FILTER_ANY_CUL;Любая культура;x
+#FILTER_NOT_SAME_CUL_GROUP;НЕ наша культ. группа;x
+temple_baron_jewish;Раввин;x
+temple_baron_samaritan;Раввин;x
+temple_baron_karaite;Раввин;x
+RETTYPE_CUL_NUBIAN;Нубийские лучники;x
+ca_culture_nubian_1;Нубийские казармы;x
+ca_culture_nubian_2;Нубийские казармы;x
+ca_culture_nubian_3;Нубийские казармы;x
+ca_culture_nubian_4;Нубийские казармы;x
+ca_culture_nubian_1_desc;В этих казармах тренируются воины по древним нубийским обычаям. Нубия всегда славилась своими умелыми лучниками, другие элитные пехотинцы служат для поддержки этого рода войск в угоду нубийским правителям.;x
+#NOT_VARIABLE;§Y$VAR$§! меньше чем §Y$VALUE$§!;x
+#VARIABLE;§Y$VAR$§! НЕ меньше чем §Y$VALUE$§!;x
+#SET_VARIABLE;Записать §Y$VAR$§! = §Y$VALUE$§!;x
+#CHANGE_VARIABLE;Увеличить §Y$VAR$§! на §Y$VALUE$§!;x
+#SUBTRACT_VARIABLE;Вычесть §Y$VALUE$§! из §Y$VAR$§!;x
+#MULTIPLY_VARIABLE;Умножить §Y$VAR$§! на §Y$VALUE$§!;x
+#DIVIDE_VARIABLE;Делить §Y$VAR$§! на §Y$VALUE$§!;x
+#TRIGGER_DYNASTY_HEAD;Глава династии;x
+#NUM_OF_MAX_SETTLEMENTS_AT_LEAST;Максимум поселений НЕ меньше чем §Y$VAL$§!;x
+#NUM_OF_MAX_SETTLEMENTS_LESS_THAN;Максимум поселений меньше чем §Y$VAL$§!;x
+#NUM_OF_EMPTY_HOLDINGS_AT_LEAST;Свободных земель НЕ меньше чем §Y$VAL$§!;x
+#NUM_OF_EMPTY_HOLDINGS_LESS_THAN;Свободных земель меньше чем §Y$VAL$§!;x
+#DONT_BORDERS_MAJOR_RIVER;НЕ граничит с рекой;x
+#BORDERS_MAJOR_RIVER;Граничит с рекой;x
+#SET_GRAPHICAL_CULTURE;Установить §Y$NAME$ую§! графическую культуру;x
+#IS_VARIABLE_EQUAL;§Y$VAR$§! равно §Y$VALUE$§!;x
+#NOT_IS_VARIABLE_EQUAL;§Y$VAR$§! НЕ равно §Y$VALUE$§!;x
+#NOT_IS_LOOTING;НЕ грабит;x
+#IS_LOOTING;Грабит;x
+#NOT_IS_LOOTING_IN;НЕ грабит округ §Y$PROVINCE$§!;x
+#IS_LOOTING_IN;Грабит округ §Y$PROVINCE$§!;x
+#MODIFIER_DEMESNE_SIZE;Размер домена;x
+#MODIFIER_LOCAL_MOVEMENT_SPEED;Скорость передвижения;x
+#NOT_IS_ALLIED_WITH; и §Y$NAME$§! НЕ в союзе;x
+#IS_ALLIED_WITH; и §Y$NAME$§! в союзе;x
+#ANY_ALLIED_CHARACTER_STARTS;Любой союзник;x
+#LOSES_NICKNAME;Больше не зовётся;x
+#LOSTNICKNAME_SETUP;Прозвище утрачено;x
+#LOSTNICKNAME_LOG;§Y$CHARACTERNAME$§! больше не зовётся $NICKNAME$.;x
+#LIEGE_ENDED_WAR_PARTICIPATION_SETUP;Сюзерен больше не участвует в войне;x
+#LIEGE_ENDED_WAR_PARTICIPATION_LOG;§Y$VASSAL$§! больше не участвует в конфликте §Y$WAR$§!, поскольку $PRONOUN$ сюзерен §Y$LIEGE$§! вступает в войну как §Y$SIDE$§!.;x
+#LIEGE_ENDED_WAR_SETUP;Сюзерен закончил войну;x
+#LIEGE_ENDED_WAR_LOG;§Y$WAR$§! заканчивается, поскольку §Y$LIEGE$§! вступает в войну как §Y$SIDE$§!.;x
+#INTERACTION_CANNOT_JOIN_VASSAL_WAR;Мы не можем присоединяться к войнам наших вассалов (за исключением походов, джихадов и поддержки их претензий на титулы за пределами страны);x
+temple_baron_slavic_pagan;Волхв;x #Шаман
+temple_baron_slavic_pagan_reformed;Волхв;x #Шаман
+temple_baron_baltic_pagan;Жрец;x #Шаман
+temple_baron_baltic_pagan_reformed;:Жрец; #Шаман
+temple_baron_aztec;Шаман;x
+temple_baron_aztec_reformed;Шаман;x
+temple_baron_mazdaki;Ваграм;x
+temple_baron_manichean;Ваграм;x
+coa_plain_pagan;Простой;x
+coa_plain_indian;Простой;x
+#pagan_subjugation_desc;Язычники могут покорять других языческих правителей один раз в жизни (с амбицией "Править родной землёй" этот предел времени недействителен против целей внутри государства). Вольные люди всегда желают следовать за самым могущественными правителем...;x
+temple_baron_hellenic_pagan;Жрец;x
+temple_baron_female_hellenic_pagan;Жрица;x
+#ct_barracks_1_desc;Здесь собираются взрослые мужчины города, чтобы присоединиться к ополчению во время войны.;x
+#ca_training_grounds_1_desc;Тренировочный лагерь готовит ополчение замка к предстоящим битвам.;x

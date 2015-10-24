@@ -1,0 +1,7 @@
+#CODE;RUSSIAN;x
+ENDGAME_TEXT_JEWISH;Вы теперь иудей, поэтому не можете продолжить игру без дополнения "Sons of Abraham".;x
+NOT_ALLOWED_JEWISH;Нельзя играть за §Yиудеев§! без дополнения "Sons of Abraham"!;x
+NOT_ALLOWED_JEWISH_MP;§Y$PLAYER$§! не может играть за §Yиудея§! без дополениния "Sons of Abraham";x
+RD_NOT_PLAYABLE_WITHOUT_SOA_DLC;Персонажи-иудеи не являются игровыми без дополнения "Sons of Abraham";x
+#IRONMAN_MODE_CHECKSUM_DESC;Файлы игры были изменены, поэтому режим "Ironman" недоступен. Проверьте версии своих файлов, их целостность, а также убедитесь, что не включали игровые моды.;x
+IRONMAN_MODE_SAVEGAME_DESC;Файл сохранения повреждён или изменён, поэтому не может больше использоваться для режима "Ironman".;x

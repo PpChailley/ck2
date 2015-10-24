@@ -1,0 +1,49 @@
+#CODE;RUSSIAN;x
+EVTDESC60010;[Root.GetTitledName] и все [Root.GetHersHis] вассалы перешли в католическую веру!;x
+EVTDESC60011;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли православие!;x
+EVTDESC60012;[Root.GetTitledName] и все [Root.GetHersHis] вассалы приняли суннизм!;x
+EVTDESC60013;[Root.GetTitledName] и все [Root.GetHersHis] вассалы стали шиитами!;x
+MONTHLY_PROJECTED_COST;Ежемесячная стоимость: §Y$COST$§!;x
+YEARLY_PROJECTED_COST;Ежегодная стоимость: §Y$COST$§!;x
+PER_MONTH;§Y$VAL$§! / месяц;x
+AIREASON_KINGDOMS_DONT_ACCEPT_VASSALAGE;Я - Король! ;x
+ACCEPT;Принять;x
+DECLINE;Отклонить;x
+HAS_LESS_RAISED_TROOP_DAYS;Войска собраны менее §Y$DAYS$§! дней.\n;x
+HAS_MORE_RAISED_TROOP_DAYS;Войска собраны не менее §Y$DAYS$§! дней.\n;x
+SET_RAISED_TROOP_OPINION;§Y$ACTIVE$§! меняет мнение о сюзерене(§Y$PASSIVE$§!) на §Y$MUCH$§! из-за ополчения.\n;x
+CONTESTED_TITLE;Оспариваемый титул: $TITLE$;x
+THREAT_REASON_HATRED;Плохое мнение;x
+THREAT_REASON_LOVE;Хорошее мнение;x
+THREAT_REASON_CB;Повод для объявления войны;x
+THREAT_REASON_PRETENDER;Претендент;x
+THREAT_REASON_CLAIMANT;Претендент;x
+THREAT_REASON_DISTANCE;Расстояние;x
+THREAT_LIEGE_CULTURE;Та же культура;x
+THREAT_LIEGE_RELIGION;Та же религия;x
+THREAT_LIEGE_DEJURELIEGE;Де-юре сюзерен;x
+INGAME_STORE;Сохранить игру;x
+tut_3c_6;Мультиплеер I;x
+tut_3c_7;Открыв окно Законов, Вы увидите законы герцогства Бретань. Бретань является частью Франции, хотя законы Французской короны тоже оказывают влияние на эту провинцию. Чтобы увидеть это, нажмите на символ в правом верхнем углу экрана.;x
+tut_3c_8;Мультиплеер II;x
+tut_3c_9;Некоторые законы Франции влияют и на Бретань. В верхней части можно увидеть действующие законы Франции. Законы, ожидающие вступления в силу, находятся в нижней половине. Нажмите кнопку "Далее", чтобы закончить эту часть.;x
+REINFORCE_TOOLTIP;К следующему месяцу $NUM$ воинов будет готово к мобилизации.;x
+other_claim_desc;§Y$PRESSER$§!(предъявитель) может использовать этот повод к войне, поскольку §Y$CLAIMANT$§! претендует на титул и земли области "§Y$TITLE$§!".\nЕсли §Y$PRESSER$§! и §Y$CLAIMANT$§! - члены одной династии, или, если §Y$PRESSER$§! - де-юре сюзерен титула "§Y$TITLE$§!", тогда §Y$CLAIMANT$§! станет вассалом предъявителя(§Y$PRESSER$§!).;x
+TECH_GROWTH_PROG_SETUP;Наука во владениях;x
+TECH_GROWTH_PROG_LOG;Знания о технологии $TECH$ увеличились в провинции $PROV$ до §Y$PROG$§!;x
+TECH_GROWTH_REALM_SETUP;Наука в стране;x
+TECH_GROWTH_REALM_LOG;Местные знания о технологии $TECH$ в провинции $PROV$ возросли до §Y$LEVEL$§!;x
+TECH_GROWTH_PROG_REALM_SETUP;Наука в стране;x
+TECH_GROWTH_PROG_REALM_LOG;Местные знания технологии $TECH$ возросли в провинции $PROV$ до §Y$PROG$§!;x
+LOADING_TIP_0;Владения - это все замки, города и храмы, принадлежащие одному человеку.;x
+LOADING_TIP_49;Внимательно следите за чертами характера Вашей жены.;x
+EVTDESC3340;Один из придворных неожиданно преподнёс мне подарок, это сильно удивило меня. Он думал, что я злюсь на него, и остался озадаченным.;x
+EVTOPTA3340;Я думаю, что он перестал меня уважать...;x
+alert_dejure_claim_instant;§YВы можете реализовать претензии Ваших прямых вассалов на чужие титулы§!;x
+alert_dejure_claim_delayed;Следующие претензии можно реализовать: $LIST$;x
+PRESSABLE_CLAIM;$COUNTY$, претендует: $CLAIMANT$;x
+OPT_draw_trees;Рендеринг деревьев;x
+OPT_draw_rivers;Рендеринг рек;x
+OPT_draw_citysprawl;Рендеринг городских построек;x
+tut_4c_11;Династический брак;x
+OPT_legacy_shaders;Поддержка устаревшей графики;x

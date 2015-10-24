@@ -1,0 +1,18 @@
+spriteTypes = {
+
+	spriteType = {
+		name = "GFX_honorary_titles_view_bg"
+		texturefile = "gfx\\interface\\honorary_titles_view_bg.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_honorary_titles_view_item_bg"
+		texturefile = "gfx\\interface\\honorary_titles_view_item_bg.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_honorary_titles_view_appoint_button"
+		texturefile = "gfx\\interface\\honorary_titles_view_appoint_button.dds"
+	}
+	
+}

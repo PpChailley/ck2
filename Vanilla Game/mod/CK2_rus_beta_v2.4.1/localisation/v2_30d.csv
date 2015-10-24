@@ -1,0 +1,45 @@
+#CODE;RUSSIAN;x
+MODIFIER_COMBAT_RATING;Личные боевые навыки;x
+GOD_THE_CREATOR;Творец;x
+GOD_BRAHMA;Брахма;x
+GOD_SATURN;Сатурн;x
+scholar_desc;Этот человек живет жизнью ученого, изучает книги и переписывается с лучшими умами мира.;x
+HAVE_NOT_RELIGION;НЕ;x
+#alert_available_targetted_decision_instant;§YYou Can Now§!;§YVous pouvez maintenant§!;§YIhr kцnnt nun§!;;§YAhora Puedes§!;;;;;;;;;x
+#alert_available_targetted_decision_delayed;The following Character Interactions are available:\n$LIST$;Les interactions suivantes sont possibles:\n$LIST$;Die folgenden Personeninteraktionen sind verfьgbar:\n$LIST$;;Los siguientes Interacciones con Personajes son realizables:\n$LIST$;;;;;;;;;x
+EVTOPTA_WOL_2100_3;Карлики, туфли... Нет! [target_spy_on.GetFirstName] сношается с козлом!;x
+EVTOPTA_WOL_2100_5;Убийство друга... в детстве, в возрасте 11 лет!;x
+EVTOPTA_WOL_2100_6;У н[target_spy_on.GetHersHis] воображаемый друг Баппо!;x
+EVTOPTA_WOL_2100_8;[target_spy_on.GetSubjectPronounCap] - тайная проститутка в [target_spy_on.Capital.Capital.County.GetAdjective]ом борделе!;x
+EVTOPTB_WOL_2300;Нет, я доверяю [intrigue_spymaster.GetObjectPronoun];x
+EVTOPTB_WOL_2071;Аха! Теперь я могу отозвать своих шпионов.;x
+EVTOPTF_WOL_2080;Хорошо, но лучше пошпионить за кем-то другим.;x
+EVTOPTC_WOL_2100;Нет... Думаю, лучше шпионить за кем-то другим.;x
+EVTDESC_WOL_2065;Мои попытки шпионажа ни к чему не привели, [FromFromFrom.GetTitledFirstName] не даёт мне никаких зацепок. Возможно, стоит сосредоточить свои усилия на чём-то другом?;x
+EVTOPTA_WOL_2065;Да, это бесполезно.;x
+EVTOPTB_WOL_2065;Нет, [FromFromFrom.GetSubjectPronoun] явно что-то скрывает...;x
+EVTDESC38313;Трудности жизни больше не кажутся столь тяжелыми. Мой стресс прошёл!;x
+EVTDESC38314;Когда просыпаешься утром с улыбкой на лице, понимаешь - депрессия прошла!;x
+PICK_FOCUS_DESC;Вы не сможете изменить жизненный путь в следующие §Y$YEARS$§! лет!;x
+CANNOT_CANCEL;§RНельзя отменить.§!;x
+CANNOT_CANCEL_UNTIL;§RНельзя отменить до §Y$DATE$§!§R.§!;x
+FV_CHOOSE_FOCUS;Жизненный путь;x
+CANNOT_CHANGE_FOCUS_UNTIL;§RНельзя изменить жизненный путь до §Y$DATE$§!§R.§!;x
+EVTDESC_WOL_3052;[GetFromFromRelation] [FromFrom.GetTitledFirstNameNoRegnal] просит меня провести немного времени в городе [FromFrom.Capital.Capital.GetName]. Несомненно, задумано это, чтобы я и [From.GetTitledName] укрепили нашу дружбу...;x
+opinion_dishonest_duel;Нечестная дуэль;x
+magnificent_maze;Великолепный лабиринт;x
+desc_magnificent_maze;Прекрасный садовый лабиринт этого человека известен далеко за пределами страны из-за его красоты.;x
+duel_title;Дуэль;x
+EVTOPTG_WOL_10221;Сейчас [stonemason.GetHersHis] нет, у н[stonemason.GetHersHis] неотложные дела.;x
+duel_tooltip_busy;Ни один из дуэлянтов не должен быть занят или участвовать в войне.\n;x
+duel_tooltip_sickness;Находится в добром здравии.\n;x
+duel_tooltip_fought_before;Ранее не участвовали в дуэли между собой.\n;x
+opinion_fought_duel;Участвовал в дуэли;x
+duel_tooltip_valid_target;Подходящий дуэлянт Вашей религии и культуры.\n;x
+duel_tooltip_recent_duel;Ни один из дуэлянтов не участвовал в недавней дуэли.\n;x
+dishonest_duel_tooltip;Это считается нечестным и люди могут осудить подобные действия.;x
+duel_tooltip_excommunicated;Имеет черту '§YНабожный§!', а цель §Yотлучена от церкви§! той же религии.\n;x
+EVTOPTB_WOL_11110;Нет, я не стану драться с друзьями.;x
+is_not_ascetic;НЕ является аскетом\n;x
+wol_duel_training;Тренирован для дуэли;x
+desc_wol_duel_training;Этот человек прошёл тренировку в искусстве дуэли.;x

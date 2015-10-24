@@ -1,0 +1,9 @@
+#CODE;RUSSIAN;x
+FACTION_LEADERSHIP_CHANGE_SETUP;Фракция обрела нового лидера;x
+FACTION_LEADERSHIP_CHANGE_LOG;§Y$CHARNAME$§! стал новым лидером фракции $OBJECTIVE$.;x
+BUILDING_PREREQ_FAIL;(§RX§!) §G$BUILDING$§! уже построено;x
+IS_NOT_AT_SEA;НЕ на море;x
+IS_AT_SEA;На море;x
+SongsOfTheRusDLC;Songs of The Rus (дополнение);x
+RussianUnitPackDLC;Russian Unit Pack (дополнение);x
+RussianPortraitsDLC;Russian Portraits (дополнение);x

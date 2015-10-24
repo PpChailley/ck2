@@ -1,0 +1,716 @@
+#CODE;RUSSIAN;x
+#MODIFIER_COMBAT_RATING;Combat Rating;Classement de combat;Kampfkraft;;Clasificaciуn de combate;;;;;;;;;x
+CR_DIFF_LOWER_THAN;Разница в боевых навыках между §Y$FIRST$§! и §Y$SECOND$§! меньше чем §Y$VAL$§!;x
+CR_DIFF_AT_LEAST;Разница в боевых навыках между §Y$FIRST$§! и §Y$SECOND$§! не меньше чем §Y$VAL$§!;x
+HAS_CR_AT_LEAST;Боевые навыки не меньше чем ;x
+HAS_LOWER_CR_THAN;Боевые навыки меньше чем ;x
+MASTER;господин;x
+MISTRESS;госпожа;x
+wol_schemer_1;Начинающий интриган;x
+desc_wol_schemer_1;Этот человек - начинающий интриган, который пытается манипулировать другими путем обмана и уловок.;x
+wol_schemer_2;Интриган;x
+desc_wol_schemer_2;Этот человек - опытный интриган, заговорщик и кукловод.;x
+wol_patriarch_1;Семьянин;x
+desc_wol_patriarch_1;Этот мужчина посвятил себя своей семье и её благополучию.;x
+wol_patriarch_2;Глава семьи;x
+desc_wol_patriarch_2;Этот мужчина - бесспорный глава семьи, который решает конфликты и направляет её крепкой, но нежной рукой.;x
+wol_matriarch_1;Хозяйка;x
+desc_wol_matriarch_1;Эта женщина посвятила себя своей семье и её благополучию.;x
+wol_matriarch_2;Хранительница семейного очага;x
+desc_wol_matriarch_2;Эта женщина - глава семьи. Она решает конфликты и направляет её уверенной, но нежной рукой.;x
+schemer;Мастер-интриган;x
+break_up_with_lover;Порвать;x
+break_up_with_lover_desc;Вы и [Root.GetTitledFirstNameNoRegnal] прекратите любовные отношения.;x
+opinion_whorespawn;Шлюшье отродье;x #Блядское отродье
+opinion_seduced_once;Соблазнен;x
+opinion_seduced_lustful_worship;Похотливое обожание;x
+opinion_seducing_concubine;Соблазняет;x
+opinion_regicide_traitor;Кровожадный предатель;x
+seduced_loyal_bodyguard;Любовный телохранитель;x
+desc_seduced_loyal_bodyguard;Этот человек при помощи соблазнения заручился самым преданным телохранителем, которого только можно вообразить.;x
+seduced_loyal_spy_maid;Любовная служанка;x
+desc_seduced_loyal_spy_maid;Этот человек соблазнил хорошенькую и сообразительную служанку, чтобы использовать её как шпионку при дворе.;x
+minor_disease_herpes;Любовная болезнь;x
+desc_minor_disease_herpes;Этот человек периодически страдает от смущающих и неприглядных волдырей.;x
+DAMNATION;Проклятье!;x
+EVTDESC6031_ALL;Когда [Root.Religion.GetPriestTitle] медленно вынул меня из святого источника, вода начала кипеть и пениться, краска стала смываться с рун, начертанных на моём теле. И теперь в полном изумлении я начинаю осознавать, что невнятные голоса в моей голове наконец-то замолчали.;x
+EVTDESC38309;Туман восприятия рассеился и вдруг ко мне пришло осознание о собственном сумасшествии!;x
+EVTDESC38310;Моя простая и неизменная картина мира теперь пошатнулась - прежняя набожность сменилась открытостью новым идеям.;x
+EVTDESC38311;Моя откроенная прямота больше не создаст мне проблем - я теряю свою честность.;x
+EVTDESC38312;Я всё больше и больше горжусь своими свершениями, своей великой семьёй. Похоже, что скромность - это уже не про меня.;x
+EVTOPTC64130;Жизнь прекрасна!;x
+EVTDESC_WOL_40;Утром меня разбудил мучительный зуд - похоже, [Root.Religion.GetRandomGodName] наказывает меня за грехи плоти.;x
+EVTDESC_WOL_40_NC;Утром меня разбудил мучительный зуд... Похоже, любовный недуг...;x
+EVTDESC_WOL_500;Мой духовник [target_priest.GetTitledName] будит во мне животную страсть! Я могу обольстить [target_priest.GetHersHis] и показать, что в этом мире есть не только [target_priest.Religion.GetRandomGodName].;x
+EVTOPTA_WOL_500;Да познает [target_priest.GetSheHe] вкус [Root.GetMaleFemale]ой плоти!;x
+EVTOPTB_WOL_500;Дразнить [target_priest.GetHersHis] куда приятнее, пусть вожделеет.;x
+EVTDESC_WOL_520;Недавно мне довелось забавляться соблазнением прекрасного молодого стражника. Теперь бегает за мной, как щенок... огромный мускулистый щенок!;x
+EVTOPTA_WOL_520;Кажется, у меня появился оруженосец и... любовник.;x
+EVTOPTB_WOL_520;Мой верный телохранитель!;x
+EVTOPTC_WOL_520;Было весело.;x
+EVTDESC_WOL_530;Вы только посмотрите... Новая служанка - какие большие... глаза. Умело уклоняется от посторонних взглядов, но так краснеет глядя мне в глаза - она явно меня хочет. Эта девочка может быть полезна...;x
+EVTOPTA_WOL_530;Ей самое место при дворе. В моей постели.;x
+EVTOPTB_WOL_530;Моя личная шпионка!;x
+EVTOPTC_WOL_530;Простая девка? Я могу лучше!;x
+##;;Prendre avantage;Die Gelegenheit ausnutzen;;Aprovechamiento;;;;;;;;x;
+##;;J'ai pris pour habitude de visiter les condamnйs des donjons, et je me suis rendu compte que l'un(e) d'entre eux, [target_prisoner.GetTitledFirstNameNoRegnal], a l'air franchement ravissant ! [target_prisoner.GetSubjectPronounCap] a sans le moindre doute ses vues sur ma personne, des suites de son extrкme solitude et abstinence. Devrais-je prendre avantage de la situation ?;Ich habe es mir zur Gewohnheit gemacht, die Verurteilten im Kerker zu besuchen und festgestellt, dass Hдftling [target_prisoner.GetTitledFirstNameNoRegnal] дuЯerst gutaussehend ist! Es ist offensichtlich, dass [target_prisoner.GetSubjectPronoun] mich begehrt, da [target_prisoner.GetSubjectPronoun] einsam ist und sich nach Zuwendung sehnt. Soll ich die Gelegenheit ausnutzen?;;ЎHe llevado a visitar los condenados en las mazmorras, y he dado cuenta de que mi prisionero [target_prisoner.GetTitledFirstNameNoRegnal] es realmente atractivo! En soledad y pasando privaciones, [target_prisoner.GetSubjectPronounCap] obviamente me desea. їDebo tomar ventaja?;;;;;;;;x;
+##;;Prendre avantage ? Je suis [Root.GetMasterMistress] ici !;Die Gelegenheit ausnutzen? Als [Root.GetMasterMistress] nehme ich mir, was ich will!;;їAprovecharme? ЎAquн mando yo!;;;;;;;;x;
+##;;[target_prisoner.GetTitledFirstNameNoRegnal] reзoit une proposition... pour un peu de soulagement !;[target_prisoner.GetTitledFirstNameNoRegnal] wird Erleichterung angeboten... allerdings keine Hafterleichterung!;;Ofrecer escape a [target_prisoner.GetTitledFirstNameNoRegnal]. .. Ўaunque no de la prisiуn!;;;;;;;;x;
+##;;Ceci est bien au-dessus de moi.;Das ist meiner unwьrdig.;;Es indigno de mн.;;;;;;;;x;
+##;;Mon geфlier, [From.GetTitledFirstName] a pris pour habitude de me visiter dans ma cellule de prison pour me tenter et me sйduire sans cesse. Je le jure, [From.GetSubjectPronoun] porte moins de vкtements а chaque visite !;Mein Kerkermeister [From.GetTitledFirstName] besucht mich oft in meiner Zelle und treibt mich mit grausamen Neckereien und Avancen zum Wahnsinn – ich kцnnte schwцren, dass [From.GetSubjectPronoun] jedes Mal weniger Kleidung trдgt!;;Mi carcelero [From.GetTitledFirstName] ha estado visitando mi celda a menudo, volviйndome loco con sus crueles burlas y coqueteos. ЎJuro que cada vez lleva menos ropa!;;;;;;;;x;
+##;;Cйder а ses avances. J'ai besoin de soulagement !;Ich gebe den Avancen nach. Ich muss mir Erleichterung verschaffen!;;Ceder ante sus avances. ЎDebo tener alivio!;;;;;;;;x;
+##;;Jamais ! Ma haine surpasse de loin mon dйsir !;Niemals! Hass ist stдrker als Lust!;;ЎNunca! ЎEl odio es mбs fuerte que el deseo!;;;;;;;;x;
+##;;Mettre fin а mon confinement pour une seule nuit d'extase avec [From.GetTitledFirstNameNoRegnal];Ich streife die Fesseln ab fьr eine einzige Nacht der Ekstase mit [From.GetTitledFirstNameNoRegnal];;Abandono mi reclusiуn durante una sola noche de felicidad con [From.GetTitledFirstNameNoRegnal]. ;;;;;;;;x;
+##;;J'ai enfilй ma tenue de cuir rouge, et j'ai fait en sorte que [From.GetTitledFirstNameNoRegnal] soit sorti(e) de sa cellule et amenй(e) dans mes quartiers pour une nuit d'extase et de cabrioles !;Ich legte meine rote Lederbekleidung an und lieЯ [From.GetTitledFirstNameNoRegnal] aus der Zelle in Ketten zu mir bringen fьr eine Nacht voller SpaЯ und Spiel!;;ЎVestн mi traje de cuero rojo e hice que trajeran a [From.GetTitledFirstNameNoRegnal], con grilletes, desde su celda para una noche de diversiуn y juegos!;;;;;;;;x;
+##;;Dominez les ennemis !;Beherrsche deine Feinde!;;ЎDomina a los enemigos!;;;;;;;;x;
+EVTDESC_WOL_560;Я вижу её мимолётное мелькание, скрывающееся от моих глаз. Голая, рыжая, хихикающая - нимфа, живущая в саду. Она дразнит меня, но никогда не показывается полностью. Как же я могу завоевать её сердце?;x
+EVTOPTA_WOL_560;Чудесный розовый куст. Должно быть, это его дух!;x
+EVTOPTB_WOL_560;Стоп... что я тут делаю в такой час в одних трусах?!;x
+EVTTOOLTIP_WoL_561;Вы входите в розовый куст, следуя своей любви.;x
+EVTDESC_WOL_561;Много часов спустя, я шатаясь выбираюсь из розового куста. Меня переполняют смутные плотские воспоминания. Повсюду шипы и кровь. О, сладострастная дриада! Ночь с тобой имеет свою цену...;x
+EVTOPTA_WOL_561;Увижу ли я её снова?;x
+EVTDESC_WOL_562;Сегодня слуги нашли новорождённого в корзинке возле волшебного куста моей возлюбленной дриады!;x
+EVTOPTA_WOL_562;Сим заявляю, [target_baby.GetFirstName] - м[target_baby.GetLordLady] [target_baby.GetSonDaughter]!;x
+EVTOPTB_WOL_562;Обеспечьте этому ребёнку достойный уход.;x
+EVTDESC_WOL_570;Он манит меня к себе - вот это мускулы, никогда не доводилось встретить столь мужественнего... кентавра!;x
+EVTOPTA_WOL_570;О, этот возбуждающий запах!;x
+EVTOPTB_WOL_570;Стоп... кентавр? В наших коняшнях?!;x
+EVTTOOLTIP_WoL_571;Вы поддаётесь своим желаниям.;x
+EVTDESC_WOL_571;Какое блаженство! Меня переполняют смутные образы потрясающе прекрасного кентавра и нашей страстной ночи.;x
+EVTOPTA_WOL_571;Увижу ли я его снова?;x
+EVTDESC_WOL_580;Страдания моего плена прерываются только, когда я применяю свою чары на тюремщике. Могу уверенно сказать, этот уродливый болван хочет меня... Возможно, стоит воспользоваться его слабостью, чтобы сбежать.;x
+EVTOPTA_WOL_580;Эй, красавчик, подойди-ка сюда!;x
+EVTOPTB_WOL_580;Слишком рискованно.;x
+EVTDESC_WOL_581;Открыв камеру, вожделеющий тюремщик подошёл ко мне. Когда он начал ласкать меня, я предложила заняться этим в более приятном месте. Он лишь заржал, как конь и шлёпнув меня по заднице, ушёл прочь.;x
+EVTOPTA_WOL_581;Его [Root.Host.GetMasterMistress] [Root.Host.GetTitledFirstNameNoRegnal] об этом узнает.;x
+EVTDESC_WOL_582;Моя заключённая [From.GetTitledName] пыталась использовать свои женские чары на тюремщике, чтобы сбежать. К счастью, он не поддался её уловкам.;x
+EVTOPTA_WOL_582;Смело! Она явно заслужила лучшей участи.;x
+EVTOPTB_WOL_582;Верный тюремщик достоин награды.;x
+EVTOPTC_WOL_582;[GetRootFromInsult]! Бросьте её в подземелье.;x
+EVTDESC_WOL_583;[From.GetTitledFirstNameNoRegnal] под впечатлением от моей попытки соблазнить тюремщика, и теперь [From.GetSubjectPronoun] лично провожает меня из темницы в удобную комнату. Оттуда будет намного проще сбежать...;x
+EVTOPTA_WOL_583;Благодарю Вас, [From.PrimaryTitle.GetFOA]!;x
+EVTDESC_WOL_584;[From.GetTitledFirstNameNoRegnal] узнав о моих попытках соблазнения тюремщика, отдаёт приказ бросить меня в подземелье!;x
+EVTOPTA_WOL_584;[GetRootFromInsult]! Я сдохну в этой дыре...;x
+EVTDESC_WOL_585;Открыв камеру, вожделеющий тюремщик подошёл ко мне. Когда он начал ласкать меня, я предложила заняться этим в более приятном месте. Он охотно провёл меня мимо других стражников в свою комнату, где я должна была сделать то, чем не горжусь... Стукнув его по голове кувшином, я взяла ключи, одежду и сбежала!;x
+EVTOPTA_WOL_585;Свобода!;x
+EVTDESC_WOL_586;Моего тюремщика соблазнила пленница, хитрая [From.GetTitledName]. Он взял её в свою комнату, где она шарахнула его по голове кувшином вина и сбежала!;x
+EVTOPTA_WOL_586;Бросьте идиота в подземелье!;x
+EVTDESC_WOL_590;Моя наложница [target_consort.GetTitledFirstNameNoRegnal], меня явно недолюбливает. Любовь, конечно, в этом деле - лишнее, но хотелось бы увидеть хоть немного радости на её лице.;x
+EVTOPTA_WOL_590;Решено, я должен её очаровать!;x
+EVTTOOLTIP_WoL_591;Соблазнение наложницы по имени [This.GetFirstName] начинается;x
+EVTDESC_WOL_592;Сегодня м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] засмеялась, когда я рассказал глупую шутку про белок. Думаю, она уже не столь холодна, как прежде...;x
+EVTDESC_WOL_592_B;Пожалуй уже можно сказать, что м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] влюблена в меня. Сегодня, она прижалась ко мне, когда мы наблюдали закат с крыши башни.;x
+EVTOPTA_WOL_592;Что ж, это радует!;x
+EVTDESC_WOL_593;Благодаря предпринятым усилиям, моя милая [GetFromRelation] [From.GetFirstName] теперь стала моей любовницей. Как же хорошо избавиться от неловкости в отношениях с ней.;x
+EVTOPTA_WOL_593;Наконец-то!;x
+EVTDESC_WOL_594;Сегодня [From.GetFirstName], моя [GetFromRelation], призналась, что простила меня за своё похищение - ей нравится её новая [Root.Capital.Capital.County.GetAdjective]ая жизнь... и я.;x
+EVTOPTA_WOL_594;Какое облегчение. Я рад!;x
+EVTDESC_WOL_595;Моя [GetFromRelation] [From.GetFirstName] по-прежнему холодна ко мне. Да, она смеется на моими шутками, но только для вида. А сегодня она сказала мне прямо, что ненавидит меня.;x
+EVTOPTA_WOL_595;Я просто так не отступлю!;x
+EVTOPTB_WOL_595;Ну нет так нет. Что ж поделать...;x
+EVTDESC_WOL_1150;Много любовников - это прекрасно. Столько удовольствий, приключений... но так мало времени! Иногда мне кажется, я помру от перенапряжения. Может с кем-нибудь из них расстаться?;x
+EVTOPTA_WOL_1150;Нет, я справлюсь!;x
+EVTOPTB_WOL_1150;[first_lover.GetTitledFirstNameNoRegnal];x
+EVTOPTC_WOL_1150;[second_lover.GetTitledFirstNameNoRegnal];x
+EVTOPTD_WOL_1150;[third_lover.GetTitledFirstNameNoRegnal];x
+EVTDESC_WOL_1160;Моя любовь, [my_lover.GetTitledFirstNameNoRegnal], страдает в своём несчастном браке. [my_lover.Spouse.GetTitledFirstName] постоянно изводит [my_lover.GetHersHis]. Хорошо бы выбраться за город, где сможем побыть только вдвоём (ну и верные слуги, разумеется).;x
+EVTOPTA_WOL_1160;Я так скучаю по [my_lover.GetAbsPossPronoun] объятьям!;x
+EVTOPTB_WOL_1160;[my_lover.Spouse.GetFirstName] может узнать. Это опасно.;x
+EVTTOOLTIP_WoL_1161;Предложение сделано. [This.GetTitledFirstNameNoRegnal] подумает над ним...;x
+EVTDESC_WOL_1161;Рваные подушки, сломанная мебель, разбитые вазы... [Root.Spouse.GetFirstName] - не [Root.Spouse.GetHusbandWife], а сущее наказание. Этот ад был бы беспросветным, если бы не [From.GetTitledFirstNameNoRegnal]. [From.GetSheHeCap] предлагает нам выбраться вдвоём за город на пару романтических и страстных дней, подальше от семейной жизни.;x
+EVTOPTA_WOL_1161;Блестящая идея!;x
+EVTOPTB_WOL_1161;А давай прямо здесь, у н[Root.Spouse.GetHersHis] под носом!;x
+EVTOPTC_WOL_1161;Я очень хочу, но... это рискованно.;x
+EVTOPTD_WOL_1161;Мы не можем! Смотрящий... он повсюду. Он всё видит!;x
+EVTTOOLTIP_WoL_1162;Мы рискуем, что [Root.Spouse.GetFirstName] разоблачит нас;x
+EVTTOOLTIP_WoL_1163;Почти нет риска, что [Root.Spouse.GetFirstName] разоблачит нас;x
+EVTDESC_WOL_1162;[From.GetFirstName] предлагает остаться здесь, [From.GetHersHis] [From.Spouse.GetHusbandWife] заслуживает того, чтобы чтобы сделали это у н[From.Spouse.GetHersHis] под носом, а ещё лучше - прямо в [From.Spouse.GetHersHis] постели!;x
+EVTOPTA_WOL_1162;Мы - грязные развратники...;x
+EVTDESC_WOL_1163;Я и м[From.GetLordLady] [From.GetFirstName] провели вместе несколько дней, полных романтики и страсти, в загородной усадьбе, вдали от любопытных... супружеских глаз.;x
+EVTOPTA_WOL_1163;Это было прекрасно!;x
+EVTDESC_WOL_1164;[From.GetFirstName] считает, что нам нельзя так рисковать и отказывается от моего предложения провести вместе время за городом.;x
+EVTOPTA_WOL_1164;Как можно упускать такую возможность!;x
+EVTDESC_WOL_1164_MAD;[From.GetFirstName] отказывается от моего предложения провести вместе время за городом. Бубнит о каком-то Смотрящем с "ужасными глазами", который видит всё...;x
+EVTOPTA_WOL_1164_MAD;Бедняжка. Боюсь, [From.GetSubjectPronoun] уже совсем того...;x
+EVTOPTA_WOL_1164_MAD_MAD;Смотрящий?! О нет! Надо спрятаться...;x
+EVTDESC_WOL_2002;Жизнь в тени опасна и непредсказуема - шпионов могут поймать, заговоры могут обернуться против вас, а какая-нибудь мстительная жертва внезапно приставить кинжал к вашему горлу. Я не горжусь тем, что делаю, но всё это для общего блага.;x
+EVTDESC_WOL_2003;Даже самое мощное войско может быть повержено действиями одного человека, отрежьте голову и тело падёт. Я, [Root.GetFirstName] - [Root.GetMasterMistress] Тени.;x
+EVTOPTA_WOL_2003;Я буду дёргать за ниточки из-за сцены...;x
+EVTOPTB_WOL_2003;Я поселю ужас в сердца моих врагов!;x
+EVTOPTC_WOL_2003;Однако, я не позволю тени поглотить меня.;x
+EVTDESC_WOL_2050;При помощи своих людей, я буду внимательно следить за тем, что делает [From.GetTitledName]... очень внимательно.;x
+EVTOPTA_WOL_2050;Что же [From.GetSubjectPronoun] скрывает?;x
+EVTDESC_WOL_2061;[FromFromFrom.GetTitledFirstName] больше не нуждается в моём пристальном внимании - нет смысла следить за мертвецом.;x
+EVTOPTA_WOL_2061;Что ж, займёмся чем-нибудь ещё.;x
+EVTDESC_WOL_2062;[FromFromFrom.GetTitledFirstName] теперь в тюрьме, нет смысла продолжать слежку.;x
+EVTDESC_WOL_2063;[FromFromFrom.GetTitledFirstName], цель моего шпионажа, теперь в коме. Нет смысла продолжать слежку.;x
+EVTDESC_WOL_2064;[FromFromFrom.GetTitledFirstName] теперь за пределами страны, так что больше нет возможности продолжать слежку.;x
+EVTDESC_WOL_2071;Слежка позволила мне узнать, что [target_spy_on.GetTitledName] участвует в заговоре с целью [From.GetPlot]!;x
+EVTOPTA_WOL_2071;Знание - сила!;x
+EVTDESC_WOL_2080;Мои люди услышали, как [FromFromFrom.GetTitledName] распространяет шокирующую ложь о своём законном сюзерене! Как мне использовать эти сведения?;x
+EVTDESC_WOL_2080_BASTARD;Мне удалось раскопать подлинные любовные письма, доказывающие, что [FromFromFrom.GetTitledName] - бастард! [FromFromFrom.Mother.GetTitledFirstName], [FromFromFrom.GetAbsPossPronoun] мать, крутила бурный роман на стороне, настоящий отец - [FromFromFrom.RealFather.GetTitledName]. Как же мне использовать эти ценные сведения?;x
+EVTDESC_WOL_2080_DEVIANT;Мне открылась причудливая и отвратительная истина - [FromFromFrom.GetTitledName] ведёт довольно странную жизнь, [FromFromFrom.GetHersHis] склонности и предпочтения далеки от норм приличий. Как же использовать эти сведения?;x
+EVTDESC_WOL_2080_HERETIC;Благодаря моим верным шпионам, мне удалось узнать, что [FromFromFrom.GetTitledName] пытается распространять свою мерзкую ересь. Как мне лучше применить полученные сведения?;x
+EVTDESC_WOL_2080_INFIDEL;Доверенные информаторы сообщают, что [FromFromFrom.GetTitledName] проповедует ложную религию среди [FromFromFrom.Capital.County.GetAdjective]ого населения. Как мне использовать эти сведения?;x
+EVTDESC_WOL_2080_TRAITOR;Из сомнительных источников мне удалось узнать, что [FromFromFrom.GetTitledName] замышляет заговор против своего сюзерена. Как мне использовать эти шокирующие сведения?;x
+EVTOPTA_WOL_2080;Скажу [target_spy_on.GetAbsPossPronoun] сюзерену об этом.;x #[target_spy_on.Liege.GetTitledName]
+EVTOPTB_WOL_2080;Публичное разоблачение даёт мне повод арестовать [target_spy_on.GetAbsPossPronoun]!;x
+EVTOPTB_WOL_2080_HARSH;Публично разоблачив, можно арестовать [target_spy_on.GetAbsPossPronoun] и отнять титул!;x
+EVTOPTC_WOL_2080;Угрозы помогут держать [target_spy_on.GetAbsPossPronoun] подальше от политики.;x
+EVTOPTD_WOL_2080;Угрозы помогут принудить [target_spy_on.GetAbsPossPronoun] вступить в мою фракцию.;x
+EVTOPTE_WOL_2080;Приберегу их для себя.;x
+EVTDESC_WOL_2081;[From.GetTitledName] обвиняет меня в клевете и утверждает, что может это доказать, а это повод, чтобы отправить меня в тюрьму!;x
+EVTDESC_WOL_2081_BASTARD;[From.GetTitledName] утверждает, что раскрыл правду о том, что мой отец на самом деле - [Root.RealFather.GetTitledName], это означает, что я - бастард! Теперь меня могут арестовать и отозвать титулы!;x
+EVTDESC_WOL_2081_TRAITOR;[From.GetTitledName] прелюдно обвиняет меня в государственной измене, утверждая, что есть свидетели, которые могут это подтвердить. Меня могут арестовать или даже отозвать мои титулы!;x
+EVTDESC_WOL_2081_HERETIC;[From.GetTitledName] утверждает, что я распространяю ересь! Меня могут арестовать за это.;x
+EVTDESC_WOL_2081_INFIDEL;[From.GetTitledName] утверждает, что я проповедую [Root.Religion.GetGroupName]. За это меня могут арестовать.;x
+EVTDESC_WOL_2081_DEVIANT;[From.GetTitledName] утверждает, что заполучил шокирующие доказательства моих преступных нравов и аморального поведения. Из-за этой клеветы меня могут арестовать.;x
+EVTOPTA_WOL_2081;Это гнусная ложь!;x
+EVTDESC_WOL_2082;[From.GetTitledName] приводит мне доказательства того, что [target_spy_on.GetTitledName] подло клевещет на меня! Как мне использовать эти сведения?;x
+EVTDESC_WOL_2082_BASTARD;[From.GetTitledName] показывает мне любовные письма, доказывающие, что [target_spy_on.GetTitledName] - бастард! [target_spy_on.Mother.GetTitledFirstName], [target_spy_on.GetAbsPossPronoun] мать, крутила бурный роман на стороне, настоящий отец - [target_spy_on.RealFather.GetTitledName]. Как мне использовать эти шокирующие сведения?;x
+EVTDESC_WOL_2082_DEVIANT;[From.GetTitledName] приводит мне доказательства того, что [target_spy_on.GetTitledName] ведёт довольно странную жизнь, полную придудливых и отвратительных склонностей. Как мне использовать эти сведения?;x
+EVTDESC_WOL_2082_HERETIC;[From.GetTitledName] утверждает, что [target_spy_on.GetTitledName] распространяет ересь. Как мне использовать эти сведения?;x
+EVTDESC_WOL_2082_INFIDEL;[From.GetTitledName] говорит мне, что [target_spy_on.GetTitledName] проповедует ложную религию среди [target_spy_on.Capital.County.GetAdjective]ого населения. Что мне делать с этими сведениями?;x
+EVTDESC_WOL_2082_TRAITOR;[From.GetTitledName] предоставляет мне доказательства, что [target_spy_on.GetTitledName] замышляет заговор против меня! Как мне поступить с этими сведениями?;x
+EVTDESC_WOL_2083;[From.GetTitledName] выражает благодарность и сожаление по поводу доказательств, предоставленных мной - публичное разоблачение и унижение, которые испытывает на себе [target_spy_on.GetTitledName], достойны классической трагедии.;x
+EVTOPTA_WOL_2083;Бугага!;x
+EVTDESC_WOL_2084;[From.GetTitledName] выражает благодарность и сожаление по поводу доказательств, предоставленных мной и будет использовать их для шантажа - теперь [target_spy_on.GetTitledName] скорее всего будет держаться подальше от политики.;x
+EVTOPTA_WOL_2084;Всё на благо нашей державы...;x
+EVTDESC_WOL_2085;[From.GetTitledName] выражает крайнее удивление по поводу предоставленных доказательств, но не станет предпринимать что-либо - [target_spy_on.GetTitledName] выйдет сухим из воды.;x
+EVTOPTA_WOL_2085;Упущенная возможность!;x
+EVTDESC_WOL_2086;[From.GetTitledName] утверждает, что может представить доказательства моей клеветы в свой адрес. [From.GetSubjectPronounCap] обещает не раскрывать их, если я буду держаться подальше от политики.;x
+EVTDESC_WOL_2086_BASTARD;[From.GetTitledName] утверждает, что обладает доказательствами того, что мой отец на самом деле - [Root.RealFather.GetTitledName], а я - всего лишь бастард! [From.GetSubjectPronounCap] обещает молчать об этом, если я буду держаться подальше от политики.;x
+EVTDESC_WOL_2086_TRAITOR;[From.GetTitledName] говорит, что знает о моём предательстве - у н[From.GetHersHis] есть свидетели, которые могут это подтвердить. [From.GetSubjectPronounCap] обещает не предпринимать ничего, если я буду держаться подальше от политики.;x
+EVTDESC_WOL_2086_HERETIC;[From.GetTitledName] утверждает, что я распространяю ересь и обещает не разоблачать меня, если я буду держаться подальше от фракций.;x
+EVTDESC_WOL_2086_INFIDEL;[From.GetTitledName] говорит, что знает о моих попытках проповедовать [Root.Religion.GetGroupName]. [From.GetSubjectPronounCap] обещает молчать об этом, если я буду держаться подальше от политики.;x
+EVTDESC_WOL_2086_DEVIANT;[From.GetTitledName] говорит, что знает о моём аморальном поведении и обладает необходимыми доказательствами. [From.GetSubjectPronounCap] обещает молчать об этом, если я буду держаться подальше от политики.;x
+EVTOPTA_WOL_2086;У меня нет выбора, придётся принять условия.;x
+EVTOPTB_WOL_2086;Никогда!;x
+EVTDESC_WOL_2087;Доказательства оказали необходимый эффект -[From.GetTitledFirstName] заверяет о своей лояльности и обещает держаться подальше от политики.;x
+EVTDESC_WOL_2088;Доказательства не произвели нужного эффекта - [From.GetTitledFirstName] лишь смеется мне в лицо, подтверждая свой отказ держаться подальше от моих политических противников.;x
+EVTOPTA_WOL_2088;[From.GetSubjectPronounCap] ещё пожалеет об этом!;x
+EVTDESC_WOL_2090;Доказательства произвели нужный эффект - [From.GetTitledFirstName] обещает мне политическую поддержку и вступление в мои фракции.;x
+EVTDESC_WOL_2091;Доказательства не произвели нужного эффекта - [From.GetTitledFirstName] лишь смеется мне в лицо, подтверждая тем самым свой отказ поддержать меня на политическом фронте и вступать в мои фракции.;x
+EVTDESC_WOL_2100;[target_spy_on.GetTitledName] - сама порядочность, во всяком случае мне не удалось найти ничего нового и полезного о [target_spy_on.GetHersHis] прошлом. Но, как отметил мой осведомитель, ничто не помешает мне сфабриковать сведения. Чем страшнее ложь...;x
+EVTOPTA_WOL_2100_1;Вот оно! [target_spy_on.GetSubjectPronounCap] любит одеваться, как [target_spy_on.GetManWomanOpp]!;x
+EVTOPTA_WOL_2100_2;А может классика? [target_spy_on.GetSubjectPronounCap] любит маленьких мальчиков!;x
+#EVTOPTA_WOL_2100_3;Hmmm. Midgets, old shoes, animals... Yes! [target_spy_on.GetFirstName] is having an affair with a feisty goat!;Hmmm. Des nains, des vieilles chaussures, et des animaux... oui ! [target_spy_on.GetFirstName] a une liaison avec une chиvre fougueuse !;Hmmm. Zwerge, alte Schuhe, Tiere... Das ist es! [target_spy_on.GetFirstName] hat eine Affдre mit einer widerborstigen Ziege!;;Hum. Enanos, zapatos viejos, animales... ЎSн! Ў[target_spy_on.GetFirstName] tiene un romance con una cabra batalladora!;;;;;;;;;x
+EVTOPTA_WOL_2100_4;[target_spy_on.GetSubjectPronounCap] купается в крови девственниц. Блестяще!;x
+#EVTOPTA_WOL_2100_5;How about murder? I am sure [target_spy_on.GetSubjectPronoun] murdered a childhood friend at the tender age of 11.;Que diriez-vous d'un meurtre ? Je suis sыr(e) qu'[target_spy_on.GetSubjectPronoun] a tuй un de ses amis d'enfance а 11 ans, l'вge pourtant associй а la tendresse.;Wie wдre es mit Mord? [target_spy_on.GetSubjectPronounCap] ermordete einen Spielgefдhrten im zarten Alter von 11 Jahren.;;їY asesinato? Estoy seguro de que [target_spy_on.GetSubjectPronounCap] asesinу a un amigo de la infancia a la tierna edad de 11 aсos.;;;;;;;;;x
+#EVTOPTA_WOL_2100_6;Aha! [target_spy_on.GetSubjectPronounCap] likes to discuss philosophy with [target_spy_on.GetPossPronoun] imaginary friend, Bappo!;Aha ! [target_spy_on.GetSubjectPronounCap] aime parler philosophie avec son ami imaginaire, Bappo !;Aha! [target_spy_on.GetSubjectPronounCap] diskutiert gerne ьber Philosophie mit einem unsichtbaren Freund namens Bappo!;;ЎAjб! ЎA [target_spy_on.GetSubjectPronounCap] [target_spy_on.GetPossPronoun] gusta hablar de filosofнa con su amigo imaginario, Bappo!;;;;;;;;;x
+EVTOPTA_WOL_2100_7;[target_spy_on.Religion.GetRandomEvilGodNameCap]! Да, [target_spy_on.GetSubjectPronoun] прислуживает тёмным силам!;x
+#EVTOPTA_WOL_2100_8;[target_spy_on.GetFirstName] leads a secret life as a prostitute in the filthiest brothel in [target_spy_on.Capital.Capital.GetName]!;[target_spy_on.GetFirstName] se prostitue secrиtement dans l'une des maisons closes les plus infвmes de [target_spy_on.Capital.Capital.GetName] !;[target_spy_on.GetFirstName] fьhrt ein Doppelleben als Prostituierte im schmutzigsten Freudenhaus von [target_spy_on.Capital.Capital.GetName]!;;Ў[target_spy_on.GetFirstName] lleve una vida secreta prostituyйndose en el burdel mбs asqueroso de [target_spy_on.Capital.Capital.GetName]!;;;;;;;;;x
+EVTOPTB_WOL_2100;Нет, нужно что-то правдоподобное.;x
+EVTTOOLTIP_WOL_2101;[This.GetTitledFirstName] обнаруживает, что мною пущен слух.;x
+EVTDESC_WOL_2101;Ряд мерзких слухов ходят обо мне в последнее время. С большим трудом мне всё же удалось выяснить, что за ними стоит [From.GetTitledName]!;x
+EVTOPTA_WOL_2101;[GetRootFromInsult]!;x
+EVTDESC_WOL_2110;Один из моих информаторов, смазливый и порочный молодой солдат, добился того, что [FromFromFrom.GetTitledFirstNameNoRegnal] теперь всецело доверяет ему и велит охранять дверь в [FromFromFrom.GetAbsPossPronoun] покои. Не понимаю, как этот парень смог такое провернуть, но кто я, чтобы смотреть в зубы дарёному коню? Немного золота и [FromFromFrom.GetFirstName] отправится в мир иной.;x
+EVTOPTA_WOL_2110;Подходящий способ.;x
+EVTOPTB_WOL_2110;Убийство? Это уж слишком!;x
+EVTTOOLTIP_WOL_2111;[This.GetTitledFirstNameNoRegnal] подвергнется нападению и если повезёт, умрёт...;x
+EVTDESC_WOL_2111_DEATH;Я пытаюсь встать, но кто-то прижимает меня к постели! Это тот самый здоровенный оруженосец, продвинутый мной неделю назад в личные охранники. Его сообщник пытается заткнуть мне рот тряпкой и зажать нос. Я не могу дышать...;x
+EVTDESC_WOL_2111_WOUNDED;Я пытаюсь встать, но кто-то прижимает меня к постели! Это тот самый здоровенный оруженосец, продвинутый мной неделю назад в личные охранники. С ним какой-то мелкий дрыщ, злобно ухмыляясь наносит мне удар кинжалом! Отбиваясь с жутким воплем и пиная охранника в пах, я вырываюсь и бегу к двери, истекая кровью, попутно как следует треснув второго по носу.;x
+EVTDESC_WOL_2111_LIVES;Я пытаюсь встать, но кто-то прижимает меня к постели! Это тот самый здоровенный оруженосец, продвинутый мной неделю назад в личные охранники. С ним какой-то мелкий дрыщ, злобно ухмыляется, вынимая кинжал. Отбиваясь с жутким воплем и пиная охранника в пах, я вырываюсь и бегу к двери, истекая кровью, попутно как следует треснув второго по носу.;x
+EVTOPT_WOL_2111_DEATH;Помо...;x
+EVTOPT_WOL_2111_DEATH_KNOWN;"[From.GetTitledName] шлёт свой привет!";x
+EVTOPT_WOL_2111_UNKNOWN;К несчастью, нападавшие сбежали.;x
+EVTOPT_WOL_2111_KNOWN;Они сознались, это [From.GetTitledName]!;x
+EVTDESC_WOL_2112;Мой друг-стражник со своим скользким напарником встретили меня в таверне - мне пришлось скрыть своё лицо от любопытных глаз маской. Злобно ухмыляясь, он рассказал, что [From.GetTitledFirstNameNoRegnal] больше не является проблемой, они зарезали [From.GetHersHis] в собственной постели. Затем, взяв с меня плату за свои услуги, они ушли.;x
+EVTOPTA_WOL_2112;*шепчу своей охране* "Позаботьтесь об этих двоих.";x
+EVTDESC_WOL_2113;[From.GetTitledFirstNameNoRegnal], [GetRootFromInsult], твоя постель стала твоей же могилой - мой шпион, стражник-здоровяк, нанятый для убийства, добился своей цели. Однако, при попытке скрыться он был схвачен, и моя причастность стала достоянием общественности!;x
+EVTOPTA_WOL_2113;Это стоило того!;x
+EVTDESC_WOL_2114;Мой друг-стражник со своим скользким напарником встретили меня в таверне - мне пришлось скрыть своё лицо от любопытных глаз маской. С позором, он говорит мне, что [From.GetTitledFirstNameNoRegnal] не спешит на тот свет - они ранили [From.GetHersHis], но [From.GetHerHim] удалось сбежать. Я хлопаю его по плечу: "Эй, не парься ты так, всё хорошо.";x
+EVTDESC_WOL_2115;[From.GetTitledFirstNameNoRegnal], [GetRootFromInsult], никак не помирает - мой шпион-стражник смог только ранить [From.GetHersHis]. А что ещё хуже, его схватили при попытке бежать с места преступления. Теперь моя причастность стала достоянием общественности!;x
+EVTOPTA_WOL_2115;Надеюсь, [From.GetSubjectPronoun] сдохнет от заражения раны!;x
+EVTDESC_WOL_2116;Мой друг-стражник со своим скользким напарником встретили меня в таверне - мне пришлось скрыть своё лицо от любопытных глаз маской. Он огорчённо сообщает мне, что [From.GetTitledFirstNameNoRegnal] живёт и здравствует: "Мы напали на н[From.GetHersHis] среди ночи, но эта тварь каким-то чудом вскочила с постели, вырвалась и сбежала!". Я лицемерно утешаю его.;x
+EVTDESC_WOL_2117;Мой шпион, стражник-здоровяк, нанятый для убийства, не только полностью провалил свою миссию, но и был схвачен при попытке бежать с места преступления. Теперь [From.GetTitledFirstNameNoRegnal] знает о моей причастности к этому нападению!;x
+EVTOPTA_WOL_2117;Бесполезный криворукий болван!;x
+EVTDESC_WOL_2120;Мои птички напели, что [FromFromFrom.GetTitledFirstNameNoRegnal] планирует путешествие по стране инкогнито, шутки ради, смешавшись с простолюдинами. Охранять [FromFromFrom.GetHersHis] в этом приключении будут только два верных друга. Какая прекрасная возможность для похищения.;x
+EVTOPTA_WOL_2120;О да! Это как раз то, что мне нужно!;x
+EVTOPTB_WOL_2120;Мне от этого никакой пользы.;x
+EVTTOOLTIP_WOL_2121;Бандиты наняты, им приказано привести ко мне человека по имени [FromFromFrom.GetTitledFirstNameNoRegnal].;x
+EVTDESC_WOL_2121;"Итак, я отправляюсь в путешествие. Но не обычное - я смешаюсь с простым народом, и возьму с собой только тебя, слугу и телохранителя, будет весело!" - говорю я другу. На следующий день, мы уже едем по лесу, наслаждаясь своим приключением, и тут внезапно стрела пронзает горло моего охранника! Громко крикнув, мы спешно покидаем лес, уносясь прочь, что есть мочи...;x
+EVTOPT_WOL_2121_CAUGHT;Засада! [From.GetTitledName], [From.GetHersHis] люди!;x
+EVTOPT_WOL_2121;...и спасаемся от бандитов! Жалкие дилетанты!;x
+EVTDESC_WOL_2122;[From.GetTitledFirstNameNoRegnal] теперь у меня в плену - мои головорезы подкараулили [From.GetHersHis] и принесли ко мне в мешке!;x
+EVTDESC_WOL_2123;[From.GetTitledFirstNameNoRegnal] всё ещё на свободе - мои головорезы убили слугу и телохранителя, но так и не смогли поймать [From.GetHersHis].;x
+EVTOPTA_WOL_2123;Идиоты! В наши дни трудно найти хороших помощников.;x
+EVTDESC_WOL_2200;[From.GetTitledName] томится в застенках темницы, [From.Host.GetTitledName] уже давно держит [From.GetHersHis] там. Я хочу вытащить [From.GetHersHis] оттуда. Да, это займёт врёмя и потребует денег, но [From.GetFirstName] заслуживает лучшей участи.;x
+EVTOPTA_WOL_2200;Мне понадобится [From.Host.Capital.Capital.County.GetAdjective]ий агент.;x
+EVTDESC_WOL_2201;[From.GetFirstName], м[From.GetLordLady] [GetFromRelation], томится в застенках темницы, [From.Employer.GetTitledName] уже давно держит [From.GetHersHis] в плену. Я хочу вытащить [From.GetHersHis] оттуда. Да, это займёт врёмя и потребует денег, но [From.GetFirstName] заслуживает лучшей участи.;x
+EVTDESC_WOL_2211;[target_captive.GetTitledFirstName] теперь в лучшем мире. Смерть настигла [target_captive.GetHersHis] в плену задолго до того, как у меня появился шанс [target_captive.GetHersHis] спасти.;x
+EVTOPTA_WOL_2211;Всё равно стоило попытаться.;x
+EVTDESC_WOL_2212;[target_captive.GetTitledFirstName] в коме, и теперь мои стремления [target_captive.GetHersHis] спасти потеряли всякий смысл.;x
+EVTDESC_WOL_2213;[target_captive.GetTitledFirstName] теперь на свободе, мои планы по [target_captive.GetHersHis] спасению отменяются.;x
+EVTDESC_WOL_2221;[From.GetBestName] и я встретились на одном из официальных приёмов, которые время от времени проводит у себя при дворе [From.Employer.GetTitledName]. [From.GetFirstName] склоняется к тому, что [target_captive.GetTitledFirstName] заслуживает спасения. Как мне заручиться [From.GetHersHis] поддержкой?;x
+EVTOPTA_WOL_2221;Посвящу [From.GetHersHis] в свой план.;x
+EVTOPTB_WOL_2221;Подкуплю [From.GetHersHis] и задействовать план.;x
+EVTOPTC_WOL_2221;Соблазню [From.GetHersHis] и задействовать план.;x
+EVTOPTD_WOL_2221;Не нравится мне эта затея. Откажусь от плана.;x
+EVTDESC_WOL_2223;Просыпаясь от беспокойного сна, я замечаю странный глухой стук недалеко от своей камеры, затем последовал звон ключей, щёлчок замка и дверь открылась. Это [From.GetBestName]! - "[Root.PrimaryTitle.GetFOA], скорее, следуйте за мой. [FromFrom.GetTitledFirstNameNoRegnal] надеется, что с моей помощью Вы сбежите отсюда.";x
+EVTOPTA_WOL_2223;Свобода!;x
+EVTDESC_WOL_2224;[Root.PrimaryTitle.GetFOA], дурные вести - камера, в которой по Вашему распоряжению содержится [From.GetBestName], сегодня оказалась пуста! Очевидно, [From.GetHerHim] кто-то помог - один из стражников без сознания от удара по голове.;x
+EVTDESC_WOL_2224_CONSORT;Моя наложница [From.GetBestName] сбежала сегодня ночью! Она выбралась через окно своей комнаты в одной из башен. Скорее всего ей кто-то помог - страже никак не удавалось разыскать её до тех пор, пока она не оказалась за пределами страны.;x
+EVTOPTA_WOL_2224;[FromFromFrom.GetTitledName] стоит за этим!;x
+EVTDESC_WOL_2225;[Root.PrimaryTitle.GetFOA], добрые вести - [From.GetBestName] наконец-то на свободе и уже на пути в [Root.Capital.Capital.County.GetAdjective]ие земли! Всё благодаря Вашему агенту - если бы не [FromFrom.GetBestName], ничего бы не получилось.;x
+EVTDESC_WOL_2226;Просыпаясь от беспокойного сна, я замечаю странный глухой стук недалеко от своей камеры, затем последовал звон ключей, щёлчок замка и дверь открылась, вошёл тюремщик. "Эта мразь пыталась тебя спасти" - прорычал он, швырнув в камеру неподвижное тело словно тряпичную куклу - "[Root.Host.GetTitledFirstNameNoRegnal] явно не обрадуется.";x
+EVTOPTA_WOL_2226;Это [From.GetBestName]? Бедолага...;x
+EVTDESC_WOL_2227;Этой ночью стражники пресекли попытку побега из темницы. Нарушитель, м[FromFrom.GetLordLady] [GetFromFromRelation] [FromFrom.GetBestName] и цель [FromFrom.GetHersHis] плана спасения - [From.GetTitledName], теперь вместе коротают время в камере.;x
+EVTDESC_WOL_2227_CONSORT;Моя [GetFromRelation] [From.GetFirstName] чуть было не сбежала прошлой ночью. Сюжет довольно... драматичный: [FromFrom.GetBestName] пытается "спасти" её от меня, забравшись в окно, но поскальзывается и падает! Не в силах пошевелиться?, с разбитой головой, [From.GetSheHe] признаётся - [FromFromFrom.GetTitledName] стоит за этим рыцарским идиотизмом.;x
+EVTOPTA_WOL_2227;[From.GetFirstName], тебе место в подземелье!;x
+EVTOPTB_WOL_2227;Усилить охрану!;x
+EVTDESC_WOL_2228;[From.GetTitledFirstNameNoRegnal], [GetRootFromInsult], бросает меня в подземелье, чтобы убедиться, что я не смогу сбежать!;x
+EVTOPTA_WOL_2228;Я сдохну в этой дыре!;x
+EVTDESC_WOL_2229;[Root.PrimaryTitle.GetFOA], дурные вести - план провалился, теперь в плену не только [From.GetBestName], но и Ваш агент [FromFrom.GetBestName]!;x
+EVTOPTA_WOL_2229;Проклятье! Теперь они усилят охрану.;x
+EVTDESC_WOL_2300;Мне удаётся обнаружить, что мой Тайный агент [Root.job_spymaster.GetTitledFirstNameNoRegnal] тайком отмечает мелом пятно на стене. Возможно, это обычное надувательство, но интуиция говорит об обратном...;x
+EVTOPTA_WOL_2300;Пора шпионить за шпионом;x
+EVTDESC_WOL_2302;Затаившись в секретном проходе между стенами, мне удалось подслужать разговор - мой неверный Тайный агент [Root.job_spymaster.GetFirstName] шепчется с кем-то, они собираются [From.GetPlot]!;x
+EVTOPTA_WOL_2302;Немедленно арестовать [Root.job_spymaster.GetHersHis]!;x
+EVTOPTB_WOL_2302;Я разберусь с этим позже.;x
+EVTDESC_WOL_2303;Подслушав, что я замышляю убийство, м[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstName] отдаёт приказ арестовать меня!;x
+EVTDESC_WOL_2304;Понаблюдав за своим Тайным агентом больше недели, мне ничего не остаётся, кроме как признать, что [Root.job_spymaster.GetHersHis] странное поведение просто связано с работой...;x
+EVTOPTA_WOL_2304;Есть дела поважнее.;x
+EVTOPTB_WOL_2304;Я не могу рисковать, [Root.job_spymaster.GetHersHis] нужно заменить.;x
+EVTDESC_WOL_2305;В последнее время я замечаю, что м[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstName] шпионит за мной. Видимо, это связано с [From.GetHersHis] навязчивым увлеченим интригами и повышенной подозрительностью. Мне следует быть осторожнее.;x
+EVTOPTA_WOL_2305;Что ж, сыграем в кошки-мышки.;x
+EVTDESC_WOL_3002;Чего только не сделаешь ради семьи. Но как же это трудно - взращивать лояльность и самоотверженность не только в отношении меня, но и ко всем родственникам, все, кто принадлежит этому великому Дому. Когда меня не станет, гармония и стабильность, которую я оставлю после себя, станет моим величайшим наследием.;x
+EVTOPTA_WOL_3002;Услышьте мой рык!;x
+EVTDESC_WOL_3003;Дом [Root.GetOnlyDynastyName] занимает прочное положение в обществе и это прежде всего заслуга его [Root.GetPatriarchMatriarch]а - да здравствует [Root.GetTitledFirstNameNoRegnal]!;x
+#EVTOPTA_WOL_3003;I shall be like a lion, proud and admired;Je serai tel le lion, fier et admirable;Ich werde sein wie ein Lцwe, stolz und bewundert;;Serй como un leуn, orgulloso y admirado;;;;;;;;;x
+#EVTOPTB_WOL_3003;I shall be like a falcon, fierce but protective of its brood;Je serai tel le faucon, fйroce mais prкt а protйger sa progйniture;Ich werde sein wie ein Falke, wild, aber seine Jungen beschьtzend;;Serй como un halcуn, feroz, pero protector de su nidada;;;;;;;;;x
+EVTOPTC_WOL_3003;Пора менять стиль жизни.;x
+EVTDESC_WOL_3010;В последнее время м[target_spouse.GetLordLady] [target_spouse.GetHusbandWife] [target_spouse.GetFirstName] и я всё чаще бываем наедине. И хотя наш брак был вовсе не по любви, сейчас я могу сказать, что мы начинаем любить друг друга.;x
+EVTOPTA_WOL_3010;Вот оно - семейное счастье!;x
+EVTDESC_WOL_3022;В последнее время мои усилия направлены на то, чтобы м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] и я проводили больше времени вместе. И хотя нам не часто удаётся побыть наедине, мой долг как сюзерена - всячески содействовать лояльности и уважению.;x
+EVTDESC_WOL_3022_CHILD;М[From.GetLordLady] [GetFromRelation] [From.GetFirstName] обожает меня - мы с удовольствием вместе играем. Очень важно с ранних лет заложить основу для будущих отношений...;x
+EVTDESC_WOL_3022_ABROAD;Я и м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] регулярно переписываемся - не сомневаюсь, мы обязательно увидимся, как только появится возможность. В этом суровом мире родные должны держаться вместе.;x
+EVTOPTA_WOL_3022;Семья превыше всего.;x
+EVTDESC_WOL_3032;М[From.GetLordLady] [GetFromRelation] [From.GetFirstName], [GetRootFromComplimentNounAdj] [From.GetManWoman], всегда может рассчитывать на мою поддержку. Я стараюсь помочь всем, чем могу, если не из-за любви, то из уважения к н[From.GetHerHim].;x
+EVTDESC_WOL_3042;Это довольно трудно, но м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] нуждается в моём внимании, и я стараюсь как могу, чтобы мы почаще проводили время вместе. Забота о родных взращивается живым примером.;x
+EVTDESC_WOL_3042_CHILD;Когда ты - [Root.PrimaryTitle.GetRulerTitle], у тебя совсем мало времени на обычную жизнь, но м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] нуждается в родительской заботе, и я приложу все усилия, чтобы мы проводили больше времени вместе.;x
+EVTDESC_WOL_3042_ABROAD;Я и м[From.GetLordLady] [GetFromRelation] [From.GetFirstName] регулярно переписываемся - не сомневаюсь, как только появится возможность, я обязательно увижу [From.GetHersHis], чтобы дать мудрый совет и напомнить [From.GetHerHim] о [From.GetHersHis] обязанностях.;x
+EVTDESC_WOL_3050;Мне стало известно, что [target_first.GetTitledFirstNameNoRegnal] и [target_second.GetTitledFirstNameNoRegnal] не в самых хороших отношениях. Эту ситуацию я надеюсь изменить. [Root.Capital.Capital.County.GetName] - хорошее место для встречи в кругу родных и близких.;x
+EVTDESC_WOL_3051;М[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstNameNoRegnal] предлагает провести время в семейном кругу. [From.Capital.Capital.GetName] - неплохое место для отдыха, но думаю, вся эта затея только для того, чтобы [target_second.GetTitledName] и я помирились.;x
+EVTOPTA_WOL_3051;Звучит неплохо.;x
+EVTOPTB_WOL_3051;Только этого мне не хватало!;x
+EVTDESC_WOL_3053;"Признайся, ведь [target_second.GetFirstName] приедет? К чему эти наивные попытки всех помирить?" - М[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstNameNoRegnal] отклоняет приглашение.;x
+EVTOPTA_WOL_3053;Ты ведёшь себя, как ребёнок!;x
+EVTDESC_WOL_3054;"[target_first.GetFirstName] тоже будет? Ну уж нет! Что за нелепая затея нас мирить?" - М[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstNameNoRegnal] отклоняет приглашение.;x
+EVTDESC_WOL_3055;М[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstNameNoRegnal] отклоняет приглашение, которое [target_initiator.GetTitledFirstNameNoRegnal] делает всем нам. А было бы весело, [target_initiator.Capital.Capital.GetName] - приятное место...;x
+EVTOPTA_WOL_3055;Как глупо с [From.GetHersHis] стороны!;x
+EVTDESC_WOL_3056;[From.GetTitledFirstNameNoRegnal], [target_initiator.GetFirstName] и я прекрасно провели время вместе! Думаю, мы действительно укрепили наши семейные узы.;x
+EVTOPTA_WOL_3056;Надо как-нибудь повторить.;x
+EVTDESC_WOL_3057;[From.GetFirstName], [FromFrom.GetFirstName] и я прекрасно провели время вместе! Не сомневаюсь, они теперь лучше ладят друг с другом.;x
+EVTDESC_WOL_3060;Постоянные драки и злые шутки - мои дети [target_second.GetFirstName] и [target_first.GetFirstName] никак не могут поладить друг с другом, но усилия привить любовь и взаимоуважение наконец-то принесли свои плоды. Эта дружба хорошо послужит им, когда меня не станет...;x
+EVTOPTA_WOL_3060;Кому же ещё доверять, если не братьям и сёстрам?;x
+EVTDESC6020_PARA;Они все странно на меня смотрят.... даже близкие друзья. Этот тёмный холодный взгляд... злой взгляд.;x
+EVTOPTA6020_PARA;Что они задумали?!;x
+EVTDESC6020_FEVER;Лихорадка отступила, возможно ненадолго, но эти мрачные тени... они всё ещё здесь... прячутся от взгляда по тёмным углам.;x
+EVTOPTA6020_FEVER;Что они такое?!;x
+EVTDESC6020_ZEAL;Тёмная скверна ереси заражает всех вокруг. [Root.Religion.GetRandomEvilGodNameCap] всё сильнее, никто не чист... кроме меня.;x
+EVTOPTA6020_ZEAL;Нужно очистить мир!;x
+EVTDESC6020_PRISON;Там в стенах... что-то есть. Не крысы, о нет, это не крысы! И даже не тараканы... оно сребется, копошится.... и наблюдает за мной!;x
+EVTOPTA6020_PRISON;Нужно выбраться из этой проклятой дыры!;x
+EVTDESC6020_COMA;С криком Вы проснулись из какого-то нескончаемого кошмарного сна. Это была бездна, неведомая невообразимая тьма. Как долго Вы спали? Недели? Годы?!;x
+EVTOPTA6020_COMA;Тьма... Она никуда не исчезла. Она всё ещё здесь!;x
+IS_PLOT_KNOWN_BY;Заговор раскрыт;x
+IS_NOT_PLOT_KNOWN_BY;Заговор НЕ раскрыт;x
+NOR_TRIGGER_STARTS;Никакое из перечисленных условий не должно выполняться;x
+PATRIARCH;патриарх;x
+MATRIARCH;матриарх;x
+decision_break_free;Освободить из плена;x
+decision_break_free_desc;В случае успеха §Y[This.GetTitledFirstName]§! освободиться из плена путём интриг. Это может занять много времени и требует, чтобы был выбран §YПуть интриг§!.;x
+decision_spy_on;Шпионить;x
+decision_spy_on_desc;§Y[This.GetTitledName]§! станет целью Вашей слежки и в случае успеха раскроет свои тёмные секреты. Слежка может дать Вам возможность применять шантаж, обвинения в измене или даже убить [This.GetHersHis]. Требует, чтобы был выбран §YПуть ннтриг§!.;x
+opinion_declined_romance;Разорвал любовные отношения;x
+opinion_charge_heresiarch;Обвинение: Ересиарх;x
+opinion_charge_infidel;Обвинение: Проповедник иной веры;x
+opinion_charge_deviant;Обвинение: Извращенец;x
+opinion_charge_traitor;Обвинение: Изменник;x
+opinion_charge_illegitimate;Обвинение: Внебрачный;x
+opinion_charge_slanderer;Обвинение: Клеветник;x
+opinion_slandered;Оклеветал;x
+opinion_spy_blackmailed;Шантажировал;x
+opinion_dominated;Доминировал;x
+opinion_marital_love;Любовь;x
+opinion_family_love;Любовь;x
+failed_escape;Неудачный побег;x
+attempted_murder_of_parent;Пытался убить родителя;x
+attempted_murder_of_sibling;Пытался убить сиблинга;x
+vicious_rumors;Грязные сплетни;x
+desc_vicious_rumors;Ходят ужасные слухи об этом человеке, скорее всего начатые врагами или соперниками.;x
+known_murderer;Известный убийца;x
+desc_known_murderer;Этого человека считают убийцей, несмотря на все попытки это опровергнуть.;x
+focus_intrigue_desc;[This.GetTitledFirstName] стремится освоить мастерство интриг, проводя большую часть своего времени среди придворных.\nЭтот жизненный путь даёт возможность §YШпионить§! и §YОсвободить из плена§!.;x
+opinion_spying_on;Шпионит;x
+opinion_breaking_out;Планирует побег;x
+ANY_OPINION_TARGET_STARTS;Какая-либо цель для мнения;x
+hunting_white_stag;Белый олень ускользает от меня...;x
+hunting_white_bear;Белый медведь ускользает от меня...;x
+hunting_white_tiger;Белый тигр ускользает от меня...;x
+hunting_white_lion;Белый лев ускользает от меня...;x
+potion_unforeseen_effects;Это может иметь непредсказуемые последствия...;x
+cottage_person_dies;Вы убили коварного бродягу!;x
+nick_the_pilgrim;Паломник;x
+nick_the_shadow;Тень;x
+nick_the_whisperer;Сплетник;x
+nick_the_spider;Кукловод;x
+nick_of_the_wilds;из Дебрей;x
+nick_the_impaler;Колосажатель;x
+nick_the_viking;Викинг;x
+nick_the_decadent;Декадент;x
+nick_bloodaxe;Кровавый топор;x
+nick_the_sword_of_god;Клинок Всевышнего;x #[Root.Religion.GetRandomGodName];
+nick_the_culture;[Root.Culture.GetName]ий;x
+nick_the_rel_group;Чтящий [Root.Religion.GetGroupName];x
+ARMY_LEVIES_DESC;Всего ополчения в стране.;x
+RAISED;Призвано;x
+UNRAISED;Не призвано;x
+EVTTITLE_WoL_5001_stag;Oлень;x #Белый
+EVTTITLE_WoL_5001_bear;Mедведь;x #Белый
+EVTTITLE_WoL_5001_tiger;Tигр;x #Белый
+EVTTITLE_WoL_5001_lion;Лев;x #Белый
+EVTDESC_WoL_5001_stag;Недавно до Вас дошли слухи, что крестьяне и путешественники видели в лесу таинственное мифическое существо, сильное и неуловимое. Это белый олень. Простой народ верит, что он приходит из другого мира, и что охотник, который сможет его поймать, пропитается божественной силой.;x
+EVTDESC_WoL_5001_bear;Недавно до Вас дошли слухи, что крестьяне и путешественники видели в лесу таинственное мифическое существо, сильное и неуловимое. Это белый медведь. Простой народ верит, что он приходит из другого мира, и что охотник, который сможет его поймать, пропитается божественной силой.;x
+EVTDESC_WoL_5001_tiger;Недавно до Вас дошли слухи, что крестьяне и путешественники видели таинственное мифическое существо, сильное и неуловимое. Это белый тигр. Простой народ верит, что он приходит из другого мира, и что охотник, который сможет его поймать, пропитается божественной силой.;x
+EVTDESC_WoL_5001_lion;Недавно до Вас дошли слухи, что крестьяне и путешественники видели таинственное мифическое существо, сильное и неуловимое. Это белый лев. Простой народ верит, что он приходит из другого мира, и что охотник, который сможет его поймать, пропитается божественной силой.;x
+EVTOPTA_WoL_5001;Нужно найти его!;x
+EVTOPTB_WoL_5001;У меня нет времени на эти сказки.;x
+EVTDESC_WoL_5004_stag;Добрые вести, [Root.PrimaryTitle.GetFOA]! Из достоверных источников нам пришло донесение, что в [From.County.GetAdjective]их лесах был замечен белый олень!;x
+EVTDESC_WoL_5004_bear;Добрые вести, [Root.PrimaryTitle.GetFOA]! Из достоверных источников нам пришло донесение, что в [From.County.GetAdjective]их лесах был замечен белый медведь!;x
+EVTDESC_WoL_5004_tiger;Добрые вести, [Root.PrimaryTitle.GetFOA]! Из достоверных источников нам пришло донесение, что в [From.County.GetAdjective]их лесах был замечен белый тигр!;x
+EVTDESC_WoL_5004_lion;Добрые вести, [Root.PrimaryTitle.GetFOA]! Из достоверных источников нам пришло донесение, что на просторах [From.County.GetAdjective]их земель был замечен белый лев!;x
+EVTOPTA_WoL_5004;Седлайте моего коня!;x
+EVTOPTB_WoL_5004;Сейчас мне не до этого.;x
+EVTDESC_WoL_5007_stag;На охоте Вы отстали от своего отряда. Блуждая по местности в попытках найти обратный путь, Вы заметили нечто странное вдали и поскакали в этом направлении. Вдруг невероятная удача - величественный белый олень стоял прямо перед Вами! Как только Вы приблизились к нему, он тут же убежал прочь - попытки преследования закончились неудачей.\nКогда Вы наконец вернулись к своему отряду, мысли о странном существе никак не покидали Вас.;x
+EVTDESC_WoL_5007_bear;На охоте Вы отстали от своего отряда. Блуждая по местности в попытках найти обратный путь, Вы заметили нечто странное вдали и поскакали в этом направлении. Вдруг невероятная удача - грозный белый медведь прямо перед Вами! Как только Вы приблизились к нему, он тут же убежал прочь - попытки преследования закончились неудачей.\nКогда Вы наконец вернулись к своему отряду, мысли о странном существе никак не покидали Вас.;x
+EVTDESC_WoL_5007_tiger;На охоте Вы отстали от своего отряда. Блуждая по местности в попытках найти дорогу назад, Вы заметили нечто странное вдали и поскакали в этом направлении. Вдруг невероятная удача - прекрасный белый тигр преграждает Вам путь! Как только Вы приблизились к нему, он тут же убежал прочь - попытки преследования закончились неудачей.\nКогда Вы наконец вернулись к своему отряду, мысли о странном существе никак не покидали Вас.;x
+EVTDESC_WoL_5007_lion;На охоте Вы отстали от своего отряда. Блуждая по местности в попытках найти дорогу назад, Вы заметили нечто странное вдали и поскакали в этом направлении. Вдруг невероятная удача - величественный белый лев преграждает Вам путь! Как только Вы приблизились к нему, он тут же убежал прочь - попытки преследования закончились неудачей.\nКогда Вы наконец вернулись к своему отряду, мысли о странном существе никак не покидали Вас.;x
+EVTDESC_WoL_5010_stag;Собрав свой отряд и охотничих собак, Вы оседлали своего коня и приготовили оружие. Вы готовы начать охоту на белого оленя.;x
+EVTDESC_WoL_5010_bear;Собрав свой отряд и охотничих собак, Вы оседлали своего коня и приготовили оружие. Вы готовы начать охоту на белого медведя.;x
+EVTDESC_WoL_5010_tiger;Собрав свой отряд и охотничих собак, Вы оседлали своего коня и приготовили оружие. Вы готовы начать охоту на белого тигра.;x
+EVTDESC_WoL_5010_lion;Собрав свой отряд и охотничих собак, Вы оседлали своего коня и приготовили оружие. Вы готовы начать охоту на белого льва.;x
+EVTOPTA_WoL_5010;Это будет эпическая охота!;x
+EVTOPTB_WoL_5010;На этот раз ему не скрыться!;x
+EVTDESC_WoL_5030_stag;Спустя много дней выслеживания и преследования, Вы наконец-то смогли заманить белого оленя в тупик между скалами. Великое животное теперь в Вашей власти. Его мудрый взгляд и красота поражают Вас...;x
+EVTDESC_WoL_5030_bear;Спустя много дней выслеживания и преследования, Вы наконец-то смогли заманить белого медведя в тупик между скалами. Великое животное теперь в Вашей власти. Его мудрый взгляд и красота поражают Вас...;x
+EVTDESC_WoL_5030_tiger;Спустя много дней выслеживания и преследования, Вы наконец-то смогли заманить белого тигра в тупик между скалами. Великое животное теперь в Вашей власти. Его мудрый взгляд и красота поражают Вас...;x
+EVTDESC_WoL_5030_lion;Спустя много дней выслеживания и преследования, Вы наконец-то смогли заманить белого льва в тупик между скалами. Великое животное теперь в Вашей власти. Его мудрый взгляд и красота поражают Вас...;x
+EVTOPTA_WoL_5030;Его голова украсит мои стены!;x
+EVTOPTB_WoL_5030;Я не могу погубить столь благородное создание.;x
+EVTDESC_WoL_5035_stag;Во время охоты Вы приближаетесь к глубокому ущелью. На другой стороне прямо на Вас смотрит белый олень! Вы совсем близко, но никак не можете до него добраться. Скрепя седцем Вы осознаёте, что на этот раз вынуждены вернуться домой ни с чем.;x
+EVTDESC_WoL_5035_bear;Во время охоты Вы приближаетесь к глубокому ущелью. На другой стороне прямо на Вас смотрит белый медведь! Вы совсем близко, но никак не можете до него добраться. Скрепя седцем Вы осознаёте, что на этот раз вынуждены вернуться домой ни с чем.;x
+EVTDESC_WoL_5035_tiger;Во время охоты Вы приближаетесь к глубокому ущелью. На другой стороне прямо на Вас смотрит белый тигр! Вы совсем близко, но никак не можете до него добраться. Скрепя седцем Вы осознаёте, что на этот раз вынуждены вернуться домой ни с чем.;x
+EVTDESC_WoL_5035_lion;Во время охоты Вы приближаетесь к глубокому ущелью. На другой стороне прямо на Вас смотрит белый лень! Вы совсем близко, но никак не можете до него добраться. Скрепя седцем Вы осознаёте, что на этот раз вынуждены вернуться домой ни с чем.;x
+EVTOPTA_WoL_5035;Теперь я знаю цель своей жизни!;x
+EVTOPTB_WoL_5035;Я поймаю его... рано или поздно.;x
+EVTDESC_WoL_5040;Прочёсывая местность в поисках своей жертвы, Вы встретили одинокого всадника. Завязав с Вами разговор, он признался, что, как и Вы, охотится на это легендарное животное. Похоже, его успехи в этом деле столь же малы, как и Ваши. Он предлагает обменяться опытом.;x
+EVTOPTA_WoL_5040;С удовольствием. Присоединяйтесь к нашему двору!;x
+EVTOPTB_WoL_5040;Я предпочитаю охотиться в одиночку.;x
+EVTOPTC_WoL_5040;Соперник... Избавьтесь от него.;x
+EVTDESC_WoL_5045;Вы провели недели в дикой местности в попытках найти хоть какие-то следы своей жертвы, но всё тщетно. Зато Вы нашли множество жуков, змей и... болячек.;x
+EVTOPTA_WoL_5045;Это бесполезно...;x
+EVTDESC_WoL_5050;Вы провели недели в попытках найти хоть какие-то следы своей жертвы, но всё тщетно. Тем не менее, в дикой природе Вы почуствовали себя, как дома и стали... сильнее.;x
+EVTOPTA_WoL_5050;Нет худа без добра!;x
+EVTDESC_WoL_5055;Вы провели недели в дикой местности в попытках найти хоть какие-то следы своей жертвы, но всё тщетно. Вам пришлось вернуться с пустыми руками. Окружающие несомненно запомнят этот провал.;x
+EVTOPTA_WoL_5055;Надо же так облажаться!;x
+EVTOPTB_WoL_5055;Меня окружают никчёмные люди!;x
+EVTDESC_WoL_5060;В бесплодных попытках найти следы своей добычи, Вы обнаружили в зарослях маленькую хижину. В ответ на стук, дверь открыла какая-то старуха. При виде Вашего отряда, она жутко захихикала и предложила воспользоваться зельем, которое сделает Вас успешным охотником.;x
+EVTOPTA_WoL_5060;Продай его мне!;x
+EVTOPTB_WoL_5060;Пора возвращаться. Это бесполезно.;x
+EVTDESC_WoL_5061_good;Выпив зелье, Вы почуствовали теплоту внутри. Старуха прошептала: "Видишь? Оно делает тебя сильнее. Я вижу это в твоих глазах! А теперь ступай, великий охотник!".\nВы возвращаетесь домой, в ожидании неизбежного успеха на следующей охоте...;x
+EVTDESC_WoL_5061_bad;Выпив зелье, Вы чувствуете тошноту и теряете сознание. Очнувшись, Вы замечаете сильную головную боль и желание поскорее закончить охоту. Старуха пропала, и Ваша охрана не имеет ни малейшего понятия куда.;x
+EVTOPTA_WoL_5061;Что-то мне нехорошо...;x
+EVTOPTC_WoL_5061;Я чувствую себя прекрасно...;x
+EVTDESC_WoL_5062;Вы вернулись домой. Охота за этим неуловимым белым существом закончилась неудачей, но там, в дикой природе, есть ещё много новых открытий. Может быть в следующий раз Вы поймаете свою жертву...;x
+EVTOPTA_WoL_5062;Я не сдамся!;x
+EVTDESC_WoL_5065_female_lover;В бесплодных попытках найти следы своей добычи, Вы обнаружили в зарослях маленькую хижину. В ответ на стук, дверь открыла прекрасная молодая девушка. Минуту спустя выражение её лица приняло доброжелательный вид, и приятным голосом она сказала: "В этих местах весьма одиноко. Не желаете ли переночевать здесь?";x
+EVTDESC_WoL_5065_male_lover;В бесплодных попытках найти следы своей добычи, Вы обнаружили в зарослях маленькую хижину. В ответ на стук, дверь открыл привлекательный юноша. Минуту спустя он улыбнулся и сказал: "В этих местах довольно одиноко. Не желаете остановиться здесь на ночь?";x
+EVTOPTA_WoL_5065;Конечно...;x
+EVTOPTB_WoL_5065;Думаю, мне не следует этого делать.;x
+EVTOPTC_WoL_5065;Это ловушка! В атаку!;x
+EVTDESC_WoL_5066;Утром Вы проснулись, обнимая прекрасное молодое тело. Вы провели приятную ночь, но нужно возвращаться к обычной жизни.;x
+EVTOPTA_WoL_5066;Это было чудесно, но мне пора.;x
+EVTOPTB_WoL_5066;Пойдём со мной!;x
+CONFIRM_CANCEL_PLOT_TITLE;Покинуть заговор;x
+CONFIRM_CANCEL_PLOT_DESC;Покинуть заговор $PLOT$?;x
+CANCEL_PLOT;Отменить заговор;x
+CANNOT_CANCEL_PLOT;Этот заговор невозможно отменить.;x
+CONFIRM_CANCEL_FOCUS_TITLE;Покинуть жизненный путь;x
+CONFIRM_CANCEL_FOCUS_DESC;Покинуть путь "$PLOT$"?;x
+CANCEL_FOCUS_EFFECT;$CHAR$ сворачивает с пути §Y$OBJECTIVE$§!;x
+CANCEL_FOCUS;Покинуть путь;x
+CANNOT_CANCEL_FOCUS;Этот жизненный путь не может быть отменён.;x
+NO_VALID_FOCUS;Нет подходящего пути;x
+CHOOSE_FOCUS;§GКликните, чтобы выбрать Путь§!;x
+CANNOT_USE_FOCUS_WITHOUT_DLC;Нельзя встать на жизненный путь без дополнения Way of Life;x
+VASSAL_LIMIT_NOT_USED_BY_TIER;Люди столь низкого ранга не влияют на вассальный лимит.;x
+pet_hunting_dog;Охотничий пёс;x
+pet_hunting_dog_desc;Ваш верный охотничий пёс попал к Вам ещё щенком. Под Вашей заботой он вырос самым лояльным слугой и компаньоном.;x
+EVTDESC_WoL_5202;[From.GetTitledFirstName], м[From.GetLordLady] [GetFromRelation] шлёт мне подарок - это маленький щенок, но с хорошей родословной. Из него вырастет хороший охотничий пёс.;x
+EVTOPTA_WoL_5202;Я приму этот щедрый подарок.;x
+EVTOPTB_WoL_5202;Отошлите его обратно.;x
+EVTOPTC_WoL_5202;Заплатите кому-нибудь, чтобы избавиться от него...;x
+EVTDESC_WoL_5203;Новому щенку нужна какая-нибудь кличка, [Root.PrimaryTitle.GetFOA]. Как Вы будете его звать?;x
+EVTOPTA_WoL_5203;Друг;x
+EVTOPTB_WoL_5203;Охотник;x
+EVTOPTC_WoL_5203;Ловкач;x
+EVTOPTD_WoL_5203;Люцифер;x
+EVTOPTE_WoL_5203;Шайтан;x
+EVTOPTF_WoL_5203;Фенрир;x
+EVTOPTG_WoL_5203;Эрлик;x
+EVTOPTH_WoL_5203;Вельняс;x
+EVTOPTI_WoL_5203;Туони;x
+EVTOPTJ_WoL_5203;Шолотль;x
+EVTOPTK_WoL_5203;Велес;x
+EVTOPTL_WoL_5203;Гурухи;x
+EVTOPTM_WoL_5203;Мрак;x
+EVTOPTN_WoL_5203;Ахриман;x
+EVTOPTO_WoL_5203;Сатана;x
+EVTOPTP_WoL_5203;Винаяка;x
+EVTOPTQ_WoL_5203;Мара;x
+EVTOPTR_WoL_5203;Каратель;x
+EVTDESC_WoL_5204_good;Ваш пёс - больше не щенок, теперь он быстро бегает и обладает хорошим нюхом. Псари хвалят его за добрый нрав.;x
+EVTDESC_WoL_5204_bad;Ваш пёс - больше не щенок, теперь он быстро бегает и обладает хорошим нюхом. Однако, он часто и больно кусается, что подтверждают Ваши псари.;x
+EVTOPTA_WoL_5204;Хороший пёс!;x
+EVTOPTB_WoL_5204;Хмм...;x
+opinion_nice_dog;Хороший пёс;x
+opinion_nice_dog_children;Хороший пёс;x
+EVTDESC_WoL_5210;Ваш охотничий пёс всегда рядом и рад Вашей компании. Хорошо иметь такого верного друга.;x
+EVTOPTA_WoL_5210;Если бы только люди были такими преданными.;x
+EVTDESC_WoL_5211;Придворные обожают Вашего пса, особенно дети, которые с большим удовольствием играют с ним.;x
+EVTOPTA_WoL_5211;Эта любовь взаимна.;x
+EVTDESC_WoL_5220;Ваш пёс нуждается в тренировке, чтобы хорошо служить во время охоты. Возможно, Вам следует лично заняться его обучением?;x
+EVTOPTA_WoL_5220;Конечно, я его обучу.;x
+EVTOPTB_WoL_5220;Лучше доверить это профессионалам.;x
+trains_dog;Вы проведёте некоторое время снаружи, тренируя Вашего пса.;x
+EVTDESC_WoL_5221;В последние месяцы Вы проводите много времени, дрессируя своего пса. Похоже, ежедневные упражнения на свежем воздухе благотворно сказались на Вашем здоровье.;x
+EVTOPTA_WoL_5221;Друг, взять!;x
+EVTOPTB_WoL_5221;Охотник, взять!;x
+EVTOPTC_WoL_5221;Ловкач, взять!;x
+EVTOPTD_WoL_5221;Люцифер, взять!;x
+EVTOPTE_WoL_5221;Шайтан, взять!;x
+EVTOPTF_WoL_5221;Фенрир, взять!;x
+EVTOPTG_WoL_5221;Эрлик, взять!;x
+EVTOPTH_WoL_5221;Вельняс, взять!;x
+EVTOPTI_WoL_5221;Туони, взять!;x
+EVTOPTJ_WoL_5221;Шолотль, взять!;x
+EVTOPTK_WoL_5221;Велес, взять!;x
+EVTOPTL_WoL_5221;Гурухи, взять!;x
+EVTOPTM_WoL_5221;Мрак, взять!;x
+EVTOPTN_WoL_5221;Ахриман, взять!;x
+EVTOPTO_WoL_5221;Сатана, взять!;x
+EVTOPTP_WoL_5221;Винаяка, взять!;x
+EVTOPTQ_WoL_5221;Мара, взять!;x
+EVTOPTR_WoL_5221;Каратель, взять!;x
+EVTDESC_WoL_5230;Ваш охотничий пёс убежал от вас и стал бешено носиться по замку. Он агрессивно преследовал слуг, вынуждая их в ужасе бросать всё и спасаться. А затем добрался до любимого пса одного из придворных и загрыз его насмерть.;x
+EVTDESC_WoL_5231;Сегодня Ваш пёс в очередном приступе ярости напал на придворного!;x
+EVTOPTA_WoL_5231;К ноге!;x
+EVTOPTB_WoL_5231;Да! Вот так! Убей!;x
+EVTDESC_WoL_5290;Ващ верный пёс сделал свой последний вздох. Он служил Вам с тех пор, как Вы впервые взяли его, ещё щенком. Теперь пришло время похоронить старого друга.;x
+EVTOPTA_WoL_5290;Я похороню его в саду.;x
+EVTOPTB_WoL_5290;Он заслужил достойные похороны.;x
+EVTOPTC_WoL_5290;Пирамида Друга!;x
+EVTOPTD_WoL_5290;Пирамида Охотника!;x
+EVTOPTE_WoL_5290;Пирамида Ловкача!;x
+EVTOPTF_WoL_5290;Пирамида Люцефера!;x
+EVTOPTG_WoL_5290;Пирамида Шайтана!;x
+EVTOPTH_WoL_5290;Пирамида Фенрира!;x
+EVTOPTI_WoL_5290;Пирамида Эрлика!;x
+EVTOPTJ_WoL_5290;Пирамида Вельняса!;x
+EVTOPTK_WoL_5290;Пирамида Туони!;x
+EVTOPTL_WoL_5290;Пирамида Шолотля!;x
+EVTOPTM_WoL_5290;Пирамида Велеса!;x
+EVTOPTN_WoL_5290;Пирамида Гурухи!;x
+EVTOPTO_WoL_5290;Пирамида Мрака!;x
+EVTOPTP_WoL_5290;Пирамида Ахримана!;x
+EVTOPTQ_WoL_5290;Пирамида Сатаны!;x
+EVTOPTR_WoL_5290;Пирамида Винаяки!;x
+EVTOPTS_WoL_5290;Пирамида Мары!;x
+EVTOPTT_WoL_5290;Пирамида Карателя!;x
+CHARVIEW_DIPLOMATIC_RELATIONS;Дипломатия:;x
+BUILDING_CHECKSUM;Расчёт контрольной суммы...;x
+invite_to_party;Пригласить на пирушку;x
+invite_to_party_desc;[Root.GetTitledFirstName], приглашаю Вас на частную вечеринку.;x
+organizing_party;Готовит пирушку;x
+organizing_party_desc;Этот человек готовит небольшую пирушку. Это частное мероприятие в отличие от крупных пиров при дворе.;x
+opinion_declined_party;Отказался от приглашения;x
+opinion_carousing;Пирушка;x
+party_carousing;Бухаем!;x
+party_carousing_desc;Этот человек проводит небольшую пирушку с несколькими компаньонами. Это частное мероприятие в отличие от крупных пиров при дворе.;x
+carouser;Гуляка;x
+carouser_desc;Этот человек любит устраивать вечеринки и хорошо проводить время с друзьями.;x
+dedicated_carouser;Неисправимый гуляка;x
+dedidacted_carouser_desc;Этот человек обожает устраивать вечеринки и отрываться с друзьями по полной.;x
+opinion_condemned_decadence;Осудил упадок;x
+cannibal;Cannibal;Людоед;x
+cannibal_desc;Этот человек любит людей...;x
+beaten_up;Избитый;x
+beaten_up_desc;Этот человек подрался и теперь в синяках.;x
+vice_royalty_duke_female_byzantine;Стратегитисса;x
+vice_royalty_king_female_byzantine;Экзархесса;x
+epic_hangover;Эпическое похмелье;x
+epic_hangover_desc;Иногда гулянка заходит так далеко, что за это приходится расплачиваться.;x
+EVTDESC_WoL_4000;Дорог[Root.GetLordLady] [Root.GetFirstName],\nПриглашаю Вас поужинать в кругу друзей - давайте выпьем, повеселимся и забудем о повседневных заботах хотя бы ненадолго. Выделите на это пару дней, если решите принять моё приглашение.\n\nС наилучшими пожеланиями,\n [FromFrom.GetTitledName];x
+EVTOPTA_WoL_4000;Конечно, я приду!;x
+EVTOPTB_WoL_4000;К сожалению, не смогу.;x
+EVTOPTC_WoL_4000;Ваш порочный образ жизни достоин лишь презрения.;x
+EVTDESC_WoL_4001;Дорог[Root.GetLordLady] [GetFromReverseRelation],\nПриду обязательно - не могу же я пропустить такое веселье!\n\nВсех благ,\n [From.GetTitledName];x
+EVTOPTA_WoL_4001;Будет здорово!;x
+EVTDESC_WoL_4002;Дорог[Root.GetLordLady] [GetFromReverseRelation],\nК сожалению я не смогу приехать в этот раз, но благодарю за приглашение.\n\nДо следующего раза,\n [From.GetTitledName];x
+EVTOPTA_WoL_4002;Жаль. Что ж, нам больше достанется!;x
+EVTDESC_WoL_4003;Дорог[Root.GetLordLady] [GetFromReverseRelation],\nВесьма прискорбно, что Вы пали так низко. Не сомневаюсь, что [From.Religion.GetRandomEvilGodName] смеётся над Вашими эскападами, но я, в свою очередь, решительно откажусь от участия в них.\nВ надеждах на Ваше искупление,\n [From.GetTitledName];x
+EVTOPTA_WoL_4003;Эээ... чего?!;x
+EVTOPTB_WoL_4003;[From.Religion.GetRandomEvilGodName] хотя бы обладает чувством юмора.;x
+EVTDESC_WoL_4011;Непредвиденные обстоятельства вынудили меня отменить запланированную пирушку.;x
+EVTDESC_WoL_4012;Дорог[Root.GetLordLady] [GetFromReverseRelation],\nНепредвиденные обстоятельства вынудили меня отменить запланированную пирушку. Мы обязательно проведём её в другой раз, когда будет более подходящий случай.\n\nДо скорых встреч,\n [From.GetTitledName];x
+EVTDESC_WoL_4015;Никто не откликнулся на моё приглашение. Что ж, придётся отказаться от веселья и перенести на следуюший раз.;x
+EVTOPTA_WoL_4015;Как же мне скучно!;x
+EVTDESC_WoL_4030;[Root.PrimaryTitle.GetFOA], гости прибыли. Всё готово для начала пиршества. Изволите объявить лично?;x
+EVTOPTA_WoL_4030;Пусть начнётся веселье!;x
+EVTDESC_WoL_4031;Вы прибыли в одну из гостевых комнат, которые [From.GetTitledFirstName] содержит при своём дворе. Здесь множество изысканных явств и напитков, атмосфера пропитана весельем.;x
+EVTOPTA_WoL_4031;Ну что ж... приступим!;x
+EVTDESC_WoL_4101;Заканчивается третий день пирушки. Вы спокойно сидите и одиноко созерцаете окружающее Вас безобразие. Рядом на кушетке спит пьяное вдрызг, но прекрасное и беззащитное тело, озаряемое тёплым светом свечи...;;
+EVTOPTA_WoL_4101;Тихо здесь. Умиротворяюще...;x
+EVTOPTB_WoL_4101;А не попробовать ли мне...;x
+EVTDESC_WoL_4111;Эти дни, проведённые вместе, было здорово. Знаю, ты думаешь о том же о чём и я...;x
+EVTOPTA_WoL_4111;Давай, сделаем это!;x
+EVTOPTC_WoL_4111;Нам не стоит это делать.;x
+EVTDESC_WoL_4112;В эти дни, весело проведённые вместе, Вы не могли не заметить, как [From.GetFirstName] смотрит на Вас. В конце концов, после очередного бокала вина, [From.GetSheHe] обнимает Вас и шепчет Вам на ухо своё... предложение.;x
+EVTOPTA_WoL_4112;Да!;x
+EVTOPTB_WoL_4112;Нет!;x
+EVTDESC_WoL_4113;[From.GetFirstName] отвечает на Ваши заигрывания нескрываемой похотью, и вот, спустя несколько минут, вы уже проводите ночь вместе, в полной мере наслаждаясь друг другом...;x
+EVTOPTA_WoL_4113;Надеюсь, вино не помешает мне это запомнить!;x
+EVTDESC_WoL_4114;[From.GetFirstName] отвечает крайне холодно на Ваши заигрывания, поэтому Вы, принеся свои извинения, вскоре возвращаетесь к прежним удовольствиям, забыв о неловком моменте... почти забыв.;x
+EVTOPTA_WoL_4114;Ваше здоровье!;x
+EVTDESC_WoL_4120;Дни пьянства и разгула оказались весьма полезными. Столько смеха, долгих и откровенных разговоров в столь короткий промежуток времени. Это сближает людей - Вы и Ваши компаньоны стали хорошими друзьями.;x
+EVTOPTA_WoL_4120;За друзззей!;x
+EVTDESC_WoL_4131;"Чё ты сказал?! Ах ты, тварь!" - Вы уже не помните с чего это началось, но кто-то получит по роже.;x
+EVTOPTA_WoL_4131;Вот тебе!;x
+EVTDESC_WoL_4132;Отличная выпивка и закуска, веселье идёт полным ходом, прекрасный вечер. Или точнее, он был прекрасным, пока мне не пришлось лицезреть, как [From.GetTitledFirstName] неожиданно впадает в ярость, бросаясь на меня со своими кулаками.;x
+EVTOPTA_WoL_4132;Ты этого хочешь? Хорошо, получай!;x
+EVTOPTB_WoL_4132;Слушай, хватит уже. Остынь...;x
+EVTOPTC_WoL_4132;Пора валить отсюда...;x
+EVTDESC_WoL_4133_fight;[From.GetTitledFirstName] неплохо дерётся, несмотря на опьянение. Через некоторое время мы были уже не в силах больше махать кулаками.;x
+EVTOPTA_WoL_4133;Больно-то как...;x
+EVTDESC_WoL_4133_talk;[From.GetTitledFirstName] говорит Вам, что бессмысленно злиться по такому нелепому поводу, и в какой-то момент Вы осознаёте, что это правда. Вы успокаиваетесь и вновь садитесь за стол.;x
+EVTOPTB_WoL_4133;Я уже и не помню, что меня взбесило.;x
+EVTDESC_WoL_4133_hide;[From.GetTitledFirstName] бросает в Вас стул и убегает прочь. Придя в себя, Вы пытаетесь понять где [From.GetSheHe], но нигде не можете [From.GetHersHis] найти.;x
+EVTOPTC_WoL_4133;Пожалуй, так даже лучше. Я уже не злюсь.;x
+EVTDESC_WoL_4141;Скучнооо! Что бы такого сделать?.. Давай сюда зверей! И... разведём огонь на столе, да, зажарим что-нибудь! Это копьё? Дайте-ка его сюда. И почему я без трусов? Не помню, куда они подевались... А, не важно, в пекло трусы! Налейте мне ещё! Чего ржёте? Веселье только начинается!;x
+EVTOPTA_WoL_4141;Ещё вина!;x
+EVTDESC_WoL_4142;[From.GetTitledFirstName] отрывается по полной на этом пиру - [From.GetHerHim] просто сорвало башню. Я не могу встать из-за хохота, ржу, как конь - вечер удался!;x
+EVTOPTA_WoL_4142;Надо приглашать [From.GetHersHis] чаще!;x
+EVTDESC_WoL_4151;Мы веселимся и бухаем от души, но ребята говорят, мне уже хватит - так вот... всё это полная... чууушь!;x
+EVTOPTA_WoL_4151;Заткнись и наливай! Я в порядке!;x
+EVTDESC_WoL_4152_non_drunkard;[From.GetTitledFirstName] не умеет пить, [From.GetSheHe] совершенно не знает меры.;x
+EVTDESC_WoL_4152_drunkard;[From.GetTitledFirstName] пьёт даже больше чем я!;x
+EVTOPTA_WoL_4152;Ну и пьянь. Как можно так нажираться...;x
+EVTOPTB_WoL_4152;Ваше здоровье!;x
+EVTDESC_WoL_4800;Даже самая эпическая тусовка рано или поздно заканчивается... Пора возвращаться к реальной жизни.;x
+EVTOPTA_WoL_4800;Было здорово!;x
+EVTOPTB_WoL_4800;Это и есть реальная жизнь!;x
+EVTOPTC_WoL_4800;Жизнь - удовольствие, которое мы делим с друзьями.;x
+POSS_PRONOUN_FEM;eё;x
+OBJ_PRONOUN_FEM;eй;x
+CURRENT_FOCUS;Это Вас текущий жизненный путь.;x
+CANNOT_CANCEL_CURRENT_FOCUS;Ваш текущий жизненный путь не может быть изменён.;x
+CHOOSE_NEW_FOCUS;§GКликните, чтобы выбрать новый путь§!;x
+studying_the_stars;Изучает звёзды;x
+studying_the_stars_desc;Этот человек построил обсерваторию и проводит все ясные ночи в изучении небосвода...;x
+heliocentrist_scholar;Учёный-гелиоцентрист;x
+heliocentrist_scholar_desc;Этот человек провёл исследования, чтобы доказать, что Земля вращается вокруг Солнца.;x
+weird_scholar;Сумасшедший учёный;x
+weird_scholar_desc;Этот человек провёл очень странные и таинственные исследования...;x
+the_necronomicon;Некрономикон;x
+the_necronomicon_desc;Этот человек завладел копией таинственной книги, известной как Некрономикон.;x
+build_observatory;Построить Обсерваторию;x
+build_observatory_desc;Я могу вложиться в постройку обсерватории, чтобы начать изучать звёзды и другие небесные тела. Кто знает, чем я могу научиться?;x
+EVTDESC_WoL_6000;Вы приступили к строительству обсерватории. Сбор необходимых материалов и подготовка к работам заёмет некоторое время.;x
+EVTOPTA_WoL_6000;Не могу дождаться!;x
+EVTDESC_WoL_6010;Ваша обсерватория наконец-то готова. Вы уже предвкушаете свои первые наблюдения.;x
+EVTOPTA_WoL_6010;Вселенная полна тайн.;x
+EVTDESC_WoL_6020;Вы провели много ночей, наблюдая за звёздами в своей обсерваториию. Это воистину увлекательно, столько новых вопросов...;x
+EVTOPTA_WoL_6020;Как звёзды движутся?;x
+EVTOPTB_WoL_6020;Там что-то есть! Что-то странное...;x
+EVTDESC_WoL_6100;Наблюдая за движением звёзд, Вы начинаете замечать закономерности. Тем не менее, подобные изыскания порождают массу вопросов. Например, как такое возможно, если Земля находится в центре?;x
+EVTOPTA_WoL_6100;Интересно...;x
+EVTDESC_WoL_6110;Ваши исследования в обсерватории этой ночью были просто пострясающи. Вы можете продолжить свои поиски, но для этого понадобится масса нового оборудования.;x
+EVTOPTA_WoL_6110;Нужно двигаться дальше!;x
+EVTOPTB_WoL_6110;Это слишком дорого.;x
+EVTDESC_WoL_6122;Поздний завтрак и усталый вид не остались без внимания - м[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstName], пытаясь скрыть своё осуждение, говорит мне: "[Root.GetFirstName], меня беспокоит твоё новое увлечение. Говорят, ты проводишь ночи, не отрывая глаз от звёздного неба и упиваешься еретическими идеями об устройстве мира. Ради всего святого, прекрати это.";x
+EVTOPTA_WoL_6122;Не волнуйся, я в порядке...;x
+EVTOPTB_WoL_6122;Не лезь не в свое дело!;x
+EVTOPTC_WoL_6122;Это не то, что ты думаешь, я... сочиняю стихи.;x
+EVTDESC_WoL_6130;Ваши ночные изыскания приносят свои плоды - Вы многое узнали о движении небесных тел и приблизились к пониманию устройства Вселенной.;x
+EVTOPTA_WoL_6130;Во всём есть гармония... Она повсюду.;x
+EVTDESC_WoL_6140;Работая в обсерватории, в последнее время Вы сталиваетесь с массой проблем - поломка оборудования, облачная погода, визиты посторонних и даже животные. Как же трудно сохранять концентрацию, чтобы добиться своей цели.;x
+EVTOPTA_WoL_6140;Терпение и труд...;x
+EVTOPTB_WoL_6140;Всё, с меня хватит!;x
+EVTDESC_WoL_6152;[Root.PrimaryTitle.GetFOA],\nНам рассказали, что Вы занимаетесь исследованиями, отвергающиими истину, которую дарует [Root.Religion.GetHighGodName]. Мы уверены, что это всего лишь слухи и Вы не станете заниматься подобными вещами. Однако, если это правда, Мы будем весьма разочарованы.\nПусть [Root.Religion.GetRandomGodName] защитит Вас,\n [From.GetTitledName];x
+EVTOPTA_WoL_6152;[From.PrimaryTitle.GetFOA] суёт нос не в своё дело!;x
+EVTOPTB_WoL_6152;Лучшим ответом будет... отсутствие ответа.;x
+EVTOPTC_WoL_6152;Кто я, чтобы оспаривать традиционные ценности?;x
+EVTDESC_WoL_6160;Ваши наблюдения за движением небесных тел идут успешно. Вы начинаете открывать закономерности, о которых прежде не могли и помыслить. Теперь ясно, что движение как-то связано с Землёй.;x
+EVTOPTA_WoL_6160;А что если Земля...;x
+EVTDESC_WoL_6170;Вы уверены, что совершили прорыв в исследованиях. Да, иначе и быть не может. Солнце в центре, а Земля... она... вращается!;x
+EVTOPTA_WoL_6170;Мой долг - рассказть это всем!;x
+EVTOPTB_WoL_6170;Лучше держать это в тайне.;x
+EVTOPTC_WoL_6170;Моя работа на этом закончена.;x
+EVTOPTD_WoL_6170;Нет! Во мне говорит [Root.Religion.GetRandomEvilGodName]!;x
+EVTDESC_WoL_6300;Наблюдая за ночным небом, Вы начинаете замечать странные движения. Некоторые звёзды то появляются, то исчезают время от времени. Вам нужно больше времени, чтобы изучить это...;x
+EVTOPTA_WoL_6300;Она же только что была здесь!;x
+EVTDESC_WoL_6322;Поздний завтрак и усталый вид не остались без внимания - м[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstName], пытаясь скрыть своё осуждение, говорит мне: "[Root.GetFirstName], меня беспокоит твоё новое увлечение. Говорят, ты ночами смотришь в звёздное небо, говоришь загадками и несёшь какую-то ахинею. Ради твоего же блага прошу - прекрати это.";x
+EVTOPTA_WoL_6322;Я лишь наслаждаюсь красотой звёзд.;x
+EVTOPTB_WoL_6322;Происходит что-то странное, и я хочу знать что!;x
+EVTOPTC_WoL_6322;Они все врут.;x
+EVTDESC_WoL_6330;Ваши исследования в обсерватории показали, как много невообразимого и странного лежит за пределами известной нам Вселенной. Те немногие, кому довелось изучать нечто подобное, наотрез отказались поделиться своими знаниями с Вами. Однако, по слухам, в Аравийской пустыне есть мудрец, который может пролить свет на эту проблему.;;
+EVTOPTA_WoL_6330;Я найду его.;x
+EVTOPTB_WoL_6330;Это зашло слишком далеко. Пора остановиться.;x
+EVTTITLE_WoL_6331;Hекрономикон;x
+EVTDESC_WoL_6331;Вы прибыли к обители таинственного старца по имени Ибрагим, который убедившись в Ваших намерениях, пригласил Вас войти. Вы долго беседовали, после чего он сказал, что некто Абдул Безумный, сведущий во многих оккультных практиках, потусторонних мирах и существах, написал книгу, известную как Некрономикон, которая содержит массу странных нечестивых знаний. Ибрагим сказал, что его настолько впечатлила Ваша искренняя жажда знаний, что он может продать Вам копию книги, но велел быть осторожнее - изучение этой книги может довести до безумия...;x
+EVTOPTA_WoL_6331;Мне нужна эта книга!;x
+EVTOPTB_WoL_6331;Нет, спасибо.;x
+EVTDESC_WoL_6336;Невероятно, но м[From.GetLordLady] [GetFromRelation] [From.GetTitledFirstNameWithNick] не перестаёт удивлять меня даже после своей смерти. Сегодня злоумышленники проникли в [From.GetHersHis] библиотеку и украли только одну вещь - загадочную древнюю книгу арабского происхождения. Двое слуг, бывших тогда в библиотеке, найдены мёртвыми, а свидетели отказываются говорить о состоянии их тел.;x
+EVTOPTA_WoL_6336;Чертовщина какая-то...;x
+EVTDESC_WoL_6340;Работая в обсерватории, в последнее время Вы сталиваетесь с массой проблем -  странный шум, пугающе крупные насекомые, уносящие мелкие детали оборудования, зловещие фигуры, наблюдающие за Вами, но исчезающие при любых попытках их разглядеть. Как же трудно сохранять концентрацию, чтобы добиться своей цели.;x
+EVTOPTA_WoL_6340;Нужно собраться!;x
+EVTOPTB_WoL_6340;Всё, хватит, надоело...;x
+EVTDESC_WoL_6350;Книга, приобретённая у старца в пустыне, оказалась весьма полезной в плане идей и объяснений того, чем Вы занимаетесь, изучая звёздное небо. Однако, помимо прочего, она содержит нечто мрачное и тревожное, нечто, ведущее к уровню понимания, который может свести с ума.;x
+EVTOPTA_WoL_6350;Чувствую, мне не стоит это читать.;x
+EVTOPTB_WoL_6350;Ещё немного и я ухвачу суть!;x
+EVTDESC_WoL_6360;Великую мудрость обретает тот, кто изучает мир и извлекает из этого уроки. Ваши исследования звёздного неба завели Вас в дебри странного и неведомого. Ваши знания неимеримо выросли с тех пор, как Вы начали свои изыскания.;x
+EVTOPTA_WoL_6360;Звёзды правы!;x
+EVTDESC_WoL_6370;Наконец-то Вы уверены, абсолютно уверены - есть вещи, которые лежат далеко за пределами известного нам, такие о которых обычные люди даже не подозревают. О, если бы они знали! Но теперь Ваша задача - сохранить это всё в тайне, иначе человечество сойдёт с ума от осознания собственной ничтожности.;x
+EVTOPTA_WoL_6370;Я стану преданным хранителем древних знаний.;x
+EVTOPTB_WoL_6370;Пора спрятать всё это и заняться другими делами.;x
+IS_HOLY_SITE_OF;Священное место религии $RELIGION$.;x
+IS_NOT_HOLY_SITE_OF;НЕ священное место религии $RELIGION$.;x
+theologian;Теолог;x
+theologian_desc;Этот человек посвятил свою жизнь религиозным изысканиям.;x
+religious_studies;Религиозные изыскания;x
+religious_studies_desc;Этот человек ищет духовных знаний и озарений.;x
+religious_philosopher;Религиозный философ;x
+religious_philosopher_desc;Этот человек - опытный и посвящённый искатель духовных знаний.;x
+EVTDESC_WoL_7000_non_unref_pagan;[Root.Religion.GetName] таит в себе множество загадок. Может быть весьма интересным провести некоторое время погрузившись в древние тексты, такие как [Root.Religion.GetScriptureName].;x
+EVTDESC_WoL_7000_unref_pagan;Сколько же тайн хранит в себе [Root.Religion.GetName]? Было бы интересно послушать древние предания, которые рассказывают мудрые люди.;x
+EVTOPTA_WoL_7000;Изучу священные писания.;x
+EVTOPTB_WoL_7000;Позову сказителей.;x
+EVTOPTC_WoL_7000;Но у меня нет на это времени.;x
+EVTDESC_WoL_7001_non_unref_pagan;В последние месяцы, Вы проводите многие ночи в изучении священных писаний. Мудрость этих текстов даёт важные подсказки к решению загадок и раскрытию тайн, которые несёт в себе [Root.Religion.GetName].;x
+EVTDESC_WoL_7001_unref_pagan;В последние месяцы, Вы проводите многие ночи, слушая древние мифы и предания. Эти рассказы очень захватывающи и содержат мудрость, которая может пригодиться в повседневной жизни.;x
+EVTOPTA_WoL_7001;Эти тексты даровали мне мудрость.;x
+EVTOPTB_WoL_7001;Слушать и размышять очень полезно.;x
+ancient_wisdom;Древняя мудрость;x
+ancient_wisdom_desc;Древние мифы и сказания содержат в себе великую мудрость.;x
+EVTDESC_WoL_7012;Вести о Ваших религиозных изысканиях распространились по всей стране. Среди всех прочих, [From.GetTitledName] говорит, что они [From.GetHersHis] очень впечатлили. Вы стали переписываться, некоторое время ведя философские и религиозные дискуссии, и теперь стали хорошими друзьями.;x
+EVTOPTA_WoL_7012;Общие интересы, несомненно, сближают людей.;x
+EVTDESC_WoL_7020;Священное место, известное как [holy_site_visiting.GetName] - важный религиозный центр. [Root.Religion.GetName] относится к нему очень трепетно, многие обряды и праздники совершались здесь. Духовная сила пронизывает всю эту землю.;x
+EVTOPTA_WoL_7020;Я отправляюсь туда!;x
+EVTOPTB_WoL_7020;Сейчас я не могу туда отправиться.;x
+EVTDESC_WoL_7021;[holy_site_visiting.GetName] действительно заслуживает потраченного времени! Вы бродили повсюду, прислушиваясь к атмосфере и присматриваясь к тайнам, сокрытым в этом месте.;x
+EVTOPTA_WoL_7021;Слава Тебе, [Root.Religion.GetRandomGodName]!;x
+grievously_offended;Тяжко оскорблён;x
+merciless;Беспощадный;x
+merciless_desc;Этот человек известен своей беспощадностью.;x

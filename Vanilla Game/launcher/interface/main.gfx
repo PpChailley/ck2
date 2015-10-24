@@ -1,0 +1,83 @@
+spriteTypes = {	
+	spriteType = {
+		name = "GFX_launcher_bg"
+		texturefile = "launcher\\gfx\\interface\\background.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_launcher_dlc_mod_list_bg"
+		texturefile = "launcher\\gfx\\interface\\launcher_dlc_mod_bg.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_launcher_dlc_entry_bg"
+		texturefile = "launcher\\gfx\\interface\\launcher_dlc_entry_bg.dds"
+		allwaystransparent = yes
+	}
+	
+	spriteType = {
+		name = "GFX_dlc_entry_enabled_bg"
+		texturefile = "gfx\\interface\\checkbox_default.tga"
+		noOfFrames = 2
+	}
+	
+	spriteType = {
+		name = "GFX_dlc_entry_disabled_bg"
+		texturefile = "gfx\\interface\\checkbox_default.tga"
+		noOfFrames = 2
+	}
+	
+	textSpriteType = {
+		name = "GFX_button_bg"
+		texturefile = "gfx\\interface\\big_button_300.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_scroll"
+		texturefile = "gfx\\interface\\scroll.tga"
+		noRefCount = yes
+	}
+	corneredTileSpriteType = {
+		name = "GFX_scroll_bg"
+		size= {x =24 y = 24 }
+		texturefile = "gfx\\interface\\scroll_bg.tga"
+		borderSize = { x=8 y=8 }
+		noRefCount = yes
+	}
+	spriteType = {
+		name = "GFX_scroll_up"
+		texturefile = "gfx\\interface\\scroll_up.tga"
+		noRefCount = yes
+	}
+	spriteType = {
+		name = "GFX_scroll_down"
+		texturefile = "gfx\\interface\\scroll_down.tga"
+		noRefCount = yes
+	}
+	
+	corneredTileSpriteType = {
+		name = "GFX_scrollbar_track"
+		size = {x =320 y = 16 }
+		texturefile = "gfx\\interface\\scrollbar_track.tga"
+		borderSize = { x=4 y=4 }
+	}
+	spriteType = {
+		name = "GFX_tab_button"
+		texturefile = "launcher\\gfx\\interface\\tab_button.tga"
+		noOfFrames = 2
+	}
+	
+	progressbartype = {
+		name = "GFX_workshop_progress"
+		
+		color = { 0.0 0.5 0.0 }
+		colortwo = { 1.0 0.0 0.0 }
+		textureFile1 = "launcher\\gfx\\interface\\progress.dds"
+		textureFile2 = "launcher\\gfx\\interface\\progress_bg.dds"
+		size = { x = 300 y = 20 }
+		effectFile = "gfx/FX/progress.lua"
+		
+		maxValue = 300
+	}
+}
+

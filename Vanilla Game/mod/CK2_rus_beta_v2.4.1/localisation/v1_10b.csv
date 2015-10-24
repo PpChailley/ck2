@@ -1,0 +1,72 @@
+#CODE;RUSSIAN;x
+d_nubia;Мукурра;x
+d_nubia_adj;Мукуррск;x
+#d_hayya;Хайя;x
+#d_hayya_adj;Хайск;x
+#d_sennar;Сеннар;x
+#d_sennar_adj;Сеннарск;x
+LIEGEPIETY_HEADER;[Player.Religion.GetPietyName] сюзерену;x
+#NO_LIEGEPIETY;Этот вассал не приносит Вам благочестия.\nНекоторые строения в религиозных поселениях приносят благочестие сюзерену владельца.;x
+major_river_crossing;Крупная переправа;x
+realm_job_spiritual;Придворный $TITLE$;x
+job_spiritual_finnish_pagan;Прорицатель;x
+job_spiritual_finnish_pagan_reformed;Прорицатель;x
+job_spiritual_baltic_pagan;Прорицатель;x
+job_spiritual_baltic_pagan_reformed;Прорицатель;x
+job_spiritual_slavic_pagan;Волхв;x
+job_spiritual_slavic_pagan_reformed;Волхв;x
+job_spiritual_tengri_pagan;Прорицатель;x
+job_spiritual_tengri_pagan_reformed;Прорицатель;x
+job_spiritual_zoroastrian;Мобед;x
+nick_hardeknud;Хардекнуд;x
+steppe;Степь;x
+TOGGLE_LOOTER_FAIL_CHARALLOWED;Владелец разрешил грабить;x
+TOGGLE_LOOTER_FAIL_INOWNLAND;Отряд на дружественной территории;x
+TOGGLE_LOOTER_FAIL_MERC;В отряде нет наёмников;x
+TOGGLE_LOOTER_FAIL_ISATTACHED;Отряд не присоединился к другому отряду;x
+TOGGLE_LOOTER_FAIL_HASATTACHED;К отряду не присоединены другие отряды;x
+INTERACTION_GRANT_GAVELKIND_EXPLOIT;Как старший наследник при равном разделе, §Y$NAME$§! не может получить в дар земельный титул "§Y$TITLE$§!";x
+ca_steppe_barracks_1;Лагерь степных воинов;x
+ca_steppe_barracks_2;Лагерь степных воинов;x
+ca_steppe_barracks_3;Лагерь степных воинов;x
+ca_steppe_barracks_4;Лагерь степных воинов;x
+ca_steppe_barracks_5;Лагерь степных воинов;x
+ca_steppe_barracks_6;Лагерь степных воинов;x
+ca_steppe_stable_1;Тренировочное поле степных всадников;x
+ca_steppe_stable_2;Тренировочное поле степных всадников;x
+ca_steppe_stable_3;Тренировочное поле степных всадников;x
+ca_steppe_stable_4;Тренировочное поле степных всадников;x
+ca_steppe_stable_5;Тренировочное поле степных всадников;x
+ca_steppe_stable_6;Тренировочное поле степных всадников;x
+CK2CoA3DLC;Dynasty Coat of Arms Pack 3 (дополнение);x
+NorseUnitPackDLC;Norse Unit Pack (дополнение);x
+NorsePortraitsDLC;Norse Portraits (дополнение);x
+ca_steppe_barracks_desc;Степняки специализировались на конном бою в ущерб пешему, но воины, тренировавшиеся в этом лагере умеют обороняться во время битвы.;x
+ca_steppe_stable_desc;Степь идеально подходит для лёгкой кавалерии, и кочевники прекрасно знают, как использовать это преимущество в бою. Это тренировочное поле позволяет нанимать больше лёгкой кавалерии и конных лучников.;x
+ca_culture_nahuatl_1;Казармы ягуаров;x
+ca_culture_nahuatl_2;Казармы ягуаров;x
+ca_culture_nahuatl_3;Казармы ягуаров;x
+ca_culture_nahuatl_4;Казармы ягуаров;x
+ca_culture_nahuatl_1_desc;Здесь тренируются бесстрашные воины-ягуары. Они - элита ацтекской военной машины и целые армии разбегаются от одного вида пятнистого меха, покрывающего доспехи.;x
+pagan_group_succ_desc_1;уходит к богам;x
+pagan_group_succ_desc_4;держит курс в загробный мир;x
+pagan_group_succ_desc_8;пирует с богами;x
+norse_pagan_succ_desc_3;возносится валькириями;x
+norse_pagan_reformed_succ_desc_3;возносится валькириями;x
+norse_pagan_succ_desc_4;на пути в Асгард;x
+norse_pagan_reformed_succ_desc_4;на пути в Асгард;x
+norse_pagan_succ_desc_8;пирует в Валгалле;x
+norse_pagan_reformed_succ_desc_8;пирует в Валгалле;x
+muslim_succ_desc_1;вкушает белый изюм в блаженном Раю;x
+muslim_succ_desc_2;едет на белых райских верблюдах;x
+muslim_succ_desc_3;возносится Аллахом;x
+muslim_succ_desc_4;держит курс в Джаннат;x
+muslim_succ_desc_8;с гуриями в Раю;x
+west_african_pagan_succ_desc_1;воссоединяется с предками;x
+west_african_pagan_reformed_succ_desc_1;воссоединяется с предками;x
+DE_JURE_INDP_DESC;Обретает де-юре независимость, как §Y$TITLE$§! (§Y$YEARS$§!/$NEEDED_YEARS$ лет);x
+EVTDESC_TOG_4016;Я надеюсь, Вы в добром здравии, [Root.GetTitledFirstName]. Меня зовут Палнатоки, и я взял на себя смелость создать братство воинов посвящённых Тору и Одину. Во время плавания вдоль побережья Рюгена, я нашёл идеальное место, чтобы построить нашу крепость и прошу Вашего разрешения поселиться на этой земле.\n\nПодпись:\n[From.GetTitledName];x
+EVTDESC_TOG_4026;Я надеюсь, Вы в добром здравии, [Root.GetTitledFirstName]. Меня зовут Палнатоки, и я взял на себя смелость создать братство воинов посвящённых Тору и Одину. Во время плавания вдоль побережья Верле, я нашёл идеальное место, чтобы построить нашу крепость и прошу Вашего разрешения поселиться на этой земле.\n\nПодпись:\n[From.GetTitledName];x
+INTERACTION_CONSORT_NOT_PREGNANT;Нельзя взять в наложницы беременную;x
+SETTLEMENT_LOOTED_LOG;§Y$LOOTER$§! ограбил §Y$SETTLEMENT$§! на §Y$LOOT$§!¤;x
+EVTDESC20377;[Root.PrimaryTitle.GetFOA], правитель округа [From.Location.GetName], [FromFrom.GetTitledName], пытается гарантировать моё молчание, подослав ко мне убийц! К счастью, мне удалось уйти от них. Я продолжу распространять слухи о [FromFrom.GetHersHis] коррумпированности и уничтожу [FromFrom.GetHersHis] доброе имя среди [FromFrom.GetHersHis] вассалов.\n\nВаш скромный слуга, [Root.GetSpymasterName],\n[From.GetTitledName];x

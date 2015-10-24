@@ -1,0 +1,54 @@
+#CODE;RUSSIAN;x
+RCLK_TO_SELECT;§GПравый клик для выбора§!;x
+vassal_sacrifice_decision;Жертвоприношение;x
+vassal_sacrifice_decision_named;[Root.GetTitledFirstName] послужит жертвой богам;x
+break_up_with_lover_named;[Root.GetTitledFirstName], нам нужно расстаться;x
+seduce_decision_named;[Root.GetTitledFirstName] - соблазнить [Root.GetHersHis];x
+decision_spy_on_named;[Root.GetTitledFirstName] станет целью шпионажа;x
+decision_break_free_named;[Root.GetTitledFirstName] освободится из плена;x
+invite_to_party_named;[Root.GetTitledFirstName] будет гостем на пире;x
+duel_decision_named;[Root.GetTitledFirstName], вызываю Вас на дуэль;x
+legitimize_bastard;Легитимация;x
+legitimize_bastard_named;[Root.GetTitledFirstName] - узаконить [Root.GetHersHis];x
+convince_to_straighten_up_named;[Root.GetTitledFirstName] - убедить [Root.GetHersHis] исправиться;x
+send_child_into_hiding;Спрятать;x
+send_child_into_hiding_named;[Root.GetFirstName], прячься!;x
+take_child_out_of_hiding;Вывести из подполья;x
+take_child_out_of_hiding_named;[Root.GetFirstName], пора выйти из тени.;x
+send_spouse_into_hiding;Спрятать;x
+send_spouse_into_hiding_named;[Root.GetFirstName], прячься!;x
+take_spouse_out_of_hiding;Вывести из подполья;x
+take_spouse_out_of_hiding_named;[Root.GetFirstName], пора выйти из тени.;x
+EVENT_SPAWNED;Произошло событие;x
+known_sodomite_pagan;Женоподобный любитель мужчин;x
+comfort_of_lover;Утешается любовной связью на стороне;x
+desc_comfort_of_lover;[GetFirstName] находит утешение от своего трудного брака в любовной связи на стороне.;x
+thrill_of_lover;Трепещет от порочной страсти;x
+opinion_dishonorable_duel;Бесчестная дуэль;x
+dishonorable_duel_tooltip;Это считается бесчестным и люди могут осудить подобные действия.;x
+desc_thrill_of_lover;[GetFirstName] находит спасение от трудного брака в своём волнующем романе на стороне.;x
+CIW_GOTOLOCATION_DEL;Перейти с местонахождению человека.;x
+CIW_GOTOCHARREL_DEL;Посмотреть мнения других об этом человеке.;x
+alert_available_targetted_decision_instant;§YДоступны особые действия§!;x
+alert_available_targetted_decision_delayed;Доступны следующие особые действия:\n$LIST$;x
+CAN_CALL_VASSALS_TO_WAR;Все наши вассалы;x
+IS_NOT_A_FOE_OF;НЕ является врагом человека, известного как ;x
+IS_A_FOE_OF;Является врагом человека, известного как ;x
+nick_the_scholar;Учёный;x
+nick_the_strange;Чудной;x
+nick_the_black;Чёрный;x
+WayOfLifeDLC;Way of Life (дополнение);x
+IberianUnitPackDLC;Iberian Unit Pack (дополнение);x
+IberianPortraitsDLC;Iberian Portraits (дополнение);x
+tut_0a_7b;Кликнив правой кнопкой мыши (ПКМ) на портрет нужного персонажа, Вы можете открыть меню дипломатии с ним.;x
+tut_4a_4;Для начала кликните правой кнопкой по портрету Вашего сводного брата, Мейл Мура, эрла Атолла. Вы найдёте его внизу, в левой части вкладки "Семья" в разделе "Братья и сёстры" (портрет, который Вы видите - только пример, а не настоящий эрл).;x
+tut_4a_5;Слева находится список возможных дипломатических действий. Справа Вы сможете выбрать варианты и увидеть возможные последствия своих решений. Нажмите "Далее", чтобы продолжить.;x
+tut_6a_12;Пора объявить войну. Снова выберите провинцию "Сёреяр"(Гебридские острова). Нажмите правой кнопкой мыши на портрет её правителя и выберите дипломатию.;x
+tut_4c_9;Обстоятельно обдумайте свой выбор, и помните, что династия и её ранг зависят от престижа, который Вы получите или потеряете, вступив в брак. Когда сделаете свой выбор, нажмите на портрет избранницы или избранника, чтобы продолжить.;x
+EVTDESC107009;Когда подберете хорошую кандидатку для брака, кликните правой кнопкой мыши по портрету, чтобы открыть меню дипломатии. Здесь Вы можете попросить сюзерена предполгаемой будущей жены о разрешении на брак. Дипломатическое меню - главный способ взаимодействия с другими. А теперь заключите брак.;x
+EVTDESC107310;Вы готовы заключить мир. Чтобы сделать это, кликните на иконку войны в правом нижнем углу экрана. Также Вы можете кликнуть правой кнопкой по портрету того, с кем воюете и открыть дипломатическое меню.;x
+EVTDESC107300;Теперь у Вас есть претензия и самое время развязать войну. Кликните по Канарским островам, затем правым кликом по портрету правителя в открывшемся окне. Выберите "Объявить войну" в меню дипломатии и "Потребовать Канарские о-ва". Отправьте Ваше послание.;x
+ca_culture_moors_2;Казармы мавританской конницы;x
+ca_culture_moors_3;Казармы мавританской конницы;x
+ca_culture_moors_4;Казармы мавританской конницы;x
+TRIBAL_TAX_MODIFIER;Племенной налог;x

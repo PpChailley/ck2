@@ -1,0 +1,6 @@
+name = "Mongol Face Pack"
+archive = "dlc/dlc002.zip"
+steam_id = "203773"
+gamersgate_id = "531"
+checksum = "00838b2babd27441c4848584ed3a4fb9"
+affects_checksum = no

@@ -1,0 +1,6 @@
+name = "Songs of the Caliph"
+archive = "dlc/dlc009.zip"
+steam_id = "210893"
+gamersgate_id = "611"
+checksum = "81e530989a8cfc2c3361d3a05afac723"
+affects_checksum = no

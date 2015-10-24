@@ -1,0 +1,59 @@
+##################################
+# "HORSE LORDS" EVENT PICTURES   #
+##################################
+
+spriteTypes = {
+
+	# Horse Lords
+	
+	spriteType = {
+		name = "GFX_evt_nomad_camp"
+		texturefile = "gfx\\event_pictures\tribal_lands_cm.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_sand_desert"
+		texturefile = "gfx\\event_pictures\desert.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_wolf"
+		texturefile = "gfx\\event_pictures\hunting_scene.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_shaman"
+		texturefile = "gfx\\event_pictures\tribal_shrine_cm.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_market_altaic"
+		texturefile = "gfx\\event_pictures\market.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_horse_friend"
+		texturefile = "gfx\\event_pictures\courier_riding.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_child_sword_altaic"
+		texturefile = "gfx\\event_pictures\child_sword_training.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_horsemanship"
+		texturefile = "gfx\\event_pictures\courier_riding.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_chinese_emissary"
+		texturefile = "gfx\\event_pictures\emissary_kneeling_before_throne.tga"
+		allwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_evt_steppe_mercenaries"
+		texturefile = "gfx\\event_pictures\mongol_horsemen_horde.tga"
+		allwaystransparent = yes
+	}
+}

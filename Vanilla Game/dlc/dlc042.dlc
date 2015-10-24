@@ -1,0 +1,6 @@
+name = "Songs of India"
+archive = "dlc/dlc042.zip"
+steam_id = "279603"
+gamersgate_id = "4"
+checksum = "f61f53e8a8d3a6cc9c67bb790c321fb4"
+affects_checksum = no

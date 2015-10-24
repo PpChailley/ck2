@@ -1,0 +1,42 @@
+# Big bin files from vanilla game. Unignore as needed
+*.mp3
+*.ogg
+*.tga
+*.bmp
+*.dds
+*.dmp
+
+
+*.fnt
+*.mesh
+*.png
+*.xac
+
+# Non-mod directories. Unignore as needed
+/map
+/chronicles
+/dumps
+/gfx
+/logs
+
+
+# Big directories out of modding scope (graphics)
+/Vanilla Game/gfx/
+gfx/
+
+unins000.dat
+
+
+*.bak
+*.old
+
+*.dll
+*.exe
+*.zip
+*.rar
+*.tar*
+*.epub
+*.mobi
+*.pdf
+
+savegames/Sinai*

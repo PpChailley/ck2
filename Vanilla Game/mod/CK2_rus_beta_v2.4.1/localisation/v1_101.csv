@@ -1,0 +1,51 @@
+#CODE;RUSSIAN;x
+NAME_W_NICK;$TITLE$ $NAME$ $NICK$;x
+#VASSAL_RETRACTION_SETUP;Вассал был отозван;x
+VASSAL_RETRACTION_LOG;$TOP_LIEGE$ отзывает вассала ($VASSAL$) у его сюзерена ($OLD_LIEGE$);x
+opinion_retracted_my_vassal;Отозвал моего вассала;x
+opinion_retracted_my_de_jure_vassal;Отозвал моего де-юре вассала;x
+opinion_retracted_a_vassal;Отозвал вассала;x
+opinion_retracted_a_de_jure_vassal;Отозвал де-юре вассала;x
+RETRACT_VASSAL_INTERACTION_TITLE;Отозвать вассала;x
+RETRACT_VASSAL_INTERACTION_DESC;Отозвать вассала у его сюзерена (§Y[Recipient.GetBestName]§!).;x
+RETRACT_VASSAL_INTERACTION_LONG_DESC;Вы можете отозвать вассала у одного из Ваших прямых вассалов, которых это явно не обрадует, особенно, если это их де-юре вассал.;x
+RETRACT_VASSAL_INTERACTION_0;Выберите вассала, которого следует отозвать (сюзерен - §Y[Recipient.GetTitledFirstName]§W).;x
+RETRACT_VASSAL_INTERACTION_1;Постановить, что §Y[ThirdPartyCharacter.GetBestName]§W станет Вашим прямым вассалом, из-за чего §Y[Recipient.GetTitledFirstName]§W ухудшит своё мнение о Вас на §R$OPINION$§W.;x
+RETRACT_VASSAL_INTERACTION_2;Благодаря Авторитету Короны титула §Y$CROWN_TITLE$§!, наши вассалы не могут возразить.;x
+RETRACT_VASSAL_INTERACTION_2B;Поскольку §Y[Recipient.GetTitledFirstName]§! - предатель, наши вассалы не будут возражать.;x
+RETRACT_VASSAL_INTERACTION_2C;Поскольку §Y[Recipient.GetTitledFirstName]§! - мерзкий еретик (исповедует §Y[Recipient.Religion.GetName]§!), наши вассалы не будут возражать.;x
+RETRACT_VASSAL_INTERACTION_2D;Подобное нарушение феодального договора расстроит Ваших вассалов (мнение о Вас: §R$OPINION$§!).;x
+RETRACT_VASSAL_INTERACTION_2E;Законы нашей империи позволяют отзывать вассалов без возражений со стороны аристократии.;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_SETUP;Вассал отозван;x
+RETRACT_VASSAL_INTERACTION_ACCEPT_LOG;§Y[Actor.GetBestName]§W отзывает вассала (§Y[ThirdPartyCharacter.GetBestName]§W) у его сюзерена (§Y[Recipient.GetBestName]§W);x
+RETRACT_VASSAL_INTERACTION_LETTER;Мы решили отозвать Вашего вассала ([ThirdPartyCharacter.GetBestName]). Отказ с Вашей стороны приведет к войне.;x
+RETRACT_VASSAL_INTERACTION_DECLINE_SETUP;В отзыве вассала отказано;x
+RETRACT_VASSAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отказывает в отзыве своего вассала (§Y[ThirdPartyCharacter.GetBestName]§W), которого требует §Y[Actor.GetBestName]§W;x
+EVTDESC274;Ваша Милость, я принимаю Ваше решение отозвать моего вассала ([Root.GetBestName]), хотя это глубоко огорчает меня.;x
+EVTDESC275;Подобное нарушение феодального договора недопустимо, я не откажусь от своих вассалов без боя!;x
+CANNOT_DESTROY_GAVELKIND_TITLE;Нельзя уничтожать титулы при Равном разделе (законы наследования);x
+INTERACTION_REQUIRES_PIETY;§Y[Actor.GetBestName]§! может позволить себе потерять §Y$COST$§W благочестия;x
+INTERACTION_REQUIRES_MONEY;§Y[Actor.GetBestName]§! может заплатить §Y$COST$§W¤;x
+INTERACTION_REQUIRES_PRESTIGE;§Y[Actor.GetBestName]§! может позволить себе потерять §Y$COST$§W престижа;x
+CelticUnitPackDLC;Celtic Unit Pack (дополнение);x
+CelticPortraitsDLC;Celtic Portraits (дополнение);x
+broken_spirit;Сокрушенный духом;x
+opinion_subjugated_other_rel;Покоренный;x
+d_meath_adj_irish;Таранск;x
+d_ghanan_band;Ганский Отряд;x
+d_ghanan_band_adj;Ганск;x
+AIREASON_CONSORT_CLAIMANT;Претендент;x
+#RULER_HAS_BECOME_KING_AMBITION;С амбицией "Править §Y[PrimaryTitle.GetAdjective]ой§! землёй", §Y[GetTitledFirstName]§! не может переместить столицу за де-юре пределы этого государства.;x
+hellenic_pagan;Эллинское язычество;x
+hellenic_pagan_DESC;Эллинизм - это политеизм с пантеоном из двенадцати главных божеств, в их числе: Юпитер, Марс, Меркурий, Венера, Минерва и Веста. Оно восходит к Древней Греции, завоеваниям Александра Великого и Римской Империи, и могла бы стать господствующей в Средиземноморье, если бы не распространение Христианства. Реализованные в игре особенности:\n§Y*§! Можно объявить войну за покорение других язычников\n§Y*§! Правители не могут объявлять священные войны\n§Y*§! Низкая эффективность в обращении в свою веру и уязвимость против неязыческих миссионеров;x
+GOD_JUPITER;Юпитер;x
+GOD_MERCURY;Меркурий;x
+GOD_MARS;Марс;x
+GOD_VENUS;Венера;x
+GOD_MINERVA;Минерва;x
+GOD_VESTA;Веста;x
+pagan_DESC;С древних времен Европа и Ближний Восток были домом для бесчисленных языческих религий и культов, не связанных с авраамической верой. Реализованные в игре особенности:\n§Y*§! Правители ограничены в законах наследования Равным Разделом\n§Y*§! Правители не могут объявлять Священные войны\n§Y*§! Низкая эффективность в обращении в свою веру и уязвимость против неязыческих миссионеров;x
+d_aztec_reformed;Ацтекская Церковь;x
+job_spiritual_hellenic_pagan;Авгур;x
+job_spiritual_pagan;Прорицатель;x
+#pagan_subjugation_desc;Язычники могут покорять других языческих правителей один раз в жизни (с амбицией "Стать монархом" этот предел времени недействителен против целей внутри государства). Вольные люди всегда желают следовать за самым могущественными правителем...;x

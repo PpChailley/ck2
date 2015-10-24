@@ -1,0 +1,65 @@
+#CODE;RUSSIAN;x
+WIKIPEDIA_LINK;§YСсылки на Википедию§W;x
+WIKIPEDIA_LINK_DESC;Открывает в браузере страничку со статьей про персонажа;x
+WIKIPEDIA_LINK_MISSING;§YУ этого персонажа нет странички в Википедии§W;x
+WIKIPEDIA_LINK_DISABLED;Ссылки на Википедию отключены;x
+AIREASON_TARGET_HAS_REPENTED_SINS;§Y[GetBestName]§! недавно покаялся в своих грехах;x
+OL_DISABLED_ALERTS;Оповещения отключены;x
+alert_deficits_name;Дефицит;x
+alert_country_at_war_name;Война;x
+alert_casus_belli_will_expire_name;Истекает срок повода для войны;x
+alert_allies_not_called_in_name;Мы можем призвать союзников;x
+alert_build_province_improvement_name;Вы можете начать строительство в провинции;x
+alert_troops_in_foreign_territory_name;Войска на чужой территории;x
+alert_revoltrisk_in_provinces_name;Возможны восстания;x
+alert_available_decision_name;Важные решения;x
+alert_noheir_name;Нет наследника;x
+alert_court_not_filled_name;Свободные должности при дворе;x
+alert_lose_title_on_succ_name;Титул будет потерян при наследовании;x
+alert_should_nominate_heir_name;Назначить наследника;x
+alert_you_can_create_titles_name;Можно создать титулы;x
+alert_you_can_usurp_titles_name;Титулы можно узурпировать;x
+alert_ruler_should_marry_name;Правитель не в браке;x
+alert_heir_should_marry_name;Наследник не в браке;x
+alert_should_appoint_guardian_name;Ребенок без наставника;x
+alert_demesne_too_big_name;Слишком много личных владений;x
+alert_adult_sons_notitle_name;Безземельные сыновья;x
+alert_betrothed_should_marry_name;Помолвленные могут пожениться;x
+alert_can_imprison_name;Справедливое наказание;x
+alert_titles_may_pass_from_realm_name;Наследство вассалов;x
+alert_can_call_vassals_to_arms_name;Можно призвать вассалов бывшего сюзерена;x
+alert_available_plot_name;Доступны новые заговоры;x
+alert_vassal_levies_raised_long_name;Ополчение вассалов собрано слишком долго;x
+alert_owns_wrong_settlement_type_name;Неверный тип владения в вотчине;x
+alert_no_ambition_name;Выберите амбицию;x
+alert_dejure_claim_name;Может заявить де-юре претензии;x
+alert_truce_expiring_name;Истекает перемирие;x
+OPINION_OF_ME;Мнение обо мне;x
+MY_OPINION_OF_CHAR;Моё отношение;x #к $CHAR$
+ALERT_DISABLED;Отключено;x
+ALERT_DISABLED_TOOLTIP;Отключено\n§YКликните чтобы включить снова§!;x
+ALERT_DISMISSED;Отменено;x
+ALERT_DISMISSED_TOOLTIP;Отменено\n§YКликните чтобы включить снова§!;x
+SAME_GUARDIAN_AS;Один опекун с;x
+NOT_SAME_GUARDIAN_AS;Не один опекун с;x
+GARRISON_REINFORCE_PROVINCEVIEW_TOOLTIP;Пополнения: §Y+$NUM$§!/месяц;x
+NO_LEVY_REINF_GARRISON;§RПополнения не поступают когда гарнизон полон§!;x
+d_ghilman;Гулямы;x
+d_ghilman_adj;Гулямск;x
+county_isolated;Изолированная провинция;x
+TITLE_TIER_IS_LOWER;§Y$NAME$§! рангом ниже, чем §Y$RANK$§!\n;x
+TITLE_TIER_IS_NOT_LOWER;§Y$NAME$§! рангом НЕ ниже, чем §Y$RANK$§!\n;x
+TITLE_TIER_IS_HIGHER;§Y$NAME$§! рангом выше, чем §Y$RANK$§!\n;x
+TITLE_TIER_IS_NOT_HIGHER;§Y$NAME$§! рангом НЕ выше, чем §Y$RANK$§!\n;x
+MSG_SETTING_PRIO6;Ставить игру на паузу;x
+MSG_SETTING_CLOSE_COL;Эта колонка управляет поведением сообщений, касающихся Вас лично и Ваших безземельных родственников.;x
+MSG_SETTING_OTHER_COL;Эта колонка управляет поведением сообщений, касающихся остальных персонажей.;x
+MSG_SETTING_INTEREST_COL;Эта колонка управляет поведением сообщений, касающихся персонажей, представляющих для Вас особый интерес.;x
+MSG_SETTING_CLOSE_BUT;Эта кнопка показывает настройки сообщений, касающихся Вас лично и Ваших безземельных родственников.;x
+MSG_SETTING_INTEREST_BUT;Эта кнопка показывает настройки сообщений, касающихся персонажей, представляющих для Вас особый интерес.;x
+MSG_SETTING_OTHER_BUT;Эта кнопка показывает настройки сообщений, касающихся остальных персонажей.;x
+SPECIAL_INTEREST_CHARACTERS;Особо важные персонажи;x
+CIW_MESSAGES;§YВключить Особый Интерес§!;x
+CIW_MESSAGES_DEL;Персонажи, представляющих особый интерес перечислены в планировщике и имеют собственные настройки сообщений.;x
+EVTDESC24503;[From.GetTitledFirstName] многого достиг. Остальным моим сыновьям ещё далеко до его способностей . Лишь он один умеет так хорошо управляться с мечом. Из него выйдет отличный [From.GetTitle], когда я умру.;x
+EVTOPTD50006;Но... разве я вас не отпустил?;x

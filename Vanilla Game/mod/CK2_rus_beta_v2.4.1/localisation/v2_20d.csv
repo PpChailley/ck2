@@ -1,0 +1,19 @@
+#CODE;RUSSIAN;x
+vice_royalty_2_desc;Делает доступными вице-герцогства и вице-королевства.;x
+duke_vice_royalties;Позволяет вице-герцогства и вице-королевства.;x
+PLOT_POWER_DESC;Чем могущественнее участники заговора, тем эффективнее заговор в целом. Высокий уровень силы заговора открывает возможность принятия специальных решений и появления соответствующих событий. Ваш тайный советник, создавая шпионскую сеть в нужных регионах, также повышает эффективность заговора.;x
+LIEGE_ENDED_OTHER_WAR_PARTICIPATION_LOG;§Y$VASSAL$§! больше не участвует в войне, известной как §Y$VASSAL_WAR$§!, поскольку $PRONOUN$ сюзерен §Y$LIEGE$§! вступает в конфликт §Y$LIEGE_WAR$§! как §Y$SIDE$§!.;x
+LIEGE_ENDED_OTHER_WAR_LOG;§Y$VASSAL_WAR$§! подходит к концу, поскольку §Y$LIEGE$§! вступает в конфликт §Y$LIEGE_WAR$§! как §Y$SIDE$§!.;x
+NOT_ANY_WAR_STARTS;Нет войны;x
+not_under_attack;Не защищается в войне;x
+temple_king_pagan_group;Король-Жрец;x
+EVTTITLE_CM_1402;Mятеж;x #[From.PrimaryTitle.GetRulerTitle]
+EVTDESC_CM_1410;[Root.PrimaryTitle.GetFOA], [From.GetTitledName] предательски нарушая свои обещания, отказывает нам в помощи против омейядов!;x
+TRIBAL_VASSAL_LEVY_CONTROL_ON;Племенные вассалы теперь будут предоставлять Вам ополчение.\n;x
+TRIBAL_VASSAL_LEVY_CONTROL_OFF;Племенные вассалы больше не будут предоставлять Вам ополчение.\n;x
+TRIBAL_VASSAL_TAX_INCOME_ON;Племенные вассалы теперь будут платить Вам налоги.\n;x
+TRIBAL_VASSAL_TAX_INCOME_OFF;Племенные вассалы больше не будут платить Вам налоги.\n;x
+LIEGE_TAX_TRIBAL;Независимые правители племён не получают налоги со своих вассалов;x
+CHRONICLE_WAR_WON;Bо славу своей страны [From.GetTitledNameWithNick] побеждает в войне. [Root.GetTitledNameWithNick] терпит поражение.;x
+CHRONICLE_WAR_WHITEPEACE;Mудрые правители [From.GetTitledNameWithNick] и [Root.GetTitledNameWithNick] заключают белый мир.;x
+CHRONICLE_WAR_LOST;K своему несчастью [From.GetTitledNameWithNick] терпит поражение в войне. [Root.GetTitledNameWithNick] побеждает.;x

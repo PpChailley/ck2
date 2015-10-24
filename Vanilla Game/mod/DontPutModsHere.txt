@@ -1,0 +1,1 @@
+Mods should be put in <your user documents>\Paradox Interactive\Crusader Kings II\mod

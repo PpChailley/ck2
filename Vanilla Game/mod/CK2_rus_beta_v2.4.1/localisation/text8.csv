@@ -1,0 +1,1325 @@
+#CODE;RUSSIAN;x
+AIREASON_ALL_HELP_IS_APPRECIATED;Оценит любую помощь;x
+RULER_JOINS_ENEMY_WAR_SETUP;Правитель присоединился к войне против нас;x
+RULER_JOINS_ENEMY_WAR_LOG;§Y$WHO$§! присоединяется к нашему врагу, известному как §Y$ENEMY$§!, в войне (§Y$WAR$§!);x
+joined_my_war;Присоединился к нашей войне;x
+#d_venetian_navy;Венецианский Флот;x
+#d_venetian_navy_adj;Венецианск;x
+#d_genoese_navy;Генуэзский Флот;x
+#d_genoese_navy_adj;Генуэзск;x
+#d_hanseatic_navy;Ганзейский флот;x
+#d_hanseatic_navy_adj;Ганзейск;x
+#d_frisian_navy;Фризский Флот;x
+#d_frisian_navy_adj;Фризск;x
+d_maghreb_corsairs;Магрибский Флот;x
+d_maghreb_corsairs_adj;Магрибск;x
+k_frisia;Фризия;x
+k_frisia_adj;Фризианск;x
+#k_lotharingia;Лотарингия;x
+#k_lotharingia_adj;Лотарингск;x
+k_pomerania;Померания;x
+k_pomerania_adj;Поморянск;x
+k_bavaria;Бавария;x
+k_bavaria_adj;Баварск;x
+PLOT_TO_MURDER;Заговор с целью убийства;x
+INITIAL_PLOT_POWER;Начальная сила заговора;x
+TITLE_RATING_LOWER_THAN;Имеющийся титул ниже;x
+TITLE_RATING_AT_LEAST;Имеющийся титул не ниже;x
+LOADING_TIP_48;Назначение кого-либо на должность епископа исключает его из линии наследования;x
+LOADING_TIP_50;Жадные персонажи больше всего любят подарки;x
+AIREASON_EAGER_TO_MURDER;Аморальный;x
+AIREASON_RELUCTANT_TO_MURDER;Угрызения совести;x
+TITLE_CANNOT_USURP_SAME_REALM;Невозможно узурпировать титул кого-либо в Вашем государстве, не имея на то сильных претензий;x
+REASONING;Аргументация;x
+RulerDesignerDLC;Ruler Designer (дополнение);x
+PLOT_CONDITION_FOR_YOU;Должно быть истинно для вас;x
+PLOT_CONDITION_FOR_TARGET;Должно быть истинно для: $TARGET$;x
+ALREADY_HAVE_AMBITION;Уже присоединился к заговору $PLOT$;x
+SEND_GIFT_INTERACTION_LONG_DESC;Ценный дар персонажу улучшит его мнение о Вас на величину зависящую от Вашего навыка дипломатии и его жадности. Персонажи из Вашего государства будут ценить дары не столь высоко, как иноземцы;x
+JOIN_ATTACKER_WARS_EFFECT;Присоединится к нападающему [GetTitledName] в [GetAbsPossPronoun] войне;x
+JOIN_DEFENDER_WARS_EFFECT;Присоединится к обороняющемуся [GetTitledName] в [GetAbsPossPronoun] войне;x
+IS_NOT_PRIMARY_WAR_ATTACKER;Не является инициатором войны;x
+IS_PRIMARY_WAR_ATTACKER;Инициатор войны;x
+IS_NOT_PRIMARY_WAR_DEFENDER;Не является ключевой обороняющейся стороной в войне;x
+IS_PRIMARY_WAR_DEFENDER;Ключевая обороняющаяся сторона в войне;x
+SET_DE_JURE_LIEGE_EFFECT;§Y$VASSAL$§! становится де-юре вассалом государства "§Y$LIEGE$§!";x
+CONTRIBUTION_PERC_IRO;Роль персонажа $CHAR$: §Y$PERC$%§! (§Y$SCORE$§!);x
+ASK_TO_JOIN_WAR_INTERACTION_TITLE;Присоединиться к войне;x
+ASK_TO_JOIN_WAR_INTERACTION_DESC;Предложить присоединиться к войне, которую ведёт §Y[Recipient.GetBestName]§!.;x
+ASK_TO_JOIN_WAR_INTERACTION_LONG_DESC;Вы можете предложить правителям исповедующим общую с Вами веру, присоединиться к ним во многих типах войн.;x
+ASK_TO_JOIN_WAR_INTERACTION_0;Предложить присоединиться к войне, которую ведёт §Y[Recipient.GetBestName]§! (§Y$WAR$§!).;x
+ASK_TO_JOIN_WAR_INTERACTION_ACCEPT_SETUP;Предложение присоединиться к войне принято;x
+ASK_TO_JOIN_WAR_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§W принимает предложение, и §Y[Actor.GetBestName]§W присоединяется к [Recipient.GetHersHis] войне (§Y$WAR$§!);x
+ASK_TO_JOIN_WAR_INTERACTION_DECLINE_SETUP;Предложение присоединиться к войне отклонено;x
+ASK_TO_JOIN_WAR_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отклоняет предложение, §Y[Actor.GetBestName]§W не присоединится к [Recipient.GetHersHis] войне (§Y$WAR$§!);x
+ASK_TO_JOIN_WAR_INTERACTION_OFFER;[Actor.GetBestName] желает присоединиться к войне (§Y$WAR$§!);x
+ASK_TO_JOIN_WAR_INTERACTION_LETTER;Я поддерживаю Ваши притязания! Пожалуйста, примите мое предложение присоединиться к Вам в войне ($WAR$).;x
+INTERACTION_CANNOT_JOIN_LIEGE_WAR;Мы не можем присоединяться к войнам наших сюзеренов;x
+INTERACTION_REQUIRES_RECIPIENT_IS_SAME_RELIGION;[Recipient.GetTitledName] исповедует [Actor.Religion.GetName];x
+EVTDESC293;[Root.PrimaryTitle.GetFOA], я с радостью принимаю Ваше предложение присоединиться к нашей войне. Пусть же трепещут наши враги!\n [From.GetTitledFirstName];x
+EVTDESC294;[Root.PrimaryTitle.GetFOA], я ценю Ваше предложение, но Ваше вмешательство в войну не требуется.\n [From.GetTitledFirstName];x
+CALL_ALLY_INTERACTION_TITLE;Призыв к оружию;x
+CALL_ALLY_INTERACTION_DESC;§Y[Recipient.GetBestName]§! получит от нас просьбу присоединиться к нам в текущих войнах.;x
+CALL_ALLY_INTERACTION_LONG_DESC;Призвать персонажа вступить в войну на Вашей стороне возможно только, если он член Вашей династии, либо при наличии тесных брачных связей Ваших семей.;x
+CALL_ALLY_INTERACTION_0;§Y[Recipient.GetBestName]§! получит от нас просьбу присоединиться к нам в войне (§Y$WAR$§!).;x
+CALL_ALLY_INTERACTION_ACCEPT_SETUP;Призыв к оружию принят;x
+CALL_ALLY_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§W принимает призыв, который отправляет [Recipient.GetHerHim] §Y[Actor.GetBestName]§W, о присоединении к §Y$ACTOR_WARS$§!;x
+CALL_ALLY_INTERACTION_DECLINE_SETUP;Призыв к оружию отклонен;x
+CALL_ALLY_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отклоняет призыв, который отправляет [Recipient.GetHerHim] §Y[Actor.GetBestName]§W, о присоединении к §Y$ACTOR_WARS$§!;x
+CALL_ALLY_INTERACTION_OFFER;[Actor.GetBestName] просит, чтобы мы присоединились к §Y$ACTOR_WARS$§!;x
+ACTOR_WARS;[GetAbsPossPronoun] войнам;x
+DECLARE_WAR_INTERACTION_3;§R[Recipient.GetTitledFirstName] в настоящее время ведёт восстание против своего правителя. Если этот конфликт закончится, наша война так же будет окончена! Войска [Recipient.GetHersHis] сюзерена и восставших будут враждебны нам§!;x
+DECLARE_WAR_INTERACTION_4;§R[Recipient.GetTitledName] может призвать ближайших, исповедующих [Recipient.Religion.GetName], правителей на защиту веры.§!;x
+plot_gain_vassal_title_title;Отозвать "[This.GetFullBaseName]";x
+plot_gain_vassal_title_desc;[From.GetBestName] в заговоре с целью завладеть областью "[This.GetFullBaseName]", отозвав титул её правителя.;x
+plot_gain_vassal_title_decision;[Root.GetPlot];x
+plot_gain_vassal_title_decision_desc;Реализовать заговор. [Root.PlotTarget.GetTitledName] получит ультиматум.;x
+EVTTOOLTIP8030;[Root.PlotTarget.GetTitledName] получает письмо.;x
+EVTDESC8030;Я собираюсь [From.GetPlot]. Вассалы государства изучили представленные правовые документы и большинство из них признает мои требования обоснованными. Выполните их или мне придётся взять своё силой.\nПодпись:\n [From.GetTitledName];x
+EVTDESC8068;Опасаясь того, что гражданская война разорвет страну на части, я соглашаюсь с Вашим требованием и передаю Вам свой титул. Однако этот бесчестный шантаж не будет забыт...\nПодпись:\n [From.GetTitledName];x
+EVTOPTA8068;Превосходно!;x
+EVTDESC8096;Вместо того, чтобы позволить гражданской войне разорвать страну на части, [FromFrom.PlotTarget.GetTitledName] решает отступить и позволить мне [FromFrom.GetPlot]. Ваш весомый вклад в разрешение этого конфликта не будет забыт.\nС уважением,\n [FromFrom.GetTitledName];x
+EVTOPTA8096;Хорошо.;x
+EVTDESC8118;Ваш шантаж просто жалок. И не важно сколько бесчестных предателей Вы склонили на свою сторону. Я не отдам без боя то, что по праву моё!\nПодпись:\n [From.GetTitledName];x
+EVTOPTA8118;Значит так тому и быть. Война!;x
+CRUSADE_DESC_IRO;Его Святейшество, §Y$POPE$§! объявил $CRUSADE$ с целью захвата всех земель державы "§Y$TITLE$§!", которые удерживает §Y$ENEMY$§!.;x
+CRUSADE_DESC_DRO_1;Поскольку Корона государства §Y$TITLE$§! уже в руках правителя, известного как (§Y[GetTitledFirstName]§!, и исповедующего [Religion.GetName], все доходы будут переданы [GetHerHim].;x
+CRUSADE_DESC_DRO_2;До тех пор, пока Корона государства §Y$TITLE$§! не в руках правителя исповедующего $RELIGION$, все доходы будут передаваться правителю, который вносит наибольший вклад в $CRUSADE$, кем в настоящее время является §Y$RULER$§!.;x
+PARTICIPATION_SCORE;Вклад в $CRUSADE$;x
+CLICK_TO_OPEN_WAR_VIEW;§GНажми чтобы открыть окно войны§!;x
+EVTNAME620;[From.Religion.GetCrusadeName];x
+EVTDESC620;на землю [Root.GetBaseName] увенчался успехом! [From.Religion.GetRandomGodNameCap] дарует правителю, которого зовут "[From.GetTitledName]", победу в походе на землю [Root.GetBaseName] против её правителя, известного как [New.GetTitledName]. [From.RelHead.GetTitledName] объявляет месяц празднования этой великой победы. [From.Religion.GetGroupName] несет свой свет дальше!;x
+EVTOPTA620;Слава тебе, [From.Religion.GetRandomGodName]!;x
+EVTNAME621;[From.Religion.GetCrusadeName];x
+EVTDESC621;на землю [Root.GetName] провалился! [From.Religion.GetRandomGodNameCap] отворачивается от нас. После ряда поражений и неудач, [From.GetTitledName] отзывает [From.Religion.GetCrusadeName] на землю "[Root.GetName]" против правителя, известного как [New.GetTitledName].;x
+TITLE_CREATION_NOT_PRIMARY_TYPE;Обладатели специальных титулов не могут создавать или присваивать равные или более высокие титулы.;x
+IS_NOT_LOCATED_IN_AREA;Не находится в;x
+IS_LOCATED_IN_AREA;Находится в;x
+IS_NOT_DE_JURE_VASSAL_OR_BELOW;Не имеет ранг де-юре вассала или ниже;x
+IS_DE_JURE_VASSAL_OR_BELOW;Имеет ранг де-юре вассала или ниже;x
+WAR_NAME_CRUSADE;$ORDER$ $HOLY_WAR$ (религии $RELIGION$) за область $OTHER_TITLE$;x
+CB_NAME_CLAIM_VASSAL;Отозвать: "[Title.GetBaseName]";x
+#coastal_republic_desc;Как морская республика, §Y$CLAIMANT$§! может объявить войну за контроль над прибрежной областью §Y$TITLE$§!;x
+HOLDING_TYPE_IS_NOT;Тип владения - НЕ ;x
+HOLDING_TYPE_IS;Тип владения - ;x
+REPUBLIC_HELD_CITY;Республика удерживает город;x
+REPUBLIC_HELD_COASTAL_CITY;Республика удерживает прибрежный город;x
+REPUBLIC_GRAND_CAPITAL_CITY;Столица Великой Республики;x
+MATRILINEAL_MARRIAGE;Матрилинейный брак;x
+MATRILINEAL;Матрилинейный;x
+BETROTHAL_SUCC;Матрилинейная помолвка;x
+BETROTHED_SUCC_IRO;Эти персонажи помолвлены и не могут заключить брак с кем-либо иным, пока помолвка не расторгнута. Они согласились вступить в матрилинейный брак, таким образом дети рожденные от этого брака будут принадлежать к династии невесты.;x
+OFFER_SUCCESSION_MARRIGE_INTERACTION_3;§RДети рожденные от этой пары не будут принадлежать к вашей династии - рассмотрите возможность обычного брака!§!;x
+OFFER_MARRIGE_INTERACTION_3;§RДети рожденные от этой пары не будут принадлежать к вашей династии - рассмотрите возможность матрилинейного брака!§!;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_TITLE;Организовать матрилинейную помолвку;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_DESC;Предложить кандидатов на матрилинейную помолвку;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_LONG_DESC;Дети не могут вступать в брак, однако они могут договориться о помолвке, которая будет действовать пока они не вступят в брак, один из них не умрет, или пока не будет расторгнута.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_0;Выбор будущих жениха и невесты.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_1;Выберите кандидата при дворе, который возглавляет §Y$CHAR$§W.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_ACCEPT_SETUP;Предложение матрилинейной помолвки принято;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§W принимает предложение о матрилинейной помолвке, которую предлагает §Y[Actor.GetBestName]§W, §Y[ActorExtra.GetBestName]§W и §Y[RecipientExtra.GetBestName]§W станут прекрасной парой.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_DECLINE_SETUP;Предложение матрилинейной помолвки отклонено;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§W отклоняет предложение о матрилинейной помолвке, которую предлагает §Y[Actor.GetBestName]§W, утверждая, что §Y[ActorExtra.GetBestName]§W и §Y[RecipientExtra.GetBestName]§W не подходят друг другу.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_OFFER;[Actor.GetBestName] предлагает матрилинейную помолвку, утверждая, что [ActorExtra.GetBestName] и [RecipientExtra.GetBestName] станут прекрасной парой.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_LETTER;Мы хотим предложить Вам матрилинейную помолвку. [ActorExtra.GetBestName] и [RecipientExtra.GetBestName] станут прекрасной парой.;x
+ARRANGE_SUCC_BETROTHAL_INTERACTION_3;§RДети рожденные от этой пары не будут принадлежать к Вашей династии - рассмотрите возможность обычной помолвки!§!;x
+ARRANGE_BETROTHAL_INTERACTION_3;§RДети рожденные от этой пары не будут принадлежать к Вашей династии - рассмотрите возможность матрилинейной помолвки!§!;x
+EVTDESC330;Я решил принять Ваше предложение о матрилинейной помолвке, [Root.GetTitledFirstName] и [New.GetTitledFirstName] станут прекрасной парой.;x
+EVTDESC331;Я отклоняю Ваше оскорбительное предложение. [New.GetTitledFirstName] и [Root.GetTitledFirstName] никогда не вступят в матрилинейный брак.;x
+WAR_NAME_CLAIM_ALL;$ORDER$ $FIRST_ADJ$ая Война за претензии на титулы и земли: $CLAIMS$;x
+ALL_WARS;Все войны;x
+stressed_death;от сильного стресса;x
+depressed_death;от депрессии;x
+ill_death;от заболевания;x
+pneumonic_death;от пневмонии;x
+syphilitic_death;от сифилиса;x
+leper_death;от проказы;x
+wounded_death;от заражения раны;x
+maimed_death;от полученных увечий;x
+infirm_death;в немощи, прикованный к постели;x
+incapable_death;не выходя из комы;x
+has_tuberculosis_death;от чахотки;x
+has_typhoid_fever_death;от перемежающейся лихорадки;x
+has_typhus_death;от сыпного тифа;x
+has_bubonic_plague_death;от чумы;x
+has_measles_death;от кори;x
+has_small_pox_death;от оспы;x
+inbred_death;в связи с врожденным уродством;x
+weak_death;от немощи;x
+DEATH_BY_TRAIT;умер $TRAIT_DEATH$;x
+DEATH_BY_NATURE;умер естественной смертью;x
+DEATH_BY_MURDER;убит, заказчик убийства - $KILLER$;x
+DEATH_BY_MURDER_UNKNOWN;погиб при подозрительных обстоятельствах;x
+DEATH_EXECUTION;казнен по приказу: $KILLER$;x
+DEATH_ACCIDENT;умер в результате несчастного случая;x
+DEATH_BATTLE;погиб в бою, противник - $KILLER$;x
+DEATH_BATTLE_NO_KILLER;погиб в бою;x
+DEATH_DUNGEON;погиб в тюрьме персонажа $KILLER$;x
+DEATH_SUICIDE;покончил жизнь самоубийством;x
+DEATH_RABBLE;погиб от рук черни;x
+DEATH_DUEL;погиб на дуэли, противник - $KILLER$;x
+CHARACTER_DEAD_TOOLTIP;[GetDeathReason] [GetDeathDate]г в возрасте [GetAgeYears] лет (дата рождения: [GetBirthDate]г).;x
+CHAR_DEATH_LOG;В возрасте $AGE$ лет §Y$NAME$§! $CAUSE$.;x
+CHAR_DEATH_LETTER;В возрасте $AGE$ лет $RELATION$ $NAME$ $CAUSE$.;x
+SUCCESSION_DESC;$OLD_TITLE$ $OLD_NAME$ $SUCC_RAND_DESC$ в возрасте [GetAgeYears] лет. [GetSubjectPronounCap] [GetDeathReason]. Да здравствует $NEW_TITLE$ $NEW_NAME$!;x
+NOT_READY_TO_PLAY_MP;§Y$PLAYER$§! Не готов;x
+DESTROY_LANDED_TITLE_EFFECT;§Y$TITLE$§! исчезает.\n;x
+READY;Готов;x
+nick_haardraade;Хардрад;x #Суровый
+DE_JURE_LIEGE_CHANGED_SETUP;Земельный титул перешел к де-юре сюзерену;x
+DE_JURE_LIEGE_CHANGED_LOG;После §Y$YEARS$§! лет под правлением государства §Y$NEW_LIEGE$§!, §Y$TITLE$§! де-юре больше не считается частью государства §Y$OLD_LIEGE$§!.;x
+DE_JURE_ASS_DESC;Включение де-юре в §Y$TITLE$§! (§Y$YEARS$§!/$NEEDED_YEARS$ лет);x
+SEND_ASSASSIN_INTERACTION_DESC;Попытка убийства за §Y$GOLD$§!¤, цель - §Y[Recipient.GetBestName]§!. Имеется §Y$CHANCE$%§W шанс на успех и §Y$DISC$%§W шанс раскрытия убийства. §RЕсли мой замысел будет раскрыт, это серьезно запятнает мою репутацию.§W;x
+DS_HOSTILE_2;§YВраждебен§! по отношению к: §Y$LIEGE$§!, в связи с войной с восставшим вассалом (§Y$VASSAL$§!).;x
+DS_HOSTILE_3;§YВраждебен§! по отношению к: §Y$ATTACKER$§!, в связи с войной с восставшим вассалом (§Y$VASSAL$§!).;x
+DS_HOSTILE_4;§YВраждебен§! по отношению к: §Y$OTHER$§!, в связи с войной с восставшим вассалом (§Y$VASSAL$§!).;x
+DS_HOSTILE_5;§YВраждебен§! по отношению к: §Y$VASSAL$§!, в связи с войной против их сюзерена (§Y$LIEGE$§!).;x
+DS_HOSTILE_6;§YВраждебен§! по отношению к: §Y$ATTACKER$§!, в связи с войной против потенциального сюзерена (§Y$LIEGE$§!).;x
+UW_NOT_POSSIBLE_TO_ATTACH;Здесь нет дружественных единиц для присоединения;x
+UW_UNITS_ATTACHED;Данные единицы присоединились.;x
+UW_ATTACH_TO;Приказать постоянно следовать за: $NAME$.;x
+UW_DETACH_FROM;Отсоединиться от: $NAME$.;x
+INTERACTION_NO_OUTSIDER_OCCUPATION;Ни одна из территорий восставшего($REVOLTER$) не занята другим($OUTSIDER$).;x
+OL_UNIT_MOVING;Следующей провинцией по маршруту является §Y$TARGET$§W.;x
+k_andalusia;Андалусия;x
+k_brittany;Бретань;x
+k_brittany_adj;Бретанск;x
+k_aquitaine;Аквитания;x
+k_aquitaine_adj;Аквитанск;x
+d_aquitaine_adj;Аквитанск;x
+b_asperg;Асперг;x
+opinion_father_of_child;Мой ребенок;x
+plot_kill_character_short;Убить человека;x
+plot_kill_spouse_short;Убить супруга;x
+CB_NAME_DEJURECLAIM;[Title.GetBaseName]: де-юре претензия;x
+WAR_NAME_DEJURECLAIM;$ORDER$ $FIRST_ADJ$о-$SECOND_ADJ$ая де-юре война за область $OTHER_TITLE$;x
+TITLE_CREATION_REQ_DUCHIES;Вы должны владеть §Y$DUCHIES$§! герцогствами.;x
+TITLE_TITULAR_NO_CAPITAL;Этот титул не может быть создан в данных условиях.;x
+TITLE_TITULAR_CREATION_DESC;Создание титула принесет §G$PRESTIGE$§! престижа и будет стоить вам §R$GOLD$§!¤ и §R$PIETY$§! очков благочестия.;x
+TITLE_TITULAR_REQ_HELD_CAPITAL;Вы должны владеть титулом §Y$TITLE$§!.;x
+EVTDESC65115;Грязь на земле кажется такой аппетитной. Надо попробовать на вкус. Когда я подношу её ко рту, ко мне подбегает маленькая девочка. Она спрашивает: "У тебя совсем ума нет? Это глупо!";x
+EVTOPTA65115;Ума есть, девчонка - глупо.;x
+EVTOPTB65115;Глупый - это кто поступает глупо.;x
+EVTDESC65120;Практикуясь сегодня с мечом, я замечаю, что моя рука красная и немного болит. Оказывается, что всё это время надо было держать меч за другой конец! Хахаха.;x
+EVTOPTA65120;АЙ!;x
+EVTDESC65125;Во время прогулки верхом лошадь вела себя странно. Запрокидывала голову и постоянно пятилась. Кое-как мне удалось добраться до округа [Root.Location.GetName], где мальчик-конюх сказал: "Садись другой стороной, балда!";x
+EVTOPTA65125;Ой. Это моя вина...;x
+EVTOPTB65125;Мой способ лучше!;x
+EVTDESC65126;Забыл надеть штаны сегодня утром. Столько криков, беспокойства. Не понимаю в чем проблема?;x
+EVTOPTA65126;Успокойтесь! С кем не бывает?;x
+EVTDESC65130;Сегодня мне попалась картина, изображаюшая одно из самых мерзких и отвратительных существ, которых я когда-либо видел. Эта ошибка природы испугала меня до смерти. Кривые зубы, эти уши... стоило только взглянуть на огромный нос, чтобы мне сделалось дурно! Как вдруг, стоявший рядом придворный спросил, что я думаю о моём новом портрете.;x
+EVTOPTA65130;Дайте мне зеркало...;x
+EVTOPTB65130;Здесь плохое освещение. Оказывается тут еще и лицо!;x
+EVTDESC65135;Сегодня я узнал, что [Root.Location.County.GetAdjective]ие матери, воспитывая своих маленьких дочерей, пугают их страшными историями о том, что если они будут себя плохо вести, то когда они вырастут в жены их возьмет жуткое чудовище вроде... меня.;x
+EVTOPTA65135;Буду меньше показываться на людях...;x
+EVTOPTB65135;Могли бы и пострашней придумать!;x
+EVTDESC65140;Гнусные слухи о том, что я ведьма стали распространяться по округу [Root.Location.GetName] в связи с моей... необычной внешностью. По крайней мере, моё положение не дает крестьянам возможности бросаться такими обвинениями в открытую.;x
+EVTOPTA65140;Несчастные. Скоро они найдут кого-то поуродливее.;x
+EVTOPTB65140;Чума на их близких! Пусть у них родятся страшные уродливые дети!;x
+EVTDESC65145;В детстве мне часто приходилось слышать от окружающих о собственном уродстве. Сейчас, я уже [Root.GetManWoman]а и, кажется, они стали реагировать на мою внешность совсем иначе.;x
+EVTOPTA65145;Похоже, гадкий утенок становится прекрасным лебедем.;x
+EVTDESC65150;Сегодня, оседланный с помощью шестерых конюхов, не успев сделать и шаг, мой конь издал стон и рухнул на землю. Главный конюший, сказал, что конь умер, и что у него сломан хребет. Также он намекнул, что возможно для всех будет лучше, если впредь я буду ходить пешком.;x
+EVTOPTA65150;Кажется, у меня лишний вес...;x
+EVTOPTB65150;Неслыханно! Найдите мне другого коня!;x
+EVTDESC65151;Хватит. Отныне я буду ограничить себя в еде и больше уделять внимание прогулкам. Это уже приносит свои плоды, теперь я вижу свои ноги!;x
+EVTDESC65155;Сегодня, гуляя по крепостной стене, мне захотелось войти в одну из башен, и вот же повезло - застрять в дверном проёме! Не в силах пошевелиться, мне пришлось просить о помощи четверых слуг, чтобы они меня освободили.;x
+EVTOPTA65155;В кого я превращаюсь? Отныне никаких жареных поросят на ужин!;x
+EVTOPTB65155;Эту башню строили для детей? Расширьте проходы!;x
+EVTDESC65160;Сегодня, гуляя по улицам города [Root.Location.GetName], мне повстречался местный Инспектор Кошельков. Он потребовал мой кошелек для осмотра, чтобы надлежащим образом проверить его.;x
+EVTOPTA65160;Постойте... Какой еще Инспектор Кошельков??;x
+EVTDESC3460;Сегодня ко двору прибыл священник, чтобы обсудить вопросы веры, но вскоре стало ясно, что он придерживается весьма нетрадиционных взглядов. Как ревностный защитник Церкви, я полагаю, что правильно поступаю, отдавая приказ бросить в темницу кощунственного язычника, который посмел критиковать мою веру и мою Церковь.;x
+EVTOPTA3460;Deus vult!;x
+EVTDESC61100;[Root.Liege.GetTitledFirstName] нуждается в должной заботе о своей стране, и мой долг как [Root.Liege.GetHersHis] регента - эту заботу обеспечить. Думаю, одно из [Root.Liege.GetHersHis] владений под моим непосредственным руководством добьется большего успеха и процветания.;x
+EVTOPTA61100;[Root.Liege.GetTitledFirstName] не станет возражать!;x
+EVTOPTB61100;Нет. Мне следует помнить своё место.;x
+EVTTOOLTIP61101;Вы узурпировали титул у персонажа [Root.Liege.GetTitledFirstName].;x
+EVTDESC61101;[Root.Regent.GetTitledName], Ваш регент, принимает решение в своей бесконечной мудрости, что один из Ваших титулов перейдя к н[Root.Regent.GetHerHim], принесет намного больше пользы этим землям.;x
+EVTOPTA61101;*распустить слюни*;x
+EVTOPTB61101;*безучастно смотреть вперед*;x
+EVTDESC61105;Беднота страдает в наших землях, но [Root.Liege.GetTitledFirstName] не состоянии заботиться о людях. Как [Root.Liege.GetHersHis] регент, я могу сделать что-то и для простого народа.;x
+EVTOPTA61105;Взгляните! [Root.Liege.GetTitledFirstName] - сама щедрость!;x
+EVTOPTB61105;Заманчиво, но я не вправе распоряжаться этими деньгами.;x
+EVTTOOLTIP61106;Вы раздаете милостыню бедным от имени персонажа [Root.Liege.GetTitledFirstName].;x
+EVTDESC61106;Похоже, что [Root.Regent.GetTitledName], Ваш регент, в своей бесконечной щедрости раздаёт милостыню беднякам за счет Вашей казны. Хуже всего то, что [Root.Regent.GetSheHe] делает это от Вашего имени!;x
+EVTOPTA61106;Гхррр... н-н-ееееет!;x
+EVTDESC61110;Управление в Вашей стране значительно улучшилось благодаря тому, что [Root.Regent.GetTitledFirstName] - Ваш регент. Вот если бы Вы владели [Root.Regent.GetHersHis] навыками!;x
+EVTOPTA61110;*утвердительно проворчать*;x
+EVTDESC61120;[Root.Liege.GetTitledFirstName] - жалкий образец глупости. Как [Root.Liege.GetHersHis] регент, я думаю у нас при дворе пригодился бы новый шут...;x
+EVTOPTA61120;Публично унизить [Root.Liege.GetHersHis] перед придворными.;x
+EVTOPTB61120;Возможно, не стоит так поступать.;x
+EVTTOOLTIP61121;Персонажи, плохого мнения о сюзерене ([Root.Liege.GetTitledFirstName]), поддерживают эту идею.;x
+EVTDESC61121;Пользуясь Вашей немощью, Ваш регент, [Root.Regent.GetTitledName], делает своей привычкой публично насмехаться над Вами перед всеми. Иногда [Root.Regent.GetSheHe] швыряет свою накидку на Вашу голову словно на вешалку, время от времени пишет углем обидные вещи у Вас на лбу. Иногда [Root.Regent.GetSheHe] даже колет орехи Вашим ртом. Ужасное унижение!;x
+EVTOPTA61121;*мучительная серия непроизвольных спазмов*;x
+EVTOPTB61121;*Непредсказуемо мотать головой из стороны в сторону*;x
+EVTDESC61122;[Root.Liege.Regent.GetTitledName], регент правителя, известного как [Root.Liege.GetTitledFirstName], постоянно унижает [Root.Liege.GetHersHis] на людях. Из-за своей немощи [Root.Liege.GetTitle] не может [Root.Liege.Regent.GetHerHim] ничего противопоставить. Честь требует, чтобы Вы положили конец этому безобразию!;x
+EVTOPTA61122;[Root.Liege.GetTitledFirstName] даст мне согласие принять меры.;x
+EVTOPTB61122;Эх... [Root.Liege.GetSheHe] заслуживает это.;x
+EVTTOOLTIP61123;[Root.Liege.GetTitle] побеседует с Вами.;x
+EVTDESC61123;Выходки Вашего регента не остались без внимания. [From.GetTitledName] приближается к Вам, чтобы наедине выразить свое отвращение к подлым выходкам регента, которые Вам приходится терпеть. С глазами полными гнева, [From.GetSheHe] обещает предпринять все возможные меры против Вашего обидчика... если только Вы дадите своё согласие.;x
+EVTOPTA61123;*почти незаметно кивнуть головой*;x
+EVTOPTB61123;*опустить голову и уснуть*;x
+EVTTOOLTIP61124;Вы дали персонажу [From.GetTitledName] своё благословение.;x
+EVTDESC61124;Хотя [Root.Liege.GetTitledFirstName] не в себе последнее время, Вы понимаете, что Вам дано [Root.Liege.GetHersHis] благословение принять меры - [Root.Liege.Regent.GetTitledName] несомненно получит своё! Собирайте верных людей! Стране нужен новый регент!;x
+EVTOPTA61124;Только я по праву могу быть регентом.;x
+EVTOPTB61124;Да кто угодно лучше, чем [Root.Liege.Regent.GetFirstName]!;x
+EVTTOOLTIP61125;Вы станете следующим регентом.;x
+EVTTOOLTIP61126;Придворные сами выберут регента.;x
+EVTDESC61125;Нам удалось! [Root.Liege.Regent.GetFirstName] скрывается в одной из замковых башек, словно крыса загнанная в угол! Те не многие стражники, которые были верны [Root.Liege.Regent.GetHerHim] бежали или были убиты.;x
+EVTOPTA61125;В темницу [Root.Liege.Regent.GetHersHis]!;x
+EVTDESC61127;[Root.Liege.Regent.GetFirstName] имеет больше поддержки у придворных, чем нам казалось. Мы доблестно сражались за нашу страну, но большинство стражников встало на [Root.Liege.Regent.GetHersHis] сторону. Всё пропало!;x
+EVTOPTA61127;Отпустите! Во имя [Root.Liege.GetTitledFirstName]!;x
+EVTTOOLTIP61127;Вас бросили в тюрьму.;x
+EVTDESC61128;[From.GetTitledName] оспаривает мои права регента... [Root.Liege.GetTitledFirstName] вызывает у н[From.GetHersHis] сочувствие. Глупо и недальновидно, ведь стража на моей стороне и [From.GetHersHis] жалкая попытка переворота обречена.;x
+EVTOPTA61128;Пусть гниёт в тюрьме.;x
+EVTDESC61129;[From.GetTitledName] оспаривает Ваши права регента, так как [Root.Liege.GetTitledFirstName] вызывает у н[From.GetHersHis] сочувствие. К несчастью стража предала Вас!;x
+EVTOPTA61129;Да ладно вам? У вас что нет чувства юмора?;x
+EVTTOOLTIP61129;[Root.Liege.Regent.GetFirstName] отправляется в темницу.;x
+EVTDESC61130;[From.GetTitledFirstName] провалив попытку свергнуть Вашего регента, сейчас томится в темнице замка. Похоже, что унижения и страдания окончатся только с Вашей смертью...;x
+EVTOPTA61130;*слеза скользнула по щеке*;x
+EVTOPTB61130;*неразборчивое ругательство*;x
+EVTDESC61131;Из своих покоев, Вы слышите крики и звон мечей в стенах замка. [From.GetTitledFirstName] и верные [From.GetHerHim] люди одолели регента ([Root.Regent.GetTitledFirstName]) и [Root.Regent.GetHersHis] приспешников! Больше не будет [Root.Regent.GetHersHis] подлых выходок при дворе, новый регент должен быть назначен незамедлительно.;x
+EVTOPTA61131;*скорчить гримасу, напоминающую улыбку *;x
+EVTOPTB61131;*размахивать руками в диком торжестве*;x
+EVTDESC61135;Скача на своей деревянной лошадке по пустым коридорам замка, Вы замечаете своего регента ([Root.Regent.GetTitledName]), который выходит на балкон подышать свежим воздухом. [Root.Regent.GetSheHeCap] стоит спиной к Вам.;x
+EVTOPTA61135;Столкнуть!;x
+EVTOPTB61135;Нет, нельзя так делать.;x
+EVTDESC61140;Вас только-что осенило, что когда [Root.Liege.GetTitledFirstName] достигнет совершеннолетия, Вы лишитесь титула Регента. Возможно, нужно что-то сделать для расширения своей власти... во славу страны, конечно.;x
+EVTOPTA61140;Это отродье не будет править. Никогда!;x
+EVTOPTB61140;Мой долг - уйти, когда [Root.Liege.GetLadLass] сможет править.;x
+EVTDESC61141;Становится всё очевиднее, что [Root.Liege.GetTitledFirstName] - очень... необычный ребенок. Вы больше не можете объяснить [Root.Liege.GetHersHis] растущее безумие переходным возрастом.;x
+EVTOPTA61141;Это решение далось мне не легко, но оно должно быть сделано.;x
+EVTOPTB61141;Возможно, с возрастом это пройдёт...;x
+EVTDESC61142;[Root.Liege.GetTitledFirstName] теряет рассудок, [Root.Liege.GetHersHis] следует заключить в одну из башен замка. Ваше регентство продолжится, пока [Root.Liege.GetSheHe] не услышит голос разума, независимо от своего возраста.;x
+EVTOPTA61142;Это для пользы страны.;x
+EVTTOOLTIP61145;Настоящим указом - персонаж [Root.Liege.GetTitledFirstName] объявлен безумным.;x
+EVTDESC61145;Благодаря Вашим искусным интригам, [Root.Liege.GetTitledFirstName] запирается в башню по причине своего безумия. Ваше регентство продолжится, пока [Root.Liege.GetHersHis] психическое состояние не улучшится.;x
+EVTOPTA61145;Ха! Этот день никогда не наступит.;x
+EVTDESC61146;Все Ваши попытки объявить, что [Root.Liege.GetTitledFirstName] переживает безумие, провалились. Вскоре [Root.Liege.GetLadLass] вырастет, и Вы получите сильного врага...;x
+EVTOPTA61146;Ну мне казалось, что [Root.Liege.GetSheHe] точно не в своём уме.;x
+EVTTOOLTIP61146;Вы не в состоянии сделать это.;x
+EVTDESC61150;Ваш Регент, [Root.Regent.GetTitledName], тайно замышляет объявить, что Вы безумны, в своей бесплодной попытке расширить своё регентство. К сожалению для н[Root.Regent.GetHersHis], всем известно, что Вы в ладах со своим разумом.;x
+EVTOPTA61150;Когда-нибудь [Root.Regent.GetSheHe] пожалеет об этом.;x
+EVTOPTB61150;Я в своём уме. Скажи им, Флиббли-Даббли-Ду.;x
+EVTDESC61151;[Root.Regent.GetFirstName] - эта гадина Регент, обвиняет Вас в безумии! [Root.Regent.GetHersHis] это удалось, и теперь принято решение запереть Вас в башне замка, пока Вы не придёте в себя.;x
+EVTOPTA61151;Я в своём уме!;x
+EVTOPTB61151;Я буду ходатайствовать Королю Репке о своей вменяемости!;x
+EVTDESC61155;[Root.Liege.GetTitledFirstName] находится под стражей уже 15 лет, пока Вы - [Root.Liege.GetHersHis] регент. За исключением титула, Вы являетесь истинным правителем страны. Возможно, пришло время закончить этот фарс.;x
+EVTOPTA61155;Захватить трон!;x
+EVTOPTB61155;Нет, мы должны соблюдать традиции.;x
+EVTOPTC61155;С меня достаточно. Освободить [Root.Liege.GetHersHis].;x
+EVTDESC61156;В конце-концов трон Ваш. Унизительная ложь, в которую Вы играли все эти годы наконец закончилась. Теперь Вы - [Root.Liege.GetTitle] не только фактически, но и юридически. Да здравствует [Root.Liege.GetTitle]!;x
+EVTOPTA61156;Я заслуживаю это.;x
+EVTTOOLTIP61156;Узурпация трона.;x
+EVTDESC61157;Неблагодарный двор отказался признать в Вас истинного правителя! За Вашу наглость они лишили Вас титула регента, и теперь [Root.Liege.GetTitledFirstName] освобождается из заключения.;x
+EVTOPTA61157;Глупцы! Страна будет страдать.;x
+EVTTOOLTIP61157;Ужасный провал.;x
+EVTDESC61160;Ваш подлый регент [Root.Regent.GetTitledName] совсем потерял(а) совесть, пытаясь узурпировать Ваш трон. Теперь [Root.Regent.GetHersHis] попытка провалилась и [Root.Regent.GetSheHe] лишается регентского титула. Вы освобождены, и можете править этой страной.;x
+EVTOPTA61160;Это... это солнце?;x
+EVTTOOLTIP61160;[Root.Liege.GetTitle] освобождается!;x
+EVTDESC61161;Пока Вы были взаперти, Ваш регент, найдя поддержку при дворе, успешно захватывает Ваш трон.;x
+EVTOPTA61161;Это невозможно...;x
+EVTTOOLTIP61161;Да здравствует [Root.Liege.GetTitle]!;x
+EVTDESC61165;Вы ловко обманываете охранников, и они отходят от незапертой двери башни. После побега из башни, ударом ноги Вы открываете дверь в главный зал, где на Вашем троне сидит регент - [Root.Regent.GetFirstName]. Поскольку придворные лишь удивлённо шепчутся, Вы выкрикиваете во весь голос:;x
+EVTOPTA61165;Услышьте меня! Я - законный правитель этой земли!;x
+EVTOPTB61165;СИМСАЛАБИМ!;x
+EVTDESC61166;Охранники приводят Вас в комнату и заколачивают её снаружи...;x
+EVTOPTA61166;Теперь моя страна - это место... что ж, так тому и быть!;x
+EVTTOOLTIP61166;Что ж, Вы сделали свою лучшую попытку...;x
+EVTDESC61170;Беда! [Root.Liege.GetTitledFirstName] успешно сбегает из своей башни и находит достаточную поддержку, чтобы сместить Вас с поста регента! Стражники бросают Вас в темницу.;x
+EVTOPTA61170;Этого не должно было произойти.;x
+EVTTOOLTIP61170;Ваш регент арестован.;x
+EVTDESC61190;Трон не будет Вашим, пока [Root.Liege.GetTitledFirstName] дышит. Если с ним случится несчастье, никто не удивится. Вы [Root.Liege.GetHersHis] регент, возможно Вам следует дать [Root.Liege.GetHerHim] простую работу по дому. Крыша замка давно не чистилась от помета птиц...;x
+EVTOPTA61190;Это закаляет характер.;x
+EVTOPTB61190;Нет, [Root.Liege.GetTitle] не заслуживает такого обращения.;x
+EVTDESC61191;Время от времени Вам кажется, что Ваш регент [Root.Regent.GetTitledName], не всегда желает Вам добра, но выполнение этого задания укрепит Ваш характер. [Root.Regent.GetSheHeCap] даёт Вам опасное задание по чистке крыши. Если Вы хоть на секунду потеряете баланс...;x
+EVTOPTA61191;Разве не для этого нужны слуги?;x
+EVTTOOLTIP61191;В случае неудачи можно погибнуть.;x
+EVTDESC61192;Несколько раз Вы были на волосок от смерти, но теперь крыша сверкает и Вы сделали это в один заход. Если проклятые птицы вернутся, то у Вас будет шанс потренироваться в стрельбе.;x
+EVTOPTA61192;Честно отработанный день.;x
+EVTTOOLTIP61192;Крыша свободна от помета.;x
+EVTDESC61195;У ребенка хороший баланс. Это уже не важно. Возможно, поездка в сельскую местность принесет пользу. Неподалеку есть непроходимый лес, наполненный волками и бандитами. В нем легко можно заблудиться...;x
+EVTOPTA61195;[Root.Liege.PrimaryTitle.GetFOA], Вы отправляетесь в путешествие.;x
+EVTOPTB61195;Риск слишком велик.;x
+EVTDESC61196;Ваш Регент [Root.Regent.GetFirstName], устраивает Вам небольшую поездку по окрестностям замка с посещением деревень. Вы въезжаете в темный лес, и эскорт тает на глазах. Вскоре Вы остаётесь в полном одиночестве.;x
+EVTOPTA61196;Э-эй? Кто-нибудь?;x
+EVTDESC61197;Стражники на воротах замка чуть не выгнали Вас, как простолюдина. Ваше лицо облеплено грязью, Ваша одежда порвана, но перстень подтверждает Вашу личность. Только слепая удача вывела Вас из леса.;x
+EVTOPTA61197;Ноги болят.;x
+EVTTOOLTIP61197;Возвращение к цивилизации.;x
+EVTDESC61200;Невероятно... коротышка жив! Хорошо, я подготовлю карету, скажу, что [Root.Liege.GetTitledFirstName] встретится с иностранным сановником. Извозчик получил указания потерять управление каретой прямо перед оврагом.;x
+EVTOPTA61200;[Root.Liege.PrimaryTitle.GetFOA], пора ехать.;x
+EVTOPTB61200;Это не сработает.;x
+EVTDESC61201;Ваш старый и скучный регент [Root.Regent.GetFirstName], хочет чтобы Вы съездили на встречу с иностранным сановником в каком-то месте. Ваша карета проходит возле ущелья, и кажется извозчик потерял управление над лошадьми...;x
+EVTOPTA61201;*жуткий визг*;x
+EVTDESC61202;Вы бросаетесь к выходу, за мгновенье до того, как у кареты отвалилось колесо и она упала в ущелье. Извозчик, спрыгнувший при первом же признаке опасности на землю, смотрит на Вас хмурым, почти разочарованным взглядом.;x
+EVTOPTA61202;Неуклюжий чурбан, тебя следует повесить за это!;x
+EVTTOOLTIP61202;Выживший в трагической аварии.;x
+EVTDESC61205;Вы поднялись на стены замка, лишь для того, чтобы увидеть, как [Root.Liege.GetTitledFirstName] проходит через ворота, как в ни в чём не бывало. Рядом с Вами стоит полусонный стражник с алебардой. Вы могли бы толкнуть его...;x
+EVTOPTA61205;*толкнуть стражника со всей силы*;x
+EVTOPTB61205;Нет, в этом случае нельзя полагаться на удачу.;x
+EVTDESC61206;Проходя через ворота, Вы замечаете быстро растущую тень. Подняв голову вверх, Вы видите падающего на Вас стражника.;x
+EVTOPTA61206;АААА!;x
+EVTDESC61207;Стражник, со звуком ломающихся костей, упал сбоку от Вас. Рядом стоит Ваш регент [Root.Regent.GetFirstName]. С дрожащим голосом [Root.Regent.GetSheHe] спрашивает, в порядке ли Вы.;x
+EVTOPTA61207;Лучше чем стражник.;x
+EVTTOOLTIP61207;Вы не стали подушкой для стражника.;x
+EVTDESC61210;Довольно игр. Если Вы хотите, чтобы ребёнок умер, Вы должны действовать прямо! Переполняясь яростью с кинжалом в руке, Вы отправляетесь в [Root.Liege.GetHersHis] спальню...;x
+EVTOPTA61210;УМРИ!!!;x
+EVTOPTB61210;Нужно успокоиться. Я могу потерять всё...;x
+EVTDESC61211;Вы направлялись в свою спальню, чтобы обдумать всё, что с Вами происходило в последнее время. Внезапно, удар ноги выбивает дверь. Регент [Root.Regent.GetTitledName] стоит перед Вами с глазами полными ненависти. Отточенный клинок сжат в [Root.Regent.GetHersHis] руке. Не вымолвил ни слова, [Root.Regent.GetSheHe] нападает на Вас.;x
+EVTOPTA61211;Помогите! Стража! ;x
+EVTTOOLTIP61211;Есть шанс погибнуть при ударе.;x
+EVTOPTA61212;Возможно... Я что-то упускаю?;x
+EVTTOOLTIP61212;Смелое уклонение от удара;x
+EVTDESC61213;За мгновенье до удара в сердце маленького монстра, стражники хватают Вас и избив, кидают в темницу. Как они не могут понять, что этот ребёнок должен умереть?!;x
+EVTOPTA61213;Позвольте мне убить [Root.Liege.GetHersHis]. Я только немножко.;x
+EVTDESC61215;[Root.Liege.Regent.GetTitledName] - теперь регент, но [Root.Liege.GetTitledFirstName] как законный правитель этого государства, заслуживает лучшего. Подобная ошибка может дорого стоить, ведь ясно, что нет никого более подходящего для регентства чем Вы.;x
+EVTOPTA61215;Бросить вызов трусу на поединке!;x
+EVTOPTB61215;Рассмотреть дело в суде.;x
+EVTOPTC61215;Это не стоит усилий.;x
+EVTDESC61216;В суде были выражены сомнения в том, что Вы можете служить регентом. [From.GetTitledName] обвиняет Вас в некомпетентности и считает, что стране будет лучше, если регентом станет [From.GetSheHe].;x
+EVTOPTA61216;Бросьте вызов трусу в поединке!;x
+EVTOPTB61216;Отстаивать свою позицию.;x
+EVTOPTC61216;Отступить.;x
+EVTTOOLTIP61216;Регентство поставлено под вопрос.;x
+EVTDESC61217;Вы отстояли своё право в суде и были назначены новым регентом правителя, известного как [Root.Liege.GetTitledFirstName]. На данный момент все дела, которые ведёт [Root.Liege.Regent.GetTitledName], постепенно переходят в Ваши руки.;x
+EVTOPTA61217;[Root.Liege.GetTitledFirstName] не разочаруется.;x
+EVTTOOLTIP61217;Становится новым регентом.;x
+EVTDESC61218;Кажется, [Root.Liege.Regent.GetTitledName] имеет слишком много друзей при дворе. Ваши попытки заменить [Root.Liege.Regent.GetHersHis] на посту регента потерпели неудачу, и, кажется, узнав об этом [Root.Liege.Regent.GetSheHe] будет очень недоволен.;x
+EVTOPTA61218;[Root.Liege.GetTitledFirstName] - всё это ради н[Root.Liege.GetHersHis]!;x
+EVTOPTA61219;Сомневающиеся в этом сильно пожалеют.;x
+EVTTOOLTIP61219;Вы защитили свое право на регентство.;x
+EVTDESC61220;[From.GetTitledName] каким-то образом убеждает двор, что станет лучшим регентом чем Вы.;x
+EVTOPTA61220;Глупцы!;x
+EVTTOOLTIP61220;Вы проиграли регентство конкуренту ([From.GetTitledName]).;x
+EVTDESC61221;[From.GetTitledName] обвиняет Вас в трусости и некомпетентности! [From.GetSheHeCap] утверждает, что Вы не сможете быть хорошим регентом для такого правителя, как [Root.Liege.GetTitledFirstName], и вызывает Вас на поединок.;x
+EVTOPTA61221;Наконец-то, хоть кто-то разбирается в политике!;x
+EVTOPTB61221;Мне не нужно доказывать своё мастерство.;x
+EVTOPTC61221;Если [From.GetSheHe] так хочет быть регентом, пусть им будет!;x
+EVTTOOLTIP61221;Вызов принят!;x
+EVTDESC61222;[Root.Liege.Regent.GetTitledName], вызывает Вас на поединок, за право обладать титулом регента. Что Вы предпримете?;x
+EVTOPTA61222;Ха! У н[Root.Liege.Regent.GetHersHis] нет шансов!;x
+EVTOPTB61222;Вы... шутите?! Дуэль? Пусть забирает своё регентство!;x
+EVTDESC61223;[Root.Liege.Regent.GetTitledName] принимает Ваши условия. На рассвете вы встретитесь на [Root.Location.County.GetAdjective]ом поле. Завтра будет солнечная погода... хороший день, чтобы умереть.;x
+EVTOPTA61223;Почту за честь!;x
+EVTTOOLTIP61223;Вызов принят!;x
+EVTDESC61224;[From.GetTitledName] принимает Ваши условия. На рассвете вы встретитесь на [Root.Location.County.GetAdjective]ом поле. Завтра будет солнечная погода... хороший день, чтобы умереть.;x
+EVTOPTA61224;Почту за честь!;x
+EVTOPTB61224;Эээ... [From.GetSheHe] и правда придёт? Я... не хочу.;x
+EVTOPTA61225;Дело решено.;x
+EVTTOOLTIP61225;Нанесён смертельный удар.;x
+EVTOPTA61226;Это послужит уроком - не переходить мне дорогу.;x
+EVTTOOLTIP61226;Нанесена серьёзная рана.;x
+EVTDESC61227;Когда тьма отступает, Вы вновь можете видеть. Вы начинаете различать лицо Вашего врага, склонившегося над Вами. Кажется, он думает, как с Вами поступить. К Вашему великому стыду, он решает сохранить Вам жизнь.;x
+EVTOPTA61227;Меня лишили славной смерти...;x
+EVTTOOLTIP61227;Вы больше не регент.;x
+EVTOPTA61228;Всё случилось именно так, как и должно было.;x
+EVTTOOLTIP61228;Нанесён смертельный удар.;x
+EVTOPTA61229;Сгиньте с глаз моих! [Root.Liege.GetTitle] не заслуживает службы такого человека, как Вы.;x
+EVTOPTB61229;Только один из нас может покинуть это поле живым. Мне очень жаль.;x
+EVTTOOLTIP61229;Нанесена серьёзная рана.;x
+EVTDESC61230;Когда тьма отступает, Вы вновь можете видеть. Вы начинаете различать лицо Вашего врага, склонившегося над Вами. Кажется, он думает, как с Вами поступить. К Вашему великому стыду, он решает сохранить Вам жизнь.;x
+EVTOPTA61230;Меня лишили славной смерти...;x
+EVTTOOLTIP61230;Спасение от смерти.;x
+EVTDESC61231;Вы пришли в оговоренное место и прождали всё утро только, чтобы узнать, что [From.GetTitledName] - трусливая тварь!;x
+EVTOPTA61231;Слизняк!;x
+EVTTOOLTIP61231;Знает о Вашей трусости.;x
+EVTDESC61232;Ваш противник делает короткий и быстрый выпад, клинок погружается в плоть... ещё несколько мгновений у Вас уходит на то, чтобы осознать, что это смертельный удар! А затем в глазах начинает темнеть, Вы опускаетесь на колени и теряете сознание.;x
+EVTOPTA61232;Это... неправильный конец.;x
+EVTTOOLTIP61232;Конец мучениям положен.;x
+EVTDESC61235;[Root.Liege.Regent.GetTitledName] побеждает в поединке. Титул регента принадлежит [Root.Liege.Regent.GetHerHim] по праву.;x
+EVTDESC61236;В результате дворцовых интриг Ваш прежний регент был заменён другим, угодным двору.;x
+EVTDESC61237;От имени моего мужа должна править я, а не [Root.Liege.Regent.GetTitledName]!;x
+EVTOPTA61237;Пусть будет так!;x
+EVTDESC61238;Как королева-мать я решила взять на себя заботы регентства. [Root.Liege.GetTitledFirstName] не разочаруется в моей помощи.;x
+EVTOPTA61238;[Root.Liege.Regent.GetTitledName], Вы уволены!;x
+EVTDESC61239;Ваша жена решила, что сможет исполнять обязанности регента лучше, чем тот, кто носит сейчас этот титул. Ведь кто ещё сможет отразить Ваши интересы лучше неё?;x
+EVTOPTA61239;Никто.;x
+EVTOPTB61239;У меня есть жена?;x
+EVTOPTC61239;Вот ведьма!;x
+EVTDESC61240;Королева-мать использовала своё влияние, чтобы стать Вашим регентом. Её мудрость и опыт, смогут принести пользу стране.;x
+NEW_DLC_AVAILABLE;Новый контент теперь доступен для покупки;x
+EVTDESC1980;Женщины меня не интересуют, я чувствую, что меня тянет к другим мужчинам.;x
+EVTDESC1990;Мужчины меня не интересуют, я чувствую, что меня тянет к другим женщинам.;x
+EVTDESC20292;[Root.PrimaryTitle.GetFOA],\nЯ cообщаю Вам об ужасном злодеянии! [FromFrom.GetTitledName] несет ответственность за покушение на мою жизнь. Произошло это, потому что мне стало известно о том, что [FromFrom.GetSheHe] хочет "[FromFrom.GetPlot]".\nС уважением,\n [From.GetTitledName];x
+EVTOPTB8118;На самом деле, начинать войну не было моим планом...;x
+WAR_NAME_CLAIM_VASSAL;$ORDER$ Война, которую ведет $ATTACKER$, за отзыв земельного титула $OTHER_TITLE$;x
+EVTDESC100000;Повар обвинил меня в краже печенья, советник - в краже пера. Но в этот раз я не виновен. Прогуливаясь по территории я обнаружил преступника за конюшней;x
+EVTOPTA100000;Признайтесь, что это Вы украли печенье и перо!;x
+EVTTOOLTIP100001;[Root.GetTitledFirstName] и [This.GetTitledFirstName] теперь враги.;x
+EVTOPTB100000;Давайте сеять раздор вместе!;x
+EVTTOOLTIP100002;[Root.GetTitledFirstName] и [This.GetTitledFirstName] становятся друзьями.;x
+EVTDESC100001;Повар кричал, что [From.GetFirstName] украл его печенье, а советник - в краже драгоценного пера. Держа в правой руке печенье, а в левой - перо, я с улыбкой удалился за конюшню, не заметив, что [From.GetFirstName] следует за мной. Дождавшись момента, он выхватил у меня перо.;x
+EVTOPTA100001;Эй! Верни! Это моё!;x
+opinion_rival;Враг;x
+EVTDESC100002;Я думал, что [From.GetFirstName] расскажет всем, что настоящий вор - я. Но [From.GetFirstName] удивил меня. [From.GetSheHeCap] спросил, как мне удалось столь незаметно обстряпать это дельце и попросил у меня помощи в том, чтобы в качестве мести, прокрасться на кухню.;x
+EVTOPTA100002;Я мог бы сделать это.;x
+#EVTDESC100005;Всякий раз когда мы играем в интересные игры, один ребёнок не присоединяется к нам, он уходит в тень деревьев и читает какую-то книгу. В чём смысл, листать пыльные страницы, когда можно играть с нами в рыцарей и дам?;x
+EVTOPTA100005;Дразнить этого застенчивого ребёнка.;x
+EVTTOOLTIP100006;[This.GetFirstName] дразнит персонажа [Root.GetFirstName];x
+EVTOPTB100005;Я предложу свой игрушечный меч.;x
+EVTTOOLTIP100007;[Root.GetFirstName] говорит с персонажем [This.GetFirstName];x
+EVTOPTC100005;Пусть делает, что хочет.;x
+EVTDESC100006;Я читаю в тени деревьев, слушая крики других детей. И вот [From.GetFirstName] хватает мою книгу и бросает её прочь. Что мне делать?;x
+EVTOPTA100006;Я сделаю ему очень больно!;x
+EVTTOOLTIP100008;[Root.GetFirstName] бьет персонажа [This.GetFirstName];x
+EVTOPTB100006;Н-ничего...;x
+EVTDESC100007;Я читаю в тени деревьев, слушая крики других детей. И вот [From.GetFirstName] подходит ко мне и спрашивает о книге, а затем предлагает мне свой игрушечный меч.;x
+EVTOPTA100007;С удовольствием!;x
+EVTTOOLTIP100012;[Root.GetTitledFirstName] и [This.GetTitledFirstName] играют вместе и становятся друзьями.;x
+EVTOPTB100007;Я боюсь мечей...;x
+EVTDESC100008;Я даже не успеваю заметить удар, который наносит мне [From.GetFirstName]. Отлетев на метр, я падаю в грязную лужу...;x
+EVTOPTA100008;Я убью тебя!;x
+EVTTOOLTIP100010;Из-за дразнилок [This.GetFirstName] и [Root.GetFirstName] стали врагами;x
+EVTOPTB100008;Ух-ты! Фантастический удар! Покажи, как ты это делаешь!;x
+EVTTOOLTIP100009;[This.GetFirstName] и [Root.GetFirstName] становятся друзьями.;x
+EVTDESC100009;Я с волнением смотрю, как [From.GetFirstName] поднимается после моего удара и уже собираюсь бежать, если [From.GetSheHe] решит отомстить, но к своему удивлению обнаруживаю, что, отбросив книгу в сторону, [From.GetSheHe] просит меня показать, как мне это удалось.;x
+EVTOPTA100009;Ты точно не сердишься?;x
+EVTDESC100010;[From.GetFirstName] гонится за мной, как взбешённый бык. Я едва успеваю убежать. Спрятавшись от н[From.GetHersHis] на кухне, я долго выслушиваю, как [From.GetSheHe] обещает отомстить мне.;x
+EVTOPTA100010;Теперь мы никогда не станем друзьями...;x
+EVTDESC100015;[Root.Guardian.GetTitledFirstName] в который раз замечает, что я пытаюсь отвертеться от своих обязанностей по дому, но прежде чем [Root.Guardian.GetHersHis] удаётся меня наказать, кто-то другой берёт всю вину на себя.;x
+EVTOPTA100015;Благодарю его от всей души.;x
+EVTTOOLTIPA100016;[This.GetFirstName] рад помочь другу.;x
+EVTOPTB100015;Зачем это было делать? У меня всё под контролем!;x
+EVTTOOLTIPB100016;[This.GetFirstName] просто хотел помочь...;x
+EVTOPTC100015;Сказать наставнику правду.;x
+EVTDESC100016;[From.GetFirstName] в беде. Наставник сильно ругает [From.GetHersHis], обвиняя в неспособности заниматься домашними делами. Я решил вмешаться, взяв ответственность на себя.;x
+EVTOPTA100016;[From.GetFirstName] благодарит меня, мы теперь - друзья.;x
+EVTOPTB100016;[From.GetFirstName] дает понять, что в помощи не нуждается.;x
+EVTTOOLTIP100017;[This.GetFirstName] не будет возражать, если [Root.Guardian.GetTitledFirstName] узнает правду от меня.;x
+EVTOPTC100016;В следующий раз я не стану помогать [From.GetHerHim].;x
+EVTOPTD100016;Я запомнил этот урок: никогда никому не помогай...;x
+EVTDESC100017;С тех пор, как [From.GetFirstName] спас меня от наказания, а я не поблагодарил [From.GetHersHis] за это, [From.GetFirstName] - настоящее проклятье для меня. Мне кажется, мы станем злейшими врагами.;x
+EVTOPTA100017;Если это то, чего [From.GetSheHe] хочет. Да будет так!;x
+EVTDESC100020;Я наблюдал за тем, как очередная дама отвергла молодого человека. Ему просто не хватает умения говорить с женщинами. У меня никогда не возникало таких проблем... может пора взять ученика?;x
+EVTOPTA100020;Я должен предложить ему помощь.;x
+EVTTOOLTIP100021;[Root.GetFirstName] предлагает помощь персонажу [This.GetFirstName];x
+EVTOPTB100020;Я боюсь конкуренции...;x
+EVTDESC100021;Я совершенно не умею разговаривать с женщинами. Они только и ищут момента, чтобы сбежать от меня. [From.GetFirstName] предложил мне свою помощь в этом деле. Я смогу научиться правильно общаться с прекрасным полом.;x
+EVTOPTA100021;Конечно, я приму [From.GetHersHis] помощь!;x
+EVTTOOLTIP100022;[Root.GetFirstName] принял помощь, предложенную персонажем [This.GetTitledFirstName].;x
+EVTOPTB100021;Я могу сделать это сам!;x
+EVTTOOLTIP100023;[Root.GetFirstName] отклоняет помощь, предложенную персонажем [This.GetTitledFirstName].;x
+EVTOPTC100021;Я и так счастлив, спасибо!;x
+EVTDESC100022;[From.GetFirstName] был способным учеником. Я провёл множество занятий, рассказал ему о женщинах всё, что знал сам. Теперь он не многим хуже меня разбирается в прекрасном поле.;x
+EVTOPTA100022;Мы стали друзьями.;x
+EVTDESC100023;Я думал, что [From.GetFirstName] с энтузиазмом примет помощь от меня или хотя бы проявит интерес к искусству соблазнения женщин.;x
+EVTOPTA100023;[From.GetFirstName] ответил резким отказом.;x
+EVTOPTB100023;[From.GetFirstName] вежливо отказался от моей помощи.;x
+EVTDESC100025;Обаятельный, приятный и забавный - это не те слова, которые говорят обо мне люди. Но этот человек в окружении женщин как раз такой, даже лучше. Ах, как бы я хотел научиться общаться с женщинами свободно, без заиканий и ненамеренных оскорблений.;x
+EVTOPTA100025;Поможет ли он мне, если я вежливо попрошу?;x
+EVTTOOLTIP100026;попросил помощи у персонажа [Root.GetTitledFirstName].;x
+EVTOPTB100025;Я отдам всё, только бы он помог!;x
+EVTTOOLTIP100030;Подкупил персонажа [Root.GetTitledFirstName]. В надежде, что он обучит его красноречию.;x
+EVTOPTC100025;Я - никто, и женщины это знают.;x
+EVTDESC100026;[From.GetFirstName] обратился ко мне за помощью. Он хочет стать таким же обаятельным в общении с женщинами, как я.;x
+EVTOPTA100026;Я помогу Вам, но всё имеет свою цену.;x
+EVTTOOLTIP100027;[Root.GetTitledFirstName] соглашается помочь персонажу [This.GetTitledFirstName], но не за просто так;x
+EVTOPTB100026;С радостью!;x
+EVTTOOLTIP100028;Под надзором персонажа [Root.GetTitledFirstName], [This.GetTitledFirstName] обучается общению с женщинами.;x
+EVTDESC38303;Сколько можно воздерживаться... Я больше не могу так. Целомудренность? Пора забыть это слово.;x
+EVTOPTC100026;Наконец-то будет достойный соперник в покорении женских сердец!;x
+EVTTOOLTIP100029;[Root.GetTitledFirstName] и [This.GetTitledFirstName] становятся соперниками.;x
+EVTDESC100027;[From.GetFirstName] внимательно выслушал мою просьбу. После некоторых раздумий, [From.GetSheHe] согласился обучать меня, но попросил взамен небольшую сумму.;x
+EVTOPTA100027;Да! Конечно!;x
+EVTOPTB100027;Нет...;x
+EVTDESC100028;Я с энтузиазмом принялся за обучение, но у меня почти ничего не получалось. [From.GetFirstName] только вздыхал, но не оставлял своих усилий. Через какое-то время я понял азы, а дальше дело пошло гораздо быстрее. Теперь я не многим хуже своего учителя.;x
+EVTOPTA100028;[From.GetFirstName] - настоящий друг!;x
+EVTDESC100029;Несмотря на все мои просьбы и увещевания научить меня общаться с женщинами, [From.GetFirstName] отказался помогать мне.;x
+EVTOPTA100029;Теперь мы - соперники.;x
+EVTDESC100030;[From.GetFirstName] обещает много золота, если я помогу [From.GetHerHim] преодолеть застенчивость.;x
+EVTOPTB100030;Я возьмусь за это дело.;x
+EVTTOOLTIP100031;[Root.GetTitledFirstName] помогает персонажу [This.GetTitledFirstName];x
+EVTOPTC100030;Я помогу Вам, но взамен Вы поможете мне...;x
+EVTDESC100031;После того как деньги приобрели нового владельца, [From.GetFirstName] рьяно взялся за моё обучение. Новый мир открылся передо мной.;x
+EVTOPTA100031;Я поборол свою застенчивость!;x
+EVTDESC100035;Я играла со своей куклой и заметила девочку моего возраста, с грустью в глазах, смотрящую на мою игрушку...;x
+EVTOPTA100035;Хочешь поиграть с ней?;x
+EVTTOOLTIP100036;[Root.GetTitledFirstName] и [This.GetTitledFirstName] пытаются подружиться;x
+EVTOPTB100035;Ты скучная, уходи!;x
+EVTTOOLTIP100037;[Root.GetTitledFirstName] становится соперником персонажа [This.GetTitledFirstName];x
+EVTDESC100036;[From.GetFirstName] играла со своей куклой на берегу пруда. Она была красива, с длинными, заплетенными волосами, в очень красивом платье, сделанном из травы. Я хотела куклу настолько, что попросила у девочки поиграть с ней.;x
+EVTOPTA100036;Мы долго играли... это было замечательно.;x
+EVTTOOLTIP100038;[Root.GetTitledFirstName] и [This.GetTitledFirstName] теперь друзья.;x
+EVTOPTB100036;Я схватила куклу и кинулась бежать!;x
+EVTTOOLTIP100039;[Root.GetTitledFirstName] и [Root.GetTitledFirstName] теперь соперники;x
+EVTDESC100037;[From.GetFirstName] стала угрожать мне, но я всего лишь попросила у н[From.GetHersHis] куклу!;x
+EVTOPTA100037;[From.GetFirstName] никогда не станет моей подругой!;x
+EVTDESC100038;Мне сразу не понравилось, как [From.GetFirstName] смотрела на мою куклу, но когда [From.GetSheHe] попросила поиграть с ней, я сразу же простила [From.GetHersHis]. Мы играли так долго, что чуть не пропустили ужин!;x
+EVTOPTA100038;Завтра мы тоже будем играть!;x
+EVTDESC100039;Я прижала куклу к себе, а потом передала [From.GetHerHim], а [From.GetSheHe] схватила игрушку и бросилась бежать! Я больше никогда не увижу свою куклу.;x
+EVTOPTA100039;Верни куклу, [From.GetFirstName]! Я ненавижу тебя!;x
+EVTDESC100040;При дворе есть девушка, которая знает, как играть на чувствах людей, чтобы получить то, чего она хочет, и когда она этого хочет. Она смелее, любой другой, которую я когда-либо встречала, и я ей завидую иногда. Мне хотелось бы стать такой же.;x
+EVTOPTA100040;Быть может, она согласится помочь мне?;x
+EVTTOOLTIP100041;[Root.GetTitledFirstName] просит помощи у персонажа [This.GetTitledFirstName].;x
+EVTOPTB100040;Она - шлюха!;x
+EVTTOOLTIP100042;[Root.GetTitledFirstName] оскорбляет персонажа [This.GetTitledFirstName].;x
+EVTOPTC100040;Как я ей завидую...;x
+EVTDESC100041;Я как раз флиртовала с симпатичным конюхом, когда [From.GetFirstName] подошла ко мне и попросив помощи, потащила меня за угол. Я думала это что-то обыденное и скучное, но [From.GetSheHe] меня удивила. [From.GetFirstName] хочет стать такой же как и я.;x
+EVTOPTA100041;С радостью!;x
+EVTTOOLTIP100043;[Root.GetTitledFirstName] и [This.GetTitledFirstName] стали друзьями;x
+EVTOPTB100041;Этот двор слишком мал для нас обоих.;x
+EVTTOOLTIP100044;[Root.GetTitledFirstName] отказывает персонажу [This.GetTitledFirstName] в [This.GetHersHis] просьбе;x
+EVTOPTC100041;У меня нет на это времени!;x
+EVTDESC100042;Я не флиртую со всеми подряд! Но [From.GetFirstName] назвала меня шлюхой, когда увидела, как я использую своё шарм, чтобы заполучить то, что хочу.;x
+EVTOPTA100042;Мне всё равно, что [From.GetFirstName] думает обо мне.;x
+EVTDESC100043;[From.GetFirstName] согласилась помочь мне, обучив всем тайнам искусства лести и интриг, чтобы получать то, что хочется. И теперь мы подружились.;x
+EVTOPTA100043;Лучшие друзья, навсегда!;x
+EVTDESC100044;[From.GetFirstName] отказалась мне помочь с умением манипулирования людьми, не желая делиться своими секретами.;x
+EVTOPTA100044;[From.GetFirstName] боится конкуренции!;x
+EVTDESC100050;Мне нужен кто-то, кому я смогу доверять. Кто-то с кем я смогу проводить время, сплетничать и играть. Ко мне подошла девушка, примерно моего возраста.;x
+EVTOTPA100050;Мне нужно поговорить с ней!;x
+EVTTOOLTIP100051;[Root.GetTitledFirstName] разговаривает с персонажем [This.GetTitledFirstName];x
+EVTOTPB100050;Что? Дружить с ней? Никогда!;x
+EVTTOOLTIP100054;[Root.GetTitledFirstName] прогоняет персонажа [This.GetTitledFirstName];x
+EVTOTPC100050;Я никогда не найду хорошую подругу...;x
+EVTDESC100051;[From.GetFirstName] показалась мне одинокой. Поэтому я решила поговорить с н[From.GetHerHim]. Это было похоже на прорыв плотины: мы болтали долго и обсуждали всё на свете, от повара, который всегда пахнет чем-то вкусным, до забавных стражников у ворот.;x
+EVTOPTA100051;Мне хочется, чтобы мы подружились.;x
+EVTTOOLTIP100052;Между [Root.GetTitledFirstName] и [This.GetTitledFirstName] установилась прочная дружба.;x
+EVTOPTB100051;Но... Тот стражник мне вообще-то нравится!;x
+EVTTOOLTIP100053;Теперь [Root.GetTitledFirstName] и [This.GetTitledFirstName] соперники.;x
+EVTOPTC100051;Надеюсь, сейчас тебе намного лучше.;x
+EVTDESC100052;Меня как прорвало! Когда [From.GetFirstName] говорит со мной, я не могу остановиться. Мы сплетничаем, смеёмся, и кажется это навсегда. Я так хорошо провела время, что совсем забыла о чувствах, овладевших мной совсем недавно.;x
+EVTOPTA100052;Может, как-нибудь на днях встретимся снова?;x
+EVTOPTB100052;Спасибо, я чувствую себя лучше.;x
+EVTDESC100053;[From.GetFirstName] была рада нашему вчерашнему разговору тет-а-тет, я раскрыла ей своё сердце, рассказав все секреты, в том числе и то, что мне нравится один из стражников. Но сегодня утром эта потаскушка целовалась с "моим" милым стражником! Это разбило мне сердце...;x
+EVTOPTA100053;Я... думала, ты - моя подруга!;x
+EVTDESC100054;Я не понимаю почему, но мне кажется [From.GetFirstName] недолюбливает меня. Если бы я была более подозрительна, то могла бы решить, что [From.GetSheHe] считает меня своей соперницей.;x
+EVTOPTA100054;Итак, [From.GetFirstName], теперь мы соперницы? Прекрасно!;x
+EVTDESC100060;Я думал, что наконец получил шанс победить в поединке на мечах. Моему сопернику явно недоставало мастерства, а я много часов провёл в тренировках. Однако мой противник явно знал, с какой стороны берутся за меч. И я - вновь проиграл.;x
+EVTOPTA100060;Хороший поединок!;x
+EVTOPTB100060;Как Вы смеете, сударь! Впредь я - Ваш вечный соперник!;x
+EVTTOOLTIP100061;Поверженный [Root.GetTitledFirstName] отмечает персонажа [This.GetTitledFirstName] как своего нового противника.;x
+EVTOPTC100060;Завтра победа будет за мной!;x
+EVTDESC100061;[From.GetFirstName], конечно, обращается с мечом умело, но, когда мы стали фехтовать, я понял что [From.GetSheHe], мало времени уделяет практике. Я легко [From.GetHersHis] разоружил, и когда захотел пожать [From.GetHerHim] руку, [From.GetSheHe] оттолкнул меня, назвав своим соперником.;x
+EVTOPTA100061;Вы действительно желаете, чтобы я стал Вашим врагом?;x
+EVTDESC100065;Я устал от обзывательств, пинков и ударов, не оставляющих меня в покое. Мой мучитель может найти меня где бы я ни пытался скрыться... я не знаю, могу ли я терпеть это и дальше!;x
+EVTOPTA100065;Надо бороться!;x
+EVTTOOLTIP100066;[Root.GetTitledFirstName] бьёт персонажа [This.GetTitledFirstName].;x
+EVTOPTB100065;Подлизаться к мучителю.;x
+EVTTOOLTIP100067;Возможно, сладкоежка [This.GetTitledFirstName] оставит персонажа [Root.GetTitledFirstName] в покое?;x
+EVTOPTC100065;Не обращать внимания на мучителя.;x
+EVTDESC100066;Какой восторг - ругать [From.GetHersHis], обзывать трусливым цыплёнком, и, если это не сработает, бить руками, ногами, ломать [From.GetHersHis] вещи. [From.GetFirstName] был лёгкой добычей, но сейчас ответил тем же!;x
+EVTOPTA100066;Мой нос! Ты заплатишь за это!;x
+EVTDESC100067;[From.GetFirstName] - хорошая жертва, я с нетерпением ждал нового дня, чтобы помучать [From.HersHis]. Но теперь [From.SheHe] подошел ко мне и дал мне конфетку.;x
+EVTOPTA100067;Бросить конфету, и пнуть [From.GetHersHis] в зад!;x
+EVTTOOLTIP100068;[Root.GetTitledFirstName] всегда будет врагом персонажа [This.GetTitledFirstName].;x
+EVTOPTB100067;Эх... Спасибо тебе.;x
+EVTTOOLTIPA100069;[Root.GetTitledFirstName] больше не докучает персонажу [This.GetTitledFirstName];x
+EVTDESC100068;Я наблюдал, как нервно [From.GetFirstName] смотрел на конфеты в моей руке, а затем аккуратно взял их, обнюхал, прежде чем попробовать. [From.GetFirstName] поблагодарил меня, рассказав, как [From.GetSheHe] рад переменам во мне.;x
+EVTOPTA100068;Я... польщён.;x
+EVTOPTB100068;Теперь мы станем друзьями?;x
+EVTTOOLTIPB100069;[Root.GetTitledFirstName] и [This.GetTitledFirstName] покончили с разногласиями, став друзьями.;x
+EVTDESC100069;Мне кажется, глупо продолжать издевательства после того, как [From.GetSheHe] начинает поощрять меня. Я перестаю обзывать [From.GetHersHis]: "[From.GetFirstName] - трусливый цыпленок" и извиняюсь перед ним.;x
+EVTOPTA100069;Теперь мы станем друзьями?;x
+EVTOPTB100069;Спасибо за угощение!;x
+EVTDESC100070;[Root.GetSheHeCap] вызывает во мне странные чувства. Мне следовало бы чувствовать себя плохо от [Root.GetHersHis] несчастий, но моя ненависть к н[Root.GetHerHim] слишком велика.;x
+EVTOPTA100070;[Root.GetSheHeCap] - мой соперник!;x
+EVTTOOLTIP100071;Соперничество между персонажами [Root.GetTitledFirstName] и [This.GetTitledFirstName] всё больше обостряется;x
+EVTOPTB100070;О, [Root.Religion.GetRandomGodName], что же я делаю?;x
+EVTOPTC100070;[Root.GetSheHeCap] - трус и никогда не будет защищать себя!;x
+EVTTOOLTIP100072;[Root.GetTitledFirstName] беспокоит персонажа [This.GetTitledFirstName];x
+EVTDESC100071;Сколько я себя помню, [From.GetFirstName] пристаёт ко мне при всяком удобном случае, и [From.GetSheHe] не думает ни о чём кроме этого. Я больше не могу быть игрушкой для таких "невинных" шалостей, как : вылитый на голову ночной горшок, подножка на лестнице или кража моей еды.;x
+EVTOPTA100071;[From.GetFirstName], теперь мы - враги!;x
+EVTDESC100072;[From.GetFirstName] уже давно меня беспокоит, сначала казалось, что это [From.GetHersHis] способ завести новых друзей. Однако шалости росли. От безвредных мелочей, вроде украденной одежды до противного ночного горшка, вылитого на мою голову. Я думаю, что [From.GetFirstName] недолюбливает меня..;x
+EVTOPTA100072;Пришло время отомстить!;x
+EVTTOOLTIP100073;[Root.GetTitledFirstName] начинает мстить персонажу [This.GetTitledFirstName];x
+EVTOPTB100072;Думаю, я смогу понравиться [From.GetHerHim].;x
+EVTTOOLTIP100074;[Root.GetTitledFirstName] и [This.GetTitledFirstName] пытаются подружиться;x
+EVTOPTC100072;Это когда-нибудь [From.GetHerHim] надоест.;x
+EVTDESC100073;Выждав нужный момент, когда [From.GetFirstName] окажется прямо подо мной, я выливаю содержимое ночного горшка на н[From.GetHersHis]. Ужас в [From.GetHersHis] взгляде при этом - я катаюсь по полу со смеху! [From.GetFirstName] бросается на меня, обзывая страшными словами. [From.GetSheHe] никогда не забудет этого...;x
+EVTOPTA100073;Что ж, теперь [From.GetSheHe] - мой враг?;x
+EVTDESC100074;Несмотря на мои поступки, [From.GetFirstName] по-прежнему пытается подружиться. [From.GetFirstName] вызывает у меня уважение и, хотя я все еще планирую пару розыгрышей, но всё больше уверяюсь, что это неправильно.;x
+EVTOPTA100074;Надеюсь, [From.GetFirstName] простит меня, и мы станем друзьями.;x
+EVTTOOLTIPA100075;[Root.GetTitledFirstName] сожалеет об издевательствах над персонажем [This.GetTitledFirstName];x
+EVTOPTB100074;Нет, это слишком весело. Я не брошу это занятие!;x
+EVTTOOLTIPB100075;[Root.GetTitledFirstName] издевательства над персонажем [This.GetTitledFirstName] приводят к вражде.;x
+EVTDESC100075;[From.GetFirstName] почти не издевается надо мной. Конечно есть жалкие шутки, но с ними легко мириться.;x
+EVTOPTA100075;Я думаю, мы - теперь друзья.;x
+EVTOPTB100075;А потом... [From.GetSheHe] всё портит!;x
+EVTDESC100080;Я молюсь каждый день и внимательно прислушиваюсь к священнику, когда он проповедует о воле Божьей. И вот я вижу, как кто-то моего возраста несёт ересь о Боге и с шумом отказывается признать, что Бог существует.. я в шоке. Надо что-то сделать, дабы спасти эту заблудшую душу!;x
+EVTOPTA100080;Я буду молиться за [Root.GetHersHis] душу!;x
+EVTOPTB100080;Я смогу убедить [Root.GetHersHis], что Бог есть!;x
+EVTTOOLTIP100081;[Root.GetTitledFirstName] хочет, чтобы [This.GetTitledFirstName], приняв, что [Root.Religion.GetRandomGodName] - [This.GetHersHis] спаситель, спас(ла) свою душу;x
+EVTDESC100081;Я не верю в Бога, религия глупа, а священники - зануды! [From.GetFirstName] не может понять, что кто-то может не принимать [From.Religion.GetName] и пытается убедить меня, что Бог есть, и что Он любит меня. Хорошо, я послушаю [From.GetHersHis], мне любопытно, откуда такая уверенность, что Бог существует.;x
+EVTOPTA100081;Оставь меня в покое! Мне не нравишься ни ты, не твой бог!;x
+EVTTOOLTIP100082;[Root.GetTitledFirstName] разочарован, [This.GetTitledFirstName] не спасётся;x
+EVTOPTB100081;Если я скажу, что верю, ты отстанешь?;x
+EVTTOOLTIP100083;[Root.GetTitledFirstName] обманывает персонажа [This.GetTitledFirstName];x
+EVTOPTC100081;Благослови тебя Господь! Ты вернул мне веру.;x
+EVTTOOLTIP100084;[Root.GetTitledFirstName] ликует, [This.GetTitledFirstName] и [This.GetHersHis] бессмертная душа спасены.;x
+EVTDESC100082;Независимо от моих слов и доказательств, что Бог есть и Он любит всех своих детей, [From.GetFirstName] отказывается верить и сохраняет верность своим убеждениям. [From.GetSheHeCap] говорит мне: "Если есть Бог, и Он любит всех, то почему в мире так много войн? Почему люди голодают? Почему люди делают друг другу больно?";x
+EVTOPTA100082;У меня нет ответа. Только вера.;x
+EVTDESC100083;Это было сложно, но [From.GetFirstName] теперь говорит, что верит. У меня до сих пор сомнения по поводу того, что [From.GetHersHis] слов. Может это была просто отговорка, чтобы меня успокоить?;x
+EVTOPTA100083;Помолимся за [From.GetHersHis] душу...;x
+EVTDESC100084;[From.GetFirstName] не хочет верить в Бога и Его любовь к человечеству. Но разговор [From.GetHersHis] заинтересовал, и вскоре мы обсуждали [Root.Religion.GetName]. Потребовалось несколько часов чтения Библии, и теперь, ответив на все [From.GetHersHis] вопросы, я вижу, [From.GetSheHe] верит.;x
+EVTOPTA100084;Это прекрасно!;x
+EVTDESC100090;Я долго и упорно трудилась, пытаюсь вышить самый красивый узор, но меня не оценили... Мои стежки были невелики, её - меньше. Моя работа была хороша, её - ещё лучше. Мой узор был хорош, но её узор полюбился всем.;x
+EVTOPTA100090;Я проглочу свою гордость и похвалю её.;x
+EVTOPTB100090;Я буду втайне её ненавидеть.;x
+EVTTOOLTIP100091;Вражда между персонажами [Root.GetTitledFirstName] и [This.GetTitledFirstName] не знает границ;x
+EVTOPTC100090;Нет никого лучше, чем я!;x
+EVTTOOLTIP100092;[Root.GetTitledFirstName] портит вышивку персонажа [This.GetTitledFirstName].;x
+EVTOPTD100090;Я попрошу её научить меня.;x
+EVTTOOLTIP100094;[Root.GetTitledFirstName] унижается и спрашивает о помощи у персонажа [This.GetTitledFirstName];x
+EVTDESC100091;Я сияла от похвалы, по поводу моего узора. "Ах, стежки настолько малы, что их почти не видно!" - как это приятно. Но моя улыбка исчезла, когда я заметила здость, которую источает [From.GetFirstName]. [From.GetSheHeCap] делает прекрасные работы, но люди склонны любить лишь мои.;x
+EVTOPTA100091;Я не хочу этого, мне не нужны враги!;x
+EVTDESC100092;Моя вышивка была прекрасна, я получила столько похвалы за свой труд, но [From.GetFirstName] схватила её и начала разрывать на части, крича в гневе и зависти.;x
+EVTOPTA100092;Я тебя ненавижу! Как ты могла?;x
+EVTTOOLTIP100093;[Root.GetTitledFirstName] никогда не простит персонажа [This.GetTitledFirstName] за уничтожение своих трудов;x
+EVTOPTB100092;Ты права, я могу сделать ещё лучше.;x
+EVTDESC100093;Это было безумием и зависть взяла контроль над здравым смыслом. Вышивка лежала в моих ногах. В памяти были лишь злость и отчаяние. [From.GetFirstName] смотря на меня... расплакалась. Я слышу, как [From.GetFirstName] говорит, что никогда не простит мне такое унижение.;x
+EVTOPTA100093;Теперь мы - враги.;x
+EVTDESC100094;[From.GetFirstName] пыталась подлизаться, охая и ахая над моей вышивкой вместе с другими девушками, говоря, что мои стежки были мельчайшими и еще более красивым, чем [From.GetHersHis]. Для меня не было удивлением, когда [From.GetSheHe] попросила меня научить [From.GetHersHis] вышивать также, как я.;x
+EVTOPTA100094;С удовольствием. Начнём прямо сейчас!;x
+EVTTOOLTIP100095;[Root.GetTitledFirstName] и [This.GetTitledFirstName] занялись вышивкой;x
+EVTOPTB100094;Тебя невозможно чему-то научить!;x
+EVTTOOLTIP100096;[Root.GetTitledFirstName] ругает персонажа [This.GetTitledFirstName];x
+EVTDESC100095;[From.GetFirstName] была так добра и сказала мне, что вышивка была красивой, независимо от того, что другие думают об этом. Мы мило беседовали, обсуждая, как [From.GetHerHim] удалось сделать свои стежки настолько мелкими. [From.GetSheHeCap] даже дала мне пару советов!;x
+EVTOPTA100095;Пора забыть о зависти и обрести друга!;x
+EVTDESC100096;Я старалась сдержать свою гордость и похвалила вышивку, которую сделала [From.GetFirstName], сказав, что она гораздо лучше моей и прекрасна во всех отношениях. Но [From.GetSheHe] не ответила мне любезностью, и когда я попросила [From.GetHersHis] дать мне несколько советов, с презрением отозвалась о моей работе.;x
+EVTOPTA100096;Что? Это не так! Забери свои слова назад!;x
+EVTDESC100100;Моя кукла пропала! Не могу нигде её найти. Мог ли кто-то взять её? Я очень скучаю по ней, она мне очень дорога.;x
+EVTOPTA100100;Я найду того кто взял её и заставлю вернуть!;x
+EVTTOOLTIP100101;[Root.GetTitledFirstName] вступает в противостояние с персонажем [This.GetTitledFirstName];x
+EVTOPTB100100;Мне никогда её не найти...;x
+EVTDESC100101;Я играла с новой куклой, которую кто-то забыл на кухне. Вдруг [From.GetFirstName] вбежала на кухню и кинулась на меня! [From.GetSheHe] кричала на меня и требовала вернуть ей куклу, становясь всё более разъярённой, а я не хотела отпускать из рук свою находку.;x
+EVTOPTA100101;Можно я буду играть с ней иногда?;x
+EVTTOOLTIPA100102;[Root.GetTitledFirstName] возвращает куклу персонажу [This.GetTitledFirstName];x
+EVTOPTB100101;Ну и ладно. Кукла так себе...;x
+EVTOPTC100101;Теперь она моя!;x
+EVTTOOLTIPB100102;[Root.GetTitledFirstName] отказывается отдать куклу персонажу [Root.GetTitledFirstName];x
+EVTDESC100102;Это [From.GetFirstName] взяла мою куклу! Я закричала на н[From.GetHersHis], требуя вернуть её обратно! Где же [From.GetSheHe] нашла мою куклу и почему не вернула раньше?;x
+EVTOPTA100102;[From.GetSheHeCap] вернула её. Теперь мы можем поиграть вместе.;x
+EVTOPTB100102;[From.GetSheHeCap] сказала, что кукла уродлива и вернула её.;x
+EVTOPTC100102;[From.GetSheHeCap] не хочет вернуть мне куклу!;x
+EVTDESC100105;В крестовом походе, на [Root.Location.County.GetAdjective]ой земле, вдалеке от друзей и семьи бывает довольно тяжко. Хорошо, что со мной надёжные воины, на которых всегда можно положиться и приятно провести время за беседой, послушать хорошую шутку у лагерного костра. Мы все здесь с одной целью.;x
+EVTOPTA100105;Deus Vult! Во славу Господа!;x
+EVTTOOLTIP100106;согласиться с персонажем [Root.GetTitledFirstName];x
+EVTOPTB100105;Deus Vult! Нас запомнят как героев!;x
+EVTOPTC100105;Deus Vult! За землями и богатством!;x
+EVTOPTD100105;Это мой долг.;x
+EVTDESC100106;В Священной Войне против неверных Вам нужны за спиной надежные воины, братья по оружию, которым Вы можете доверять. [From.GetTitledFirstName] и я уже долгое время участвуем в этом походе в месте известном как [From.Location.GetName], и однажды мы задались вопросом, ради чего мы здесь, зачем мы сражаемся в этих Богом забытых землях против неверных?;x
+EVTOPTA100106;[From.GetTitledFirstName] ошибается, это всё не ради славы.;x
+EVTOPTB100106;[From.GetTitledFirstName] ошибается, это всё не во славу Господа.;x
+EVTTOOLTIP100107;[Root.GetTitledFirstName] несогласен с персонажем [This.GetTitledFirstName];x
+EVTOPTC100106;Я согласен: ради славы!;x
+EVTTOOLTIP100108;[Root.GetTitledFirstName] солидарен с персонажем [This.GetTitledFirstName];x
+EVTOPTD100106;Я согласен: во славу Господа!;x
+EVTDESC100107;[From.GetTitledFirstName] не согласен со мной, [From.GetSheHe] не видит причин и смысла нашего пребывания здесь, ни ради славы, ни ради богатства, и уж тем более не во славу Господа нашего!;x
+EVTOPTA100107;Мы здесь, потому что так желает Бог!;x
+EVTOPTB100107;И Вы называете себя Крестоносцем?;x
+EVTDESC100108;У всех разные причины быть здесь, в этом Крестовом Походе против неверных в месте, известном как [Root.Location.GetName], кто-то во славу Господа, кто-то пришёл сюда за землями и богатством, иные ради личной славы. Мы оба, [From.GetTitledFirstName] и я, здесь рискуем своими жизнями ради одного и того же:;x
+EVTOPTA100108;Нашей дружбы и во славу Господа!;x
+EVTOPTB100108;Нашей дружбы и славы, который мы себя овеем!;x
+EVTOPTA100110;Первый шаг на этом пути - завязать дружбу с советником...;x
+EVTOPTB100110;Мне никогда не стать лучше, чем [Root.Liege.GetChancellorName] [Root.Liege.job_chancellor.GetTitledFirstName];x
+EVTOPTC100110;Мне никогда не стать лучше, чем [Root.Liege.GetMarshalName] [Root.Liege.job_marshal.GetTitledFirstName];x
+EVTOPTD100110;Мне никогда не стать лучше, чем [Root.Liege.GetTreasurerName] [Root.Liege.job_treasurer.GetTitledFirstName];x
+EVTOPTE100110;Мне никогда не стать лучше, чем [Root.Liege.GetSpymasterName] [Root.Liege.job_spymaster.GetTitledFirstName];x
+EVTOPTF100110;Мне никогда не стать лучше, чем [Root.Liege.GetLordSpiritualName] [Root.Liege.job_spiritual.GetTitledFirstName];x
+EVTOPTA100111;[From.GetTitledFirstName] просит весьма учтиво, мне нравится.;x
+EVTTOOLTIP100112;Помощь персонажа [Root.GetTitledFirstName] для персонажа [This.GetTitledFirstName] делает [Root.GetHerHim] честь;x
+EVTOPTB100111;Я помогу [From.GetHerHim], но буду начеку!;x
+EVTTOOLTIP100113;[Root.GetTitledFirstName] отказывает в помощи персонажу [This.GetTitledFirstName], становясь [Root.GetHersHis] новым противником;x
+EVTDESC100112;Для начала я хочу, чтобы [From.GetTitledFirstName] обучил меня премудростям своего ремесла, чтобы стать [From.GetHerHim] достойной заменой. Поговорив я понял, что мы сможем стать хорошими друзьями.;x
+EVTOPTA100112;Значит ли это, что я не могу занять Вашу должность?;x
+EVTDESC100113;Несмотря на мои просьбы, [From.GetTitledFirstName] не желает стать мне наставником, я не ожидал такой реакции от н[From.GetHersHis]. Мои стремления [From.GetHerHim] известны, [From.GetSheHe] боится, что я займу [From.GetHersHis] должность!;x
+EVTOPTA100113;Что ж, это так...;x
+EVTDESC100115;По счастливой случайности, одна из дам при дворе тоже беременна. Мы ведем с ней беседы, обсуждаем такие проблемы, как утреннее недомогание или отекшие ноги и думаем о том, как назовём детей.;x
+EVTOPTA100115;Матери должны держаться вместе.;x
+EVTTOOLTIP100116;[Root.GetTitledFirstName] чувствует, что [This.GetTitledFirstName] - хорошая подруга;x
+EVTOPTB100115;Мой муж - это всё, в чём я нуждаюсь.;x
+EVTDESC100116;[From.GetTitledFirstName] тоже беременна, и я слышала от неё намного больше, чем мне хотелось бы о её утренних недомоганиях, отекших ногах или отсутствиях мужа. Как хорошо, когда есть кто-то, с такими же проблемами, как у тебя и с кем можно обсудить все эти неловкие вещи.;x
+EVTOPTA100116;[From.GetTitledFirstName] - хорошая подруга.;x
+EVTOPTB100116;Это только до тех пор, пока не родится ребёнок.;x
+EVTTOOLTIP100117;[Root.GetTitledFirstName] по неосторожности задевает чувства персонажа [This.GetTitledFirstName];x
+EVTDESC100117;Дети родились, и несмотря на мои надежды воспитывать их вместе, [From.GetTitledFirstName] сказала мне, что теперь, когда ребенок родился, у н[From.GetHersHis] ни на что нет времени и даже на разговоры со мной. Я не понимаю, почему это так трудно - разнообразить свою жизнь?;x
+EVTOPTA100117;Я... Я думала, мы - друзья!;x
+opinion_very_disappointed;Весьма разочарован;x
+opinion_very_grateful;Очень благодарен;x
+EVTDESC100150;Битва за битвой, осада за осадой... Другу, должно быть, очень трудно на войне, возможно, я смогу помочь?;x
+EVTOPTA100150;Моим войскам пора размяться!;x
+EVTTOOLTIP100151;[This.GetTitledFirstName] будет благодарен(на) за любую помощь, какую [Root.GetTitledFirstName] сможет предложить;x
+EVTOPTB100150;Немного золота поможет моему другу выиграть войну!;x
+EVTOPTC100150;У моего друга всё под контролем, моя помощь не нужна.;x
+EVTDESC100151;Мой дорогой друг, я, боюсь, что эта война надолго разлучит нас, чувствую, что нужно что-то сделать! Поэтому, пожалуйста, примите мою помощь, давайте выиграем эту войну - вместе!\nВаш преданный друг, \n[From.GetTitledFirstName];x
+EVTOPTA100151;С Вашей помощью, я одолею любого!;x
+EVTDESC100152;[Root.GetTitledFirstName], я слегка беспокоюсь из-за войны, в которую Вы втянуты, и поэтому шлю Вам небольшой подарок - ничего особенного, но Вы сможете нанять больше солдат.\nС уважением, Ваш друг, \n[From.GetTitledFirstName];x
+EVTOPTA100152;Этого достаточно, спасибо!;x
+EVTDESC100153;Вместо того, чтобы помочь мне в последней войне, мой друг [From.GetTitledFirstName] игнорирует моё тяжёлое положение. Война была очень напряженной и любая помощь оказалась бы весьма кстати.;x
+EVTOPTA100153;[From.GetTitledFirstName], впредь не рассчитывайте на мою помощь!;x
+EVTOPTB100153;Война закончилась, нет нужды ворошить прошлое.;x
+EVTDESC100160;Война проходит совсем не так, как хотелось. Людским потерям в битвах нет конца, а осады длятся целую вечность! Мне нужны ещё люди, больше осадных машин, возможно друг поможет мне?;x
+EVTOPTA100160;Предложу присоединиться к войне.;x
+EVTTOOLTIP100161;[Root.GetTitledFirstName] предложит присоединиться к своей войне;x
+EVTOPTB100160;Попрошу друга помочь материально.;x
+EVTTOOLTIP100162;[Root.GetTitledFirstName] просит любых денег, какие может предложить [This.GetTitledFirstName];x
+EVTOPTC100160;Мне не нужна помощь, скоро эта война будет выиграна!;x
+EVTDESC100161;Мой дорогой друг, с тяжелым сердцем прошу Вас помочь мне, присоединившись к моей войне. Смею признать, эта война проходит не так, как хотелось, и я очень нуждаюсь в поддержке Ваших войск, оружия и припасов.\nС надеждой,\nВаш друг,\n [From.GetTitledFirstName];x
+EVTOPTA100161;Я не подведу!;x
+EVTTOOLTIP100163;С радостью примет любую помощь, какую [This.GetSheHe] может предложить;x
+EVTOPTB100161;Я отправлю деньги, это должно помочь.;x
+EVTOPTC100161;На данный момент, я ничем не могу помочь.;x
+EVTTOOLTIP100164;[This.GetSheHe] разочарован(а) тем, что [Root.GetTitledFirstName] не может помочь;x
+EVTDESC100162;[Root.GetTitledFirstName], мне никогда бы раньше не пришло в голову, что я буду стыдливо просить денег у друга. Но война угрожает осушить мою казну. Прошу Вас, как друг друга о небольшой денежной помощи ради победы в войне.\nГлубоко благодарю Вас заранее,\nВаш друг,\n [From.GetTitledFirstName];x
+EVTOPTA100162;Надеюсь, эта небольшая сумма поможет.;x
+EVTOPTB100162;Если всё так плохо, то лучше присоединюсь к этой войне.;x
+EVTOPTC100162;У меня связаны руки, я не могу ничем помочь.;x
+EVTDESC100163;Моё письмо, адресат которого - [From.GetTitledFirstName], могло потеряться по дороге, и честно говоря, иногда я желаю, чтобы так оно и было. Стыд от того, что мне приходится просить о помощи друга грызёт меня до сих пор. Но вот [From.GetTitledFirstName] наконец шлёт свой ответ...;x
+EVTOPTA100163;[From.GetSheHeCap] присоединяется к войне!;x
+EVTOPTB100163;[From.GetSheHeCap] присылает мне золото для армии!;x
+EVTDESC100164;[From.GetTitledFirstName], мои обязанности, семья, вассалы не позволяют Вам помочь в данный момент. Я надеюсь, что ситуация повернется в Вашу пользу, и желаю Вам, как можно быстрее выиграть войну.\nС надеждой на понимание,\nВаш друг,\n [From.GetTitledFirstName];x
+EVTOPTA100164;Я справлюсь, так или иначе...;x
+EVTDESC100170;"Друг моего друга - мой друг" - это один из принципов, по которому Вы стараетесь жить. И теперь, когда друг представляет Вам своего друга, Вы проникаетесь к нему симпатией.;x
+EVTOPTA100170;Надеюсь мы станем друзьями!;x
+EVTTOOLTIP100171;[Root.GetTitledFirstName] надеется, что [Root.GetSheHe] и [This.GetTitledFirstName] станут друзьями;x
+EVTTOOLTIP100172;Друг персонажа [Root.GetTitledFirstName], [This.GetTitledFirstName], рад(а), что [This.GetHersHis] друзья дружат.;x
+EVTOPTB100170;У нас общий друг, но это вовсе не значит, что мы должны дружить.;x
+EVTTOOLTIP100173;[This.GetTitledFirstName] расстраивается из-за нежелания персонажа [Root.GetTitledFirstName] дружить.;x
+EVTDESC100171;Я питаю большие надежды на то, что [From.GetTitledFirstName] и мой друг поладят после того, как я их познакомлю. Надеюсь, они станут верными друзьями, чтобы мы могли проводить время втроем.;x
+EVTOPTA100171;Жаль, что [From.GetTitledFirstName] не жалует моего друга.;x
+EVTTOOLTIPA100171;[This.GetTitledFirstName] (мой друг) решает игнорировать персонажа [From.GetTitledFirstName].;x
+EVTOPTB100171;Они прекрасно провели время вместе!;x
+EVTDESC100172;Меня и [From.GetTitledFirstName] познакомил наш общий друг и мы общались довольно долго. У нас были разногласия и споры, но теперь мы нашли общий язык и я начинаю получать удовольствие. [From.GetTitledFirstName] кажется порядочным человеком.;x
+EVTOPTA100172;Если мы поговорим еще раз, я буду только за.;x
+EVTTOOLTIPA100174;[Root.GetTitledFirstName] и [This.GetTitledFirstName] стали друзьями;x
+EVTOPTB100172;Мне не нравится [From.GetSheHe] и [From.GetHersHis] взгляды!;x
+EVTTOOLTIP100175;[Root.GetTitledFirstName] и [This.GetTitledFirstName] стали врагами;x
+EVTOPTC100172;Хороший человек, но я не хочу видеть [From.GetHersHis] своим другом.;x
+EVTTOOLTIPB100174;[Root.GetTitledFirstName] и [This.GetTitledFirstName] не смогли стать друзьями;x
+EVTDESC100173;Мы поговорили, и теперь понятно, что у нас почти ничего общего, [From.GetTitledFirstName] - ужасный человек, и мне не хотелось бы, чтобы мы снова общались. Наш общий друг не в восторге, но относится к этому с пониманием.;x
+EVTOPTA100173;Не знакомьте меня больше со своими "друзьями".;x
+EVTDESC100174;[From.GetTitledFirstName] - неплохой человек. У нас были споры и разногласия, но затем мы нашли общий язык. Я не забуду поблагодарить моего друга за это знакомство, давно не доводилось встречать такого интересного человека!;x
+EVTOPTA100174;[From.GetTitledFirstName], что скажете? Друзья навеки?;x
+EVTOPTB100174;[From.GetTitledFirstName] не думает, что мы подружимся.;x
+opinion_rejected_friend;Отверг мою дружбу;x
+EVTDESC100175;Я не знаю, когда это случилось. Возможно тогда, когда мы заговорили об обращении с крестьянами. Но теперь [From.GetTitledFirstName] мне совсем не нравится. И чем больше мы говорили, тем очевиднее это становилось. Мы никогда не будем друзьями.;x
+EVTOPTA100175;Вы мне совсем не нравитесь!;x
+opinion_accepted_religion;Признал мою религию;x
+opinion_happy_convertion;Счастлив за обратившегося друга;x
+opinion_wrong_religion;Другая религия;x
+EVTDESC100180;Сегодня трудно быть истинно верующим, но мой друг по-настоящему меня шокировал, когда мне удалось узнать, что мы не одной и той же религии. Мой дорогой друг - еретик!;x
+EVTOPTA100180;Мой долг -  попытаться обратить друга в истинную веру!;x
+EVTTOOLTIP100181;[Root.GetTitledFirstName] пытается обратить персонажа [This.GetTitledFirstName] в [Root.Religion.GetName];x
+EVTOPTB100180;Кого заботит эта религия? Не меня!;x
+EVTTOOLTIP100182;[Root.GetTitledFirstName] признаёт, что [This.GetTitledFirstName] исповедует [This.Religion.GetName];x
+EVTOPTC100180;Мне следует больше узнать об этой религии.;x
+EVTTOOLTIP100183;Интерес персонажа [Root.GetTitledFirstName] к вере [This.Religion.GetName] радует персонажа [This.GetTitledFirstName];x
+EVTOPTD100180;Я не буду дружить с еретиком!;x
+EVTTOOLTIP100184;[Root.GetTitledFirstName] больше не дружит с персонажем [This.GetTitledFirstName];x
+EVTOPTE100180;Религия друга, кажется, лучше, чем моя.;x
+EVTDESC100181;[From.GetTitledFirstName] считает, что [From.Religion.GetName] - истинная вера, поэтому услышав, что моя религия - [Root.Religion.GetName], [From.GetSheHe] решает вступить в спор. После долгих, жарких дискуссий, обдумывания недостатков и преимуществ наших религий я решаю...;x
+EVTOPTA100181;...сохранить свою веру, но потерять друга;x
+EVTTOOLTIP100185;[Root.GetTitledFirstName] не может быть другом того, кто не уважает [Root.GetHersHis] религию;x
+EVTOPTB100181;...сохранить друга и принять [From.Religion.GetName];x
+EVTTOOLTIP100186;[Root.GetTitledFirstName] принимает [From.Religion.GetName];x
+EVTOPTC100181;...сохранить и веру, и друга;x
+EVTDESC100182;Меня терзали сомнения по поводу того, что может сказать [From.GetTitledFirstName] после того, как я сообщу [From.GetHerHim], что исповедую [Root.Religion.GetName] и что никогда не предам свою веру. Но [From.GetTitledFirstName] - более понимающий человек, чем мне казалось, и после нескольких вопросов [From.GetSheHe] даёт понять, что признаёт меня и мою религию.;x
+EVTOPTA100182;Такого друга, как Вы, [From.GetTitledFirstName], трудно найти.;x
+EVTDESC100183;[From.GetTitledFirstName] задаёт много вопросов - [From.GetHersHis] интересует [Root.Religion.GetName] и [Root.Religion.GetRandomGodName]. Хорошо, когда можно поговорить о моей религии и о Боге без осуждения. Мне удалось ответить на все вопросы так хорошо, как только можно.;x
+EVTOPTA100183;Благодарю Вас за то, что не осуждаете мою веру.;x
+EVTOPTB100183;...[From.GetTitledFirstName] все-таки принимает [Root.Religion.GetName]!;x
+EVTDESC100184;Всё произошло согласно моим опасениям - [From.GetTitledFirstName] не признаёт то, что я исповедую [Root.Religion.GetName], и осуждает меня и мою веру. Я пытаюсь убедить [From.GetHersHis] и рассказать [From.GetHerHim] о сходствах наших религий, но [From.GetSheHe] меня не слушает.;x
+EVTOPTA100184;[From.GetTitledFirstName] не хочет быть другом еретика.;x
+EVTDESC100185;Я говорю, обсуждаю, спорю, но [From.GetTitledFirstName] стоит на своём! Ничто не может убедить [From.GetHerHim] отказаться от еретических путей и обратить свой взор на истинную веру, [Root.Religion.GetName]. Наши разногласия по поводу религии так и не разрешились. [From.GetTitledFirstName] говорит, что мы больше не друзья.;x
+EVTOPTA100185;Мы больше не можем быть друзьями.;x
+EVTDESC100186;"Разница между ними в том, что..."\n[From.GetTitledFirstName] слушает мои поучения о религии. Я пытаюсь объяснить [From.GetHerHim], почему исповедовать [From.Religion.GetName] сейчас и в этом возрасте - плохая идея.;x
+EVTOPTA100186;[From.GetTitledFirstName] принимает [Root.Religion.GetName].;x
+EVTOPTB100186;[From.GetTitledFirstName] игнорирует мои поучения.;x
+EVTDESC100190;Мне нужна помощь с очень личным делом, но я надеюсь, что даже [Root.GetChancellorName] о нём не узнает. Есть те, кто считает, что мне не хватает тактичности и, я боюсь, они правы. Теперь мне действительно нужна дипломатичность или [Root.GetManWomanOpp]а, шантажируя меня, сможет распространить ложь обо мне, против которой я ничего не смогу сделать.;x
+EVTOPTA100190;Мой дипломатичный друг, не могли бы Вы помочь мне?;x
+EVTTOOLTIP100191;[Root.GetTitledFirstName] просит персонажа [This.GetTitledFirstName] о помощи с вымогателем;x
+EVTOPTB100190;Никто не должен узнать об этом, даже мои друзья!;x
+EVTDESC100191;Ходили слухи о том, что [From.GetManWomanOpp]а угрожает кому-то шантажём, а теперь мой друг [From.GetTitledFirstName] просит меня о помощи - оказывается угрожают [From.GetHerHim]. [From.GetSheHeCap] плохо разбирается в переговорах, и, насколько бы отчаянным не было [From.GetHersHis] положение, скорее всего, плохо справится с этой ситуацией.;x
+EVTOPTA100191;Помогу, чем смогу!;x
+EVTTOOLTIP100192;[Root.GetTitledFirstName] решает помочь персонажу [This.GetTitledFirstName] с шантажом, который [This.GetHerHim] грозит.;x
+EVTOPTB100191;Не втягивайте меня в подобные дела!;x
+EVTTOOLTIP100193;вынужден справиться с шантажистом без помощи персонажа [Root.GetTitledFirstName];x
+EVTOPTC100191;Шантажист не в своём уме, я хочу награду за свои усилия.;x
+EVTTOOLTIP100194;Шантажист сошел с ума, если Вам нужна моя помощь, то хочу награду;x
+EVTDESC100192;Я и [From.GetTitledFirstName] смогли остановить безумного шантажиста и распространителя злонамеренных слухов обо мне. Для этого потребовались все усилия, все наши совместные дипломатические навыки и даже небольшая взятка. Вымогатель пообещал прекратить распространять слухи и оставить меня в покое.;x
+EVTOPTA100192;Наконец-то с этим покончено!;x
+EVTDESC100193;[From.GetTitledFirstName] отказывает мне в помощи. Я не в состоянии остановить распространение злых слухов о себе без н[From.GetHersHis]. Теперь каждый думает, что я действительно имею отношение к этим ужасным вещам! О, [Root.Religion.GetRandomGodName]! Ну почему?!;x
+EVTOPTA100193;Мне так стыдно, я не знаю, что делать.;x
+EVTDESC100194;[From.GetTitledFirstName] получает от меня необходимые сведения. Я осторожичаю, не желая раскрывать слишком много, но боязнь слухов вынуждает меня проявить сговорчивость и я говорю слишком много. Но всё это к лучшему, [From.GetTitledFirstName] соглашается помочь мне, но хочет компенсацию на случай, если что-то пойдёт не так.;x
+EVTOPTA100194;Друзья помогают друг другу, а не торгуются!;x
+EVTTOOLTIPA100195;попытается получить плату от персонажа [Root.GetTitledFirstName] за свою помощь;x
+EVTOPTB100194;Я дам Вам всё, что захотите, только, пожалуйста, помогите мне!;x
+EVTTOOLTIPB100195;получит плату за свою помощь в решении проблемы с безумным шантажистом персонажа [Root.GetTitledFirstName];x
+EVTDESC100195;[From.GetTitledFirstName] заслуживает помощи. Я помогу [From.GetHerHim] с вымогателем, если получу плату за это. У меня уже есть план.;x
+EVTOPTA100195;Нет денег, нет помощи.;x
+EVTOPTB100195;Приятно иметь с Вами дело. Вот, как мы поступим...;x
+EVTDESC100200;Я знаю о мечах только то, что это "длинные, острые штуки, которыми тыкают людей, когда хотят их убить, особенно на дуэли или на войне". Если кто-то и может рассказать мне больше о них и научить ими пользоваться, то это должен быть один из моих лучших друзей, которому я смогу доверять и который не станет издеваться надо мной.;x
+EVTOPTA100200;Я должен попросить его о помощи.;x
+EVTTOOLTIP100201;получил просьбу от персонажа [Root.GetTitledFirstName] в совершенствовании навыков обращения с мечом;x
+EVTOPTB100200;А, может быть, я и сам смогу... АЙ!;x
+EVTDESC100201;Я видел, как [From.GetTitledFirstName] обращается с мечом, это было ужасно. Большую часть времени казалось, что он забывал, какая сторона острая! Не знаю смеяться мне или плакать над таким неумением. Кажется, [From.GetTitledFirstName] думает, что я смогу научить его всему, что знаю.;x
+EVTOPTA100201;Ну... я могу попробовать...;x
+EVTTOOLTIP100202;[Root.GetTitledFirstName] неохотно пытается научить персонажа [This.GetTitledFirstName] пользоваться мечом;x
+EVTOPTB100201;Бросьте Вы это дело. Это явно не для Вас.;x
+EVTTOOLTIP100203;разочарован, но принимает то, что [Root.GetTitledFirstName] отказывается обучать его;x
+EVTOPTC100201;Я рискую своей жизнью, хотелось бы компенсацию.;x
+EVTTOOLTIP100204;обдумывает просьбу персонажа [Root.GetTitledFirstName];x
+EVTDESC100202;Потребовалось некоторое время, но через пару дней я уяснил, как держать меч. Дальше легче. После нескольких недель практики на манекене я наконец-то смог освоить основные приёмы. [From.GetTitledFirstName] впечатлён и согласился потренироваться со мной вместе.;x
+EVTOPTA100202;Я все еще плохо обращаюсь с мечами, но уже лучше, чем раньше.;x
+EVTDESC100203;"Вы угрожаете мечом, даже не зная, с какого конца его нужно держать и как наносить удар. Грустно говорить это, но мне кажется, что Вас невозможно чему-то научить."\n[From.GetTitledFirstName] не жалел слов, говоря мне, каким бестолковым я был, и что мечи - это для "настоящих мужчин".;x
+EVTOPTA100203;Я докажу! Дайте мне меч... AЙ!;x
+EVTDESC100204;[From.GetTitledFirstName] отказался учить меня, если я не заплачу ему и не буду следовать каждому его слову. [From.GetSheHeCap] сказал мне, что я могу ему навредить, а золото покроет расходы на лекаря в случае, если они потребуются.;x
+EVTOPTA100204;Вы же не ожидаете худшего? Я уверен, всё будет хорошо.;x
+EVTTOOLTIPA100205;[Root.GetTitledFirstName] не готов заплатить персонажу [This.GetTitledFirstName] за его помощь;x
+EVTOPTB100204;В этом есть смысл, только научите меня уже!;x
+EVTTOOLTIPB100205;[Root.GetTitledFirstName] согласен с требованиями и мерам предосторожности, высказанными персонажем [This.GetTitledFirstName];x
+EVTDESC100205;[From.GetTitledFirstName] совсем не умеет обращаться с мечом. Обучение его этому может оказаться самой опасной работой в мире. Я сказал ему об этом - что мне бы хотелось принять некоторые меры предосторожности. Я боюсь, что он может навредить мне, хоть и неумышленно.;x
+EVTOPTA100205;[From.GetTitledFirstName] не согласен с этим, я отказался помочь.;x
+EVTOPTB100205;[From.GetTitledFirstName] увидел в этом смысл и согласился.;x
+EVTTOOLTIPC100205;Под тщательным наблюдением персонажа [Root.GetTitledFirstName], [This.GetTitledFirstName] учится обращаться с мечом;x
+EVTDESC100210;Мне стоит взглянуть на постройки округа [Root.Location.GetName] и подумать, как их укрепить, на случай военного вторжения. Я плохо в этом понимаю, но друг, искушённый в подобном вопросе, может мне помочь.;x
+EVTOPTA100210;Так чего ж я жду? Осады? Пора обратиться к другу!;x
+EVTTOOLTIP100211;говорит, что персонаж [Root.GetTitledFirstName] думает об укреплениях округа [Root.Location.GetName];x
+EVTOPTB100210;Может быть, новая башня? Или стена? Я подумаю над этим.;x
+EVTDESC100211;Здания, которые [From.GetTitledFirstName] пытается укрепить, следовало бы снести и заменить на более крепкие, но [From.GetTitledFirstName] настаивает на том, что и с ними можно что-то сделать. Я высказываю [From.GetHerHim] своё мнение об этих постройках.;x
+EVTOPTA100211;Материалы от старых построек пойдут на возведение новых.;x
+EVTTOOLTIP100212;испытывает благодарность к персонажу [Root.GetTitledFirstName] за помощь с постройками;x
+EVTOPTB100211;Ничего нельзя сделать! Лучше снесите их, пока не развалились.;x
+EVTTOOLTIP100213;испытывает разочарование в персонаже [Root.GetTitledFirstName] из-за отказа дать полезный совет;x
+EVTOPTC100211;Стоимость восстановления будет огромной, я хочу свою долю.;x
+EVTTOOLTIP100214;рассматривает предложение персонажа [Root.GetTitledFirstName];x
+EVTDESC100212;Мы ничего не можем сделать с постройками, кроме как снести их и использовать материал от сноса для строительства новых зданий с лучшими укреплениями. Это так, как я себе это представляю.\nС идеями, которые [From.GetTitledFirstName] излагает, и сэкономленными материалами, новые здания действительно затмят прежние.;x
+EVTOPTA100212;Это прекрасно! Спасибо, Вам!;x
+friendly_innovations;Дружественные Инновации;x
+EVTDESC100213;Сколько раз можно повторять? Эти улучшения принесут наибольшую выгоду! Но [From.GetTitledFirstName] относится скептично ко всем моим идеям, называя здания "безнадежными" и "угрозой для всех". "Снесите их и отстройте заново" - вот [From.GetHersHis] совет.;x
+EVTOPTA100213;Но... это будет стоить слишком много!;x
+EVTDESC100214;"Ремонт старых зданий будет дорого обойдётся, и даже если их отремонтируют, я не дам гарантию, что они выдержат осаду. Снесите их, спасите столько материала, сколько сможете, и постройте заново. Это будет кое-чего стоить, и если Вы хотите моей помощи, это будет стоить немного больше."\n[From.GetTitledFirstName] предлагает отказаться от старых зданий и моих планов по их укреплению.;x
+EVTOPTA100214;Тогда я ничего не смогу сделать с ними.;x
+EVTTOOLTIPA100215;[Root.GetTitledFirstName] отклоняет предложение персонажа [This.GetTitledFirstName];x
+EVTOPTB100214;Если это самая лучшая идея, мне придется на это пойти;x
+EVTTOOLTIPB100215;получает деньги от персонажа [Root.GetTitledFirstName] за помощь со сносом и возведением новых зданий;x
+EVTDESC100215;После моего совета, что лучшим способом было бы снести здания, и сколько будет стоить возведение новых, включая мою долю, [From.GetTitledFirstName] продолжает молчать. Я уже думаю подтолкнуть [From.GetHersHis], [From.GetSheHe], возможно, не помнит, что я рядом... И вот [From.GetSheHe] наконец отвечает.;x
+EVTOPTA100215;[From.GetTitledFirstName] отвергает мою идею.;x
+EVTOPTB100215;[From.GetTitledFirstName] соглашается, я получу свою долю.;x
+EVTDESC100220;Последнее время моя еда стала иметь странный вкус и я ем меньше и меньше из-за страха отравиться. Я не доверию поиск отравителя своему шпиону, и единственный, на кого я могу рассчитывать - мой друг.;x
+EVTOPTA100220;С моим другом я найду отравителя и положу этому конец!;x
+EVTTOOLTIP100221;убежден(а), что кто-то пытается отравить персонажа [Root.GetTitledFirstName];x
+EVTOPTB100220;Хватит паранойи, еда прекрасна.;x
+EVTDESC100221;Всё это звучало, как очередной параноидальный бред, который обычно несет [From.GetTitledFirstName], но мне пришлось согласиться, приняв [From.GetHersHis] приглашение на ужин. Пища имела странный вкус и еще более странное послевкусие. Кто-то, возможно, пытается отравить [From.GetHersHis]!;x
+EVTOPTA100221;Вам нужна моя помощь, и Вы её получите!;x
+EVTTOOLTIP100222;рад(а), что [Root.GetTitledFirstName] верит в возможность отравления;x
+EVTOPTB100221;Я чувствую себя прекрасно! Вкус странноват, но она не отравлена!;x
+EVTTOOLTIP100223;разочарован(а) тем, что [Root.GetTitledFirstName] не верит, что кто-то пытается отравить [Root.GetHersHis];x
+EVTOPTC100221;Дайте мне несколько монет, и я выясню это в кратчайшие сроки!;x
+EVTTOOLTIP100224;обдумывает, стоит ли это того или нет;x
+EVTDESC100222;[From.GetTitledFirstName] допускает, что вкус у пищи странный, но этого не достаточно для уверенности в том, что кто-то пытается меня отравить. Я даю [From.GetHerHim] разрешение говорить и допрашивать того, кого [From.GetSheHe] считает нужным, и повар признался, что использовал протухшее мясо, но пытался скрыть вкус большим количеством специй, некоторые их них были ядовитые, если не использовать их в меру.;x
+EVTOPTA100222;Повар не хотел отравить меня, но был к этому близок.;x
+EVTDESC100223;"О чем вы говорите? Яд? Вы, должно быть, шутите, у этого тушёного мяса отличный вкус. Может быть, нужно немного больше соли!"\n[From.GetTitledFirstName] отмахивается от моей проблемы, оставляя меня наедине с моими тревогами.;x
+EVTOPTA100223;Отравитель желает убить меня!;x
+EVTDESC100224;Чтобы полностью удостовериться, была ли пища отравлена, [From.GetTitledFirstName] требует дорогостоящие инструменты, за которые мне нужно заплатить. Хотя пища странная на вкус, я не чувствую себя так уж плохо. Вопрос в том, действительно ли хочу я это знать?;x
+EVTOPTA100224;Неважно. Это слишком дорого!;x
+EVTTOOLTIPA100225;принимает решение, которое предлагает [Root.GetTitledFirstName];x
+EVTOPTB100224;Конечно я хочу знать! Берите деньги!;x
+EVTTOOLTIPB100225;берет только то, что нужно персонажу [This.GetTitledFirstName] для расходов на исследование;x
+EVTDESC100225;Это был тонкий блеф с моей стороны - сказать, что мне необходимы дорогие инструменты, чтобы определить яд в пище. Стоило мне попробовать еду, сразу стало понятно - этот вкус тухлого мяса, плохо прикрытый огромным количеством специй, от которых слезились глаза. Пусть [From.GetTitledFirstName] решает, пойти ли на риск отравления или заплатить мне.;x
+EVTOPTA100225;Мне казалось, [From.GetTitledFirstName] больше тревожится...;x
+EVTOPTB100225;[From.GetTitledFirstName] одобряет цену.;x
+EVTTOOLTIP100226;вне себя от радости от сведений персонажа [Root.GetTitledFirstName];x
+EVTDESC100226;Получив нужные средства, [From.GetTitledFirstName] начинает своё исследование и вскоре я получаю результат: в блюде повар использовал тухлое мясо и пытался прикрыть его вкус множеством специй, в большом количестве которые могли стать ядом. Как результат, повар отправится в тюрьму.;x
+EVTOPTA100226;Как же я теперь найду нового повара?;x
+EVTDESC100230;Священники постоянно донимают меня своей религией и пожертвованиями. Независимо от того, что я делаю, обещаю больше молиться или читать Священное Писание, они не оставляют меня в покое!;x
+EVTOPTA100230;Пожалуйста, кто-нибудь, избавьте меня от них!;x
+EVTTOOLTIP100231;слышит просьбу персонажа [Root.GetTitledFirstName] о помощи;x
+EVTOPTB100230;О, [Root.Religion.GetRandomGodName], я стану истинным верующим!;x
+EVTDESC100231;Любопытно. [From.GetTitledFirstName] постоянно в окружении священников. Они не оставляют [From.GetHersHis] в покое, независимо от того, что [From.GetSheHe] обещает делать и не важно, сколько денег жертвует.;x
+EVTOPTA100231;Я знаю, что [From.GetSheHe] может сделать!;x
+EVTTOOLTIP100232;успокаивается от того, что [Root.GetTitledFirstName] находит решение проблемы персонажа [This.GetTitledFirstName];x
+EVTOPTB100231;Я не хочу делать ничего, что могло бы расстроить священников.;x
+EVTTOOLTIP100233;переживает из-за того, что священники так напугали персонажа [Root.GetTitledFirstName];x
+EVTOPTC100231;Хотите мой совет? Но это будет кое-чего Вам стоить.;x
+EVTTOOLTIP100234;прислушивается к тому, что [Root.GetTitledFirstName] хочет сказать;x
+EVTDESC100232;"Все священники заботятся о деньгах. Когда они придут, дайте им милостыню, и они оставят Вас в покое на несколько недель, если не на месяцы, опасаясь быть в грехе: ни один священник не хочет быть уличённым в жадности."\n[From.GetTitledFirstName] советует мне это вполне обоснованно и я решаю попробовать.;x
+EVTOPTA100232;Так им нужны деньги? Отлично!;x
+EVTOPTB100232;Не только священники жадные...;x
+pious_priests;Любящие деньги священники;x
+EVTDESC100233;Кажется, будто никто не хочет мне помочь, боясь расстроить священников, даже мой друг - [From.GetTitledFirstName]!;x
+EVTOPTA100233;Приставания священников становятся невыносимы!;x
+EVTDESC100234;[From.GetTitledFirstName] хочет поделиться со мной своим планом по поводу назойливых священников. Проблема, однако, в том, что [From.GetTitledFirstName] хочет деньги за свои советы!;x
+EVTOPTA100234;Платить за советы? Не будет такого!;x
+EVTTOOLTIPA100235;принимает решение обойтись без советов персонажа [Root.GetTitledFirstName];x
+EVTOPTB100234;Кого заботят деньги? Просто скажите!;x
+EVTTOOLTIPB100235;рад(а), что [Root.GetTitledFirstName] решает разобраться с этим прежде, чем пожалеет;x
+EVTDESC100235;[From.GetTitledFirstName] получит от меня простой совет: "Достаточно заплатить священникам и они отстанут, возможно, на несколько недель." Я могу поделиться им бесплатно, но хочу проверить, насколько сильно [From.GetTitledFirstName] хочет, чтобы [From.GetHersHis] оставили в покое, потребовав за совет деньги.;x
+EVTOPTA100235;Мне казалось, у н[From.GetHersHis] куда больше терпения.;x
+EVTOPTB100235;[From.GetSheHeCap] презрительно бросает мне деньги.;x
+EVTDESC100240;Мысль о том, дать ли мне обет безбрачия, интригует, тем более я чувствую, что у меня более чем достаточно детей. Один мой знакомый дал обет безбрачия не так давно, я думаю, что заставило его принять это решение?;x
+EVTOPTA100240;Я хочу узнать побольше о безбрачии.;x
+EVTTOOLTIP100241;У [Root.GetTitledFirstName] много вопросов к персонажу [This.GetTitledFirstName] по поводу целибата;x
+EVTOPTB100240;С другой стороны, о чём [Root.GetSheHe] думает?!;x
+EVTTOOLTIP100242;[Root.GetTitledFirstName] расстраивает персонажа [This.GetTitledFirstName], осуждая [This.GetHersHis] образ жизни.;x
+EVTOPTC100240;Нет, целибат не для меня.;x
+EVTDESC100241;Моё решение принять обет безбрачия - очень личное, и я чувствую себя немного не в своей тарелке, отвечая на вопросы, которые задаёт мне об этом [From.GetTitledFirstName]. Я пытаюсь объяснить, так тщательно, как могу, а [From.GetSheHe] внимательно слушает всё, что я говорю.;x
+EVTOPTA100241;Не думаю, что обет безбрачия Вам подойдет.;x
+EVTTOOLTIP100243;разочарован(а) тем, что [Root.GetTitledFirstName] считает, что у н[This.GetHersHis] не хватит воли для целибата;x
+EVTOPTB100241;Каждый должен попробовать это!;x
+EVTTOOLTIP100244;благодарит персонажа [Root.GetTitledFirstName] за то, что тот нашёл время ответить на вопросы о безбрачии.;x
+EVTDESC100242;Мне казалось, [From.GetTitledFirstName] обладает достаточным чувством такта, чтобы не критиковать публично чей-либо образ жизни, особенно своего друга. Да, целибат - мой выбор и я горжусь им. Но я никогда не стану осуждать чей бы то ни было жизненный выбор, не важно, каково мое мнение по этому вопросу!;x
+EVTOPTA100242;В другой раз говорите со мной лично, прежде чем болтать при всех!;x
+EVTDESC100243;[From.GetTitledFirstName] говорит мне: "Таково моё решение - прожить жизнь в безбрачии, но выбор этот нелёгок. Независимо от того, что я Вам скажу, только Вы сами можете решить, и, честно говоря, я не думаю, что безбрачие Вам подходит."\nГорькая правда, которая заставила меня пересмотреть своё мнение о целибате.;x
+EVTOPTA100243;Вы правы, целибат не для меня.;x
+EVTDESC100244;"Вы должны выбрать безбрачие, и если Вы это сделаете, Вы должны будете бороться с соблазнами каждый день в течение всей жизни. Вы будете воздерживаться от большего удовольствия, чем знаете сейчас, но награда выше всякого удовольствия. С Вами [Root.Religion.GetRandomGodName]!"\n[From.GetTitledFirstName] говорит честно и даёт мне понять, насколько важно моё решение.;x
+EVTOPTA100244;Со мной [Root.Religion.GetRandomGodName]!;x
+EVTTOOLTIP5062;На пути к Обету безбрачия;x
+EVTOPTB100243;Я не буду спешить с выбором, не обдумав... еще не время...;x
+EVTDESC100250;Внутренние противоречия терзают меня каждый день - что выбрать, удовольствия сейчас или после смерти? В некоторые дни я чувствую, что целибат - мой путь, в другие мне не хватает удовольствий. Сегодня я больше чувствую склонность к гедонизму, чем к обету безбрачия.;x
+EVTOPTA100250;Хочу ли я поощрения или порицания?;x
+EVTTOOLTIP100251;находит интересным метания персонажа [Root.GetTitledFirstName];x
+EVTOPTB100250;Я не хочу стать гедонистом, как мой друг!;x
+EVTTOOLTIP100252;расстроен тем, что [Root.GetTitledFirstName] осуждает что-то, о чём ничего не знает;x
+EVTOPTC100250;Я... не могу... решить... сейчас.;x
+EVTDESC100251;Я точно знаю, как [From.GetTitledFirstName] чувствует себя сейчас, пытаясь решить, хочет ли [From.GetSheHe] рай на Земле или в загробной жизни. Удовольствие - это всё для меня, и когда я вижу, как [From.GetTitledFirstName] борется с собой, я думаю, что это, может быть, единственный раз, когда можно [From.GetHersHis] убедить.;x
+EVTOPTA100251;[From.GetTitledFirstName] никогда не простит меня.;x
+EVTTOOLTIP100253;Пусть [From.GetTitledFirstName] борется с этим самостоятельно.;x
+EVTOPTB100251;Убедить [From.GetHersHis] будет проще простого.;x
+EVTTOOLTIP100254;легко манипулируется персонажем [Root.GetTitledFirstName];x
+opinion_confused;Смущенный;x
+EVTDESC100252;Моё счастье - знать, что рай может быть и на Земле, а не только на Небесах, и я скорее предпочту прожить свою жизнь в удовольствиях, чем в боли и борьбе только ради того, чтобы МОЖЕТ БЫТЬ попасть на Небеса после смерти. Мнение других людей о моём образе жизни редко беспокоит меня, но когда выяснилось, что мой друг [From.GetTitledFirstName] не хочет стать гедонистом, как я, это меня задело.;x
+EVTOPTA100252;Я не хочу этого слышать, оставь меня в покое.;x
+EVTDESC100253;[From.GetTitledFirstName] не даёт мне ни поддержки, ни упрёка - я остаюсь наедине со своими запутанными чувствами о безбрачии и гедонизме.;x
+EVTOPTA100253;Что же делать, что выбрать?;x
+EVTDESC100254;"Представь себе все удовольствия мира, вкусную еду и вино, нежные прикосновения... Дать обет безбрачия - значит отказаться от наиболее ценных из них, и это только ради шанса попасть на небо? Спроси себя: жизнь полная удовольствий или, возможно, небо после смерти?"\n[From.GetTitledFirstName] говорит очень убедительно...;x
+EVTOPTA100254;Небеса подождут, хочу всё сейчас!;x
+EVTTOOLTIP5061;Вперед - к Гедонизму!;x
+EVTOPTB100253;Я предпочту вечную награду на Небесах.;x
+EVTDESC100260;Книги всегда увлекали меня, и вот теперь, когда я знаю, что мой друг - ученый, который состоит в группе людей, посвятивших себя изучению книг, их обсуждению и познанию нашего мира через философию и науку, я понимаю, что могу узнать больше!;x
+EVTOPTA100260;Ну, рассказывай! Что вы изучаете?;x
+EVTTOOLTIP100261;рад(а), что [Root.GetTitledFirstName] проявляет интерес к научным вопросам;x
+EVTOPTB100260;Звучит невероятно скучно.;x
+EVTTOOLTIP100262;Не спрашивает персонажа [Root.GetTitledFirstName] о научной жизни;x
+EVTOPTC100260;Я сначала подготовлюсь, чтобы произвести впечатление на ученых.;x
+EVTDESC100261;Быть учёным значит проявлять большой интерес к философии, науке и теологии, готовность тратить часы с пыльными старыми книгами только ради того, чтобы подтвердить то, что уже и так знаешь, или обнаружить, в чём ошибся. [From.GetTitledFirstName] говорит со мной о том, что значит быть ученым для меня, и почему это так привлекает.;x
+EVTOPTA100261;Чтобы быть ученым, нужна самоотверженность, но у Вас её нет.;x
+EVTTOOLTIP100263;не может поверить, что [Root.GetTitledFirstName] не считает, что [This.GetSheHe] может стать учёным.;x
+EVTOPTB100261;Выслушайте меня, а уж потом принимайте решение.;x
+EVTTOOLTIP100264;Внимательно слушает, как [Root.GetTitledFirstName] говорит [This.GetHerHim] почему [Root.GetSheHe] занимается наукой.;x
+EVTDESC100262;Мне раньше никогда не доводилось слышать, что [From.GetTitledFirstName] думает обо мне, как об ученом, о моей страсти к книгам, философии, науке и теологии. Я горжусь своим выбором, и никто, даже мой друг, не разубедит меня в этом!;x
+EVTOPTA100262;Так что, хватит очернять мой образ жизни!;x
+EVTDESC100263;Я не могу не зевать, когда [From.GetTitledFirstName] говорит о философии, теологии и науке, за что получаю от н[From.GetHersHis] резкий выговор. И теперь [From.GetTitledFirstName] не хочет мне больше ничего рассказывать. Я пытаюсь оправдать зевоту недостатком сна, но [From.GetSheHe] мне не верит.;x
+EVTOPTA100263;Это скучно...;x
+EVTDESC100264;Чем больше [From.GetTitledFirstName] рассказывает мне о философии, науке и богословии, тем больше я чувствую, что это то дело, которому я могу посвятить себя, пока не умру, не достигнув ничего большего, чем сдувание пыли с объемов знаний в книгах других ученых.;x
+EVTOPTA100264;Я хочу этого! Я хочу книги, философию - всё!;x
+EVTTOOLTIP5000;Ученый - или мистик?;x
+EVTOPTB100263;Ещё не время...;x
+opinion_not_abandon_friendship;Не отказался от дружбы;x
+EVTDESC100350;Я больше не узнаю своего друга. Всё, что нас объединяло, когда мы впервые встретились и подружились, изменилось и исчезло. Всякий раз, когда я встречаюсь с моим другом, я спрашиваю себя: "Тот ли это человек, с которым я хочу дружить? Можем ли мы быть друзьями, несмотря на все наши различия?";x
+EVTOPTA100350;Мы разошлись.;x
+EVTTOOLTIP100351;[Root.GetTitledFirstName] и [This.GetTitledFirstName] больше не друзья;x
+EVTOPTB100350;Скажите, мы ещё можем быть друзьями?;x
+EVTTOOLTIP100352;Будут ли [Root.GetTitledFirstName] и [This.GetTitledFirstName] по-прежнему дружить, несмотря на их различия?;x
+EVTOPTC100350;Вы - мой друг, и это никогда не изменится.;x
+EVTDESC100351;[From.GetTitledFirstName] - хороший друг, и меня огорчает, что [From.GetSheHe] думает, что у нас больше нет ничего общего, а различия между нами слишком велики, чтобы отбросить их.\n"Я не считаю, что мы всё ещё друзья." - говорит мне [From.GetFirstName].;x
+EVTOPTA100351;Я буду скучать...;x
+EVTOPTB100351;Если Вы больше мне не друг, значит враг!;x
+EVTTOOLTIP100353;[Root.GetTitledFirstName] объявляет персонажу [This.GetTitledFirstName], что они больше не друзья.;x
+EVTDESC100352;"Мне нравилось быть Вашим другом, но наши различия слишком велики. Мы не имеем больше ничего общего, и я чувствую... что будет лучшее, если мы больше не будем друзьями."\n[From.GetTitledFirstName] с тяжким сердцем говорит мне это, и видно, что над этими словами [From.GetHerHim] пришлось долго размышлять.;x
+EVTOPTA100352;Что ж, я уважаю Ваше решение.;x
+EVTOPTB100352;Не выбрасывайте нашу дружбу, как старую вещь!;x
+EVTTOOLTIP100354;[Root.GetTitledFirstName] отказывается отбрасывать их дружбу;x
+EVTDESC100353;"Мне нравилось быть Вашим другом, но наши различия слишком велики. Мы не имеем больше ничего общего, и я чувствую... что будет лучшее, если мы больше не будем друзьями."\n[From.GetTitledFirstName] услышав эти слова от меня, говорит, что...;x
+EVTOPTA100353;...мы теперь враги!;x
+EVTOPTB100353;...эта дружба закончилась.;x
+EVTDESC100354;Вместо того, чтобы согласиться, что наша дружба обречена, [From.GetTitledFirstName] говорит мне, что до тех пор, пока [From.GetSheHe] живёт и дышит, [From.GetSheHe] будет считать меня своим другом. Все наши различия, всё что нас уже не объединяет было отвергнуто как пройденное, и пришло время найти новые темы для разговоров и укрепить нашу дружбу.;x
+EVTOPTA100354;Так что... Мне кажется, мы по-прежнему друзья.;x
+EVTDESC100400;Рана была еще свежа, сочилась кровь, и я побледнел, когда увидел её. Мой друг просто пошутил об этом, но стал более серьезным, когда я, потрясенный увиденным, спросил, кто её нанёс.;x
+EVTOPTA100400;Ваш враг? Я убью его!;x
+EVTTOOLTIP100401;Враг друга персонажа [Root.GetTitledFirstName], [This.GetTitledFirstName], стал врагом персонажа [Root.GetTitledFirstName];x
+EVTOPTB100400;Враг моего друга - мой враг!;x
+EVTOPTC100400;Я не стану вмешиваться.;x
+EVTTOOLTIP100402;Реагирует на отказ персонажа [Root.GetTitledFirstName] вмешаться;x
+EVTDESC100401;Без предупреждения [From.GetTitledFirstName] набросился на меня с обвинениями в том, что я ранил [From.GetHersHis] друга. Я защищался, как мог, и попытался успокоить [From.GetHersHis], чтобы опровергнуть обвинения.;x
+EVTOPTA100401;Я едва остался в жив!;x
+EVTDESC100402;Это довольно неприятная рана, но [From.GetTitledFirstName] воспринял всё неверно. Всё-таки обидно, что [From.GetSheHe] считает это вопрос "несущественным". Если бы рану нанесли мне, конечно, я хотел бы, чтобы [From.GetSheHe] помог мне отомстить!;x
+EVTOPTA100402;Думаю, наша дружба тоже "несушественна".;x
+opinion_revenge_seeker;Ищет мести;x
+EVTDESC100410;Слишком долго я игнорировал постоянные оскорбления от своего соперника, но честь требует, и я должен попросить у своего сюзерена ([Root.Liege.GetTitledFirstName]) разрешения вызвать обидчика на дуэль.;x
+EVTOPTA100410;[Root.Liege.PrimaryTitle.GetFOA], смиренно прошу Вашего согласия.;x
+EVTTOOLTIPA100411;Ваш соперник [This.GetTitledFirstName] узнаёт о Вашей просьбе.;x
+EVTTOOLTIPB100411;Ваш сюзерен, [This.GetTitledFirstName], рассматривает Вашу просьбу.;x
+EVTOPTB100410;Неужели я рассматриваю это всерьёз? Меня могут ранить!;x
+EVTDESC100411;Мне казалось, что [From.GetTitledFirstName] - благоразумный человек, но [From.GetHersHis] просьба разрешить дуэль с соперником немного... эксцентрична. [From.GetTitledFirstName] утверждает, что стал объектом постоянных публичных оскорблений со стороны своего соперника и просит позволения защитить свою честь.;x
+EVTOPTA100411;Позволить дуэль.;x
+EVTTOOLTIP100412;Очень благодарен Вам за разрешением на дуэль со своим врагом;x
+EVTOPTB100411;Запретить дуэль.;x
+EVTTOOLTIP100413;Принимает Ваш отказ, но очень разочарован;x
+EVTOPTC100411;Запретить дуэль и изгнать подстрекателя.;x
+EVTDESC100412;"Не знаю, чего Вы на самом деле добиваетесь, вызывая на дуэль своего врага, но явно чувствуете, что должны защищать свою честь. Я даю своё разрешение."\n[From.GetTitledFirstName] любезно одобряет мою просьбу.;x
+EVTOPTA100412;К сожалению, мне разрешено лишь ранить своего противника.;x
+EVTTOOLTIP100415;Ранен в поединке с персонажем [Root.GetTitledFirstName];x
+EVTOPTB100412;Я уже успокоился и понял, что поединок ни к чему.;x
+EVTDESC100413;"Я запрещаю Вам дуэль с Вашим соперником и не даю своего благословения. Несмотря на то, что Вы чувствуете себя оскорблённым, я не могу позволить Вам сгоряча вызывать соперника на дуэль."\n[From.GetTitledFirstName] игнорирует неуважение к моей чести и запрещает мне поединок!;x
+EVTOPTA100413;Но... Почему я должен мириться с этим?!;x
+EVTDESC100414;"Я запрещаю Вам дуэль с Вашим соперником и изгоняю Вас из страны. Я не могу иметь таких вассалов, как Вы, вызывающих на дуэль любого, кто оскорбит их - нанесение увечий создаёт массу проблем и сеет хаос в моём государстве!"\n[From.GetTitledFirstName] изгоняет меня, за простой запрос на дуэль!;x
+EVTOPTA100414;Это невозможно!;x
+EVTDESC100415;[From.GetTitledFirstName] должен был спросить разрешение сюзерена ([From.Liege.GetTitledFirstName]), чтобы бросить мне вызов на дуэль. Я согласился, конечно, что ещё я мог сделать?;x
+EVTOPTA100415;Этот мерзавец ранил меня!;x
+EVTOPTB100415;Мне удалось лишить [From.GetHerHim] сознания до того, как кто-нибудь мог пострадать;x
+EVTOPTC100415;Я легко победил [From.GetHersHis].;x
+opinion_disgraceful;Позорный;x
+EVTDESC100420;Я абсолютно уверен, что мой соперник жульничает на турнире! Он ни за что не победил бы в сражениях так легко...;x
+EVTOPTA100420;[Root.Liege.GetTitledFirstName] узнает об этом мошеннике!;x
+EVTTOOLTIP100421;[Root.GetTitledFirstName] говорит персонажу [This.GetTitledFirstName] о мошеннике;x
+EVTOPTB100420;Я сам разберусь с ним!;x
+EVTTOOLTIP100422;[Root.GetTitledFirstName] противостоит своему сопернику ([This.GetTitledFirstName]);x
+EVTOPTC100420;Пусть все узнают, кто он такой!;x
+EVTTOOLTIP100423;Не любит Вашу клевету;x
+EVTOPTD100420;Я буду держать язык за зубами.;x
+EVTDESC100421;"[Root.PrimaryTitle.GetFOA], у меня есть доказательства мошенничества одного из участников турнира!" - сообщил мне [From.GetTitledFirstName].\nХорошо известно, что [From.GetSheHe] и предполагаемый мошенник враждуют, но я не могу себе представить, что [From.GetTitledFirstName] будет лгать о чём то столь серьёзном!;x
+EVTOPTA100421;Посадить мошенника в тюрьму!;x
+EVTTOOLTIP100424;Сидит в тюрьме за мошенничество в турнире;x
+EVTOPTB100421;Изгнать мошенника!;x
+EVTTOOLTIP100425;Изгоняется за мошенничество в турнире;x
+EVTOPTC100421;Мне нужны более веские доказательства, чем Ваши слова.;x
+EVTDESC100422;Турнир проходил, как положено, когда [From.GetTitledFirstName], разочарованный своими неудачами, обвинил меня в мошенничестве и представил смешную теорию. [From.GetSheHeCap] утверждал, что имеет доказательства, что я мошенничаю!;x
+EVTOPTA100422;Я выиграл каждый матч честно и справедливо!;x
+EVTOPTB100422;Ваши "доказательства" оскорбительны, я вызываю Вас на дуэль!;x
+EVTTOOLTIP100427;брошен вызов на дуэль;x
+EVTDESC100423;Все на турнире, который проводит [From.Liege.GetTitledFirstName], слышали, как [From.GetTitledFirstName] обвинял меня в обмане. Я не думал, что кто-то поверил в [From.GetHersHis] дикие обвинения, но подозрительные взгляды и перешёптывания говорили об обратном.;x
+EVTOPTA100423;Золото успокоит их больные фантазии!;x
+EVTOPTB100423;Почему меня вообще волнует, что они думают?;x
+EVTDESC100424;[FromFrom.GetTitledFirstName] обвинил меня в обмане на турнире и [From.GetTitledFirstName] верит [FromFrom.GetHerHim]. Я был брошен в тюрьму на основе необоснованных обвинений моего врага!;x
+EVTOPTA100424;Я убью тебя, [FromFrom.GetTitledFirstName]!;x
+EVTDESC100425;Лживые обвинения в мошенничестве на турнире, которыми бросается [FromFrom.GetTitledFirstName], беспочвенны, но [From.GetTitledFirstName] верит каждому ядовитому слову, которое этот идиот сказал. Несмотря на мои протесты и требования справедливого судебного разбирательства, где [FromFrom.GetTitledFirstName] сможет представить свои "доказательства", [From.GetTitledFirstName] изгоняет меня из страны!;x
+EVTOPTA100425;Когда я вернусь, [FromFrom.GetSheHe] уже не будет в безопасности.;x
+EVTDESC100426;Я рассказал о мошенничестве своего соперника на турнире, и теперь [From.GetTitledFirstName] рассматривает мои обвинения...;x
+EVTOPTA100426;[From.GetTitledFirstName] ничего не делает!;x
+EVTOPTB100426;[From.GetTitledFirstName] велит бросить мошенника в тюрьму!;x
+EVTOPTC100426;[From.GetTitledFirstName] изгоняет мошенника из страны!;x
+EVTDESC100427;[From.GetTitledFirstName] покраснел и начал сыпать ругательствами, когда я обвинил [From.GetHersHis] в жульничестве на турнире. Я убедился, что мои обвинения слышало настолько много людей, насколько это было возможно, но я быстро пожалел об этом, когда [From.GetTitledFirstName] вызвал меня на дуэль!;x
+EVTOPTA100427;Я согласен, но Вам придётся биться честно!;x
+EVTTOOLTIP100428;защищает свою честь от обвинений персонажа [Root.GetTitledFirstName];x
+EVTOPTB100427;Я шучу, шучу! Не бейте меня...;x
+EVTTOOLTIP100429;никогда не видел более бесхребетное существо, чем [Root.GetTitledFirstName];x
+EVTDESC100428;Я защищал свою честь единственно возможным способом - дуэль. [From.GetTitledFirstName] должен ответить за свои слова. Я вызвал [From.GetHersHis] на поединок глазах у всех участников турнира, зрителей и нашего сюзерена ([From.Liege.GetTitledFirstName]). Никому не сойдёт с рук называть меня мошенником!;x
+EVTOPTA100428;Боюсь... Я проиграл...;x
+EVTOPTB100428;[From.GetSheHeCap] упал без сознания, доказав этим мою невиновность.;x
+EVTOPTC100428;Я победил [From.GetHersHis] и этим доказал, что я - не мошенник.;x
+EVTDESC100429;Как я и думал, [From.GetTitledFirstName] может только болтать и ничего больше. Трус! [From.GetSheHeCap] поспешно снял свои обвинения, когда я пригрозил забить зубы ему в горло.;x
+EVTOPTA100429;Нужно было сделать это в любом случае.;x
+EVTDESC100440;О, [Root.Religion.GetRandomGodName], это просто удивительно, куда катиться мир, когда еретики пытаются опровергнуть всё, во что мы верили и принести нам ложных богов! Среди многих других, мой соперник принял еретическую версию веры [Root.Religion.GetName].;x
+EVTOPTA100440;[Root.Religion.GetRandomGodName] нуждается в защите от таких людей!;x
+EVTTOOLTIP100441;[Root.GetTitledFirstName] предлагает персонажу [Root.RelHead.GetTitledFirstName] свою помощь против еретиков, таких, как [Root.GetHersHis] соперник;x
+EVTOPTB100440;Но моя неприязнь к нему вполне мирская.;x
+EVTOPTC100440;Возможно, что-то в его взглядах - правда.;x
+EVTDESC100441;"С печалью в сердце я сообщаю Вам, что заблудший подданный решил стать еретиком. Я надеюсь, что Ваше Святейшество будет следить за тем, чтобы ни у кого не возникло искушения следовать тем же еретическим путём."\n[From.GetTitledFirstName] предупреждает нас, что подданный введён в заблуждение.;x
+EVTOPTA100441;У нас нет другого выбора, кроме как отлучить эту бедную душу.;x
+EVTTOOLTIP100443;направляет письмо персонажу [This.GetTitledFirstName], говорящее, что [From.GetSheHe] отлучается от церкви персонажем [Root.GetTitledFirstName].;x
+EVTTOOLTIP100444;направляет письмо, обещая персонажу [Root.GetTitledFirstName] позаботиться о еретике.;x
+EVTOPTB100441;Мы не считаем это важным в данный момент.;x
+EVTTOOLTIP100445;посылает письмо с вежливым отказом и благодарит [This.GetHersHis] за беспокойство;x
+EVTDESC100442;Прости меня, [Root.Religion.GetRandomGodNameCap], ибо я во грехе! Я сетях ереси, расставленных моим врагом, и теперь исповедую [Root.Religion.GetName].;x
+EVTOPTA100442;Может быть, это не так уж плохо...;x
+EVTDESC100443;[FromFrom.GetTitledFirstName] обращается к нам, и мы, [From.GetTitledFirstName], согласны - Вам следует отказать в причастии и отлучить от Святой Церкви! Да помилует Бог Вашу душу.\n [From.GetTitledFirstName];x
+EVTOPTA100443;Что?;x
+EVTDESC100444;[Root.GetTitledFirstName], мы хотели бы поблагодарить Вас за Ваше предупреждение о еретике, известном как [From.GetTitledFirstName], среди наших подданных.\n [FromFrom.GetTitledFirstName];x
+EVTOPTA100444;Любой истинный христианин поступил бы также.;x
+EVTDESC100445;После некоторых размышлений мы решили не отлучать от церкви человека, о котором Вы нас предупреждали. Мы не нашли никаких доказательств против Вашего соперника. [From.Religion.GetRandomGodNameCap] с Вами.\n [From.GetTitledFirstName];x
+EVTOPTA100445;Ну что ж, стоило попробовать...;x
+EVTDESC100450;Мой сюзерен, [Root.Liege.GetTitledFirstName], не знает, какой коварный и подлый человек мой соперник, не видя истинных мотивов за [Root.HersHis] лестью.;x
+EVTOTPA100450;Я покажу, какой змеей [Root.GetSheHe] является!;x
+EVTTOOLTIP100451;[Root.GetTitledFirstName] говорит персонажу [This.GetTitledFirstName], какой презренный человек [Root.GetHersHis] соперник;x
+EVTOTPB100450;[Root.Liege.GetTitledFirstName] и так скоро всё узнает...;x
+EVTDESC100451;"[Root.PrimaryTitle.GetFOA], пожалуйста, выслушайте меня! Этот человек, к которому Вы так благосклонны, не более, чем коварная и подлая змея!"\n [From.GetTitledFirstName] пытается убедить меня быть внимательнее в отношении своих друзей.;x
+EVTOTPA100451;Кто же знал!;x
+EVTTOOLTIP100453;[Root.Liege.GetTitledFirstName] избегает бывшего друга ([This.GetTitledFirstName]);x
+EVTOTPB100451;Я не верю Вам! Вы просто завидуете...;x
+EVTTOOLTIP100452;[Root.GetTitledFirstName] игнорирует сомнения;x
+EVTDESC100452;Чем больше [From.GetTitledFirstName] узнаёт о проступках моего врага из моих уст, тем мрачнее и задумчивее становится [From.GetHersHis] лицо. Боюсь, что [From.GetSheHe] не поверит мне из-за преувеличений...;x
+EVTOPTA100452;[From.GetTitledFirstName] верит каждому слову, сказанному мной!;x
+EVTOPTB100452;[From.GetTitledFirstName] называет меня лжецом!;x
+EVTDESC100453;"[From.GetTitledFirstName] рассказывает мне о злодеяниях, которые Вы сделали, презренных и подлых вещах, которые [From.GetHerHim] довелось увидеть собственными глазами! Мне казалось, что мы друзья, но теперь меня не обманешь."\n [FromFrom.GetTitledFirstName] по-прежнему мне не верит. Мне не удалось убедить [FromFrom.GetHersHis], что [From.GetTitledFirstName] лжёт.;x
+EVTOPTA100453;Гори в аду, [From.GetTitledFirstName]!;x
+EVTDESC100460;"Вы знаете, мне сказали, что Ваш враг любит [Root.GetManWoman]!"\n Это стало для меня шоком, услышать, что мой враг - гомосексуалист!;x
+EVTOTPA100460;Наконец, я смогу очернить репутацию врага!;x
+EVTTOOLTIP100461;не имеет ничего, кроме презрения к персонажу [Root.GetTitledFirstName];x
+EVTOTPB100460;Это разрушит [Root.GetHersHis] жизнь! Я стану частью этого.;x
+EVTOTPC100460;Я буду защищать эту тайну, как свою.;x
+EVTTOOLTIP100462;[Root.GetTitledFirstName] больше не видит в персонаже [This.GetTitledFirstName] своего соперника;x
+EVTDESC100461;Сначала это были только слухи, потом люди начали шептаться, а затем распускать сплетни. Секрет, который я пытаюсь сохранить в тайне, отрицать и не замечать настиг меня и открыл для некоторых жестокую правду: я питаю страсть к [Root.GetManWoman]ам, а не [Root.GetManWomanOpp]ам.;x
+EVTOPTA100461;Наверняка [From.GetTitledFirstName] стоит за этим!;x
+EVTDESC100462;Это была тайна, хранимая мной всю жизнь. Каждая сплетня, каждый слух о том, что мне не интересен другой пол искоренялись настолько, насколько возможно. И вот мой враг, [From.GetTitledFirstName], приходит ко мне, и говорит, что знает мой секрет. Я готовлюсь к [From.GetHersHis] ликованию по поводу того, что [From.GetSheHe] имеет сведения, которые можно использовать, чтобы разрушить мою репутацию.;x
+EVTOPTA100462;[From.GetSheHe] говорит мне, что мой секрет в безопасности.;x
+EVTDESC100470;Чем больше я думаю об этом, тем более нелепым мне это кажется. [Root.GetTitle] в качестве соперника - это ниже моего достоинства. Кажется, немного глупо с моей стороны считать [Root.GetHersHis] своим соперником.;x
+EVTOPTA100470;Действительно, нет смысла в этом соперничестве.;x
+EVTOPTB100470;Я никогда не забываю своих врагов.;x
+EVTDESC100471;[From.GetTitledFirstName] и я были соперниками на протяжении долгого времени, но теперь, когда [From.GetSheHe] - [From.GetTitle], а я - [Root.GetTitle], [From.GetSheHe] чувствует, что это ниже [From.GetHersHis] достоинства.;x
+EVTOPTA100471;Наконец-то!;x
+EVTOPTB100471;[From.GetTitle] [From.GetSheHe] или нет, вражда в силе!;x
+EVTTOOLTIP100472;[Root.GetTitledFirstName] отказывается окончить вражду с персонажем [This.GetTitledFirstName];x
+EVTDESC100472;Я считаю, что давно пора похоронить эту вражду, нанёсшую удар по нашей репутации, в прошлом, где ему и место, но [From.GetTitledFirstName] не обладает таким великодушием\n"[Root.GetTitle] или [From.GetTitle], наша вражда навсегда!";x
+EVTOPTA100472;Ну что за!..;x
+EVTDESC100480;Мой сюзерен [Root.Liege.GetTitledFirstName] и я до сих пор враждуем, и это значительно затрудняет исполнение вассального договора. Знание того, что моя тяжелая работа позволяет моему врагу жить безопасной, счастливой жизнью раздражает меня до безумия!;x
+EVTOPTA100480;[Root.Liege.GetTitledFirstName] - мой враг навсегда!;x
+EVTOPTB100480;Придётся жить с этим.;x
+EVTOPTC100480;Нужно помириться ради порядка.;x
+EVTTOOLTIP100481; ;x
+opinion_stubborn_rival;Упрямый Соперник;x
+opinion_respects_liege;Уважает Сюзерена;x
+EVTDESC100481;[Root.PrimaryTitle.GetFOA], боюсь, что наша вражда препятствует исполнению вассального договора. Знание того, что моя тяжелая работа позволяет моему врагу жить безопасной, счастливой жизнью, давлеет надо мной. Давайте покончим с этой враждой, и я смогу служить Вам в полную силу.\nВаш верноподданный, \n[From.GetTitledFirstName];x
+EVTOPTA100481;Да, так будет лучше...;x
+EVTDESC100490;Сюзерен [Root.Liege.GetTitledFirstName] в опасности - мой заклятый враг планирует мятеж против н[Root.Liege.GetHersHis]!;x
+EVTOPTA100490;Я не позволю, чтобы моя вражда мешала моим делам.;x
+EVTOPTB100490;Возможно, общий враг позволит нам помириться?;x
+EVTTOOLTIP100491;[Root.GetTitledFirstName] присоединяется к заговору персонажа [This.GetTitledFirstName] против своего сюзерена ([Root.Liege.GetTitledFirstName]);x
+EVTDESC100491;Я занимаюсь планированием следующего шага в своём заговоре, и вот [From.GetTitledFirstName] врывается в мою комнату и предлагает присоединиться к нему, заявляя, что сюзерен [From.Liege.GetTitledFirstName] - [From.GetHersHis] противник!;x
+EVTOPTA100491;Мне не нужна Ваша помощь!;x
+EVTTOOLTIP100492;[Root.GetTitledFirstName] не нуждается в помощи персонажа [This.GetTitledFirstName] с [Root.GetHersHis] заговором против сюзерена ([This.Liege.GetTitledFirstName]);x
+EVTOPTB100491;Мне понадобится любая помощь.;x
+EVTDESC100492;[From.GetTitledFirstName] планирует заговор против нашего сюзерена, известного как [Root.Liege.GetTitledFirstName]. Но теперь, когда [From.GetHerHim] довелось узнать от меня о моём желании присоединиться, [From.GetSheHe] вместо того, чтобы выразить благодарность отвечает мне резким отказом!;x
+EVTOPTA100492;Что же теперь делать?;x
+EVTDESC100500;Мой заклятый враг стал последователем Христа! Аллилуйя! Слава Господу!;x
+EVTOPTA100500;Нужно пересмотреть наши отношения!;x
+EVTOPTB100500;"Возлюби врага" - явно не про этот случай.;x
+EVTDESC100501;[Root.Religion.GetName] учит нас любить своих врагов, но несмотря на это, [From.GetTitledFirstName] удивляет меня своим предложением закончить нашу вражду ради нашей веры.;x
+EVTOPTA100501;Во имя Господа нашего!;x
+EVTTOOLTIP100502;[Root.GetTitledFirstName] и [This.GetTitledFirstName] окончили свою вражду.;x
+EVTOPTB100501;Мы - враги, ибо на то воля Божья.;x
+EVTTOOLTIP100503;[Root.GetTitledFirstName] отклоняет предложение персонажа [This.GetTitledFirstName] прекратить соперничество;x
+opinion_continued_rivalry;Продолжил соперничество;x
+EVTDESC100502;"Вы правы! Давайте покончим с этим. [Root.Religion.GetName] учит нас любить всех, а врагов - в первую очередь!"\n[From.GetTitledFirstName] соглашается прекратить нашу мелочную вражду.;x
+EVTOPTA100502;Какой прекрасный день!;x
+EVTDESC100503;"Какое это имеет отношение к нам? Был ли Иисус с нами, когда мы стали врагами? Я не вижу причин для того, чтобы наша общая вера велела нам быть друзьями."\n[From.GetTitledFirstName] не хочет прекращать нашу вражду.;x
+EVTOPTA100503;Мне казалось, общая вера сделает нас друзьями...;x
+EVTOPTB6502;Ударить котенка;x
+opinion_killed_father;Убил моего отца;x
+EVTDESC100510;Какая прекрасная возможность - мой сюзерен [Root.Liege.GetTitledFirstName] приглашает меня и моего врага на охоту в [Root.Liege.Location.County.GetAdjective]их лесах. Маленькая ошибка может иметь катастрофические последствия, стрела выпущенная в неудачный момент, может пробить сердце моего врага.;x
+EVTOPTA100510;Сейчас или никогда!;x
+EVTOPTB100510;Крестьянин, огонь по моей команде!;x
+EVTTOOLTIP100511;[Root.GetTitledFirstName] подкупает персонажа [This.GetTitledFirstName] для убийства врага выпущенной стрелой.;x
+EVTOPTC100510;Давайте просто наслаждаться охотой.;x
+EVTTOOLTIP36010;Белый олень;x
+EVTDESC100511;Я слышу звук летящей стрелы за секунду до попадания. Свист её оперения, как песня проносящаяся по лесу, должен помочь мне избежать беды...;x
+EVTOPTA100511;Стрела попала мне в руку!;x
+EVTOPTB100511;Стрела пронзила мою ногу!;x
+EVTOPTC100511;Стрела... пронзила мое сердце...;x
+EVTOPTD100511;Стрела чуть не задела меня!;x
+EVTDESC100512;Затаив дыхание, как только стрела вылетела из лука, я вслушиваюсь в звук её полёта. Её цель - несомненно, [From.GetTitledFirstName]...;x
+EVTOPTA100512;Стрела ранит [From.GetHersHis], попав в руку!;x
+EVTOPTB100512;Стрела калечит [From.GetHersHis], пронзив ногу!;x
+EVTOPTC100512;Стрела пролетает мимо!;x
+EVTDESC100513;Стрела поразила цель, пробив сердце. [From.GetTitledFirstName] погибает еще до того, как падает с лошади. Никто не признался, чья стрела [From.GetHersHis] убила, поэтому произошедшее признали несчастным случаем на охоте.;x
+EVTOPTA100513;Отличный выстрел!;x
+EVTTOOLTIP100514;[This.GetTitledFirstName] клянётся отомстить за смерть своего отца ([This.Father.GetTitledFirstName]) убийце ([Root.GetTitledFirstName]).;x
+EVTDESC100514;Мой отец [Root.Father.GetTitledFirstName] погиб на охоте, и это не было случайностью. [From.GetTitledFirstName], враг моего отца, имеет лук с такой же стрелой, как та, которая пронзила сердце моего отца!;x
+EVTOPTA100514;Я отомщу, рано или поздно!;x
+the_content;Удовлетворенный;x
+the_failed_poisoner;Отравитель-неудачник;x
+opinion_poisoner;Отравитель;x
+master_poisoner;Мастер ядов;x
+EVTDESC100520;Никто не заметит, если я отравлю вино моего врага на празднике, который устраивает [Root.Liege.GetTitledFirstName]. Гости будут слишком заняты сплетнями, заговорами и интригами.;x
+EVTOPTA100520;Я пойду на риск и отравлю вино!;x
+EVTTOOLTIP100523;Отравленное вино, предназначенное для губ противника персонажа [Root.GetTitledFirstName], досталось персонажу [This.GetTitledFirstName].;x
+EVTOPTB100520;А если обнаружится, что это моих рук дело?;x
+EVTDESC100521;Незаметно для всех я добавляю яд в вино и поменяю кубок своего врага на отравленный. Мой враг ничего не замечает, увлёкшись беседой с сюзереном. И вот я уже слышу чей-то хрип и стук упавшего на пол бокала.;x
+EVTOPTA100521;Отравленное вино... все впустую!;x
+EVTDESC100522;Вино имело странный вкус, покалывало язык, но было вполне сносным. Не прошло часа, как у меня началась рвота с кровью, и до меня дошло, что вино было отравлено!;x
+EVTOPTA100522;...убейте... меня...;x
+EVTTOOLTIP100524;[Root.GetTitledFirstName] был отравлен персонажем [This.GetTitledFirstName];x
+EVTOPTB100522;Яд не убил меня, но полностью лишил сил.;x
+EVTOPTC100522;Яд... всё горит...;x
+EVTDESC100523;Праздник проходит точно так, как я и было задумано - много еды и вина, прекрасные развлечения и интересные гости. Жаль, но кто-то решил всё испортить, отравив вино!;x
+EVTOPTA100523;Если я узнаю, кто это сделал, он сильно пожалеет!;x
+EVTTOOLTIP100525;[Root.GetTitledFirstName] был(а) случайно отравлен(а) персонажем [From.GetTitledFirstName];x
+EVTDESC100524;[From.GetTitledFirstName] пьёт отравленное вино из кубка и просит ещё. В это время я сижу и наслаждаюсь трапезой, ожидая, когда подействует яд.;x
+EVTOPTA100524;[From.GetTitledFirstName] умирает долго и мучительно.;x
+EVTTOOLTIP100526;[This.GetTitledFirstName] будет мстить за своего отца ([This.Father.GetTitledFirstName]);x
+EVTOPTB100524;Яд не убил, но привёл [From.GetHersHis] к немощи.;x
+EVTOPTC100524;Яд привёл [From.GetHersHis] к болезни.;x
+EVTDESC100525;Несколько свидетелей заявили, что они видели, как [FromFrom.GetTitledFirstName] подливает что-то в вино. Довольно скоро мне удалось получить от н[FromFrom.GetHersHis] признание. Некоторые гости почувствовали слабость, но, к счастью, никто не погиб, яда в вине было недостаточно, чтобы оказать ощутимый вред.;x
+EVTOPTA100525;Бросить отравителя в темницу!;x
+EVTOPTB100525;Изгнать отравителя из страны!;x
+EVTOPTC100525;Никто не умер, я проявлю милосердие.;x
+EVTDESC100526;На празднике, организатор которого - [From.Liege.GetTitledFirstName], от отравленного вина умер мой отец, и причина этому - [From.GetTitledFirstName]! Я отомщу за смерть отца!;x
+EVTOTPA100526;Я не успокоюсь, пока [From.GetTitledFirstName] не умрёт!;x
+mod_forgives_poisoner;Прощает отравителя;x
+EVTDESC100527;Мне пришлось признаться после того, как довелось услышать, что [From.GetTitledFirstName] говорит с придворными о моём участии в отравлении вина, а затем решает обратиться с вопросами ко мне. Мой враг вовсе не пострадал, но многие гости заболели, выпив это вино.;x
+EVTOTPA100527;[From.GetTitledFirstName] велит бросить меня в темницу.;x
+EVTOTPB100527;[From.GetTitledFirstName] изгоняет меня из страны.;x
+EVTDESC72038;Я слышу, как [From.GetTitledFirstName] вызывает одного из моих гостей на дуэль и, прежде чем у меня появляется шанс вмешаться, два дуэлянта выходят на улицу...;x
+EVTOPTA72038;Я стараюсь, добраться до них пока не стало слишком поздно...;x
+opinion_revoked_lord_spiritual_title;Отозвал должность Духовника;x
+action_inquisition_desc;Пусть [GetLordSpiritualName] позаботится о потерянных душах этого округа, обращая еретиков и иноверцев.;x
+action_advance_cul_tech_desc;Пусть [GetLordSpiritualName] способствует развитию культуру округа.;x
+action_improve_rel_relations_desc;Пусть [GetLordSpiritualName] возглавит религиозную делегацию для обсуждения вопросов веры с местным духовенством (особенно полезно по отношению к официальному главе церкви).;x
+job_spiritual;Духовник;x
+mastermind_theologian_desc;Богослов выдающегося ума, признанный одним из лучших ученых.;x
+CHOOSE_AMBITION;§GКликните, чтобы выбрать амбицию§!;x
+NO_VALID_AMBITIONS;Нет подходящих амбиций;x
+CHOOSE_PLOT;Выберите заговор;x
+NO_VALID_PLOTS;Нет подходящих заговоров;x
+DYN9_DESC;Cо счетом $SCORE$ Вы $FAILED$ превзошли Дом аф Бьяльбо, который, возможно, создал современное государство Швеция. До их правления шведское государство было сильно децентрализованным, где приказы королевской власти почти игнорировалась. Короли Бьяльбо сделали систему управления более четкой, завоевав Финляндию и в 1337 году вступил в личную унию с Норвегией, подняли Швецию на вершину своей средневековой мощи.;x
+entertaining_entertainment;Развлекательный Прием;x
+fabulous_feast;Потрясающий праздник;x
+poor_revenge_seeker;Неумело ищущий мести;x
+hot_revenge;Месть подают холодной;x
+EVTDESC100530;Настало время моей мести! У меня так много восхитительно злобных планов, но мне следует контролировать себя, чтобы убедиться, что всё пойдет, как надо.;x
+EVTOPTA100530;Я испорчу репутацию моего врага!;x
+EVTTOOLTIP100531;[Root.GetTitledFirstName] оклеветал оклеветал врага ([This.GetTitledFirstName]);x
+EVTTOOLTIP100532;Никто не верит персонажу [This.GetTitledFirstName];x
+EVTOPTB100530;Я пошлю своих головорезов убить моего противника!;x
+EVTTOOLTIP100533;[Root.GetTitledFirstName] посылает головорезов убить своего противника ([This.GetTitledFirstName]);x
+EVTOPTC100530;Мои головорезы изобьют моего противника!;x
+EVTTOOLTIP100534;[Root.GetTitledFirstName] посылает головорезов избить своего противника ([This.GetTitledFirstName]);x
+EVTOPTD100530;О чем я только думаю? Я не хочу мести!;x
+EVTDESC100531;Мне удалось узнать сплетни о себе, слухи, медленно, но верно разрушающие мою репутацию. Это зашло так далеко, что никто не решается встретиться со мной взглядом. Обеспокоенные родители прячут от меня своих детей, а сплетники моментально умолкают при одном моём виде.;x
+EVTOPTA100531;Что я сделал? Кто распространил эти гнусные слухи?;x
+EVTTOOLTIP100537;Гнусные слухи распространяет [This.GetTitledFirstName];x
+EVTDESC100532;Ничего не помогает! Мой противник слишком обожаем своими вассалами, поэтому никакая ложь, никакие странные и отвратительные вещи, придуманные мной не работают, они не верят мне!;x
+EVTOPTA100532;Тогда, как я смогу отомстить?;x
+EVTDESC100533;Бандиты выскочили из засады, как будто из ниоткуда, размахивая дубинками, мечами и кулаками, они явно пытались убить меня! Все мои отчаянные попытки отбиться оканчивались неудачей.;x
+EVTOPTA100533;Истекая кровью, я пытаюсь убежать от них...;x
+EVTTOOLTIP100538;Мне удалось спастись и остаться в живых;x
+EVTTOOLTIP100535;Головорезы, посланные убить персонажа [Root.GetTitledFirstName], пришли от персонажа [This.GetTitledFirstName];x
+EVTDESC100534;Прежде чем я успеваю вытащить свой меч, головорезы бросаются на меня. Я сражаюсь с ними храбро, даже успеваю поранить некоторых из них, но их слишком много.;x
+EVTOPTA100534;Я не могу сражаться с ними, нужно бежать!;x
+EVTDESC100535;[From.GetTitledFirstName] - мой заклятый враг, и вот теперь мои головорезы отправились убить [From.GetHersHis], чтобы свершить мою месть. Беспокойство терзает меня... И вот первые вести от бандитов...;x
+EVTOPTA100535;Прекрасно! Они убили [From.GetHersHis]!;x
+EVTOPTB100535;[From.GetSheHeCap] в порядке. Ничего не вышло.;x
+EVTOPTC100535;Им удалось только ранить [From.GetHersHis].;x
+EVTOPTD100535;Они покалечили [From.GetHersHis]!;x
+EVTDESC100536;[From.GetTitledFirstName] - мой заклятый враг и цель моей мести. Лидеру моей банды головорезов был дан четкий приказ: только ранить, покалечить [From.GetHersHis], если хотят, но постараться не убивать! Будем надеяться, что они научились подчиняться приказам.;x
+EVTOPTA100536;Убили!? Но приказ был - ранить, в крайнем случае покалечить!;x
+EVTOPTB100536;Как [From.GetHerHim] удалось победить ВСЕХ вас?;x
+EVTOPTC100536;Вы ранили [From.GetHersHis]? Превосходно!;x
+EVTOPTD100536;Вы покалечили [From.GetHersHis]? Отлично!;x
+EVTDESC100537;Моё сердце радовалось сладкой злобой лживым слухам о моём недруге ([From.GetTitledFirstName]), которые мне удалось распространить, и я уже почти вижу, как [From.GetHersHis] репутация валяется в канаве, становясь всё более грязной с каждым новым сплетником...;x
+EVTOPTA100537;Месть - блюдо, которое подают холодным!;x
+EVTOPTB100537;Меня даже не волнует, что все теперь знают: источник слухов - я.;x
+EVTDESC100538;Я бегу, спасая свою жизнь, и головорезы, обременённые своим оружием и доспехами, не могут долго гнаться за мной. Даже потеряв их из виду, я уже не могу остановиться и продолжаю бежать, пока не оказываюсь в безопасности в своём доме.;x
+EVTOPTA100538;Кто же хочет меня убить?;x
+EVTDESC100540;Мой отец [Root.Father.GetTitledFirstName] убит и я отомщу за н[Root.Father.GetHersHis]! Как же много ужасных вещей я хочу сделать с убийцей моего отца, но я должен быть уверен, что всё пойдет как надо.;x
+EVTOPTA100540;Я уничтожу репутацию убийцы.;x
+EVTTOOLTIP100541;[Root.GetTitledFirstName] клевещет на убийцу ([This.GetTitledFirstName]) своего отца.;x
+EVTOPTB100540;Я пошлю головорезов расправиться с убийцей.;x
+EVTTOOLTIP100543;[Root.GetTitledFirstName] посылает головорезов расправиться с убийцей ([This.GetTitledFirstName]) своего отца.;x
+EVTOPTC100540;Мой головорезы покалечат убийцу.;x
+EVTTOOLTIP100544;Головорезы, посланные персонажем [Root.GetTitledFirstName] отправлены избить убийцу ([This.GetTitledFirstName]) [Root.GetHersHis] отца.;x
+EVTOPTD100540;Я не могу так поступить.;x
+EVTDESC100541;Я не осмеливаюсь больше выйти из дома. Слухи обо мне как о хладнокровном убийце подтолкнули людей не только выкрикивать ругательства, но и кидать в меня гнилыми фруктами!;x
+EVTOPTA100541;За что мне это? В чём моя вина?!;x
+EVTTOOLTIP100547;Репутация персонажа [Root.GetTitledFirstName] была запятнана вредоносными слухами, которые распространяет [This.GetTitledFirstName].;x
+EVTDESC100542;Никто не слушает меня, когда я пытаюсь сказать, кто убил моего отца! Я перепробовал любую ложь, любое смехотворно странное или отвратительное доказательство, которое я смог придумать, чтобы запятнать репутацию убийцы, но никто не верит мне!;x
+EVTOPTA100542;Проклятье! Как же я смогу отомстить?;x
+EVTDESC100543;Головорезы были посланы за моей жизнью и им не нужны ни земля, не деньги, только моя жизнь! Я уступаю им в силе и количестве в отношении 1 к 5, но у меня есть одно преимущество: на мне нет доспехов и мой небольшой меч не мешает мне двигаться.;x
+EVTOPTA100543;Бежать! Бежать, спасая свою жизнь!;x
+EVTDESC100544;Пять головорезов бросаются на меня, но они не пытаются меня убить, они хотят ранить меня так тяжело, как это возможно, не убивая. Несмотря на их перевес в количестве 5 к 1, я стараюсь защитить себя, но не видя другого выхода, бросаюсь бежать.;x
+EVTOPTA100544;Кто их нанял? Почему они хотят меня покалечить?;x
+EVTTOOLTIP100545;Головорезы были наняты персонажем [This.GetTitledFirstName];x
+EVTDESC100545;Наконец-то [From.GetTitledFirstName], убийца моего отца, получит своё! Мои головорезы убьют [From.GetHersHis], и никто не заподозрит мою причастность!;x
+EVTOPTA100545;Убили? Прекрасно!;x
+EVTOPTB100545;Каким образом [From.GetHersHis] удалось сбежать? Как!?;x
+EVTOPTC100545;Только ранили? Но [From.GetHersHis] нужно было убить!;x
+EVTOPTD100545;Покалечили? Хорошо.;x
+EVTDESC100546;"Нанесите раны, покалечьте [From.GetHersHis], если нужно, но не убивайте!.."\nГоловорезы получили четкий приказ - [From.GetTitledFirstName] получит своё сполна, будем надеяться...;x
+EVTOPTA100546;Ранить, покалечить, но не убивать! Инструкции были чёткие!;x
+EVTOPTB100546;Вы даже не смогли ранить [From.GetHersHis]!? Ничтожества!;x
+EVTOPTC100546;Отличная работа! [From.GetSheHeCap] достаточно помучается.;x
+EVTOPTD100546;Без ноги? Превосходно!;x
+EVTDESC100547;Наконец-то [From.GetTitledFirstName] имеет то, чего заслуживает: люди кидают в н[From.GetHersHis] гнилыми фруктами и кричат "Убийца! Чудовище!" [From.GetHerHim] вслед. Слухи, которые мне удалось распространить, подхвачены сплетниками, скоро вся страна будет знать о [From.GetHersHis] злодеяниях!;x
+EVTOPTA100547;Такая сладкая месть!;x
+EVTOPTB100547;Пусть знает, что это я, это не испортит мне настроение!;x
+UNREADY;Не готов;x

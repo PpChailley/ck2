@@ -1,0 +1,7 @@
+#CODE;RUSSIAN;x
+TITLE_MR_CANNOT_MERCHANT_REP_PRIMARY;Нельзя узурпировать основные титулы торговых республик ;x
+DECLARE_WAR_INTERACTION_6;§RЕсли мы обретем независимость, то станем меньшей республикой, и игра закончится!§!;x
+INTERACTION_HOLY_ORDERS_CANNOT_MARRY;Лидер Ордена или отряда наёмников не может вступать в брак!;x
+INTERACTION_CANNOT_JOIN_WAR_AGAINST_PRISON_HOST;[Actor.GetBestName] не может вступать в войну, будучи заключенным врага;x
+CONTESTED_TRADEPOST_DESC;$PERC$: §Y$PERSON$§! контролирует все фактории в области §Y$TITLE$§!;x
+AIREASON_IS_VASSAL_MERCHANT_REP;§Y[GetTitledName]§! является моим вассалом;x

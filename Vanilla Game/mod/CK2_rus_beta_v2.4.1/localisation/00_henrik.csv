@@ -1,0 +1,14 @@
+#CODE;ENGLISH;FRENCH;GERMAN;;SPANISH;;;;;;;;;x
+dejure_barony_claim_desc;The Holdings in §Y$TITLE$§! are all, de jure, vassals of §Y$CLAIMANT$'s§!, which is cause enough for war.;;;;;;;;;;;;;x
+CB_NAME_DEJUREBARONYCLAIM;[Title.GetBaseName] Holdings;;;;;;;;;;;;;x
+WAR_NAME_DEJUREBARONYCLAIM;$ORDER$$FIRST_ADJ$-$SECOND_ADJ$ De Jure Holding War over $OTHER_TITLE$;;;;;;;;;;;;;x
+convert_to_feudalism_indep;Adopt Feudalism;;;;;;;;;;;;;x
+convert_to_feudalism_indep_desc;Adopting Feudalism will convert all my Tribal Holdings into Castles. Where this occurs - if the County is big enough - City and Temple Holdings will also be created if they do not already exist. Your vassals are likely to follow suit if they are of your religion and culture.;;;;;;;;;;;;;x
+convert_to_feudalism_vassal;Adopt Feudalism;;;;;;;;;;;;;x
+convert_to_feudalism_vassal_desc;Adopting Feudalism will convert all my Tribal Holdings into Castles. Where this occurs - if the County is big enough - City and Temple Holdings will also be created if they do not already exist. Your vassals are likely to follow suit if they are of your religion and culture.;;;;;;;;;;;;;x
+convert_to_republic_indep;Found Merchant Republic;;;;;;;;;;;;;x
+convert_to_republic_indep_desc;Founding a Merchant Republic will convert all my Tribal Holdings into Cities. Where this occurs - if the County is big enough - Castle and Temple Holdings will also be created if they do not already exist. Four suitable vassals will found Patrician families.;;;;;;;;;;;;;x
+EVTDESC55100;Your Tribal vassal, [From.GetTitledName], has adopted Feudalism.;;;;;;;;;;;;;x
+convert_tribal_to_castle_desc;I can upgrade [Root.GetFullName] to a proper Castle. If it is the County capital and the County is big enough, City and Temple Holdings will also be created if they do not already exist.;;;;;;;;;;;;;x
+convert_tribal_to_city_desc;I can upgrade [Root.GetFullName] to a proper City. If it is the County capital and the County is big enough, Castle and Temple Holdings will also be created if they do not already exist.;;;;;;;;;;;;;x
+#;;;;;;;;;;;;;;x

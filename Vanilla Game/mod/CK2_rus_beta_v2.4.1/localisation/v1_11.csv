@@ -1,0 +1,73 @@
+#CODE;RUSSIAN;x
+MENU_BAR_GAME_CONVERT;Экспортировать Игру;x
+MENU_BAR_GAME_CONVERT_DEL;Экспорт Игры в EU4;x
+BARBER_TOOLTIP;К цирюльнику;x
+RENAME_TITLE_TOOLTIP;Переименовать Титул;x
+CUSTOMIZE_HOUSE_TOOLTIP;Редактировать Династию;x
+CUSTOMIZE_HOUSE_TOOLTIP_DISABLED;Чтобы редактировать эту династию, Вы должны быть верховным сюзереном всех её членов.;x
+c_lappland_adj_lappish;Саамск;x
+RENAME;Переименовать;x
+NAME;Название;x
+ADJECTIVE;Прилагательное;x
+POSSIBLE_PLOT_POWER;Потенциальная сила заговора;x
+AUTO_INVITE_PLOTTERS;Приглашать заговорщиков автоматически;x
+AUTO_STOP_PLOTS;Прекращать заговоры автоматически;x
+AUTO_STOPPED_PLOT_SETUP;Заговор раскрыт;x
+AUTO_STOPPED_PLOT_LOG;§Y$PLOTTER$§!$PLOTTERJOB$ хочет §Y$PLOTNAME$§!.;x
+AUTO_STOPPED_PLOT_LETTER;Мне удалось раскрыть заговор, в котором $PLOTTER$ пытается $PLOTNAME$. Отправляю эмиссара с требованием прекрать это.\n\nВаш скромный тайный советник,\n$SPYMASTER$;x
+AUTO_STOP_PLOT_START_SETUP;Тайный советник отправляет посланников;x
+AUTO_STOP_PLOT_START_LOG;$SPYMASTER$ отправляет посланников, чтобы остановить заговорщиков;x
+AUTO_STOP_PLOT_START_LETTER;Эмиссары с требованием прекратить заговор отправлены ко всем известным его участникам.\n\nВаш скромный тайный советник,\n$SPYMASTER$;x
+siege_leader;Лидер Осады;x
+siege_leader_desc;Этот человек умеет вести осаду.;x
+SIEGE;Осада;x
+ADD_IP;Добавить IP-адрес;x
+REMOVE_IP;Удалить IP-адрес;x
+PENDING_PLOT_REQUEST;Ожидание ответа.;x
+ACCEPTED_PLOT_REQUEST;Поддерживает заговор.;x
+LOADING_TIP_52;Чтобы выделить только флот, удерживайте ALT.;x
+EXIT;Выход;x
+CUT;Готово!;x
+#CONFIRMEXPORTTITLE;Экспортировать Игру CK2 в EU4;x
+#CONFIRMEXPORTTEXT;Игра будет экспортирована под именем $NAME$. Это займет несколько минут.;x
+#CONFIRMEXPORTTEXT_WARNING;Игра будет экспортирована под именем $NAME$.\n\nЭТО ИМЯ УЖЕ ИСПОЛЬЗУЕТСЯ!\nВы уверены, что хотите продолжить?;x
+STYLE;Направление;x
+CAN_PERSUADE_TO_JOIN_PLOT;Может присоединиться за некоторую сумму золота...;x
+city_job_chancellor_arabic;Великий Визирь;x
+city_job_chancellor_iranian;Великий Визирь;x
+city_job_chancellor_turkish;Великий Визирь;x
+city_job_chancellor_west_african;Великий Визирь;x
+city_job_chancellor_greek;Магистр;x
+city_job_spymaster_greek;Мистик;x
+city_job_treasurer_greek;Сакелларий;x
+#city_job_marshal_greek;Стратег;x
+city_job_chancellor_aztec;Сиуакоатль;x
+city_job_treasurer_aztec;Петлакалькатль;x
+city_job_spiritual_aztec;Саагун;x
+city_job_spymaster_aztec;Тилланкалки;x
+city_job_marshal_aztec;Тлакатеккатль;x
+city_job_chancellor_zoroastrian_group;Астабадх;x
+city_job_treasurer_zoroastrian_group;Дарик-Пат;x
+city_job_marshal_zoroastrian_group;Эранский Спахбед;x
+city_job_spiritual_zoroastrian_group;Мобед;x
+city_job_spiritual_zoroastrian;Мобед;x
+city_job_spiritual_christian;Капеллан;x
+city_job_spiritual_orthodox;Экклезиарх;x
+city_job_spiritual_muslim;Имам;x
+city_job_spiritual_shiite;Мулла;x
+city_job_spiritual_pagan_group;Главный Прорицатель;x
+city_job_spiritual_pagan;Прорицатель;x
+city_job_spiritual_baltic_pagan;Прорицатель;x
+city_job_spiritual_baltic_pagan_reformed;Прорицатель;x
+city_job_spiritual_finnish_pagan;Прорицатель;x
+city_job_spiritual_finnish_pagan_reformed;Прорицатель;x
+city_job_spiritual_norse_pagan_reformed;Провидец;x
+city_job_spiritual_norse_pagan;Провидец;x
+city_job_spiritual_female_norse_pagan_reformed;Провидица;x
+city_job_spiritual_female_norse_pagan;Провидица;x
+city_job_spiritual_slavic_pagan;Прорицатель;x
+city_job_spiritual_slavic_pagan_reformed;Прорицатель;x
+city_job_spiritual_tengri_pagan;Прорицатель;x
+city_job_spiritual_tengri_pagan_reformed;Прорицатель;x
+EU4ConverterDLC;EU-IV Converter (дополнение);x
+CustomizationPackDLC;Customization Pack (дополнение);x

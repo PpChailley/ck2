@@ -1,0 +1,6 @@
+name = "Europa Universalis IV Converter"
+archive = "dlc/dlc030.zip"
+steam_id = "226665"
+gamersgate_id = "632"
+checksum = "c59013a5cc404d8146049ffcdb5f6963"
+affects_checksum = no

@@ -1,0 +1,120 @@
+#CODE;RUSSIAN;x
+EVTDESC_CM_1181;[From.GetDynName] считает, что [From.GetHersHis] [From.GetSonDaughter] [From.GetTitledFirstName] будет лучше править с [From.GetHersHis] мудрыми наставлениями, и решила взять регентство на себя. Похоже, вы ничего не можете с этим поделать...;x
+EVTOPTA_CM_1181;Ясно...;x
+EVTOPTB_CM_1181;Я так не думаю!;x
+EVTDESC_CM_1182;Ваша мать [FromFrom.GetFirstName] решила, что она станет лучшим регентом чем [From.GetTitledFirstName].;x
+EVTOPTA_CM_1182;Ей лучше знать.;x
+EVTOPTB_CM_1182;Хм... Кто же здесь правит на самом деле?;x #[From.PrimaryTitle.GetTier]?
+EVTDESC_CM_1192;Распространяются довольно устойчивые и пугающие подробностями слухи о том, как Ваша мать [Root.Mother.GetFirstName] сумела соблазнить влиятельную особу, занимаясь плотскими утехами за Вашей спиной. Но главное, что эта особа - никто иной, как Ваш(а) [From.GetHusbandWife] [From.GetFirstName]...;x
+EVTOPTA_CM_1192;Полная ерунда.;x
+EVTOPTC_CM_1192;Мать отправится в монастырь.;x
+EVTOPTB_CM_1192;[From.GetFirstName], увы, придётся тебя отослать.;x
+EVTOPTD_CM_1192;Они должны быть наказаны.;x
+EVTOPTE_CM_1192;Больно сознавать, но подземелье - единственный вариант.;x
+EVTDESC_CM_1132;Моему бывшему сюзерену по имени [Root.GetFirstNameWithNick]\n\nС огромным сожалением я сообщаю Вам о своей клятве верности истинному правителю франков. Я не нахожу Вашу претензию, удовлетворительной и буду служить сильному королю.\nВо славу Франкской империи,\n[From.GetBestName];x
+EVTOPTA_CM_1132;Печально...;x
+ERA_CHAR_INFO_74441;Сомесвара I стал королем западных Чалукьев в 1042г, после чего он основал город Кальяни и сделал его своей столицей. Он был очень активным и энергичным правителем, но провел большую часть своего правления ведя войны против преемственности правителей из династии Чола, которые были его соперникпит за господство над Венги. Невозможность добиться победы против своих врагов и мучившая его неизлечимая болезнь, привели Сомесвару, в конечном счете, к тому, что он покончил жизнь самоубийством, утопившись в реке Тунгабхадра.;x
+event_CM_1172_tooltip;[From.GetDynName] покидает Ваш двор.\n;x
+EVTDESC_CM_1401;[Root.Liege.GetTitledFirstName] - могущественный правитель, но приходится [Root.Liege.GetHerHim] служить, это уже порядком меня достало. Возможно, пора искать союзников за рубежом - франки на севере становятся всё сильнее и явно не в восторге от [Root.Liege.GetOnlyDynastyName]ов. Я могу покляться им в верности в обмен на поддержку, а когда они помогут, всегда смогу нарушить обещание...;x
+EVTOPTA_CM_1401;Отправлю к ним посланника.;x
+EVTOPTB_CM_1401;Нет, такой риск не оправдан.;x
+EVTDESC_CM_1402;Очень необычная делегация прибыла из Испании. Приблизившись к Вам, посол сразу начинает говорить: "[From.GetTitledNameWithNick] просит, чтобы [Root.PrimaryTitle.GetFOA] оказали поддержку против злобного тирана, всем известного как [From.Liege.GetTitledName]. [Root.PrimaryTitle.GetFOA] могли бы помочь своими вооружёнными силами в нашем восстании против [From.Liege.GetOnlyDynastyName]ского ига. В случае успеха, [From.GetTitledNameWithNick] обещает служить Вам верой и правдой.;x
+EVTOPTA_CM_1402;Ну что ж, хорошо, подпишем соглашение.;x
+EVTOPTB_CM_1402;Прошу прощения, испанская политика меня не волнует.;x
+EVTDESC_CM_1403;Ваши послы вернулись из Франкии с дурными вестями. [From.GetTitledName] отказывает в Вашей просьбе о поддержке против [Root.Liege.GetOnlyDynastyName]ов.;x
+EVTOPTA_CM_1403;Весьма прискорбно.;x
+EVTDESC_CM_1404;Ваши послы вернулись из Франкии с хорошими вестями. [From.GetTitledName] принимает Ваше предложение и обещает помочь Вам в восстании против господства [Root.Liege.GetOnlyDynastyName]ов.;x
+EVTOPTA_CM_1404;Пора готовиться к войне...;x
+EVTDESC_CM_1405;Пришло время! Ваша армия выступит против [Root.Liege.GetOnlyDynastyName]ов, и могущественные франки будут стоять за ней!;x
+EVTOPTA_CM_1405;Заставьте их страдать!;x
+EVTDESC_CM_1406;[Root.PrimaryTitle.GetFOA], пришли вести из Испании - [From.GetTitledName] поднимает восстание против [From.Liege.GetOnlyDynastyName]ов. Пришло время исполнить наше соглашение и помочь своими войсками.;x
+EVTOPTA_CM_1406;Вперёд, поднять флаги!;x
+EVTOPTB_CM_1406;Какое ещё соглашение? Знать ничего не знаю.;x
+EVTDESC_CM_1408;[Root.PrimaryTitle.GetFOA], мы победили, нам удалось получить независимость. Правитель франков в обмен на свою помощь ожидает от нас клятвы в верности. Каковы будут Ваши распоряжения?;x
+EVTOPTA_CM_1408;Моё слово священно и я его сдержу.;x
+EVTOPTB_CM_1408;В пекло франков!;x
+EVTDESC_CM_1409;[Root.PrimaryTitle.GetFOA], [From.GetTitledName] - подлая крыса, нарушившая своё слово, отказывается служить Вам, несмотря на существенную помощь в войне за независимость от Омейядов!;x
+EVTOPTA_CM_1409;[From.Culture.GetName]ие ублюдки!;x
+EVTOPTB_CM_1409;Гнусная тварь!;x
+CALL_ALL_TRIBAL_VASSALS;Призвать всех племенных вассалов к войне;x
+CALL_ALL_ALLIES;Призвать всех союзников к войне;x
+CALL_ALL_NO_WAR;Вы не воюете, поэтому не можете призвать кого-либо к войне;x
+CALL_ALL_ALLIES_INFO;§GУдерживайте §YControl§G, чтобы призвать всех союзников к войне§!;x
+CharlemagneDLC;Charlemagne (дополнение);x
+EarlyWesternClothingDLC;Early Western Clothing Pack (дополнение);x
+EarlyEasternClothingDLC;Early Eastern Clothing Pack (дополнение);x
+DynastyShieldsCharlemagneDLC;Dynasty Shields Charlemagne (дополнение);x
+EVTDESC107000;Узрите же! Мир, каким он был в 1066 году от рождения нашего Спасителя. Как Вы можете заметить, он разделен на мелкие регионы - графства (округа) - каждое из которых контролирует тот или иной правитель. Crusader Kings II - игра, повествующая об этих правителях, их семье, отношениях, интригах... и власти. Быть завоевателем или миролюбивым семьянином - решать Вам, но знайте - другие правители будут жаждать новых земель и могущества.\n\nCrusader Kings II - стратегия реального времени. Закройте это окно и снимите игру с паузы при помощи кнопоко скорости в правом верхнем углу экрана...;x
+EVTDESC107304;Чтобы погрузить войска на корабли, отправьте флот в порт, приказав ему двигаться к прибрежному региону. После этого Вы можете переместить свои армии в тот же регион, объединить их, кликнув на кнопку объединения, как раньше, а затем на кнопку погрузки на корабль. Кроме того, Вы можете перемещать свои армии сразу на корабли, находящиеся в море, при условии, что это море соседствует с береговой зоной. Учтите, что большие армии требуют большой флот для транспортировки.;x
+EVTDESC107306;Когда Ваши войска останавливаются на вражеских землях, они начинают осаду вражеских поселений (владений). Чтобы полностью оккупировать округ, Вам потребуется захватить каждое поселение, принадлежащее к нему. Победа в осаде требует времени, а осаждающие войска должны существенно превосходить в численности осаждённых, скорость осады напрямую зависит от этого перевеса. "Укреплённость" поселения существенно замедляет осаду. Чтобы увидеть текущий прогресс осады выделите армию или кликните по округу, в котором она стоит.;x
+CHRONICLE_DIVORCED;Cостоящие в браке [From.GetTitledFirstName] и [Spouse.GetTitledName] разводятся.;x
+CHRONICLE_GRAND_TOURNAMENT;Bо славу государства [From.GetTitledFirstName] проводит великий турнир, приглашены все рыцари и благородные лорды страны.;x
+CHRONICLE_FURUSIYYA;Bо славу государства [From.GetTitledFirstName] проводит Фурусию, все великие воины страны приглашены, чтобы состязаться в боевых искусствах.;x
+EVTDESC_108000;[Root.GetChancellorName] [Root.job_chancellor.GetTitledFirstName], предлагает распределить все новоприобретённые земельные титулы между текущими или новыми вассалами, чтобы облегчить бремя власти.;x
+EVTDESC_108001;[Root.GetTreasurerName] [Root.job_treasurer.GetTitledFirstName], предлагает распределить все новоприобретённые земельные титулы между текущими или новыми вассалами, чтобы облегчить бремя власти.;x
+EVTDESC_108002;[Root.GetLordSpiritualName] [Root.job_spiritual.GetTitledFirstName], предлагает распределить все новоприобретённые земельные титулы между текущими или новыми вассалами, чтобы облегчить бремя власти.;x
+increase_plot_power;Тайный советник повышает эффективность заговора;x
+EVTOPTB75003;Пусть тайный советник [Root.job_spymaster.GetFirstName] займется заговором!;x
+increase_assassinate_chance;Тайный советник повышает эффективность заговора;x
+MODIFIER_PLOT_POWER;Прирост силы заговора;x
+ca_culture_moors_1;Мавританские конные казармы;x
+ca_culture_moors_1_desc;Здесь обучается элитная мавританская конницы. У мавров есть давняя традиция - содержать одну из самых прекрасных конниц в мире, вооруженную копьями, мечами, луками и обладающую большой тактической гибкостью.;x
+RETTYPE_CUL_ANDALUSIAN;Андалузская конница;x
+RETTYPE_CUL_BERBER;Берберская конница;x
+INTERACTION_REQUIRES_ACTOR_IS_INDEPENDENT;[Actor.GetBestName] обладает независимостью;x
+vice_royalty_baron_female;Вице-баронесса;x
+vice_royalty_count_female;Вице-графиня;x
+vice_royalty_duke_female;Вице-герцогиня;x
+vice_royalty_king_female;Вице-королева;x
+vice_royalty_emperor_female;Вице-императрица;x
+ERA_CHAR_INFO_1316;Генрих был сыном императора Священной Римской империи Генриха III, и, как и его отец стал королем немцев в очень молодом возрасте. Он чуть не утонул в возрасте 12 лет при попытке к бегству от похищения и оказался в руках архиепископа Кельна, который поспособствовал успешному политическому перевороту против матери-регента. Став взрослым, он провел много времени, балансируя между многими влиятельными группами интересов в своей обширной империи. Он провел несколько войн против мятежных князей и против языческого славянства, а также вел ожесточенные споры с папой Григорием VII за инвеституру, что привело его к отлучению. Столкнувшись с возможным восстанием в империи, Генрих был вынужден унижаться, стоя на коленях в метель в течение трех дней при Каноссе в ожидании прощения Папы.;x
+administration;Администрация;x
+administration_desc;Империя может существовать в соответствии с феодальной системой или с имперской администрацией по римской модели. Однако, второй вариант не всегда доступен и может потребовать масштабных реформ.;x
+feudal_administration;Феодальная администрация;x
+feudal_administration_option;Феод.;x
+feudal_administration_desc;Феодальное общество - это иерархия земельных господ, где каждый клянется в верности тому, кто над ним, и руководит теми, кто под ним. Это путь, которому следует большая часть средневекового мира, ведущий к тому, что правитель в значительной степени зависит от лояльности своих могущественных вассалов.;x
+imperial_administration;Имперская администрация;x
+imperial_administration_option;Импер.;x
+imperial_administration_desc;Эта система управления похожа на римскую - иерархия магистратов и функционеров, исполняющих повседневные дела во имя императора. Такая структура власти даёт меньше полномочий владеющим землёй вассалам.;x
+vice_royalty_duke_byzantine;Стратег;x
+vice_royalty_king_byzantine;Экзарх;x
+vice_royalty_emperor_byzantine;Великий экзарх;x
+vice_royalty_duchy_of_byzantine;Фема;x
+vice_royalty_kingdom_of_byzantine;Экзархат;x
+vice_royalty_empire_of_byzantine;Великий экзархат;x
+enables_centralization_1;Вводит законы лёгкой централизации для ранга герцога и выше.\n;x
+enables_centralization_2;Вводит законы умеренной централизации для ранга герцога и выше.\n;x
+enables_centralization_3;Вводит законы сильной централизации для ранга герцога и выше.\n;x
+enables_centralization_4;Вводит законы абсолютной централизации для ранга герцога и выше.\n;x
+disables_centralization_1;Запрещает лёгкую централизацию.\n;x
+disables_centralization_2;Запрещает умеренную централизацию.\n;x
+disables_centralization_3;Запрещает сильную централизацию.\n;x
+disables_centralization_4;Запрещает абсолютную централизацию.\n;x
+allows_change_government;Позволяет установить феодализм.\n;x
+disallows_change_government;Запрещает устанавливать феодализм.\n;x
+CHRONICLE_FOUNDED_HRE;B этот день, [GetDateText]г [Root.GetDynName] был коронован как император Священной Римской Империи, тем самым восстановив Римскую Империю на Западе.;x #[Root.RelHead.GetBestName]
+EVTTITLE_CM_510;Cвященная Римская Империя;x
+EVTDESC_CM_510;После падения Западной Римской империи в 476г, византийский император был единственным претендентом на наследие цезарей. Между латинским и греческим мирами всегда был разрыв и не в последнюю очередь в вопросах церкви. Римские Папы долгое время вели свою собственную политику, отказываясь принимать превосходство Константинополя и отрицая законное право императора Византии быть лидером всех христиан.\n\nТеперь же [From.RelHead.GetBestName] коронует правителя нового государства, [From.GetDynName] стал императором Священной Римской Империи, ссылаясь на translatio imperii и тем самым восстановил Западную Римскую Империю. Возможно, это ознаменует новую эру в истории Европы и подчеркнёт давний раскол между Востоком и Западом.;x
+EVTOPTA_CM_510;Слава!;x
+EVTOPTB_CM_510;Во истину могущественная империя.;x
+EVTOPTC_CM_510;Странные вести...;x
+EVTOPTD_CM_510;Ха! Очередной хрен нарядился императором.;x
+EVTTITLE_CM_1500;Kоронация Карла Великого;x
+EVTDESC_CM_1500;Взяв бразды правления без страха, победив своих врагов и успешно управляя франкскими королевствами, [From.GetFirstNameWithNick] стал коронован как император [GetDateText]г. Он стоял неподвижно, как статуя перед своим троном, когда [From.PrimaryTitle.GetAdjective]ая корона была торжественно возложена на его голову. Истинный наследник своего отца Пипина, потомка Карла "Молота", лидера народа и мастера войны, он занял достойное место в истории. Окинув взглядом собравшихся в зале лордов и священников, он заострил внимание на чём-то более далёком, великом, на новых устремлениях...;x
+#GRANT_VICE_ROYALTY_INTERACTION_8;Granting a Viceroyalty will lower all of your subjects' opinion of you by §R$OPINION$§!.;Accorder une vice-royautй rйduira l'opinion que vos sujets auront de vous de §R$OPINION$§!.;Die Vergabe des Titels eines Vizekцnigs wird Euer Ansehen bei allen Untertanen um §R$OPINION$§! senken.;;Conceder un Virreinato reducirб la opiniуn que todos tus sъbditos tienen sobre ti en §R$OPINION$§!.;;;;;;;;;x
+#opinion_granted_other_baron_vice_royalty;Ruler has granted Barony Viceroyalties;Le souverain a accordй des vice-royautйs de baronnie;Vergabe von Vize-Baronien ;;El Gobernante que concedido Virreinatos Baronнa;;;;;;;;;x
+#opinion_granted_other_count_vice_royalty;Ruler has granted County Viceroyalties;Le souverain a accordй des vice-royautйs de comtй;Vergabe von Vize-Grafschaften;;El Gobernante que concedido Virreinatos Condado;;;;;;;;;x
+#opinion_granted_other_duke_vice_royalty;Ruler has granted Duchy Viceroyalties;Le souverain a accordй des vice-royautйs de duchй;Vergabe von Vize-Herzogtьmern;;El Gobernante que concedido Virreinatos Ducado;;;;;;;;;x
+#opinion_granted_other_king_vice_royalty;Ruler has granted Kingdom Viceroyalties;Le souverain a accordй des vice-royautйs de royaume;Vergabe von Vize-Kцnigreichen;;El Gobernante que concedido Virreinatos Reino;;;;;;;;;x
+#opinion_granted_other_emperor_vice_royalty;Ruler has granted Empire Viceroyalties;Le souverain a accordй des vice-royautйs d'empire;Vergabe von Vize-Kaiserreichen;;El Gobernante que concedido Virreinatos Imperio;;;;;;;;;x
+#CHRONICLE_WAR_ENDED_ATTACKER;[From.GetTitledNameWithNick] made peace with [Root.GetTitledNameWithNick].;[From.GetTitledNameWithNick] a conclu une paix avec [Root.GetTitledNameWithNick].;[From.GetTitledNameWithNick] hat Frieden mit [Root.GetTitledNameWithNick] geschlossen.;;[From.GetTitledNameWithNick] hizo las paces con [Root.GetTitledNameWithNick].;;;;;;;;;x
+#CHRONICLE_WAR_ENDED_DEFENDER;[Root.GetTitledNameWithNick] made peace with [From.GetTitledNameWithNick].;[Root.GetTitledNameWithNick] a conclu une paix avec [From.GetTitledNameWithNick].;[Root.GetTitledNameWithNick] hat Frieden mit [From.GetTitledNameWithNick] geschlossen.;;[Root.GetTitledNameWithNick] hizo las paces con [From.GetTitledNameWithNick].;;;;;;;;;x
+CHRONICLE_AVOID_IMPRISON_WAR;K своему несчастью [From.GetTitledNameWithNick] терпит неудачу, [From.GetHersHis] противник [Root.GetTitledNameWithNick] чудом избегает тюремного заключения и поднимает восстание.;x
+CHRONICLE_FAILED_IMPRISON_WAR;K своему несчастью [Root.GetTitledNameWithNick] терпит неудачу, [Root.GetHersHis] противник [From.GetTitledNameWithNick] чудом избегает тюремного заключения и поднимает восстание.;x
+CHRONICLE_INHERIT_MAJOR_TITLE;Oтныне [Root.GetDynName] наследует землю, известную как [From.GetName] от предшественника по имени [FromFrom.GetDynName].;x
+RETINUE_EXPL_DEL;Ваша гвардия — это регулярная армия, готовая постоянно служить Вам. В отличии от ополчения, она всегда остается на карте и пополняется гораздо медленее, при этом подготовка новых войск обходится недёшево.\nМаксимальный размер гвардии зависит от технологии §YОрганизованность§! и количества ополчения в Ваших владениях.;x
+RETTYPE_SKIR2;Лёгкая;x
+convert_to_spouse_paulician;Принять Павликианство;x
+convert_to_spouse_paulician_desc;Разговор в постели с женой или наложницей может быть особенно убедительным... Хотя этот Белый Христос слишком миролюбив...;x
+convert_to_spouse_messalian;Принять Мессалианство;x
+convert_to_spouse_messalian_desc;Разговор в постели с женой или наложницей может быть особенно убедительным... Хотя этот Белый Христос слишком миролюбив...;x

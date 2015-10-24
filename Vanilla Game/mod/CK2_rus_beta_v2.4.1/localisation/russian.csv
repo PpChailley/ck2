@@ -1,0 +1,286 @@
+#CODE;RUSSIAN;x
+AYA_POSTFIX;ая;x
+KHAN;Хан;x
+KHATUN;Хатун;x
+d_yaroslavl_adj_finnish;Мерьск;x
+d_yaroslavl_adj_komi;Мерьск;x
+d_yaroslavl_adj_mordvin;Мерьск;x
+d_yaroslavl_adj_samoyed;Мерьск;x
+d_yaroslavl_adj_finnish;Мерьск;x
+d_yaroslavl_adj_lappish;Мерьск;x
+d_ryazan_adj_mordvin;Мещерск;x
+c_rostov_adj_komi;Мерьск;x
+c_rostov_adj_mordvin;Мерьск;x
+c_rostov_adj_samoyed;Мерьск;x
+c_rostov_adj_finnish;Мерьск;x
+c_rostov_adj_lappish;Мерьск;x
+d_vladimir_adj_mordvin;Муромск;x
+d_vladimir_adj_samoyed;Муромск;x
+d_beloozero_adj_finnish;Чудск;x
+d_beloozero_adj_samoyed;Чудск;x
+d_beloozero_adj_mordvin;Чудск;x
+d_beloozero_adj_lappish;Чудск;x
+d_beloozero_adj_komi;Чудск;x
+d_novgorod_adj_ilmenian;Ильменск;x
+d_novgorod_adj_severian;Ильменск;x
+d_novgorod_adj_volhynian;Ильменск;x
+d_novgorod_adj_finno_ugric;Ильменск;x
+d_tver_adj_ilmenian;Вятск;x
+d_tver_adj_severian;Вятск;x
+d_tver_adj_volhynian;Вятск;x
+d_vladimir_adj_mordvin;Муромск;x
+d_vladimir_adj_samoyed;Муромск;x
+d_turov_adj_ilmenian;Дреговск;x
+d_vitebsk_adj_ilmenian;Кривск;x
+d_smolensk_adj_severian;Радимск;x
+d_smolensk_adj_ilmenian;Радимск;x
+d_chernigov_adj_severian;Северск;x
+d_chernigov_adj_ilmenian;Северск;x
+d_chernigov_adj_mordvin;Северск;x
+d_chernigov_adj_volhynian;Северск;x
+d_kipchak_adj_pecheneg;Печенежск;x
+d_moldau_adj_pecheneg;Печенежск;x
+c_dorpat_adj_russian;Юрьевск;x
+c_dorpat_adj_swedish;Дерптск;x
+c_dorpat_adj_danish;Дерптск;x
+c_dorpat_adj_norwegian;Дерптск;x
+c_dorpat_adj_german;Дерптск;x
+c_aoudaghost_adj;Аудагостск;x
+c_araouane_adj;Арауанск;x
+c_artois_adj;Артуасск;x
+c_baluchistan_adj;Белуджистанск;x
+c_bambuk_adj;Бамбукск;x
+c_bourbon_adj;Бурбонск;x
+c_brandenburg_adj;Бранденбургск;x
+c_chios_adj;Хиосск;x
+c_chur_adj;Курск;x
+c_constantine_adj;Константинск;x
+c_dauphine_viennois_adj;Дофинск;x
+c_djenne_adj;Дженнейск;x
+c_gao_adj;Гаосск;x
+c_ghana_adj;Ганск;x
+c_idjil_adj;Иджильск;x
+c_jask_adj;Яскск;x
+c_karelen_adj;Карельск;x
+c_mali_adj;Малийск;x
+c_moray_adj;Морейск;x
+c_ouadane_adj;Уаданск;x
+c_oualata_adj;Уалатайск;x
+c_sijilmasa_adj;Сиджильмасск;x
+c_sistan_adj;Систанск;x
+c_tadmekka_adj;Тадмеккийск;x
+c_taghaza_adj;Тегазийск;x
+c_timbuktu_adj;Тимбуктийск;x
+c_tyumen_adj;Тюменск;x
+c_wurzburg_adj;Вюрцбургск;x
+d_assassin_adj;Ассасинск;x
+d_bourbon_adj;Бурбонск;x
+d_ghana_adj;Ганск;x
+d_mali_adj;Малийск;x
+d_poitou_adj;Пуатийск;x
+d_songhay_adj;Сонгайск;x
+d_timbuktu_adj;Тимбуктийск;x
+d_tripolitania_adj;Триполитанск;x
+d_tyrol_adj;Тирольск;x
+e_pirates_adj;Пиратск;x
+k_aydin_adj;Айдынск;x
+k_eretnid_adj;Эретнийск;x
+k_germiyan_adj;Гермиянск;x
+k_hammadid_adj;Хаммадидск;x
+k_kafsid_adj;Хафсидск;x
+k_mali_adj;Малийск;x
+k_marinid_adj;Маринидск;x
+k_mentese_adj;Ментешийск;x
+k_tekke_adj;Теккийск;x
+k_zirid_adj;Зиридск;x
+Emperor;Император;x
+Empress;Императрица;x
+nick_the_lawgiver_female;Законодательница;x
+nick_the_usurper_female;Узурпаторша;x
+nick_the_hammer_female;Стальная;x
+nick_the_conqueror_female;Завоевательница;x
+nick_the_victorious_female;Победоносная;x
+nick_the_crusader_female;Крестоносец;x
+nick_the_holy_female;Праведница;x
+nick_the_avenger_female;Мстительная;x
+nick_the_brave_female;Храбрая;x
+nick_the_fearless_female;Бесстрашная;x
+nick_the_martyr_female;Мученица;x
+nick_the_unlucky_female;Невезучая;x
+nick_the_lucky_female;Удатная;x
+nick_the_restorer_female;Воскресительница;x
+nick_the_clueless_female;Бестолковая;x
+nick_the_ill_tempered_female;Брюзгливая;x
+nick_the_affable_female;Любезная;x
+nick_the_heathen_female;Язычница;x
+nick_the_liberator_female;Освободительница;x
+nick_haardraade_female;Грозная;x
+nick_the_jackal_female;Лисица;x
+nick_the_glorious_female;Славная;x
+nick_the_saint_female;Святая;x
+nick_the_young_female;Молодая;x
+nick_the_old_female;Старая;x
+nick_the_accursed_female;Проклятая;x
+nick_the_wicked_female;Порочная;x
+nick_the_bewitched_female;Заколдованная;x
+nick_priest_hater_female;Безбожница;x
+nick_the_pious_female;Благочестивая;x
+nick_the_apostle_female;Апостол;x
+nick_the_blessed_female;Блаженная;x
+nick_the_confessor_female;Исповедница;x
+nick_the_monk_female;Монахиня;x
+nick_the_chaste_female;Целомудренная;x
+nick_the_hunter_female;Охотница;x
+nick_the_fowler_female;Птицеловка;x
+nick_the_just_female;Справедливая;x
+nick_the_lame_female;Хромая;x
+nick_the_mad_female;Безумная;x
+nick_the_fat_female;Толстая;x
+nick_the_drunkard_female;Пьяница;x
+nick_the_cruel_female;Жестокая;x
+nick_the_wise_female;Мудрая;x
+nick_the_bastard_female;Бастард;x
+nick_the_blind_female;Слепая;x
+nick_half_hand_female;Безрукая;x
+nick_the_ironside_female;Железнобокая;x
+nick_the_lion_female;Львица;x
+nick_the_lionheart_female;Львиное Сердце;x
+nick_the_bold_female;Отважная;x
+nick_the_unready_female;Неразумная;x
+nick_the_ill_ruler_female;Коварная;x
+nick_the_terrible_female;Ужасная;x
+nick_the_magnificent_female;Великолепная;x
+nick_the_quarreller_female;Сварливая;x
+nick_the_builder_female;Строительница;x
+nick_the_devil_female;Дьяволица;x
+nick_the_dragon_female;Дракон;x
+nick_the_careless_female;Беспечная;x
+nick_the_peaceable_female;Миролюбивая;x
+nick_the_prudent_female;Благоразумная;x
+nick_the_unwilling_female;Несклонная;x
+nick_the_lackland_female;Безземельная;x
+nick_the_able_female;Талантливая;x
+nick_the_kind_female;Любезная;x
+nick_the_good_female;Добрая;x
+nick_the_troubadour_female;Трубадур;x
+nick_the_strong_female;Сильная;x
+nick_the_magnanimous_female;Великодушная;x
+nick_the_simple_female;Простоватая;x
+nick_the_merry_female;Весёлая;x
+nick_the_noble_female;Благородная;x
+nick_the_gentle_female;Кроткая;x
+nick_the_proud_female;Гордая;x
+nick_the_silent_female;Молчаливая;x
+nick_the_warlike_female;Воительница;x
+nick_the_great_female;Великая;x
+nick_the_lisp_and_lame_female;Шепелявая и Хромая;x
+nick_the_gouty_female;Подагрик;x
+nick_the_hunchback_female;Горбатая;x
+nick_the_scholar_female;Учёная;x
+nick_the_black_female;Чёрная;x
+nick_the_strange_female;Чудная;x
+nick_the_pilgrim_female;Паломница;x
+nick_the_sword_of_god_female;Клинок Всевышнего;x
+nick_the_decadent_female;Декадент;x
+nick_bloodaxe_female;Кровавый топор;x
+nick_the_viking_female;Викинг;x
+nick_the_unchaste_female;Непристойная;x
+nick_the_unfaithful_female;Неверная;x
+nick_the_jovial_female;Жизнерадостная;x
+nick_the_jolly_female;Игривая;x
+nick_the_gracious_female;Изящная;x
+nick_the_shrewd_female;Прозорливая;x
+nick_the_wily_female;Лукавая;x
+nick_the_fox_female;Лиса;x
+nick_of_the_wilds_female;из Дебрей;x
+nick_the_spider_female;Кукловод;x
+nick_the_whisperer_female;Сплетница;x
+nick_the_shadow_female;Тень;x
+nick_the_impaler_female;Колосажательница;x
+nick_the_rash_female;Безрассудная;x
+nick_the_temptress_female;Искусительница;x
+nick_the_beguiling_female;Обольстительница;x
+nick_the_seducer_female;Соблазнительница;x
+nick_the_lewd_female;Похотливая;x
+nick_the_lecher_female;Развратница;x
+nick_the_ruthless_female;Беспощадная;x
+nick_the_headless_female;Обезглавленная;x
+nick_the_beheader_female;Головорез;x
+nick_the_culture_female;[Root.Culture.GetName]ая;x
+nick_the_rel_group_female;Чтящая [Root.Religion.GetGroupName];x
+INSULT_BLIND_FEMALE;слепая;x #adj
+INSULT_LOWBORN_FEMALE;безродная;x #adj
+INSULT_HERESIARCH;ересиарх;x
+INSULT_SYBARITE_FEMALE;сибаритка;x
+INSULT_DECADENT_FEMALE;изнеженная;x #adj
+INSULT_LUGUBRIOUS_FEMALE;унылая;x #adj
+INSULT_DEMONIC_FEMALE;бесноватая;x #adj
+INSULT_LEPER_FEMALE;прокажённая;x
+INSULT_UNCLEAN_FEMALE;нечистая;x #adj
+INSULT_CRIPPLE_FEMALE;хромая;x #adj
+INSULT_SENILE_FEMALE;дряхлая;x #adj
+INSULT_VEGETABLE_FEMALE;овощ;x
+INSULT_DRUNKARD_FEMALE;пьянь;x
+INSULT_BESOTTED_FEMALE;бухая;x #adj
+INSULT_BASEBORN_FEMALE;безродная;x #adj
+INSULT_KINSLAYER_FEMALE;родоубийца;x
+INSULT_CLUBFOOT_FEMALE;хромоножка;x
+INSULT_LIMPING_FEMALE;косолапая;x #adj
+INSULT_HARELIP_FEMALE;морда;x
+INSULT_CLEFT_LIPPED_FEMALE;двуротая;x #adj
+INSULT_HUNCHBACK_FEMALE;горбунья;x
+INSULT_CROOKED_FEMALE;кривая;x #adj
+INSULT_FALTERING_FEMALE;шепелявая;x #adj
+INSULT_STUTTERING_FEMALE;заика;x
+INSULT_HIDEOUS_FEMALE;страшная;x #adj
+INSULT_DWARF_FEMALE;карлица;x
+INSULT_LITTLE_FEMALE;мелкая;x #adj
+INSULT_IMBECILE_FEMALE;идиотка;x
+INSULT_IDIOT_FEMALE;дебильная;x #adj
+INSULT_TORTURER_FEMALE;мучительница;x
+INSULT_EVIL_FEMALE;злобная;x #adj
+INSULT_GLUTTON_FEMALE;обжора;x
+INSULT_GORGING_FEMALE;прожорливая;x #adj
+INSULT_BORE_FEMALE;скучная;x
+INSULT_IDLER_FEMALE;бездельница;x
+INSULT_INDOLENT_FEMALE;ленивая;x #adj
+INSULT_ENVIOUS_FEMALE;завистливая;x #adj
+INSULT_DECEITFUL_FEMALE;лживая;x #adj
+INSULT_SCATTERBRAIN_FEMALE;бестолочь;x
+INSULT_ERRATIC_FEMALE;взбалмошный;x #adj
+INSULT_UNBELIEVER_FEMALE;бесстыдница;x
+INSULT_BIGOT_FEMALE;изуверка;x
+INSULT_NARROWMINDED_FEMALE;узколобая;x #adj
+INSULT_PARANOID_FEMALE;параноидальная;x #adj
+INSULT_FOOL_FEMALE;простушка;x
+INSULT_GULLIBLE_FEMALE;легковерная;x #adj
+COMPL_PURPLE_BORN_FEMALE;багрянородная;x #adj
+COMPL_AUGUSTUS_FEMALE;Августа;x
+COMPL_HOLY_WARRIOR_FEMALE;святая воительница;x
+COMPL_BERSERKER_FEMALE;сорвиголова;x
+COMPL_SAOSHYANT_FEMALE;саошиант;x
+COMPL_PIRATE_FEMALE;пиратка;x
+COMPL_HAJJAJ_FEMALE;Хаджи;x
+COMPL_WISE_FEMALE;мудрая;x #adj
+COMPL_PILGRIM_FEMALE;паломница;x
+COMPL_MIRZA_FEMALE;мирза;x
+COMPL_BRILLIANT_FEMALE;гениальная;x #adj
+COMPL_LEARNED_FEMALE;премудрая;x #adj
+COMPL_MYSTIC_FEMALE;чародейка;x
+COMPL_POET_FEMALE;сказительница;x
+COMPL_VIVACIOUS_FEMALE;жизнерадостная;x
+COMPL_CHASTE_FEMALE;непорочная;x #adj
+COMPL_GOOD_FEMALE;великодушная;x #adj
+COMPL_DILIGENT_FEMALE;усердная;x #adj
+COMPL_PROUD_FEMALE;гордая;x #adj
+COMPL_HUMBLE_FEMALE;смиренная;x #adj
+COMPL_BRAVE_FEMALE;отважная;x #adj
+COMPL_WIT_FEMALE;затейница;x
+COMPL_JUST_FEMALE;справедливая;x #adj
+COMPL_WRY_FEMALE;ироничная;x #adj
+COMPL_RIGHTEOUS_FEMALE;праведная;x #adj
+truce_breaker;Нарушитель перемирия;x
+city_job_spiritual_hellenic_pagan;Авгур;x
+expel_the_jomsvikings;Изгнать Йомсвикингов;x
+temple_baron_female_baltic_pagan;Жрица;x
+temple_baron_female_baltic_pagan_reformed;Жрица;x

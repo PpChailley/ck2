@@ -1,0 +1,1184 @@
+#CODE;RUSSIAN;x
+PLOT_POWER_CONTRIB_LOWER_THAN;Роль в заговоре $PLOTTER$ против $PLOT$ меньше чем §Y$POWER$%§!\n;x
+PLOT_POWER_CONTRIB_AT_LEAST;Роль в заговоре $PLOTTER$ против $PLOT$ не менее чем §Y$POWER$%§!\n;x
+#INTERACTION_CANNOT_JOIN_VASSAL_WAR;Мы не можем присоединиться к войнам наших вассалов (за исключением Крестовых походов или Джихадов);x
+KILLER;Убийца;x
+ANY_SPOUSE_STARTS;Любой супруг;x
+IS_MAIN_SPOUSE;Первый супруг;x
+IS_NOT_MAIN_SPOUSE;Непервый супруг;x
+CONQUEST_CULTURE_EFFECT;Покорение §Y$CULTURE$ой§! культурой\n;x
+CONQUEST_CULTURE_EFFECT_FREED;Освобождение от §Y$CULTURE$ого§! ига\n;x
+MAKE_PRIMARY_SPOUSE_EFFECT;$WHO$ теперь в первом супружестве с $SPOUSE$.\n;x
+MAKE_NOT_PRIMARY_SPOUSE_EFFECT;$WHO$ более не состоит в первом супружестве с $SPOUSE$.\n;x
+HAVE_CONQUEST_CULTURE;Покорено §Y$CULTURE$ой§! культурой\n;x
+HAVNT_CONQUEST_CULTURE;НЕ покорено §Y$CULTURE$ой§! культурой\n;x
+DISMISS_ALLOW_DESCRIPTION;Будет отменено, если следующее условие станет верным:;x
+DIPLO_OF_POPE;Дипломатия главы религии;x
+INTERACTION_REQUIRES_FEWER_WIVES;§Y$CHAR$§W имеет меньше  §Y$NUM$§W жен;x
+INTERACTION_REQUIRES_NO_OTHER_MARRIAGE;§Y$CHAR$§W не состоит в браке;x
+INTERACTION_REQUIRES_NO_TRUCE_OR_REV_REASON;У Вас должна быть особая причина для отмены перемирия;x
+INTERACTION_VALID_REASON;Так как у Вас есть веский повод - никто не будет против.;x
+tribal_invasion_desc;Вы можете не беспокоиться о правовых вопросах - вершите правосудие! §Y$CLAIMANT$§! может вторгаться в земли, которыми владеет §Y$TARGET$§!. В случае успеха все титулы будут присвоены, а вассалы подчинятся нам.;x
+decadence_invasion_desc;Вы можете не беспокоиться о правовых вопросах - вершите правосудие! §Y$CLAIMANT$§! может вторгаться в земли, которыми владеет §Y$TARGET$§!.;x
+title_food_taster;Дегустатор;x
+title_food_taster_desc;У дегустатора сомнительное удовольствие пробовать всю еду, прежде чем ее передадут повелителю;x
+title_court_calligrapher;Придворный каллиграф;x
+title_court_calligrapher_desc;Подозрение в подделки почерка делает судей каллиграфов очень уважаемыми в исламском мире.;x
+title_court_musician;Придворный музыкант;x
+title_court_musician_desc;Музыканты всегда готовы развлечь спокойной или веселой музыкой.;x
+title_court_poet;Придворный поэт;x
+title_court_poet_desc;Исламские поэты пользуются большим почетом и уважением, зачастую и в религиозных вопросах, но иногда они выходят за рамки дозволенного.;x
+title_chief_architect;Главный архитектор;x
+title_chief_architect_desc;Главный архитектор ответственен за проектирование и наблюдение за строительством дворцов, мечетей и великих памятников.;x
+title_chief_qadi;Верховный Кади;x
+title_chief_qadi_desc;Верховный Кади - высший судья и авторитет в законах Шариата. Самое престижное из всех мусульманских почетных званий, доступное только людям с отличным религиозным образованием.;x
+title_court_dwarf;Карлик;x
+title_court_dwarf_desc;Карлики - объекты восхищения и любопытства. Иметь одного при дворе дело престижа.;x
+job_spiritual_muslim;Имам;x
+job_spiritual_shiite;Мулла;x
+job_chancellor_iranian;Великий Визирь;x
+job_chancellor_turkish;Великий Визирь;x
+PROV911;Тимбукту;x
+PROV912;Аудагост;x
+PROV913;Гана;x
+PROV914;Гао;x
+PROV915;Дженне;x
+PROV916;Тегаза;x
+PROV917;Арауан;x
+PROV918;Сиджильмаса;x
+PROV919;Уалата;x
+PROV920;Уадан;x
+PROV921;Иджил;x
+PROV922;Тадмекка;x
+PROV923;Плато Адрар;x
+PROV924;Западная Сахара;x
+PROV925;Мали;x
+PROV926;Бамбук;x
+PROV927;Зарма;x
+PROV928;Гурма;x
+TITLE_CREATION_EMPEROR_DESC;Вы должны контролировать §Y$REQ_PERC$%§! де-юре провинций, чтобы создать этот титул. На данный момент Вы контролируете $PERC$ ($HELD$/§Y$ALL$§!). Создав этот титул Вы получите §G$PRESTIGE$§! Престижа, но потратите §R$GOLD$§!¤ и §R$PIETY$§! Благочестия.;x
+c_ifni_adj;Тарудантск;x
+c_tharasset_adj;Тамдультск;x
+e_persia;Персидская Империя;x
+e_persia_adj;Персидск;x
+e_arabia;Арабская Империя;x
+e_arabia_adj;Арабск;x
+k_volga_bulgaria;Волжская Булгария;x
+k_volga_bulgaria_adj;Булгарск;x
+k_perm;Пермь Великая;x
+k_perm_adj;Великопермск;x
+k_taurica;Таврика;x
+k_taurica_adj;Таврическ;x
+k_alania;Алания;x
+k_alania_adj;Аланск;x
+k_khiva;Хива;x
+k_khiva_adj;Хиванск;x
+e_britannia;Британия;x
+e_britannia_adj;Британск;x
+e_spain;Испания;x
+e_spain_adj;Испанск;x
+west_african;Западно-африканская;x
+manden;Манденск;x
+k_byzantium;Греция;x
+k_byzantium_adj;Греческ;x
+k_anatolia;Анатолия;x
+k_anatolia_adj;Анатолийск;x
+k_ruthenia;Южная Русь;x
+k_ruthenia_adj;Южнорусск;x
+e_russia;Русь;x
+e_russia_adj;Русск;x
+e_scandinavia;Скандинавия;x
+e_scandinavia_adj;Скандинавск;x
+e_france;Франкская Империя;x
+e_france_adj;Франкск;x
+mujahid;Моджахед;x
+mujahid_desc;Этот человек - ветеран Джихада;x
+hajjaj;Хаджи;x
+hajjaj_desc;Этот человек совершил Хадж - паломничество в Мекку;x
+on_hajj;На Хадже;x
+on_hajj_desc;Этот человек совершает паломничество в Мекку;x
+faqih;Факих;x
+faqih_desc;Этот человек обучался исламскому праву.;x
+hafiz;Хафиз;x
+hafiz_desc;Этот человек выучил Коран наизусть;x
+sayyid;Сейид;x
+sayyid_desc;Почётный титул у мусульман для потомков пророка Мухаммада через его дочь Фатиму и внука Хусейна.;x
+mirza;Мирза;x
+mirza_desc;Мать этого персонажа - Сейид (патрилинейным образом произошла от Пророка Мухаммеда);x
+scarred;Шрамы;x
+scarred_desc;Старые раны оставили на нем множество шрамов;x
+pilgrim;Паломник;x
+pilgrim_desc;Персонаж совершил большое паломничество;x
+MUSLIM_VIEW;$TRAIT$: $VALUE$;x
+AIREASON_IS_HIGHER_RANK_SPOUSE;Я в супружестве с §Y[GetTitledFirstName]§! и моя вторая половина выше рангом;x
+AIREASON_WILL_NOT_MARRY_INFIDELS;§Y[GetTitledFirstName]§! не может сочетаться браком с неверными;x
+FIGHTING_ANOTHER_WAR;Занят битвой в другой войне;x
+empire;Империя;x
+kingdom;Королевство;x
+duchy;Герцогство;x
+county;Графство;x
+barony;Баронство;x
+city_empire;Великая Республика;x
+city_kingdom;Торговый союз;x
+city_duchy;Республика;x
+city_county;Великий Город;x
+city_barony;Город;x
+temple_kingdom_of_catholic;Теократия;x
+temple_kingdom_of_orthodox;Патриаршество;x
+temple_kingdom_of_muslim;Халифат;x
+temple_kingdom_of_pagan_group;Теократия;x
+temple_duchy_of_christian;Княжество-архиепископство;x
+temple_duchy_of_muslim;Эмират;x
+temple_duchy_of_pagan_group;Теократия;x
+temple_county_of_christian;Княжество-епископство;x
+temple_county_of_muslim;Шейхство;x
+temple_county_of_pagan_group;Теократия;x
+temple_barony_of_christian;Епископство;x
+temple_barony_of_muslim;Мечеть;x
+temple_barony_of_pagan_group;Храм;x
+count_arabic_female;Шайхан;x
+empire_altaic;Каганат;x
+kingdom_altaic;Ханство;x
+barony_arabic;Вилайа;x
+county_arabic;Шейхство;x
+duchy_arabic;Эмират;x
+kingdom_arabic;Султанат;x
+barony_turkish;Тимар;x
+county_turkish;Бейлик;x
+duchy_turkish;Бейлербейство;x
+kingdom_turkish;Султанат;x
+barony_mongol;Аймак;x
+county_mongol;Даруга;x
+duchy_mongol;Тумэн;x
+baron_west_african;Вили;x
+barony_of_west_african;Вилайет;x
+barony_west_african;Вилайет;x
+count_west_african;Фарин;x
+count_female_west_african;Фарина;x
+county_of_west_african;Шейхство;x
+county_west_african;Шейхство;x
+duke_west_african;Фарбас;x
+duke_female_west_african;Фарба;x
+duchy_of_west_african;Эмират;x
+duchy_west_african;Эмират;x
+king_west_african;Султан;x
+king_female_west_african;Султана;x
+kingdom_of_west_african;Султанат;x
+kingdom_west_african;Султанат;x
+alert_high_decadence_instant;§YВысокий Упадок§!;x
+alert_high_decadence_delayed;Ваша династия в упадке. Возможны массовые восстания.;x
+PRETENDER_TO;Претендент и правопреемник на титул $TITLE$;x
+one_celibate;Удовольствия в загробной жизни: Безбрачие;x
+one_hedonist;Удовольствия при жизни: Гедонизм;x
+opinion_adopted_foreign_ways;Сбежавший заграницу;x
+opinion_nomuslim;Неправоверный;x
+opinion_brother_muslim;Мой брат;x
+opinion_half_brother_muslim;Мой сводный брат;x
+imam_appreciates;Утверждение имамов;x
+pious_imams;Любящие деньги имамы;x
+unfunny_imam;Пренебрегший богохульством;x
+NOT_ALLOWED_PLAY_LOWBORN;Запрещено играть персонажем §Yнизкого рода§!;x
+NOT_ALLOWED_PLAY_LOWBORN_MP;§Y$PLAYER$§! не может играть персонажем §Yнизкого рода§!;x
+light_foot_leader;Командир пехоты;x
+light_foot_leader_desc;Этот человек оказался способным командиром пехоты.;x
+heavy_infantry_leader;Командир тяжелой пехоты;x
+heavy_infantry_leader_desc;Этот человек имеет навыки в командовании тяжелой пехотой.;x
+cavalry_leader;Командир конницы;x
+cavalry_leader_desc;Этот человек превосходно ведет воинов в бой верхом на коне.;x
+inspiring_leader;Вдохновляющий на победу;x
+inspiring_leader_desc;Этот человек знает, как проникнуть прямо в сердца и умы воинов на поле боя, и не только мечом.;x
+trickster;Находчивый;x
+trickster_desc;Этот человек умеет вводить врага в заблуждение, и часто проводит отвлекающую атаку с одной стороны только для того, чтобы внезапно атаковать с другой.;x
+organizer;Организатор;x
+organizer_desc;Этот человек является умелым организатором в вопросах логистики и решения проблем перемещения большого количества людей из одной точки в другую.;x
+defensive_leader;Защитник;x
+defensive_leader_desc;Этот человек имеет репутацию непреклонного защитника, стоящего, как каменная стена, бок о бок с воинами, независимо от того, какие силы бросает на них противник.;x
+experimenter;Непредсказуемый командир;x
+experimenter_desc;Этот человек известен тем, что непредсказуем на поле боя. Враг не заметит его появление, как и Вы!;x
+flanker;Командир фланга;x
+flanker_desc;Этому человеку удаются атаки с флангов, когда он наносит удар в наиболее уязвимые места вражеского войска.;x
+aggressive_leader;Агрессивный командир;x
+aggressive_leader_desc;Этот человек не избегает битвы, и не проявит милосердие к врагам, которые пытаются отступить с поля боя.;x
+EVTDESC6071;О, [Root.Religion.GetRandomGodName], наконец-то кашель исчез! Я все еще чувствую слабость, но боль в груди и одышка исчезли.;x
+EVTOPTD76041;Ваш отец согрешил, когда зачал Вас;x
+EVTOPTB61146;Да поможет нам [Root.Religion.GetRandomGodNameCap], когда [Root.Liege.GetLadLass] получит трон...;x
+EVTOPTB61226;Такой человек не должен остаться в живых!;x
+EVTOPTB61223;Это бессмысленно… Я не стану участвовать в этом безумии!;x
+EVTDESC7509;Я полагаю, это была неудачная шутка, [Root.PrimaryTitle.GetFOA]. Я не отрекусь от того, что по праву принадлежит мне, и не важно кто этого требует!\nПодпись:\n [From.GetTitledName];x
+EVTOPTB3636;Вилы с навозом!;x
+EVTTOOLTIP3638;[Root.GetTitledFirstName] выбирает оружие для дуэли: вилы с навозом;x
+EVTDESC3638;Я не могу поверить своим ушам, [From.GetTitledFirstName] через секунданта сообщает мне, какое оружие мы будем использовать в поединке: вилы с навозом!;x
+EVTOPTB3638;Я не притронусь к навозу!;x
+EVTDESC3639;Меня не удивляет, что [From.GetTitledFirstName] велит принести на дуэль меч. Было бы плохо сражаться кувалдой, или, прости [Root.Religion.GetName], чем-то более отвратительным.;x
+EVTNAME60100;Mонголы разграбили Киев!;x
+EVTDESC60100;Монгольская орда хлынула через Золотые ворота Киева и разграбила некогда великий центр торговли. Город лежит в тлеющих руинах и Днепр сейчас красный от крови его бывших жителей.;x
+EVTOPTA60100;Возможно, все эти истории - правда...;x
+EVTNAME60101;Mонголы разграбили Новгород!;x
+EVTDESC60101;Новгород был захвачен татарской ордой, и сейчас сам город и его население страдают безмерно. Собор Святой Софии охвачен пламенем, так как воины степи взяли всё, что могли унести, а остальное придали огню.;x
+EVTOPTA60101;Возможно, они уже удовлетворили свою жажду крови.;x
+EVTNAME60102;Mонголы разграбили Краков!;x
+EVTDESC60102;Монголы продолжают двигаться через Вислу в Польшу. Краков в настоящее время пал перед захватчиками, и говорят, что ночью пламя горящего города можно было видеть за много лье отсюда.;x
+EVTOPTA60102;Их нужно остановить!;x
+EVTNAME60103;Mонголы разграбили Ахен!;x
+EVTDESC60103;Даже Ахен, бывшая резиденция Карла Великого, пал под натиском монгольского нашествия. Его дух безусловно оплакивает те злодеяния, которые сейчас творятся в стенах города.;x
+EVTOPTA60103;Варвары!;x
+EVTNAME60104;Mонголы разграбили Париж!;x
+EVTDESC60104;Словно рой саранчи, неумолимые монголы обрушились на Париж и разграбили город. Еще недостроенный собор Нотр-Дам уже охвачен огнём, и освещаемые пламенем горящего города, монгольские воины могут продолжать грабежи и убийства среди ночи.;x
+EVTOPTA60104;Похоже не будет поблажек от этих проклятых татар.;x
+EVTNAME60105;Mонголы разграбили Лондон!;x
+EVTDESC60105;Даже море не стало достаточной преградой, чтобы остановить наступление монголов. Лондон пал под натиском их авангарда и город сейчас - место бойни в масштабе непревзойденном со времен королевы Боудикки и её восстания.;x
+EVTOPTA60105;Боже, спаси нас.;x
+EVTNAME60106;Mонголы разграбили Рим!;x
+EVTDESC60106;Снова Рим корчиться в агонии в жестоких руках восточных варваров. Монголы разрушили стену Аврелиана, и их лошади сейчас пасутся на поле Большого цирка, в то время, как юрты возводятся на холме Палатин. Как и ожидалось, захватчики не пощадили римлян, которые не успели покинуть город.;x
+EVTOPTA60106;Это Конец света?;x
+EVTNAME60107;Mонголы разграбили Венецию!;x
+EVTDESC60107;Каналы Венеции были завалены разбухшими в воде трупами, когда город разграбили бешеные монголы. Тем немногим, кому посчастливилось избежать бойни, утверждают, что тела были сложены так плотно в Венецианской лагуне, что монголы могли ездить по ним на материк и обратно.;x
+EVTOPTA60107;Этого не может быть!;x
+EVTNAME60108;Mонголы разграбили Константинополь!;x
+EVTDESC60108;Феодосиевых стен оказалось не достаточно, чтобы оградить Константинополь от богомерзкого прикосновения татарского нашествия. Столица великой империи была разграблена, её жители убиты или порабощены, Софийский собор осквернен и Большой императорский дворец предан огню.;x
+EVTOPTA60108;Пощадит Бог их души.;x
+EVTNAME60109;Mонголы разграбили Лиссабон!;x
+EVTDESC60109;Монголы в своих завоеваниях забрались так далеко на запад, что достигли Лиссабона. Пока город горит, подожженный их факелами, степные воины достигают голубых просторов Атлантики. Кто знает куда они отправятся дальше.;x
+EVTOPTA60109;От них нигде нет спасения?;x
+EVTNAME60110;Mонголы разграбили Смоленск!;x
+EVTDESC60110;Смоленск был поглощен монгольской ордой на пути неустанного продвижение на запад. Когда огромное войско, наконец, отправилось дальше, мало, что осталось от города, лишь пепел и обугленные руины, и те немногие жители, которым посчастливилось ускользнуть от внимания неистовых всадников.;x
+EVTOPTA60110;Такая кровожадность не останется безнаказанной.;x
+EVTNAME60111;Mонголы разграбили Прагу!;x
+EVTDESC60111;Прага стала настоящим маяком света в тёмном мире, когда монгольские варвары продвигались от дома к дому и поджигали всё, что еще не успели разграбить. Поток беженцев распространил ужасные рассказы о жестокости кровожадных татарских всадников в любом уголке Европы.;x
+EVTOPTA60111;Их что совсем не интересует культура?;x
+EVTNAME60112;Mонголы разграбили Вену!;x
+EVTDESC60112;Вена, город на реке Дунай, приобретавший всё большее значение и важность, стал очередной жертвой монгольских орд, которые продолжают разрушать Европу. Всё, что они оставляют позади себя - дымящиеся руины и усыпанные стрелами трупы.;x
+EVTOPTA60112;Придёт время расплаты.;x
+EVTNAME60113;Mонголы разграбили Эстергом!;x
+EVTDESC60113;Монголы перешли через Карпаты и разошлись веером по Большой венгерской равнине. Сейчас город Эстергом стал местом кровавых и беспорядочных убийств. Горожан, которые пытаются бежать, вырезают быстрые всадники, пока тёмный дым поднимается в небо над городом.;x
+EVTOPTA60113;Может это последний город завоеванный ими?;x
+EVTNAME60114;Mонголы разграбили Афины!;x
+EVTDESC60114;Древний город Афины пал перед монголами, и теперь они бесчинствуют за его стенами. Великие сооружения и предметы, датируемые временем начала западной цивилизации, будут навсегда потеряны после осквернения, что, безусловно, ощутится будущими поколениями.;x
+EVTOPTA60114;На этот раз они зашли слишком далеко!;x
+EVTNAME60115;Mонголы разграбили Белград!;x
+EVTDESC60115;"Белый город" превратился в красный, после того, как монгольские захватчики проникли в него и вырезали всех жителей без исключения. После нескольких дней резни и грабежей, запах смерти и гниющей плоти стал настолько невыносимым, что они перенесли свой лагерь от выжженных руин города против ветра.;x
+EVTOPTA60115;Они уничтожат всех нас!;x
+opinion_refused_abdicate_title;Не желает отречься от титула;x
+plot_gain_indie_title_title;Изготовить претензию на: "[This.GetFullBaseName]";x
+plot_gain_indie_title_desc;Заручиться поддержкой вассалов правителя [This.Holder.GetTitledName] в попытке сфабриковать претензии на титул области "[This.GetFullBaseName]". Даст Бог и вы сможете когда-нибудь стать их новым сюзереном.;x
+plot_gain_indie_title_decision_100;[Root.GetPlot];x
+plot_gain_indie_title_decision_100_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+plot_gain_indie_title_decision_75;[Root.GetPlot];x
+plot_gain_indie_title_decision_75_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+plot_gain_liege_title_title;Изготовить претензию на: "[This.GetFullBaseName]";x
+plot_gain_liege_title_desc;Заручиться поддержкой вассалов правителя [This.Holder.GetTitledName] в попытке сфабриковать претензии на титул области "[This.GetFullBaseName]". Даст Бог и вы сможете когда-нибудь стать их новым сюзереном.;x
+plot_gain_liege_title_decision_100;[Root.GetPlot];x
+plot_gain_liege_title_decision_100_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+plot_gain_liege_title_decision_75;[Root.GetPlot];x
+plot_gain_liege_title_decision_75_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+plot_gain_fellow_vassal_title_title;Изготовить претензию на: "[This.GetFullBaseName]";x
+plot_gain_fellow_vassal_title_desc;Заручиться поддержкой вассалов правителя [This.Holder.Liege.GetTitledName] в попытке сфабриковать претензии на титул области "[This.GetFullBaseName]". Даст Бог и вы сможете когда-нибудь по праву заполучить титул, которым обладает [This.Holder.GetTitledFirstName].;x
+plot_gain_fellow_vassal_title_decision_100;[Root.GetPlot];x
+plot_gain_fellow_vassal_title_decision_100_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+plot_gain_fellow_vassal_title_decision_75;[Root.GetPlot];x
+plot_gain_fellow_vassal_title_decision_75_desc;Приведите заговор в исполнение, пытаясь сфабриковать претензии на область "[Root.PlotTargetTitle.GetFullBaseName]".;x
+EVTTOOLTIP7600;успешное изготовление претензий.;x
+EVTTOOLTIP7601;провал в изготовлении претензий.;x
+EVTDESC7600;С помощью Ваших сообщников по заговору, Вам удалось изготовить претензии на [Root.PlotTargetTitle.GetFullBaseName].;x
+EVTOPTA7600;Превосходно.;x
+EVTDESC7601;Мало того, что Вы не смогли изготовить претензии на [Root.PlotTargetTitle.GetFullBaseName], но и Ваши действия были обнаружены. [Root.PlotTarget.GetTitledFirstName] будет не в восторге...;x
+EVTOPTA7601;Этот вопрос нуждается в разъяснении...;x
+#ca_culture_group_north_germanic_1;Маленький плац хускарлов;x
+#ca_culture_group_north_germanic_2;Средний плац хускарлов;x
+#ca_culture_group_north_germanic_3;Большой плац хускарлов;x
+#ca_culture_group_north_germanic_4;Огромный плац хускарлов;x
+ca_culture_group_north_germanic_1;Плац хускарлов;x
+ca_culture_group_north_germanic_2;Плац хускарлов;x
+ca_culture_group_north_germanic_3;Плац хускарлов;x
+ca_culture_group_north_germanic_4;Плац хускарлов;x
+#ca_culture_hungarian_1;Маленький хусарский плац;x
+#ca_culture_hungarian_2;Средний хусарский плац;x
+#ca_culture_hungarian_3;Большой хусарский плац;x
+#ca_culture_hungarian_4;Огромный хусарский плац;x
+ca_culture_hungarian_1;Хусарский плац;x
+ca_culture_hungarian_2;Хусарский плац;x
+ca_culture_hungarian_3;Хусарский плац;x
+ca_culture_hungarian_4;Хусарский плац;x
+#ca_culture_group_arabic_1;Маленький верблюжий манеж;x
+#ca_culture_group_arabic_2;Средний  верблюжий манеж;x
+#ca_culture_group_arabic_3;Большой верблюжий манеж;x
+#ca_culture_group_arabic_4;Огромный верблюжий манеж;x
+ca_culture_group_arabic_1;Верблюжий манеж;x
+ca_culture_group_arabic_2;Верблюжий манеж;x
+ca_culture_group_arabic_3;Верблюжий манеж;x
+ca_culture_group_arabic_4;Верблюжий манеж;x
+#ca_culture_group_byzantine_1;Маленький плац катафрактариев;x
+#ca_culture_group_byzantine_2;Средний плац катафрактариев;x
+#ca_culture_group_byzantine_3;Большой плац катафрактариев;x
+#ca_culture_group_byzantine_4;Огромный плац катафрактариев;x
+ca_culture_group_byzantine_1;Плац катафрактариев;x
+ca_culture_group_byzantine_2;Плац катафрактариев;x
+ca_culture_group_byzantine_3;Плац катафрактариев;x
+ca_culture_group_byzantine_4;Плац катафрактариев;x
+#ca_culture_irish_1;Маленький плац галлогласов;x
+#ca_culture_irish_2;Средний плац галлогласов;x
+#ca_culture_irish_3;Большой плац галлогласов;x
+#ca_culture_irish_4;Огромный плац галлогласов;x
+ca_culture_irish_1;Плац галлогласов;x
+ca_culture_irish_2;Плац галлогласов;x
+ca_culture_irish_3;Плац галлогласов;x
+ca_culture_irish_4;Плац галлогласов;x
+#ca_culture_ethiopian_1;Маленький эфиопский тренировочный плац;x
+#ca_culture_ethiopian_2;Средний эфиопский тренировочный плац;x
+#ca_culture_ethiopian_3;Большой эфиопский тренировочный плац;x
+#ca_culture_ethiopian_4;Огромный эфиопский тренировочный плац;x
+ca_culture_ethiopian_1;Эфиопский тренировочный плац;x
+ca_culture_ethiopian_2;Эфиопский тренировочный плац;x
+ca_culture_ethiopian_3;Эфиопский тренировочный плац;x
+ca_culture_ethiopian_4;Эфиопский тренировочный плац;x
+#ca_culture_group_south_slavic_1;Маленький гусарский плац;x
+#ca_culture_group_south_slavic_2;Средний гусарский плац;x
+#ca_culture_group_south_slavic_3;Большой гусарский плац;x
+#ca_culture_group_south_slavic_4;Огромный гусарский плац;x
+ca_culture_group_south_slavic_1;Гусарский плац;x
+ca_culture_group_south_slavic_2;Гусарский плац;x
+ca_culture_group_south_slavic_3;Гусарский плац;x
+ca_culture_group_south_slavic_4;Гусарский плац;x
+#ca_culture_dutch_1;Маленький плац копейщиков;x
+#ca_culture_dutch_2;Средний плац копейщиков;x
+#ca_culture_dutch_3;Большой плац копейщиков;x
+#ca_culture_dutch_4;Огромный плац копейщиков;x
+ca_culture_dutch_1;Плац ополченцев с годендагами;x
+ca_culture_dutch_2;Плац ополченцев с годендагами;x
+ca_culture_dutch_3;Плац ополченцев с годендагами;x
+ca_culture_dutch_4;Плац ополченцев с годендагами;x
+d_sunni;Суннитский Халифат;x
+d_sunni_adj;Халифск;x
+d_shiite;Шиитский Халифат;x
+d_shiite_adj;Халифск;x
+k_dacia;Валахия;x
+k_dacia_adj;Валашск;x
+b_sijilmasa;Сиджильмаса;x
+b_merzouga;Мерзуга;x
+b_tanamouste;Танамусте;x
+b_ertoud;Эрфуд;x
+b_merzane;Мерзане;x
+b_hannabou;Ханнабу;x
+b_tadaout;Тадут;x
+b_tisserdmine;Тиссердмайн;x
+k_mali;Мали;x
+e_mali;Мали;x
+d_armenia_minor_adj_armenian;Армянск;x
+e_abyssinia;Абиссиния;x
+e_abyssinia_adj;Абиссинск;x
+d_timbuktu;Тимбукту;x
+b_timbuktu;Тимбукту;x
+b_alafia;Алафия;x
+b_salam;Салам;x
+b_lafia;Лафия;x
+b_ber;Бер;x
+b_boureminaly;Бурем-Инали;x
+b_toya;Тоя;x
+b_aglal;Аглал;x
+b_oualata;Уалата;x
+b_tiguiguil;Тигигил;x
+b_neiguiat;Негият;x
+b_konou;Кану;x
+b_birnsara;Бир Нсара;x
+b_tizert;Тизерт;x
+b_tarhalet;Тархалет;x
+b_fassekra;Фассекра;x
+b_araouane;Арауан;x
+b_tessalit;Тессалит;x
+b_aguelhok;Агелк;x
+b_abalessa;Абалесса;x
+b_tinzaouten;Тензаутан;x
+b_guezzam;Гуеззам;x
+b_tamanrasset;Таманрассет;x
+b_tazrouk;Тазрук;x
+b_taghaza;Тегаза;x
+b_kerzaz;Керза;x
+b_metarta;Метарта;x
+b_reggane;Регган;x
+b_adrar;Адрар;x
+b_aougrout;Агрут;x
+b_charouine;Шаруин;x
+b_alouarta;Эль-Уарта;x
+d_ghana;Гана;x
+b_el_ghaba;Эль-Габа;x
+b_koumbi_saleh;Кумби-Салех;x
+b_silla;Силла;x
+b_singhanah;Сингана;x
+b_samakanda;Самаканда;x
+b_ras_elma;Рас-эль-Ма;x
+b_tirka;Тирка;x
+b_kughah;Куга;x
+b_aoudaghost;Аудагост;x
+b_tichitt;Тишит;x
+b_moudjeria;Муджерия;x
+b_ksarelbarka;Ксар-эль-Барка;x
+b_ouadane;Уадан;x
+b_wadan;Вадан;x
+b_azuggi;Азугги;x
+b_ksaralkiali;Ксар-эль-Киали;x
+b_idjil;Иджил;x
+b_zouerat;Зуэрат;x
+b_tazadit;Тазидит;x
+b_rouessa;Руэсса;x
+b_fderick;Фдерик;x
+d_mali;Мали;x
+b_boure;Буре;x
+b_niani;Ниани;x
+b_bamako;Бамако;x
+b_safo;Сафо;x
+b_baguineda;Багинеда;x
+b_dialakoro;Диалакоро;x
+b_bougouni;Бугуни;x
+b_soussa;Сусса;x
+b_bambuk;Бамбук;x
+b_kiffa;Киффа;x
+b_kankossa;Канкосса;x
+b_boumdeid;Бумдейд;x
+b_guerou;Геру;x
+b_aftout;Афтут;x
+b_djenne;Дженне;x
+b_macina;Масина;x
+b_fakala;Факала;x
+b_kewa;Кева;x
+b_ouroali;Уро Али;x
+b_pondori;Пондори;x
+b_femaye;Фемайе;x
+b_derary;Дерари;x
+d_songhay;Сонгай;x
+b_gao;Гао;x
+b_sarnah;Сарна;x
+b_gaosaney;Гао-Саней;x
+b_bourem;Бурем;x
+b_ansongo;Ансонго;x
+b_menaka;Менака;x
+b_gabero;Габеро;x
+b_anchawadi;Аншвади;x
+b_tadmekka;Тадмекка;x
+b_agades;Агадес;x
+b_takedda;Такедда;x
+b_essako;Эссако;x
+b_kidal;Кидаль;x
+c_gurma;Гурма;x
+c_gurma_adj;Гурманск;x
+b_gurma;Гурма;x
+b_zorgho;Зорго;x
+b_hounde;Унде;x
+c_zarma;Зарма;x
+c_zarma_adj;Зарманск;x
+b_bura;Бура;x
+b_ouallam;Уаллам;x
+b_tera;Тера;x
+d_susa;Суза;x
+d_susa_adj;Сузск;x
+d_latium;Лаций;x
+d_latium_adj;Лацийск;x
+c_aprutium_adj;Абруццск;x
+b_foligno;Фолиньо;x
+b_avezzano;Авеццано;x
+b_pescara;Пескара;x
+b_teramo;Терамо;x
+b_atri;Атри;x
+b_aprutium_penne;Пенне;x
+b_ciconia;Чикония;x
+b_paganica;Паганика;x
+ANY_POT_TRIBAL_COUNTY_STARTS;Любое потенциальное племенное графство;x
+ALL_POT_TRIBAL_COUNTY_STARTS;Все потенциальные племенные графства;x
+ANY_TRAIT_HOLDER_STARTS;Любой персонаж с чертой;x
+REVOKE_TITLE_INTERACTION_2F;Наша Имперская администрация позволяет отзывать титулы графов без возражения со стороны аристократии.;x
+DISTANCE_LESS_THAN;Расстояние меньше, чем ;x
+DISTANCE_AT_LEAST;Расстояние не менее, чем ;x
+RANDOM_ROLL_LESS_THAN;Кубик меньше, чем ;x
+RANDOM_ROLL_AT_LEAST;Кубик не менее, чем ;x
+EVTOPTD37055;Вы всё еще состоите в браке с [From.Spouse.GetTitledFirstName], помните?;x
+opinion_sadaqah;Дать садаку;x
+reckless_charge_tactic;Безрассудная атака;x
+timid_advance_tactic;Осторожное наступление;x
+confused_orders_tactic;Путанные приказы;x
+hesitant_commander_tactic;Неуверенный командир;x
+charging_own_skirmishers_tactic;Атака стрелками;x
+inspired_defense_tactic;Самоотверженная защита;x
+heroic_countercharge_tactic;Героическая контратака;x
+clever_ambush_tactic;Мастерские засады;x
+religious_fervour_tactic;Религиозный пыл;x
+retreat_and_ambush_tactic;Отступление и засады;x
+berserker_charge_tactic;Натиск Берсерков;x
+schiltron_formation_tactic;Построение Шилтрон;x
+pike_column_advance_tactic;Наступление колонной пик;x
+massive_longbow_volley_tactic;Массированный обстрел из длинных луков;x
+couched_lance_charge_tactic;Атака копейщиками;x
+desert_ambush_tactic;Пустынная засада;x
+embolon_charge_formation_tactic;Построение клином;x
+muslim_hedonist;Дегустация вина запрещена гедонизмом;x
+muslim_poet;Создание более поэтичного мира;x
+DECADENCE_MOD;Упадок;x
+CURRENT_DECADENCE;Текущий;x
+EFFECTS;Эффект;x
+DEMESNE_INCOME;Доход с владения;x
+MONTHLY_COMBAT_DEC_CHANGE;Ожидаемое изменение битвы в этом месяце;x
+BATTLES;Сражения;x
+MONTHLY_UNLANDED;§YОжидаемое изменение из-за безземельных сыновей:§!;x
+DYNASTIC_DECADENCE;Династический упадок;x
+JOBLESS_SON; ($NUM_SONS$ безземельный сын);x
+JOBLESS_SONS; ($NUM_SONS$ безземельных сыновей);x
+REL_FIRSTWIFE;Первая жена;x
+MUSLIM_TAX_PENALTY;Штраф от Джизья: ;x
+JIZYA_BONUS;Бонус от Джизья: ;x
+claim_all_desc;§Y$CLAIMANT$§! имеет несколько сильных претензий (слабые не учитываются) на титулы, которыми владеет §Y$TARGET$§! Это повод для войны;x
+alert_can_press_weak_claims_instant;§Y$NUM$ слабых претензий могут быть реализованы§!;x
+alert_can_press_weak_claims_delayed;Следующие слабые претензии могут быть реализованы:\n$LIST$;x
+MORALE_DEMESNE_TROOPS;Мораль подчиненных войск;x
+HAS_LOWER_DECADENCE_THAN;Имеет упадок меньше, чем ;x
+HAS_HIGHER_DECADENCE_THAN;Имеет упадок не менее ;x
+DECADENCE_EFFECT;$DIRECTION$ $VALUE$ упадок.\n;x
+DESTROY;Уничтожить;x
+TITLE_DESTROYED_SETUP;Уничтожить титул;x
+TITLE_DESTROYED_LOG;§Y$DESTROYER$§! уничтожает титул "§Y$TITLE$§!".;x
+CHAR_REL_DIVORCED_SETUP;Предоставленный развод;x
+CHAR_REL_DIVORCED_LETTER;$SPOUSE$, наш брак более нам не нужен. Поэтому §Y$REL_HEAD$§! любезно предоставляет нам развод.\n\n$ACTOR$;x
+CHAR_REL_DIVORCED_LOG;§Y$REL_HEAD$§! разрешает, чтобы §Y$ACTOR$§! и §Y$VICTIM$§! развелись.;x
+CHAR_DIVORCED_SETUP;Устроить развод.;x
+CHAR_DIVORCED_LETTER;$SPOUSE$, наш брак более нам не нужен. Поэтому, я развожусь с Вами. Извините.\n\n$ACTOR$;x
+CHAR_DIVORCED_LOG;§Y$ACTOR$§! и §Y$VICTIM$§! разводятся;x
+CONFIRM_TITLE_DESTRUCTION;Уничтожить титул $TITLE$?;x
+TITLE_DESTRUCTION_COST_DESC;Уничтожение этого титула повлечет снижения престижа на §R$PRESTIGE$§! Все де-юре вассалы титула $TITLE$ снизят свое мнение на §R$OPINION$§!;x
+opinion_destroyed_dj_liege_title;Уничтожил титул сюзерена;x
+CANNOT_DESTROY_BELOW_DUKE;Невозможно уничтожить графства или баронства;x
+CANNOT_DESTROY_PRIMARY_TITLE;Невозможно уничтожить Ваш основной титул;x
+CANNOT_DESTROY_SPECIAL_TITLE;Невозможно уничтожить специальный титул;x
+CANNOT_AFFORD_DESTRUCTION;Нужно иметь §R$PRESTIGE$§! престижа;x
+DOES_NOT_HAVE_REGENT;Не имеет Регента;x
+HAS_REGENT;Имеет Регента;x
+ISNT_CONTESTED_TITLE;Не оспаривается претендентами;x
+IS_CONTESTED_TITLE;Оспаривается претендентами;x
+STRONG_CLAIM_TITLE;§YСильная претензия на титул $TITLE$§W;x
+WEAK_CLAIM_TITLE;§YСлабая претензия на титул $TITLE$§W;x
+STRONG_CLAIM_DESC;Сильные претензии выдаются только вторым или третьим детям в порядке наследования.;x
+WEAK_CLAIM_DESC;Слабые претензии выдаются детям, которые не являются вторым или третьим в порядке наследования. Слабые претензии могут быть предъявлены только:\n§Y* Женщине правителю, если заявитель мужчина\n* Регенту\n* На титулы, уже оспариваемые в войне из-за споров о престолонаследии\n* Второму или третьему претендентам очереди на наследование§!;x
+HAS_NOT_STRONG_CLAIM;Не имеет сильных претензий на титул $TITLE$;x
+HAS_STRONG_CLAIM;Имеет сильные претензии на титул $TITLE$;x
+HAS_NOT_WEAK_CLAIM;Не имеет слабые претензий на титул $TITLE$;x
+HAS_WEAK_CLAIM;Имеет слабые претензии на титул $TITLE$;x
+GAIN_CLAIM_ON;$WHO$ получает сильные претензии на титул "§Y$TITLE$§!".\n;x
+GAIN_WEAK_CLAIM_ON;$WHO$ получает слабые претензии на титул "§Y$TITLE$§!".\n;x
+iddah_period;Период Идда;x
+opinion_chief_qadi;Верховный Кади;x
+opinion_merciful_qadi;Милосердный Кади;x
+opinion_arbitrary_qadi;Деспотичный Кади;x
+LAW_NORMAL_CHANGE_MUSLIM_PIETY_COST;Для мусульман изменение закона владений стоит $PIETY$ благочестия.;x
+LAW_DE_JURE_CHANGE_MUSLIM_PIETY_COST;Для мусульман изменение коронных законов стоит $PIETY$ благочестия.;x
+CB_NAME_COUNTY_CONQUEST;[Title.GetBaseName]: завоевание округа;x
+WAR_NAME_COUNTY_CONQUEST;$ORDER$ $FIRST_ADJ$ая война за завоевание округа $OTHER_TITLE$;x
+EVTTOOLTIPB3538;[Root.GetTitledFirstName] испытывает только презрение к идиотскому бичеванию персонажа [This.GetTitledFirstName].;x
+EVTDESC55000;[Root.Culture.GetName]ое население округа [Root.GetName] приняло [Root.Holder.Culture.GetName]ую культуру.;x
+EVTDESC55001;[Root.Culture.GetName]ое население округа [Root.GetName] негодует, они не терпят меня, как правителя и чувствуют, что я - иностранец, но все же я завишу от этих людей. Они нужны мне, чтобы было, с кого взимать налоги и призывать в армию. А этого не происходит! Похоже, надо позвать пару земляков на помощь.;x
+EVTDESC55010;Мои корни в [Root.Culture.GetName]ой культуре, но я больше связываю себя с [Root.Capital.Culture.GetName]ой культурой, с людьми которыми правлю.;x
+EVTOPTA55010;[Root.Capital.Culture.GetName]ие обычаи прогрессивнее!;x
+EVTOPTB55010;Никогда! [Root.Culture.GetName]ие корни навечно в моей крови!;x
+EVTDESC55011;[From.GetTitledName] поддаётся влиянию обычаев города [From.Capital.GetName]. И ведет себя скорее, как жалкий представитель [From.Capital.Culture.GetName]ой культуры, чем [Root.Culture.GetName]ий дворянин.;x
+EVTOPTA55011;Тревожные новости;x
+PROV420;Вильна;x
+PROV423;Троки;x
+PROV424;Гродно;x
+PROV496;Константинополь;x
+PROV632;Тус;x
+PROV696;Самарра;x
+PROV702;Хлат;x
+PROV727;Бостра;x
+PROV729;Аль-Сукна;x
+PROV929;Абруццо;x
+c_tadmor_adj;Сукнахск;x
+c_syria_adj;Бострийск;x
+c_mesopotamia_adj;Хлатийск;x
+c_euphrates_adj;Самаррийск;x
+c_tus_adj;Тусийск;x
+c_aukshayts_adj;Вильнянск;x
+c_sudovia_adj;Тракийск;x
+c_jacwiez_adj;Гродненск;x
+c_byzantion_adj;Константинопольск;x
+d_hashshashin;Хашашин;x
+GRANDHEADMASTER;Великий мастер;x
+GRANDHEADMASTER_FOA;Ваше превосходительство;x
+DEATH_MURDER_HASHSHASHIN;умер(ла) от рук Ассасинов;x
+EXPECTED_TO_HAVE_MORE_WIVES;Менее §Y$NUM$§W жен: §R$PRESTIGE$§W;x
+EXPECTED_TO_HAVE_FEWER_WIVES;Более §Y$NUM$§W жен: §R$PRESTIGE$§W;x
+#tp_wall_q_1_muslim;Ров вокруг мечети;x
+#tp_wall_q_2_muslim;Сторожевой дом мечети;x
+#tp_wall_q_3_muslim;Опускная решетка;x
+#tp_wall_q_4_muslim;Глубокий ров вокруг мечети;x
+#tp_wall_q_5_muslim;Барбаканы;x
+#tp_wall_1_muslim;Полисад;x
+#tp_wall_2_muslim;Маленькая стена;x
+#tp_wall_3_muslim;Средняя стена;x
+#tp_wall_4_muslim;Большая стена;x
+#tp_wall_5_muslim;Огромная стена;x
+#tp_monastery_1_muslim;Мусалла (место молитвы);x
+#tp_monastery_2_muslim;Маленькая мечеть;x
+tp_monastery_1_muslim;Мечеть;x
+tp_monastery_2_muslim;Мечеть;x
+tp_monastery_3_muslim;Мечеть;x
+#tp_monastery_4_muslim;Большая мечеть;x
+tp_monastery_4_muslim;Большая мечеть;x
+tp_monastery_5_muslim;Большая мечеть;x
+tp_monastery_6_muslim;Большая мечеть;x
+#tp_monastery_6_muslim;Великая мечеть;x
+#tp_barracks_1_muslim;Квартал ополчения мечети;x
+#tp_barracks_2_muslim;Маленькая тренировочная площадка ополчения;x
+#tp_barracks_3_muslim;Средняя тренировочная площадка ополчения;x
+#tp_barracks_4_muslim;Крупная тренировочная площадка ополчения;x
+#tp_barracks_5_muslim;Большая тренировочная площадка ополчения;x
+#tp_barracks_6_muslim;Огромная тренировочная площадка ополчения;x
+#tp_elite_barracks_1_muslim;Квартал охраны мечети;x
+#tp_elite_barracks_2_muslim;Маленькие бараки охраны;x
+#tp_elite_barracks_3_muslim;Средние бараки охраны;x
+#tp_elite_barracks_4_muslim;Крупные бараки охраны;x
+#tp_elite_barracks_5_muslim;Большие бараки охраны;x
+#tp_elite_barracks_6_muslim;Огромные бараки охраны;x
+#tp_town_1_muslim;Деревенская мечеть;x
+tp_town_1_muslim;Городок при мечети;x
+tp_town_2_muslim;Городок при мечети;x
+tp_town_3_muslim;Городок при мечети;x
+tp_town_4_muslim;Городок при мечети;x
+tp_town_5_muslim;Городок при мечети;x
+tp_town_6_muslim;Городок при мечети;x
+#tp_town_3_muslim;Большая городская мечеть;x
+#tp_town_4_muslim;Мечеть огромного города;x
+#tp_town_5_muslim;Большая мечеть огромного города;x
+tp_school_1_muslim;Медресе;x
+tp_school_2_muslim;Медресе;x
+#tp_school_2_muslim;Большое медресе;x
+#ca_keep_1_muslim;Замковое укрепление;x
+#ca_keep_2_muslim;Замковая цитадель;x
+#ca_keep_3_muslim;Расширенная цитадель;x
+#ca_keep_4_muslim;Большая цитадель;x
+#ca_keep_5_muslim;Огромная цитадель;x
+#ca_keep_6_muslim;Эпическая цитадель;x
+#ct_marketplace_1_muslim;Городской базар;x
+#ct_marketplace_2_muslim;Базар большого города;x
+ct_marketplace_3_muslim;Рыночный район;x
+ct_marketplace_4_muslim;Торговый квартал;x
+ct_marketplace_5_muslim;Торговый квартал;x
+ct_marketplace_6_muslim;Огромный базар;x
+ct_university_1_muslim;Мектеб;x
+ct_university_2_muslim;Медресе;x
+ct_university_3_muslim;Медресе;x
+#ct_university_3_muslim;Медресе;x
+opinion_good_work;Хорошая работа!;x
+opinion_committed_zina;Совершил Зина (в исламском праве незаконные половые сношения - внебрачный секс);x
+ignored_muslim_sins;Уберег мои глаза от созерцания чужих грехов;x
+opinion_court_calligrapher;Придвоный каллиграф;x
+opinion_disappointed_calligrapher;Разочарован в каллиграфе;x
+opinion_grateful_calligrapher;Благодарен каллиграфу за хорошую работу;x
+mod_satisfied_work_calligrapher;Удовлетворительная работа каллиграфа;x
+mod_bad_work_calligrapher;Плохая работа каллиграфа;x
+FURUSIYYATITLE;Фурусия;x
+furusiyya_invite;Пригласить всех, кто представляет военное дело;x
+FAM_FORMER_HUSBANDS;Бывшие мужья;x
+FAM_SECONDARY_WIVES;Вторые жены;x
+FAM_FORMER_WIVES;Бывшие жены;x
+CHURCH_NAME;$RELIGION$;x
+diligent_poet;Прилежный поэт;x
+diligent_musician;Прилежный музыкант;x
+diligent_architect;Прилежный главный архитектор;x
+RAMADANTITLE;Рамадан;x
+observed_ramadan;Соблюдение Рамадана;x
+plot_kill_character_desc;[From.GetTitledFirstName] решает, что [This.GetTitledFirstName] слишком долго живет на этом свете. Пора бы и умереть. Чем сильнее заговор, тем больше шансы на успех.;x
+EVTDESC8150;Увидев, как [Root.PlotTarget.GetTitledName] пьет из кубка, Вас осенило: всё, что нужно для избавления от этого человека - хороший яд.;x
+EVTOPTA8150;Ваш сообщник обеспечит всем необходимым.;x
+EVTOPTB8150;Купить редкий яд.;x
+EVTOPTC8150;Болиголов хорошо сочетается с красным.;x
+EVTOPTD8150;Слишком дорого, я лучше подожду.;x
+EVTTOOLTIP8155;Отравление персонажа [This.GetTitledName] на балу в следующем месяце;x
+EVTDESC8151;Вдруг Вас осенило - яд! Конечно, самый надежный способ избавиться надоевшего человека.;x
+EVTOPTB8151;Попросить денег у лидера заговора;x
+EVTTOOLTIP8160;Рассказать персонажу [This.GetTitledName] идею убийства персонажа [This.PlotTarget.GetTitledName];x
+EVTTOOLTIP8152;Попросить у персонажа [This.GetTitledName] денег на убийство персонажа [This.PlotTarget.GetTitledName];x
+EVTDESC8152;[From.GetTitledName], Ваш сообщник, просит денег на покупку яда. [Root.PlotTarget.GetTitledName] получит смертельную дозу на предстоящем балу.;x
+EVTOPTA8152;Отлично, жаль только я не увижу это!;x
+EVTOPTB8152;Даже [Root.PlotTarget.GetHersHis] смерть не стоит столько.;x
+EVTTOOLTIP8153;[This.GetTitledName] получит деньги.;x
+EVTTOOLTIP8154;Проинформировать персонажа [This.GetTitledName], что я не буду платить.;x
+EVTDESC8153;[From.GetTitledName] даёт Вам деньги на отравление. [From.PlotTarget.GetTitledName] скоро умрёт.;x
+EVTDESC8154;[From.GetTitledName] отказывает Вам в деньгах на отравление.;x
+EVTOPTA8154;Я заплачу!;x
+EVTOPTB8154;Забудьте.;x
+EVTDESC8155;Какой веселый праздник, в окружении друзей и близких. Что-то жажда одолела. Слуга, еще вина!;x
+EVTOPTA8155;Ох, вот это вещь!;x
+EVTOPTB8155;Подождите, как-то оно странно пахнет.;x
+EVTDESC8156;Яд! Мое тело немеет. Я теряю сознание, проклиная имя убийцы.;x
+EVTOPTA8156;Проклинаю тебя, [FromFrom.GetTitledFirstName]!;x
+EVTDESC8157;Яд! Мое тело немеет. Помогите!;x
+EVTOPTA8157;Кто так сильно меня ненавидит?;x
+EVTDESC8158;Отравленное вино? Как это банально. Казнить этих дилетантов!;x
+EVTOPTA8158;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTDESC8159;Я чувствую дыхание смерти. Кто хотел меня убить?;x
+EVTOPTA8159;Боюсь, я никогда не узнаю.;x
+EVTDESC8160;[From.GetTitledName], Ваш сообщник говорит, что [Root.PlotTarget.GetTitledName] умрёт от отравленного вина на предстоящем балу.;x
+EVTOPTA8160;Классика!;x
+EVTTOOLTIP8161;Утвердить план;x
+EVTDESC8161;[From.GetTitledName] одобряет Ваш план по отравлению. [From.PlotTarget.GetTitledName] скоро отправится в мир иной. Да простит Вас [Root.Religion.GetRandomGodName].;x
+EVTOPTA8161;Сделайте приготовления.;x
+EVTDESC8162;[From.GetTitledName] даёт знать, что заговор идет по плану. [From.PlotTarget.GetTitledName] умрёт в течение месяца.;x
+EVTOPTA8162;Отлично!;x
+EVTDESC8163;Готово! [From.GetTitledName] погибает от отравления. К сожалению, моё участие было раскрыто.;x
+EVTOPTA8163;Хорошо, но... плохо;x
+EVTDESC8164;Готово! [From.GetTitledName] погибает от отравления. Теперь никто не узнает имя убийцы.;x
+EVTOPTA8164;Я отмечу это дело... пивом.;x
+EVTDESC8165;Провал! Вино осталось нетронутым. Заговор раскрыт, и кто-то сдал Вас.;x
+EVTOPTA8165;Это плохо...;x
+EVTDESC8166;Провал! Вино осталось нетронутым, но и заговор не раскрыт.;x
+EVTOPTA8166;Мы должны попытаться еще раз.;x
+EVTDESC8170;Увидев падение сына кухарки с дерева, Вас осенило. Дети такие глупые и неуклюжие создания - как это трагично, если [Root.PlotTarget.GetTitledName] вдруг упадет с лестницы...;x
+EVTOPTA8170;Мои сообщники знают кое-кого...;x
+EVTOPTB8170;Подкупить стражу;x
+EVTOPTC8170;Я знаю подходящего для этой работы человека!;x
+EVTTOOLTIP8175;[This.GetTitledName] испытает свои крылья в следующем месяце;x
+EVTDESC8171;Ах, дети, как же они неосторожны. Не часто увидишь их без ушибов, ссадин или порезов. Хм, а что, если кто-то испытает падение?;x
+EVTOPTB8171;Попросить денег у инициатора заговора;x
+EVTDESC8172;Ваш сообщник, [From.GetTitledName], просит денег, чтобы устроить несчастный случай. Если всё пройдет гладко, [Root.PlotTarget.GetTitledName] не переживёт падение. Но надо подкупить слуг.;x
+EVTOPTA8172;Дорого, но это того стоит!;x
+EVTDESC8173;[From.GetTitledName] даёт Вам достаточно денег, чтобы подкупить кое-кого, кто слегка подтолкнёт вашу цель ([From.PlotTarget.GetTitledName]) с лестницы.;x
+EVTDESC8174;[From.GetTitledName] отказывается передать Вам необходимые деньги, чтобы организовать падение с лестницы вашей цели ([From.PlotTarget.GetTitledName]).;x
+EVTDESC8175;Мне нравится волнующее чувство высоты, когда я прогуливаюсь на стенах замка и смотрю на маленьких людей внизу. Если я протяну руку, может быть, я смогу достать до птичьих гнезд.;x
+EVTOPTA8175;Почти получилось...;x
+EVTOPTB8175;Подождите, кто это за моей спиной?!;x
+EVTDESC8176;Aааа, кто-то толкнул меня! Я падаю! Нееет!;x
+EVTOPTA8176;Умри, [FromFrom.GetTitledFirstName]!;x
+EVTOPTA8177;Почему? Кто?;x
+EVTDESC8178;Он собирался толкнуть меня! Я узнаю, кто подкупил его!;x
+EVTOPTA8178;Должно быть, [FromFrom.GetTitledFirstName] стоит за этим!;x
+EVTDESC8179;Собиралась ли кухарка столкнуть меня со стены? Кто бы мог хотеть моей смерти?;x
+EVTOPTA8179;Мне кажется, я никогда не узнаю...;x
+EVTDESC8180;Хорошие новости! Ваш сообщник, [From.GetTitledName], говорит Вам, что [Root.PlotTarget.GetTitledName] скоро упадёт со стены замка.;x
+EVTOPTA8180;Лети, птичка, лети!;x
+EVTDESC8181;[From.GetTitledName] соглашается с Вашим планом. [From.PlotTarget.GetTitledName] упадёт со стены. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC8182;[From.GetTitledName] сообщает Вам, что заговор с целью убийства продвигается хорошо. [From.PlotTarget.GetTitledName] скоро упадёт со стены замка. Какая трагедия!;x
+EVTDESC8183;Успех! [From.GetTitledName] летит со стены вниз, как страус! К сожалению, убийца был пойман и Ваше соучастие было раскрыто.;x
+EVTDESC8184;Успех! Кажется, [From.GetTitledName] еще не умеет летать. Это была быстрая и, по-видимому, безболезненная смерть.;x
+EVTOPTA8184;Думаю, сегодня на обед будет цыплёнок.;x
+EVTDESC8185;Провал! [From.GetTitledName] уворачивается от убийц и сбегает. Моё соучастие обнаружено.;x
+EVTOPTA8185;Проклятье!;x
+EVTDESC8186;Провал! У наёмного убийцы не было даже шанса и, скорее всего, не будет. По крайней мере, заговор остался в тайне...;x
+opinion_beautiful_poem;Прекрасное стихотворение;x
+opinion_beautiful_song;Прекрасная песня;x
+opinion_seduce_spouse;Пытался совратить супруга;x
+beautiful_hilya;Прекрасное хилйа;x
+mod_dissatisfied_calligrapher;Неудовлетворительный каллиграфический стиль;x
+mod_perfect_work_calligrapher;Идеальный каллиграфический стиль;x
+SPECIAL_EVENTOPTION_0;Данное решение доступно благодаря вашему высокому навыку §YДипломатия§!;x
+SPECIAL_EVENTOPTION_1;Данное решение доступно благодаря вашему высокому §YВоенному§! навыку;x
+SPECIAL_EVENTOPTION_2;Данное решение доступно благодаря вашему высокому навыку §YУправление§!;x
+SPECIAL_EVENTOPTION_3;Данное решение доступно благодаря вашему высокому навыку §YИнтрига§!;x
+SPECIAL_EVENTOPTION_4;Данное решение доступно благодаря вашему высокому навыку §YОбразованность§!;x
+SPECIAL_EVENTOPTION_TRAIT;Данное решение доступно, так как Вы обладаете чертой характера §Y$TRAITNAME$§!;x
+DECADENCE_TITLE;Упадок династии;x
+COMBAT_MODIFIER_DESC;§YБоевой Модификатор§!\nЭтот модификатор применяется к флангу, возглавляемому персонажем\n;x
+EVTDESC38304;Голоса перешёптываются в моей голове, говоря, что мне делать... ужасные, ужасные вещи... Я теперь "Сумасшедший".;x
+architect_improvements;Улучшения главного архитектора;x
+EVTNAME89500;Mарко Поло;x
+EVTDESC89500;Венецианский купец Марко Поло наконец вернулся в Европу после многих лет странствий по Дальнему Востоку со своим отцом и дядей. Описание их путешествий было опубликовано в труде "Путешествия Марко Поло", описывающем, среди прочего, далекие земли Китая. Читателям предоставляется редкий обзор мира за пределами Европы, правда есть те, кто считает эти хроники подделкой.;x
+EVTOPTA89500;Удивительная сказка, не более!;x
+EVTNAME89501;Cтранствия Чжэн Хэ;x
+EVTDESC89501;Большой флот из далекой страны Китай появился в Аравийском море. Флот под командованием евнуха, исследователя Чжэн Хэ, или, как называют его арабы, Хаджи Махмуд Шамсуддина, состоит из кораблей колоссальных размеров, никогда ранее не виданных в этих водах. Несмотря на свою грозную силу, экспедиция, кажется, не носит захватнический характер и скоро отправится исследовать другие земли.;x
+EVTOPTA89501;Счастливого пути!;x
+EVTNAME60116;Mонголы разграбили Багдад!;x
+EVTDESC60116;Великий город Багдад, один из ведущих мировых центров учения, после осады пал жертвой ненасытных монгольских орд. Кажется, ничто не может усмирить их тягу к разрушению. Теперь воды реки Тигр не только красны от крови, но и черны от чернил бесценных и невосстановимых томов из Дома Мудрости и других больших библиотек города.;x
+EVTOPTA60116;Как бешеные волки...;x
+EVTOPTB60116;Будем молиться, чтобы монголов поглотила пустыня.;x
+EVTNAME60117;Mонголы разграбили Дамаск!;x
+EVTDESC60117;Дамаск, древний Город жасмина, был разграблен продвигающимися монголами. Они собрали на поле прямо за городскими стенами громадную кучу отрубленных голов, которую немногочисленные выжившие после резни прозвали "бурдж аль-руус" - Башня голов.;x
+EVTOPTA60117;Пусть за эти злодеяния их настигнет тысяча смертей!;x
+EVTOPTB60117;Долг остановить татарское нашествие ляжет на плечи борцов истинной веры.;x
+EVTNAME60118;Mонголы разграбили Иерусалим!;x
+EVTDESC60118;Татарские варвары разграбили Иерусалим, принеся момент редко виданной общности среди представителей разнообразных религий города, так как все одинаково страдают от ужасов жестокого ига язычников.;x
+EVTOPTA60118;Кафиры!;x
+EVTOPTB60118;Дикари!;x
+EVTNAME60119;Mонголы разграбили Александрию!;x
+EVTDESC60119;Не удовлетворившись своей огромной империей, превосходящей по размеру завоевания Александра Великого, сейчас монгольские орды опустошают город, названный в его честь. Колонна Помпея повалена, но, по крайней мере, Фаросский маяк не тронут, так как монголы решили, что огромные усилия, затраченные на то, чтобы сравнять его с землёй, того не стоят.;x
+EVTOPTA60119;Пусть они страдают от вечной боли!;x
+EVTOPTB60119;Если бы можно было пойти по стопам Александра...;x
+EVTNAME60120;Mонголы разграбили Каир!;x
+EVTDESC60120;Скача по плодородной дельте Нила, татарские орды прибыли к Великим пирамидам Гизы и проломили ворота Каира. Страдания и мучения, причиняемые сейчас несчастному населению города, наверняка заставили бы задуматься даже самого жестокого фараона.;x
+EVTOPTA60120;У них что? Совсем нет совести?;x
+EVTOPTB60120;А кто будет платить налоги?;x
+EVTNAME60121;Mонголы разграбили Мекку!;x
+EVTDESC60121;Священный город Мекка сейчас горит от жестоких рук монгольских язычников. Паломники, прибывающие из дальних земель, чтобы показать своё повиновение Аллаху, при приближении к городским воротам встречают только смерть. Это непростительное надругательство над святыней запомнится на века.;x
+EVTOPTA60121;Никому из этих осквернителей не избежать правосудия!;x
+EVTOPTB60121;Не дай Бог, это нашествие продолжит свой путь на запад.;x
+EVTOPTB60100;Они не придут сюда, Иншалла.;x
+EVTOPTB60101;Пусть снега студёного севера заберут их себе.;x
+EVTOPTB60102;Эти всадники знают, как сражаться!;x
+EVTOPTB60103;Их стены не были достаточно крепки.;x
+EVTOPTB60104;Даже франки не заслуживают такой участи.;x
+EVTOPTB60105;Впечатляюще.;x
+EVTOPTB60106;Значит даже легендарный Рим не может противостоять им.;x
+EVTOPTB60107;Город на воде?;x
+EVTOPTB60108;Ар-Рум больше не представляет угрозы.;x
+EVTOPTB60109;Кажется они могут достигнуть любого места.;x
+EVTOPTB60110;Это сбивает с толку.;x
+EVTOPTB60111;Неоправданная утрата, согласно Пророку.;x
+EVTOPTB60112;Это то, что стоит ожидать нам?;x
+EVTOPTB60113;Интересно.;x
+EVTOPTB60114;Прискорбно.;x
+EVTOPTB60115;Какое варварство.;x
+EVTOPTB39010;Нет, подождите. Если поразмыслить...;x
+#EVTDESC88000;Распространяется известие о том, что шиитский миссионер, Хасан-и Саббах, основал религиозный орден, известный как "Хашашин" где-то в западной Персии. Используя хитрость и коварство, этот загадочный культ подготовленных убийц захватил контроль над горной крепостью Аламут и превратил его в свою штаб-квартиру. Уже можно проследить цепочку кровавых убийств, тянущуюся за преданными и бесстрашными учениками Хасана.;x
+EVTNAME88000;Pождение убийц;x
+EVTOPTA88000;Эти курильщики гашиша не опасны...;x
+EVTDESC88001;Ассасины, неуловимый Орден Убийц расширил свое влияние в Сирии. Обосновавшись в горной крепости Масиаф, они контролируют окрестности. По всей Святой Земле они охотятся на тех, кто стоит на их пути.;x
+EVTNAME88001;Cирия под влиянием Ассасинов;x
+EVTOPTA88001;Возможно, к ним стоит относиться серьезно...;x
+EVTDESC88002;С падением последней крепости пресловутый Орден Убийц был развеян по ветру. Те немногие члены ордена, которым удалось уцелеть, ушли в подполье надеясь однажды вернуться к своей работе.;x
+EVTNAME88002;Oрден Убийц разбит;x
+EVTOPTA88002;Это было неизбежно.;x
+EVTDESC88003;Ассасины вернулись! На протяжении многих лет они восстанавливали силы. Ударом из тени, ими была отбита одна из старейших горных крепостей, и теперь обученные убийцы снова уничтожают тех, кто действует вопреки их интересам.;x
+EVTNAME88003;Bозрождение Ордена Убийц;x
+EVTOPTA88003;Они, конечно, не посмеют ударить по мне.;x
+EVTDESC88004;Ассасины уничтожены! Их крепости и базы сожжены. Последние члены, некогда вселяющего страх, Ордена Убийц охотятся на животных, умирая без надежды на сострадание и милосердие. Воспоминания об их подвигах остались лишь в легендах и преданиях.;x
+EVTNAME88004;Oрден Убийц уничтожен;x
+EVTOPTA88004;Скатертью дорога!;x
+EVTDESC88007;Слово распространяется, как лесной пожар по землям Востока! Великий полководец [From.GetTitledName] убит ассасинами. Они зарезали [From.GetHersHis] в лагере на виду у всех, и хотя убийцы прожили всего на несколько секунд больше, чем [From.GetTitle], их миссия выполнена. [From.GetHersHis] подданные клянутся отомстить Ордену Убийц.;x
+EVTNAME88007;Kарающая длань ассасинов;x
+EVTOPTA88007;Пророки!;x
+EVTDESC88009;Ассасины смогли немного приостановить монголов в их планах по завоеванию мира. Несколько членов Ордена погибли в тщетных попытках убить их полководца. [From.GetTitledName] и [From.GetHersHis] окружение поклялись отомстить.;x
+EVTNAME88009;Hа этот раз [From.GetTitle] избегает убийц!;x
+EVTOPTA88009;Пророки!;x
+EVTDESC88010;Вы просыпаетесь в холодном поту, с ощущением, что что-то не так. Мерцание свечей освещает тарелку с горячими печеньями и запиской на отправленном кинжале рядом с кроватью. Текст гласит: "Оставьте свой неверный путь, пока не стало слишком поздно, [Root.GetFirstName]. Ассасины следят за Вами.";x
+EVTOPTA88010;Возможно, настало время перемен.;x
+EVTDESC88011;[Root.PrimaryTitle.GetFOA], ужасная новость! [From.GetTitledName] убит в своём доме, несомненно ассасинами. Надпись, сделанная ножом на [From.GetHersHis] груди гласит: "[Root.GetFirstName], Вас предупреждали.";x
+EVTOPTA88011;Как они смеют?!;x
+EVTDESC88012;Достигнув угла улицы города [Root.Location.GetName], Вы слышите странный свист. Ваши телохранители падают с перерезанным горлом, и не дав среагировать, Вас окружают ассасины. Их лидер приближается к Вам с печальным выражением на лице: "Может ты найдешь то, что искал в другой жизни, друг.";x
+EVTOPTA88012;Но... но еще слишком рано!;x
+EVTDESC88016;[From.GetTitledName] бродит мимо своих охранников, истекая кровью от множества колотых ран. [From.GetSheHe] падает в лужу крови к Вашим ногам, произнося на последнем вздохе: "А-а-ассасины...";x
+EVTOPTA88016;Проклятье!;x
+EVTDESC88017;Ваша охрана приносит накрытую корзину, оставленную у дворца. Полагая, что это кондитерские изделия от одного из Ваших подданных, Вы жадно срываете покрывало. Но вместо сладостей в корзине лежит голова человека, известного Вам, как [From.GetTitledName]. Метка Ордена Ассасинов высечена на лбу.;x
+EVTOPTA88017;Что-то у меня пропал аппетит.;x
+EVTDESC88018;Вы и [From.GetTitledFirstName] прогуливаетесь по дворцовому саду, и вдруг замечаете отблеск солнца на металле. Тут же кинжал вонзается в горло Вашего друга. Охрана уводит Вас в безопасное место, но Вы успеваете заметить одеяние ассасинов, мелькнувшее над городскими стенами.;x
+EVTOPTA88018;А может их цель - я?;x
+EVTDESC88019;Вы просыпаетесь в холодном поту, с ощущением, что что-то не так. Мерцание свечей освещает тарелку с горячими печеньями и запиской на отправленном кинжале рядом с кроватью. Текст гласит: "Есть тысячи способов убить [Root.GetManWoman]у, [Root.GetFirstName]. Ассасины знают их все.";x
+EVTOPTA88019;Стража! Обыскать территорию!;x
+EVTDESC7700;[Root.PlotTarget.GetTitledName] отправляется в поездку по [Root.PlotTarget.Location.County.GetAdjective]им землям в открытом экипаже, чтобы насладиться славой и любовью народа. За ними будет следовать эскорт, но что, если на крышах домов, мимо которых будет ехать [Root.PlotTarget.GetTitle], поставить несколько лучников?;x
+EVTOPTA7700;Мои помощники подыщут хороших людей.;x
+EVTOPTB7700;Нанять лучников.;x
+EVTOPTC7700;Я знаю хорошего человека для этой работы.;x
+#EVTDESC7701;Через свои источники я узнал, что [Root.PlotTarget.GetTitledName] будет путешествовать в [Root.PlotTarget.Location.GetName] в открытом экипаже. Охрана будет контролировать улицы, но предусмотрели ли они лучников на крышах?;x
+EVTDESC7702;Ваш сообщник, [From.GetTitledName], просит оплатить найм нескольких лучников для покушения на вашу цель ([Root.PlotTarget.GetTitledName]) во время [Root.PlotTarget.GetHersHis] путешествия по [Root.PlotTarget.Location.County.GetAdjective]им землям.;x
+EVTOPTA7702;Пусть это случится.;x
+EVTDESC7703;[From.GetTitledFirstName] присылает Вам достаточно денег для найма опытных лучников. Они устроят достойную встречу. [From.PlotTarget.GetTitledFirstName] не вернётся из своей поездки.;x
+EVTDESC7704;[From.GetTitledFirstName] отказывается давать Вам денег на найм лучников для покушения на вашу цель ([From.PlotTarget.GetTitledFirstName]).;x
+EVTDESC7705;Вы отправились в поездку по [Root.Location.County.GetAdjective]им землям, чтобы насладиться славой и любовью своего народа, но как только Ваш открытый экипаж проехал мимо хранилища документов, Вы услышали свист стрелы всего в нескольких сантиметрах от своей головы.;x
+EVTOPTA7705;Боже мой. Они собираются убить нас всех!;x
+EVTOPTB7705;Стреляли из тех холмов?;x
+EVTTOOLTIP7705;Засада лучников на персонажа [This.GetTitledFirstName] будет в следующем месяце.;x
+EVTDESC7706;Вы попадаете в перестрелку! Стрела торчит из Вашего плеча и Вы изо всех сил пытаетесь вытащить её. Но за ней следует новая - на этот раз в голову...;x
+EVTOPTA7706;Это был не одиночка. [FromFrom.GetTitledFirstName] всему виной!;x
+EVTOPTA7707;...смерть.;x
+EVTDESC7708;Ваш экипаж буквально засыпан стрелами, но [Root.Religion.GetRandomGodName] покровительствует Вам, помогая избежать смерти!;x
+EVTOPTA7708;Это [FromFrom.GetTitledFirstName]!;x
+EVTOPTA7709;На кого работали эти лучники?;x
+EVTDESC7710;Известие пришло от Вашего сообщника. [From.GetTitledFirstName] говорит, что лучники находятся на месте и ждут подходящего момента, чтобы нанести удар по вашей цели ([Root.PlotTarget.GetTitledFirstName]).;x
+EVTOPTA7710;Мы полны решимости сделать это.;x
+EVTDESC7711;[From.GetTitledFirstName] одобряет Ваш план засады с использованием лучников на крышах. [From.PlotTarget.GetTitledFirstName] не переживёт эту поездку. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7712;[From.GetTitledFirstName] интересуется, хорошо ли продвигается план. [From.PlotTarget.GetTitledFirstName] скоро попадёт под дождь... из стрел.;x
+EVTDESC7713;Готово! [From.GetTitledFirstName] пронзается десятками стрел по пути между хранилищем и холмом. К сожалению, козлом отпущения было решено выбрать Вас.;x
+EVTDESC7714;Готово! [From.GetTitledFirstName] пронзается десятками стрел по пути между хранилищем и холмом. История о лучнике-одиночке работает отлично.;x
+EVTOPTA7714;Еще одной угрозой меньше.;x
+EVTDESC7715;Провал! [From.GetTitledFirstName] избегает засады. Один из захваченных лучников показал на Вас.;x
+EVTOPTA7715;Пора залечь на дно.;x
+EVTDESC7716;Провал! [From.GetTitledFirstName] избегает засады. Благо все лучники смогли уйти от погони, заговор остался нераскрытым.;x
+EVTDESC7720;Наблюдение за загоном для скота дало Вам идею, как ваша цель ([Root.PlotTarget.GetTitledName]) может быть устранена. Сосредоточенный в одном месте навоз может быть очень взрывоопасным, если собрать его в достаточном количестве и поджечь. Взрыв может оказаться смертельным.;x
+EVTOPTA7720;Мои сообщники купят всё необходимое.;x
+EVTOPTB7720;Купить огромное количество навоза.;x
+EVTOPTC7720;Я знаю фермера, у которого есть то, что нужно.;x
+EVTDESC7722;Ваш сообщник, [From.GetTitledName], просит оплатить покупку навоза, чтобы взорвать вашу цель ([Root.PlotTarget.GetTitledName]);x
+EVTOPTA7722;Это достаточно безумно, чтобы сработать.;x
+EVTDESC7723;[From.GetTitledFirstName] даёт достаточно денег для покупки навоза.;x
+EVTDESC7724;[From.GetTitledFirstName] отказывается дать Вам денег на покупку навоза, назвав план безумным.;x
+EVTDESC7725;Проехавшись по отдаленной местности со своим эскортом, я прибываю в уединённую гостиницу. Это пустынные места, с нервного вида хозяевами, предлагающими вино и еду за умеренные деньги. Я сажусь за стол.;x
+EVTOPTA7725;Хозяин! Принесите нам лучшее, что Вы можете предложить!;x
+EVTOPTB7725;О, [Root.Religion.GetRandomGodName], что это за адский запах?;x
+EVTTOOLTIP7725;Подготовка навоза для покушения на персонажа [This.GetTitledFirstName] в следующем месяце.;x
+EVTDESC7726;Вскоре после того, как хозяин исчезает на кухне, мы замечаем неприятный запах, исходящий откуда-то снизу. Один из моих сопровождающих отодвигает доску и обнаруживает огромную яму навоза. Мы не успели даже среагировать на эту находку, как пол взорвался прямо подо мной.;x
+EVTOPTA7726;Очень умно, [FromFrom.GetTitledFirstName]...;x
+EVTOPTA7727;БУУУУМ!!!;x
+EVTDESC7728;Охрана останавливает хозяина, и показывает ему яму навоза. Он признаётся, что должен был поджечь навоз, взорвав нас всех.;x
+EVTOPTA7728;Так значит, [FromFrom.GetTitledFirstName] Вас нанял.;x
+EVTDESC7729;Охрана останавливает хозяина, и показывает ему яму навоза. Он признаётся, что должен был поджечь навоз, взорвав нас всех. К сожалению, заказчику, удалось остаться инкогнито.;x
+EVTOPTA7729;Возможно этот негодяй действовал в одиночку, казнить его!;x
+EVTDESC7730;[From.GetTitledFirstName], Ваш сообщник, говорит о закладке навоза под половицы в придорожной забегаловке, стоящей на пути, по которому едет [Root.PlotTarget.GetTitledFirstName] со своим эскортом. Когда они сядут за стол...;x
+EVTOPTA7730;...БУУУМ!!!;x
+EVTDESC7731;[From.GetTitledFirstName] одобряет план взрыва с помощью навоза, [From.PlotTarget.GetTitledFirstName] скоро погибнет. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7732;[From.GetTitledFirstName] сообщает, что [From.PlotTarget.GetTitledFirstName] скоро погибнет. Яма с навозом подготовлена в гостинице, где [From.PlotTarget.GetSheHe] остановится. Одной искрой ваша проблема отправится на тот свет.;x
+EVTDESC7733;Сделано! [From.GetTitledFirstName] взрывается. К сожалению, фермер, предоставивший навоз, указал на Вас.;x
+EVTDESC7734;Сделано! [From.GetTitledFirstName] взрывается. Не осталось никаких улик, указывающих на Вас.;x
+EVTOPTA7734;Проблему унесло взрывом.;x
+EVTDESC7735;Провал! Охрана обнаружила навоз и предотвратила взрыв. Вас раскрыли.;x
+EVTOPTA7735;Что я думаю? Навоз...;x
+EVTDESC7736;Провал! Охрана обнаружила навоз и предотвратила взрыв. Вам удалось избежать раскрытия.;x
+EVTDESC7740;[Root.PlotTarget.GetTitledName] отправится на тот свет, но для этого нам необходимо подкупить кого-то из окружения, например, горничную или охрану.;x
+EVTOPTA7740;Мои сообщники позаботятся о финансах.;x
+EVTOPTB7740;Подкупить горничную.;x
+EVTOPTC7740;Я знаю, кто нам может подойти...;x
+#EVTDESC7741;Если нужно, чтобы [Root.PlotTarget.GetTitledName] был(а) убит(а), то нам необходимо подкупить кого-то из окружения, например, горничную или охрану.;x
+EVTDESC7742;Ваш сообщник, [From.GetTitledName], просит денег для подкупа горничной. Она проследит, чтобы ребенок ([Root.PlotTarget.GetTitledFirstName]) перестал быть проблемой... навсегда перестал, несомненно.;x
+EVTOPTA7742;Я не могу придумать ничего лучше. Вот деньги.;x
+EVTDESC7743;[From.GetTitledFirstName] даёт Вам деньги на подкуп горничных (цель - [Root.PlotTarget.GetTitledFirstName]).;x
+EVTDESC7744;[From.GetTitledFirstName] не даёт Вам денег на подкуп горничных (цель - [Root.PlotTarget.GetTitledFirstName]).;x
+EVTDESC7745;Когда Вы лежите в кроватке, глядя в потолок и размышляя о Ваших будущих подвигах, кто-то из взрослых входит в комнату. Вы узнаете её, это одна из служанок, но на этот раз есть что-то очень холодное и далёкое в её глазах. Она подходит к Вам с подушкой в руках...;x
+EVTOPTA7745;Ня-ня...;x
+EVTOPTB7745;*издать дикий крик*;x
+EVTTOOLTIP7745;[This.GetTitledFirstName] - цель убийства в следующем месяце;x
+EVTDESC7746;Служанка накрывает лицо подушкой и мир вокруг становится тёмным. Возможно, в другой раз Вы родитесь в менее жестокую эпоху...;x
+EVTOPTA7746;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7747;Кто это сделал?;x
+EVTDESC7748;Не успела служанка подойти, как Вы вздохнув поглубже, издаете пронзительный крик. Бросив подушку она бежит, оставив Вас в безопасности.;x
+EVTOPTA7748;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7749;Зачем ей причинять мне вред?;x
+EVTDESC7750;Ваш сообщник, [From.GetTitledFirstName], говорит, что [Root.PlotTarget.GetTitledFirstName] скоро погибнет. За определенную сумму служанка решит вашу маленькую проблему.;x
+EVTOPTA7750;Потрясающе!;x
+EVTDESC7751;[From.GetTitledFirstName] одобряет Ваш план подкупа служанки и убийства ребёнка ([From.PlotTarget.GetTitledFirstName]).;x
+EVTDESC7752;[From.GetTitledFirstName] сообщает, что [From.PlotTarget.GetTitledFirstName] скоро погибнет. Горничная решит ваши проблемы.;x
+EVTDESC7753;Готово! [From.GetTitledFirstName] погибает от удушения подушкой. К сожалению, горничную схватили и перед казнью она показала на Вас.;x
+EVTDESC7754;Готово! [From.GetTitledFirstName] погибает от удушения подушкой. Горничную не поймали, поэтому не удастся найти каких-либо улик, указывающих на Ваше участие.;x
+EVTOPTA7754;Этот мир слишком жесток для детей.;x
+EVTDESC7755;Провал! [From.GetTitledFirstName] отпугивает своими воплями служанку. Её схватили и она подтвердила Ваше участие.;x
+EVTOPTA7755;О, небо...;x
+EVTDESC7756;Провал! [From.GetTitledFirstName] отпугивает своими воплями служанку. По крайней мере, ей удалось сбежать незамеченной.;x
+EVTDESC7760;То, что [Root.PlotTarget.GetTitledName] сейчас в тюрьме может сыграть нам на руку. Попросим кое-кого подстроить [Root.PlotTarget.GetHersHis] убийство при попытке побега.;x
+EVTOPTA7760;Ваш сообщник найдет нужного человека.;x
+EVTOPTB7760;Нанять профессионального убийцу.;x
+EVTOPTC7760;Я знаю нужного человека для этой работы.;x
+EVTDESC7762;Ваш сообщник, [From.GetTitledName], просит денег для организации убийства (цель - [Root.PlotTarget.GetTitledName]), замаскированного под попытку сбежать из тюрьмы.;x
+EVTOPTA7762;Да, тюрьма может быть опасной для здоровья.;x
+EVTDESC7763;[From.GetTitledFirstName] даёт Вам денег. Вы доставите нужного человека в тюрьму, в которой сидит [Root.PlotTarget.GetTitledFirstName].;x
+EVTDESC7764;[From.GetTitledFirstName] не даёт Вам денег. Вы не сможете доставить нужного человека в тюрьму.;x
+EVTDESC7765;Вы находитесь в своей камере, и вот к Вам обращается сосед с предложением сбежать. Среди его татуировок подробный план подземных ходов.;x
+EVTOPTA7765;Отличная возможность побега!;x
+EVTOPTB7765;Секундочку, это ненастоящая татуировка!;x
+EVTTOOLTIP7765;Организация побега персонажа [This.GetTitledFirstName] в следующем месяце.;x
+EVTDESC7766;Используя карту вы выходите в подземелье. Тихо ступая по лестнице, вы обходите часовых. Внезапно Вы ощущаете холодную руку предательства. Ваш "друг" толкает Вас, и Вы теряете равновесие.;x
+EVTOPTA7766;[FromFrom.GetTitledFirstName]. Ты работаешь на н[FromFrom.GetHersHis]!;x
+EVTOPTA7767;Кто подослал тебя?!;x
+EVTDESC7768;Карта - ненастоящая татуировка, а всего лишь рисунок. Надавив на соседа, Вы узнаёте план, по которому должны были погибнуть при попытке сбежать.;x
+EVTOPTA7768;Значит [FromFrom.GetTitledFirstName] - всему причина.;x
+EVTDESC7769;Карта - ненастоящая татуировка, а всего лишь рисунок. Надавив на соседа, Вы узнаёте план, по которому должны были погибнуть при попытке сбежать. К сожалению, выяснить личность заказчика этого ужасного плана Вам не удалось.;x
+EVTOPTA7769;Вы рассчитывали, что я поверю в это?;x
+EVTDESC7770;[From.GetTitledFirstName], Ваш сообщник, докладывает, что нужный человек уже проник в тюрьму. [Root.PlotTarget.GetTitledFirstName] и ваш человек попытаются сбежать, и с одним из них определенно что-то случится.;x
+EVTOPTA7770;Никто не ожидает нечестной игры с нашей стороны.;x
+EVTDESC7771;[From.GetTitledFirstName] одобряет Ваш план по организации побега со смертельным исходом. [From.PlotTarget.GetTitledFirstName] скоро умрёт.;x
+EVTDESC7772;[From.GetTitledFirstName] получает Ваше сообщение о том, что [From.PlotTarget.GetTitledFirstName] скоро умрёт. Человек в тюрьме, в которой сидит [From.PlotTarget.GetTitledFirstName], устроит их побег... со смертельным исходом.;x
+EVTDESC7773;Успех! [From.GetTitledFirstName] находит свою смерть при попытке сбежать из тюрьмы! К сожалению, человек организовавший побег, упомянул Ваше имя, когда был схвачен.;x
+EVTDESC7774;Успех! [From.GetTitledFirstName] находит свою смерть при попытке сбежать из тюрьмы! Ни что не указывает на Вашу причастность к этому делу.;x
+EVTOPTA7774;Приговор исполнен!;x
+EVTDESC7775;Провал! [From.GetTitledFirstName] отказавшись бежать из тюрьмы, рушит все ваши планы. Вдобавок Вашу личность случайно выдал горе-организатор побега.;x
+EVTOPTA7775;Проклятье!;x
+EVTDESC7776;Провал! [From.GetTitledFirstName] отказавшись бежать из тюрьмы, рушит все ваши планы. Благо никто не в курсе, что Вы замешаны в этом.;x
+EVTDESC7780;[Root.PlotTarget.GetTitledName] может хоть сто раз болеть, но всё ещё на этом свете. Каждый месяц слуги готовят [Root.PlotTarget.GetHerHim] крайне необходимые ванны, во время которых что-то вполне может пойти не так... Особенно, если эти слуги подчиняются вам.;x
+EVTOPTA7780;Мои сообщники найдут нужных людей.;x
+EVTOPTB7780;Нанять слуг.;x
+EVTOPTC7780;Организовать замену слуг самостоятельно.;x
+EVTDESC7782;Ваш сообщник, [From.GetTitledName], просит выдать денег для подкупа слуг, которыми распоряжается [Root.PlotTarget.GetTitledName], готовящих ванну для н[Root.PlotTarget.GetHersHis]. Если заплатить, то они обеспечат этим купаниям трагический конец.;x
+EVTOPTA7782;Коварно! Мне это нравится.;x
+EVTDESC7783;[From.GetTitledFirstName] соглашается, и теперь у Вас есть деньги на подкуп слуг, готовящих ванну (цель - [Root.PlotTarget.GetTitledName]).;x
+EVTDESC7784;[From.GetTitledFirstName] отказывается предоставить денег для подкупа слуг.;x
+EVTDESC7785;Зловоние исходит от Вашего тела, огромная масса, мешающая даже Вам, но на радость окружающим. Настало время ежемесячной ванны. Слуги опускают Вас в воду, начиная долгий процесс очищения от грязи.;x
+EVTOPTA7785;*расслабиться*;x
+EVTOPTB7785;Погодите... Эти слуги выглядят незнакомо...;x
+EVTTOOLTIP7785;утопление в ванной.;x
+EVTDESC7786;Слуги опускают Вашу голову в воду и держат там. Из последних сил Вы пытаетесь освободиться. Но когда вода попадает в легкие, приходят мысли сожаления об упущенных возможностях, ссорах с родными и купаниях в ванной.;x
+EVTOPTA7786;[FromFrom.GetTitledName] стоит за этим!;x
+EVTOPTA7787;Кто подкупил их?;x
+EVTDESC7788;Слуги опускают Вашу голову в воду и держат там. Из последних сил Вы пытаетесь освободиться. От удара рукой падает ваза, охрана замечает шум и врывается в комнату. Мерзавцы задержаны и отправлены в пыточную для выяснения личности заказчика.;x
+EVTOPTA7788;[FromFrom.GetTitledName] стоит за этим!;x
+EVTDESC7789;Слуги опускают Вашу голову в воду и держат там. Из последних сил Вы пытаетесь освободиться. От удара рукой падает ваза, охрана замечает шум и врывается в комнату. Слуги успели сбежать.;x
+EVTOPTA7789;Кто подкупил этих мерзавцев?;x
+EVTDESC7790;[From.GetTitledFirstName] подкупает слуг, которыми распоряжается [Root.PlotTarget.GetTitledFirstName], готовящих для н[Root.PlotTarget.GetHersHis] ванну. Они позаботятся о том, чтобы это была [Root.PlotTarget.GetHersHis] последняя ванна.;x
+EVTOPTA7790;Похвально!;x
+EVTDESC7791;[From.GetTitledFirstName] обеспечивает полную поддержку моей инициативе подкупа слуг.;x
+EVTDESC7792;[From.GetTitledFirstName] присылает письмо, о том, что слуги не могут приготовить ванну для ваших целей.;x
+EVTDESC7793;Готово! [From.GetTitledFirstName] тонет в ванне. К сожалению, слуги под пытками указали на Вас.;x
+EVTDESC7794;Готово! [From.GetTitledFirstName] тонет в ванне. Никто не в курсе Вашей причастности к этому делу.;x
+EVTOPTA7794;Еще один аргумент против принятия ванны.;x
+EVTDESC7795;Провал! Несмотря на собственную недееспособность, [From.GetTitledFirstName] не даёт себя утопить. К сожалению слуги под пытками указывают на Вас.;x
+EVTOPTA7795;Плохо дело...;x
+EVTDESC7796;Провал! Несмотря на собственную недееспособность, [From.GetTitledFirstName] не даёт себя утопить. Ни что не указывает на Вашу причастность к этому делу.;x
+DEATH_YESTERDAY_FLANK;Вчерашняя потеря во фланге;x
+NO_PRESTIGE_MUSLIM_MARRIAGE;Мусульмане не получают и не теряют престиж от брака.;x
+CIW_GOTODIPLO;Перейти к дипломатии\nПравый клик для открытия подменю.;x
+CIW_GOTOCHAR;Перейти к характеристикам\nПравый клик для открытия подменю.;x
+OFFER_MARRIGE_INTERACTION_MUSLIM;Предложить, чтобы §Y[ActorExtra.GetTitledFirstName]§W и §Y[RecipientExtra.GetTitledFirstName]§W вступили в брак.;x
+EVTDESC7800;До Вас дошли слухи, что [Root.PlotTarget.GetTitledName] будет кататься на небольшой лодке. Вы точно уверены, что [Root.PlotTarget.GetSheHe], как и многие дети, не умеет плавать. Если с лодкой что-то случится... ведь такие вещи часто бывают, ни так ли?;x
+EVTOPTA7800;Мой сообщник найдет нужного человека.;x
+EVTOPTB7800;Нанять специально обученных людей.;x
+EVTOPTC7800;Я знаю, кто нам может подойти...;x
+EVTDESC7802;[From.GetTitledName], Ваш сообщник просит выдать денег для подкупа плотников. Они повредят лодку, на которой будет плавать [Root.PlotTarget.GetTitledName].;x
+EVTOPTA7802;Отправить деньги и... мне надо научиться плавать.;x
+EVTDESC7803;[From.GetTitledFirstName] присылает Вам достаточно денег для подкупа плотников. Они повредят лодку, на которой будет плавать [From.PlotTarget.GetTitledFirstName].;x
+EVTDESC7804;[From.GetTitledFirstName] не даёт Вам денег для подкупа плотников. Они не станут повреждать лодку.;x
+EVTDESC7805;Какой прекрасный день! Вы решили покататься на лодке. Она уже ждёт Вас на пристани.;x
+EVTOPTA7805;Это будет здорово!;x
+EVTOPTB7805;А эта штуковина точно поплывёт?;x
+EVTTOOLTIP7805;Поломанная лодка персонажа [This.GetTitledFirstName] готова к путешествию.;x
+EVTDESC7806;Небольшая лодка несет Вас по волнам в полном одиночестве. Вдруг судно начинает разваливаться и Вы падаете в холодную воду. Попытки спастись обречены, гибель неизбежна.;x
+EVTOPTA7806;[FromFrom.GetTitledFirstName] в ответе за это!;x
+EVTOPTA7807;Кто-то это организовал.;x
+EVTDESC7808;При ближайшем рассмотрении, моряки обнаружили поломку лодки. Если бы Вы ушли в плавание, оно стало бы последним.;x
+EVTOPTA7808;[FromFrom.GetTitledFirstName] - причина поломки лодки!;x
+EVTOPTA7809;Кто несет ответственность?;x
+EVTDESC7810;Мой сообщник, [From.GetTitledName], сообщает, что всё готово для крушения лодки. [Root.PlotTarget.GetTitledFirstName] вскоре станет жертвой.;x
+EVTOPTA7810;Отдать швартовы!;x
+EVTDESC7811;[From.GetTitledFirstName] соглашается на крушение лодки, в которой будет плыть [From.PlotTarget.GetTitledFirstName]. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7812;[From.GetTitledFirstName] сообщает, что подготовка к убийству цели ([From.PlotTarget.GetTitledFirstName]) идет по плану. Через месяц [From.PlotTarget.GetSheHe] пойдет на корм рыбам.;x
+EVTDESC7813;Готово! [From.GetTitledFirstName] теперь покоится на дне. "Несчастный случай", спланированный вами удался. Только вот всем стало ясно, что всё это подстроено, и доказательства ведут к Вам.;x
+EVTDESC7814;Готово! [From.GetTitledFirstName] теперь покоится на дне. "Несчастный случай", спланированный вами удался. Все доказательства Вашей причастности потонули, словно камень, вместе с лодкой.;x
+EVTOPTA7814;Человек за бортом!;x
+EVTDESC7815;Провал! [From.GetTitledFirstName] и [From.GetHersHis] слуги обнаружили поломку лодки, когда та стояла у причала. Этот гадкий ребенок считает заговор делом Ваших рук.;x
+EVTOPTA7815;Это должно было сработать.;x
+EVTDESC7816;Провал! [From.GetTitledFirstName] и [From.GetHersHis] слуги обнаружили поломку лодки, когда та стояла у причала. К счастью, этот гадкий ребенок не подозревает Вас.;x
+EVTDESC7820;Существуют змеи, укусы которых вызывают моментальную смерть. Что если одна из них сможет пробраться в комнату, где спит [Root.PlotTarget.GetTitledName]?;x
+EVTOPTA7820;Мой сообщник найдёт змею.;x
+EVTOPTB7820;Купить змею.;x
+EVTOPTC7820;Я знаю, где взять змею.;x
+EVTDESC7822;Ваш сообщник, [From.GetTitledName], просит денег на покупку редких ядовитых змей. Если заплатить, [Root.PlotTarget.GetTitledName] познакомится ночью с новыми "друзьями".;x
+EVTOPTA7822;Дать [From.GetHerHim] денег.;x
+EVTDESC7823;[From.GetTitledFirstName] даёт Вам деньги на покупку змей. [From.PlotTarget.GetTitledFirstName] перестанет быть проблемой. Они обеспечат [From.PlotTarget.GetHerHim] "крепкий" сон.;x
+EVTDESC7824;[From.GetTitledFirstName] сообщает, что [From.GetSheHe] не даст денег на покупку ядовитых змей.;x
+EVTDESC7825;Это был долгий и трудный день, поэтому Вы с удовольствием идёте в спальню, чтобы лечь в свою мягкую постель. Но Ваше погружение в сладкий сон прерывает странное шипение.;x
+EVTOPTA7825;Надо сказать плотнику, чтобы осмотрел кровать.;x
+EVTOPTB7825;Змея!;x
+EVTTOOLTIP7825;Подбрасывание змеи к персонажу [This.GetTitledFirstName] в следующем месяце.;x
+EVTDESC7826;Что-то холодное скользнуло по Вашим ступням, и Вы почувствовали резкую боль в бедре. Мерзкое шипение доносится из под одеяла. Вы пытаетесь убежать, но боль расходится по всему телу.;x
+EVTOPTA7826;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7827;Ненавижу змей!;x
+EVTDESC7828;Вы сразу же спрыгиваете с кровати, до того, как получить укус. Смертоносное животное уползает и исчезает под одеялом. Охрана с ней разберется.;x
+EVTOPTA7828;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7829;Кто посмел притащить это сюда?!;x
+EVTDESC7830;Ваш сообщник, [From.GetTitledName], говорит, что змеи куплены. И скоро [Root.PlotTarget.GetTitledFirstName] ощутит их яд на себе.;x
+EVTOPTA7830;Только не говорите, что это моя идея!;x
+EVTDESC7831;[From.GetTitledFirstName] обрадуется, узнав, что [From.PlotTarget.GetTitledFirstName] вскоре познает весь ужас укусов змеи. Да простит Вас [Root.Religion.GetRandomGodName].;x
+EVTDESC7832;[From.GetTitledName] сообщает, что заговор с целью убийства идёт полным ходом. [From.PlotTarget.GetTitledName] скоро умрет. В течение месяца ядовитые змеи будут подброшены в [From.PlotTarget.GetHersHis] спальню.;x
+EVTDESC7833;Готово! Гадюка сделала свое дело, [From.GetTitledFirstName] теперь знает, что со змеями шутки плохи, хотя уже поздно... Однако охрана поймала змею и через продавца вышла на Вас.;x
+EVTDESC7834;Готово! Гадюка сделала свое дело, [From.GetTitledFirstName] теперь знает, что со змеями шутки плохи, хотя уже поздно... Охрана в поисках опасного зверя, так что ей не до улик.;x
+EVTOPTA7834;Я готов(а) целовать эту змею! Хотя... лучше не надо.;x
+EVTDESC7835;Провал! [From.GetTitledFirstName] избегает змеи, до того как ей удаётся выполнить свою смертельную миссию. Однако охрана, поймав её, через продавца вышла на Вас.;x
+EVTOPTA7835;Ненавижу змей!;x
+EVTDESC7836;Провал! [From.GetTitledFirstName] избегает змеи, до того как ей удаётся выполнить свою смертельную миссию. Охрана в поисках опасного зверя, так что ей не до улик.;x
+EVTDESC7840;[Root.PlotTarget.GetTitledName] любит подышать утренним воздухом на своем балконе. Падение оттуда было бы весьма долгим. Нужно только немного "подправить" перила.;x
+EVTOPTA7840;Мои сообщники найдут нужных людей.;x
+EVTOPTB7840;Нанять плотника.;x
+EVTOPTC7840;Я знаю нужного человека для этой работы.;x
+EVTDESC7842;Ваш сообщник, [From.GetTitledName], просит денег для найма человека, чтобы тот подпилил перила балкона, на котором отдыхает [Root.PlotTarget.GetTitledName].;x
+EVTOPTA7842;Будет сделано!;x
+EVTDESC7843;[From.GetTitledFirstName] шлёт Вам деньги. Теперь Вы можете нанять нужного человека для поломки перил.;x
+EVTDESC7844;[From.GetTitledFirstName] отказывает Вам в деньгах. Теперь Вы не сможете нанять нужного человека для поломки перил.;x
+EVTDESC7845;Каждое утро, особенно если оно прекрасно, Вы любите постоять на балконе и подышать свежим воздухом. Вид тут потрясающий.;x
+EVTOPTA7845;Люди внизу похожи на муравьев.;x
+EVTOPTB7845;Перила какие-то не такие...;x
+EVTTOOLTIP7845;Организовать покушение на персонажа [This.GetTitledFirstName], подпилив перила [This.GetHersHis] балкона.;x
+EVTDESC7846;Облокотившись на перила балкона, Вы слышите треск дерева. Нет никакой возможности ухватиться за что-либо, что могло бы спасти Вас. Остаётся только размышлять о серьезности ситуации, стремительно приближаясь к земле.;x
+EVTOPTA7846;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7847;Надо найти плотника, создавшего эти перила.;x
+EVTDESC7848;Вы замечаете, что перила кто-то подпилил! Хватило бы малейшего толчка для их обрушения. Если бы Вы прислонились, как обычно...;x
+EVTOPTA7848;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7849;Кто мог подстроить это... и зачем?;x
+EVTDESC7850;Ваш сообщник, [From.GetTitledName], нанимает нужного человека, чтобы тот подпилил перила балкона, на котором отдыхает [Root.PlotTarget.GetTitledFirstName]. Падение может быть долгим.;x
+EVTOPTA7850;Посматривайте вниз!;x
+EVTDESC7851;[From.GetTitledName] согласовывает с Вами план покушения. [From.PlotTarget.GetTitledFirstName] отправится полетать с балкона. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7852;[From.GetTitledName] сообщает, что ваш заговор идет полным ходом. Перила балкона, на котором отдыхает [Root.PlotTarget.GetTitledFirstName] были ослаблены, чтобы сломаться в нужный момент.;x
+EVTDESC7853;Готово! [From.GetTitledFirstName] падает на землю, как гнилой плод. К сожалению, плотник сдался охране и заодно выдал Вас;x
+EVTDESC7854;Готово! [From.GetTitledFirstName] падает на землю, как гнилой плод. Все полагают, что это несчастный случай.;x
+EVTOPTA7854;Гравитация может быть смертельной...;x
+EVTDESC7855;Провал! [From.GetTitledFirstName] замечает подпиленные перила. К сожалению, плотник сдался охране и заодно выдал Вас.;x
+EVTOPTA7855;Меня нельзя обвинить в нарушении строительных норм.;x
+EVTDESC7856;Провал! [From.GetTitledFirstName] замечает подпиленные перила. К счастью, [From.GetSheHe] не подозревает Вас в этом деле.;x
+EVTDESC7860;[Root.PlotTarget.GetTitledName] скоро отправится в дремучий лес на охоту. Эта местность полна опасных зверей, да и стрелы летают где не попадя, так что... многое может пойти не так.;x
+EVTOPTA7860;Мои сообщники найдут нужных людей.;x
+EVTOPTB7860;Нанять охотника.;x
+EVTOPTC7860;Я знаю нужного человека для этой работы.;x
+EVTDESC7862;Ваш сообщник, [From.GetTitledName], просит денег для подкупа охотника. [Root.PlotTarget.GetTitledName] попадёт с ним в неприятности.;x
+EVTOPTA7862;Хорошая идея, отправьте деньги.;x
+EVTDESC7863;[From.GetTitledFirstName] предоставляет достаточно денег для подкупа охотника.;x
+EVTDESC7864;[From.GetTitledFirstName] не даёт деньги для подкупа охотника.;x
+EVTDESC7865;Вы очень взволнованы предстоящей первой поездкой на охоту. Опытный охотник будет обучать Вас всем тонкостям, как охотиться и жить в глуши. Следующие пару дней будут большим приключением!;x
+EVTOPTA7865;Я в нетерпении!;x
+EVTOPTB7865;Почему охотник так нервничает?;x
+EVTTOOLTIP7865;Организовать неудачную охоту для персонажа [This.GetTitledFirstName].;x
+EVTDESC7866;Охотник выслеживает зайца и дает Вам возможность первого выстрела. Как можно тише, Вы натягиваете тетиву и подстреливаете животное. Вне себя от радости Вы оборачиваетесь и видите охотника, который уже прицелился в Вас. "Я сожалею", - произносит он, прежде чем отправить стрелу прямо в шею.;x
+EVTOPTA7866;Кхх... [FromFrom.GetTitledFirstName]. Это всё [FromFrom.GetSheHe]!;x
+EVTOPTA7867;Почему?!;x
+EVTDESC7868;Всё более странное и нервное поведение охотника, вынуждает Вас надавить на него. Плача, он рассказывает, что получил круглую сумму, за Ваше убийство. Смерть должна была выглядеть несчастным случаем.;x
+EVTOPTA7868;Значит [FromFrom.GetTitledFirstName] стоит за этим.;x
+EVTOPTA7869;И ты говоришь, что никогда не видел лицо своего нанимателя?;x
+EVTDESC7870;Ваш сообщник, [From.GetTitledName], подкупит охотника. Теперь, когда [Root.PlotTarget.GetTitledFirstName] отправится в лес, он подстроит несчастный случай... с летальным исходом.;x
+EVTOPTA7870;Глушь называется так неспроста.;x
+EVTDESC7871;[From.GetTitledFirstName] поддерживает Ваш план. [From.PlotTarget.GetTitledFirstName] скоро сгинет в дремучем лесу. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7872;[From.GetTitledName] сообщает, что заговор, цель, которого - [From.PlotTarget.GetTitledName], идёт полным ходом. Нанятый охотник устроит несчастный случай.;x
+EVTDESC7873;Готово! Охотник отработал полученные деньги. [From.GetTitledFirstName] никогда не вернется с охоты. К сожалению, наёмник потерял самообладание и, заливая своё горе, рассказал всем о Вашем участии.;x
+EVTDESC7874;Готово! Охотник отработал полученные деньги. [From.GetTitledFirstName] никогда не вернется с охоты. Наёмник будет молчать, чтобы сохранить свою шкуру.;x
+EVTOPTA7874;Охота - лучший спорт!;x
+EVTDESC7875;Провал! Охотник потерял самообладание и не стал убивать! Более того, он рассказал о Вашем участии в заговоре.;x
+EVTOPTA7875;Не стоило ему доверять!;x
+EVTDESC7876;Провал! Охотник потерял самообладание и не стал убивать! Хорошо, хоть он не стал рассказывать о Вашем участии в заговоре.;x
+EVTDESC7880;[Root.PlotTarget.GetTitledName] скоро отправится в поездку по старой заброшенной дороге. Возможно, стоит нанять убийц и замаскировать их под разбойников... в конце концов, преступность на подъёме.;x
+EVTOPTA7880;Мои сообщники найдут нужных людей.;x
+EVTOPTB7880;Заплатить наёмникам.;x
+EVTOPTC7880;Я знаю нужного человека для этой работы.;x
+EVTDESC7882;Ваш сообщник, [From.GetTitledName], просит денег для найма убийц. [Root.PlotTarget.GetTitledName] попадет в засаду. Всё будет обставлено, как нападение разбойников.;x
+EVTOPTA7882;Отличная идея! Золото Ваше!;x
+EVTDESC7883;[From.GetTitledFirstName] даёт достаточно денег для найма убийц.;x
+EVTDESC7884;[From.GetTitledFirstName] не даёт денег для найма убийц.;x
+EVTDESC7885;Вы путешествовали по сельской местности округа [Root.Location.GetName], и вдруг карета внезапно остановилась. Дорогу преградило упавшее дерево и кучер объяснил, что придётся ехать в обход по заброшенной тропе.;x
+EVTOPTA7885;Хорошо, но лучше поторопиться!;x
+EVTOPTB7885;Нет! Дурак, это ловушка!;x
+EVTTOOLTIP7885;Организовать смерть персонажа [This.GetTitledFirstName] в пути.;x
+EVTDESC7886;Преодолев меньше половины лиги, карета попала в засаду разбойников. Они отпустили извозчика своей дорогой. Им интересен только пассажир. Вы предлагаете всё, что у Вас есть, но это вызывает смех, им нужна кровь.;x
+EVTOPTA7886;[FromFrom.GetTitledFirstName], вот кто их нанял.;x
+EVTOPTA7887;Вы - не разбойники с большой дороги!;x
+EVTDESC7888;Вы пробираетесь через импровизированные баррикады, едва избежав засады разбойников! Они посылают стрелы вслед за каретой. Некоторые пролетают всего в нескольких дюймах от Вас.;x
+EVTOPTA7888;Только [FromFrom.GetTitledFirstName] может нанять таких стрелков.;x
+EVTOPTA7889;Слишком точно. Только наёмники способны на такое.;x
+EVTDESC7890;Ваш сообщник, [From.GetTitledName], собирает группу наёмников, которые устроят засаду в лесу, через который поедет [Root.PlotTarget.GetTitledFirstName]. Думаю, [Root.PlotTarget.GetSheHe] не переживёт этой встречи.;x
+EVTOPTA7890;Да, дороги нынче опасны.;x
+EVTDESC7891;[From.GetTitledFirstName] сообщает, что поддерживает план по засаде на лесной дороге. [From.PlotTarget.GetTitledFirstName] не вернётся из этой поездки. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7892;[From.GetTitledName] сообщает, что план покушения идёт полным ходом. [From.PlotTarget.GetTitledName] скоро умрёт. Группа наемников под видом разбойников будет ждать [From.GetHersHis] в лесу месяц.;x
+EVTDESC7893;Готово! Наемники устроили засаду по пути следования цели ([From.GetTitledFirstName]) и расправились с ней. Но извозчик увидел их лица под масками и сбежал. Ваше участие в заговоре стало достоянием общественности.;x
+EVTDESC7894;Готово! Наемники устроили засаду по пути следования цели ([From.GetTitledFirstName]) и расправились с ней. Извозчика отпустили и теперь он полностью уверен, что нападение совершили разбойники с большой дороги. ;x
+EVTOPTA7894;Ох уж эти бандиты!;x
+EVTDESC7895;Провал! [From.GetTitledFirstName] не получает ни царапины. Более того, [From.GetSheHe] замечает лица под масками и Ваше участие в заговоре становится достоянием общественности.;x
+EVTOPTA7895;План был хорош... на бумаге.;x
+EVTDESC7896;Провал! [From.GetTitledFirstName] не получает ни царапины. Радует, что наёмникам удалось скрыться, никто не подумает на Вас.;x
+EVTDESC7900;[Root.PlotTarget.GetTitledName] скоро отправится в долгое путешествие. Многое может случиться в пути, особенно, если подкупить извозчика.;x
+EVTOPTA7900;Мой сообщник подкупит его.;x
+EVTOPTB7900;Это сделаю я.;x
+EVTOPTC7900;Я знаю нужного человека для этой работы.;x
+EVTDESC7902;Ваш сообщник, [From.GetTitledName], просит денег для подкупа извозчика кареты, в которой [Root.PlotTarget.GetTitledName] отправится в путешествие. Авария вполне может случиться в пути.;x
+EVTOPTA7902;Отправить деньги.;x
+EVTDESC7903;[From.GetTitledFirstName] присылает деньги на подкуп извозчика.;x
+EVTDESC7904;[From.GetTitledFirstName] не даёт Вам денег. Теперь Вы не сможете подкупить извозчика.;x
+EVTDESC7905;Вы отправились в долгое путешествие по землям округа [Root.Location.GetName] с доверенными телохранителями. На крутом спуске в ущелье начинает твориться что-то неладное, карета набирает скорость.;x
+EVTOPTA7905;Отлично, мы весело проведем время!;x
+EVTOPTB7905;Все вон из кареты!;x
+EVTTOOLTIP7905;Организовать смерть персонажа [This.GetTitledFirstName] в дорожной аварии.;x
+EVTDESC7906;Карета набирает скорость, мчась вниз по дороге. Через заднее окно Вы замечаете человека с поводьями и двумя, знакомыми на вид, лошадьми. И только, когда экипаж срывается в ущелье, до Вас доходит, что тот человек сильно напоминает... Вашего извозчика.;x
+EVTOPTA7906;[FromFrom.GetTitledFirstName]! Вот чьих рук это дело!;x
+EVTOPTA7907;Крыса!;x
+EVTDESC7908;Стража помогает Вам выпрыгнуть из кареты, до того, как она срывается в ущелье. Где-то позади виден извозчик, убегающий прочь. Но его поймали, и он признался, что получил щедрое вознаграждение за Вашу гибель в дорожной аварии.;x
+EVTOPTA7908;Так Вы говорите, [FromFrom.GetTitledFirstName] стоит за этим?;x
+EVTOPTA7909;И Вы не знаете, кто организовал это? Повесить его!;x
+EVTDESC7910;Ваш сообщник, [From.GetTitledName], уведомляет, что [Root.PlotTarget.GetTitledFirstName] скоро отправляется в поездку и [Root.PlotTarget.GetHersHis] карета может не пережить аварию.;x
+EVTOPTA7910;Такие вещи бывают смертельными.;x
+EVTDESC7911;[From.GetTitledFirstName] одобряет план. [From.PlotTarget.GetTitledFirstName] погибнет в дорожной аварии. Да простит Вас [Root.Religion.GetRandomGodName]!;x
+EVTDESC7912;[From.GetTitledName] даёт знать, что заговор идёт по плану. Скоро [From.PlotTarget.GetTitledFirstName] попадёт в аварию. Смертельная поездка состоится через месяц.;x
+EVTDESC7913;Готово! [From.GetTitledFirstName] и [From.GetHersHis] карета упали в ущелье. К сожалению, кучера поймали, и он под пытками выдал Ваше имя.;x
+EVTDESC7914;Готово! [From.GetTitledFirstName] и [From.GetHersHis] карета упали в ущелье. Кучер замёл все следы, так что Вы можете быть спокойны.;x
+EVTOPTA7914;Трагический финал хорошей поездки.;x
+EVTDESC7915;Провал! Карета падает, но за мгновение до это [From.GetTitledFirstName] выпрыгивает из неё. К сожалению, кучера поймали, и он под пытками выдал Ваше имя.;x
+EVTOPTA7915;Бесхребетный трус.;x
+kurdish;Курдск;x
+EVTDESC7916;Провал! Карета падает, но за мгновение до это [From.GetTitledFirstName] выпрыгивает из неё. К счастью, кучера убили до того, как он выдал Вас.;x
+ENDGAME_TEXT_THEOCRACY;Bаша форма правления поменялась на теократию, поэтому Вы не можете продолжать игру. ;x
+ENDGAME_TEXT_REPUBLIC;Bаша форма правления поменялась на республику, поэтому Вы не можете продолжать игру. ;x
+ENDGAME_TEXT_MUSLIM;Bы стали мусульманином и поэтому не можете продолжить игру.;x
+EVTOPTB69060;Выставить придворного, как плохого христианина.;x
+EVTDESC100110;Я хочу эту работу и хочу её ужасно! Вряд ли [Root.Liege.GetTitledFirstName] даст мне её всего лишь за то, что я хочу стать советником, придётся сперва хорошенько поработать.;x
+EVTTOOLTIP100111;[Root.GetTitledFirstName] желает стать другом персонажу [This.GetTitledFirstName], чтобы в конечном счёте получить должность в совете.;x
+EVTDESC100111;Ни для кого не секрет, что [From.GetTitledFirstName] хочет занять мою должность ([Root.GetJobTitle]), но было сюрпризом услышать просьбу обучить [From.GetHersHis] всем хитростям этой профессии. Если я помогу [From.GetHerHim], то дам шанс занять моё место при дворе.;x
